@@ -4,6 +4,7 @@ The loaves were given to the apostles, for through them the gifts of divine grac
 '''
 source_url='https://archive.org/details/commentaryonmatt0125hila/page/40/mode/2up'
 source_title="Commentary on Matthew 4.11"
+uuid = "2d44cb34-4680-4472-b504-03937d247aa7"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The five loaves are not multiplied into more, but fragments succeed to fragments
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "eaaa1e01-9b1e-4336-97f2-df0fb9019ad0"

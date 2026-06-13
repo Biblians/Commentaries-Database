@@ -4,6 +4,7 @@ To practice righteousness and judgment means to live virtuously, and to live vir
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252017.html'
 source_title="City of God 17.4"
+uuid = "eda07f90-b1fe-469d-b1f7-efb16592750a"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Love is from God, as have declared those whom he has made not only his great lov
 '''
 source_url=''
 source_title="ON THE GIFT OF PERSEVERANCE 21.56"
+uuid = "414eaf0d-949f-4e6e-9831-39d9ce11c853"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTen%2520Homilies%2520on%2520the%2520First%2520Epistle%2520of%2520John%2FHomily%25207.html'
 source_title="Ten Homilies on 1 John 7"
+uuid = "d9625589-21b7-417b-9fd9-2ed2a31b21f3"

@@ -7,6 +7,7 @@ And behold, I am with you always, until the end of the age. He who promises to b
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "f8b50892-0c70-4374-8779-5ad812d8f55f"
 
 [[commentary]]
 quote='''
@@ -17,6 +18,7 @@ He then who promises that He will be with His disciples to the end of the world,
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252028.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e5773817-36d0-47b6-a90c-ce11c59960cc"
 
 [[commentary]]
 quote='''
@@ -24,3 +26,4 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 4.28.18-20"
+uuid = "540bbc4e-2141-4f49-9bc5-2d379e974aef"

@@ -4,6 +4,7 @@ For some of the angels were commissioned to move the air, some the sun, some the
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cosmas%2520Indicopleustes%2FThe%2520Christian%2520Topography%2FBook%25202.html"
 source_title="The Christian Topography, Book 2"
+uuid = "776362fa-434e-4f57-b6da-26b42bc5fab2"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Are they not all ministering spirits, sent forth to do service for the sake of t
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cosmas%2520Indicopleustes%2FThe%2520Christian%2520Topography%2FBook%25205.html"
 source_title="The Christian Topography, Book 5"
+uuid = "80169b97-0f31-4d0f-b375-4f1d7ee934c6"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ The language of the Apostle also: Are they not all ministering spirits sent fort
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cosmas%2520Indicopleustes%2FThe%2520Christian%2520Topography%2FBook%25209.html"
 source_title="The Christian Topography, Book 9"
+uuid = "edb8ad8d-f37a-4a4a-bbcf-6ea1b825d7a4"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ Are they not all ministering spirits sent forth to do service for the sake of th
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cosmas%2520Indicopleustes%2FThe%2520Christian%2520Topography%2FBook%25207.html"
 source_title="The Christian Topography, Book 7"
+uuid = "48ce0d0f-e4da-4412-9666-cd5a999aedac"

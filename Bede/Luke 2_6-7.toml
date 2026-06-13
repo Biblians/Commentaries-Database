@@ -17,6 +17,7 @@ He who sits at His Father's right hand, finds no room in an inn, that He might p
 append_to_author_name = ' (as quoted by Aquinas, AD 1274)'
 source_url = 'https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e4861dd8-5f2d-45fc-bdd3-c4bec250e6ce"
 
 [[commentary]]
 quote = '''
@@ -24,3 +25,4 @@ He calls the Lord "firstborn," not because we should believe that Mary gave birt
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.6"
+uuid = "6f77a5cb-0c41-4284-a471-32ded88a14b5"

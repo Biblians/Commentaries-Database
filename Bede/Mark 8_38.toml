@@ -4,6 +4,7 @@ quote='''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "172dfcc4-1e4b-47e5-877d-568c813f831f"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ But we are often hindered by a habit of shamefacedness, from expressing with our
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b97cd912-8262-41bd-9cfc-b887a8bf988d"

@@ -4,6 +4,7 @@ You must slay the allurements to vice while they are still only thoughts and das
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_008.html'
 source_title="LETTER 8"
+uuid = "b0a0fb0c-555c-4e4e-8518-9910abbcdb12"
 
 [[commentary]]
 quote='''
@@ -17,6 +18,7 @@ Consider, however, just what the Scripture says: 'nor has stood in the way of si
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FHomilies%2Fhomily_001.html'
 source_title="Homily 1, on Psalm 1"
+uuid = "7d106f0f-cc76-4f7a-b7b4-252f0c5b8970"
 
 
 [[commentary]]
@@ -25,3 +27,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Amos.html'
 source_title="Commentary on Amos"
+uuid = "8ebac6bd-6319-4d66-9428-cca4722cc946"

@@ -4,6 +4,7 @@ I want to stress what I think that we (or at least I) need more; the joy and del
 '''
 source_url=''
 source_title="Reflections on the Psalms, Chapter 5: The Fair Beauty of the Lord"
+uuid = "93d06150-2497-41f6-88f8-1e98ef79b35b"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Sometimes with no prompting from tradition a second meaning will impose itself u
 '''
 source_url=''
 source_title="Reflections on the Psalms, Chapter 12: Second Meanings in the Psalms"
+uuid = "6bee515f-f621-4c49-be72-d1dcfaa3aa71"

@@ -4,6 +4,7 @@ And again it happened on the Sabbath, etc. We read in the following passages tha
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "41f495e6-f93f-45e1-a33d-7daa1d61a67b"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "7944aace-2248-41f4-8c82-aadf42e550c1"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "cab96aa1-ed80-475d-ae1b-36541d9da45a"
 
 [[commentary]]
 quote='''
@@ -28,3 +31,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "55ee2126-b20d-40e5-ba76-5f58ea3f0a31"

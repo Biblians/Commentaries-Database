@@ -4,6 +4,7 @@ And when day came, the elders of the people, and the chief priests, and the scri
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "291886da-9359-4566-b7c2-e25173501ec6"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And he said to them: If I tell you, you will not believe me. But if I also ask y
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "d0e20309-618e-494b-b218-f495710c92b2"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ They wished not for truth, but were contriving calumny. Because they expected th
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ad738099-c6b0-46f9-b606-2dad7138dad8"

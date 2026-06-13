@@ -4,6 +4,7 @@ When the crowds learned of it, they followed him. And he welcomed them, and spok
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "a2ec0283-a865-4dae-b14c-892bd16d5734"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ You see, our Lord provided encouragement for the multitude that was following hi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.2"
+uuid = "8e23c9de-82b0-4f35-b169-c61091655b51"
 
 
 [[commentary]]
@@ -22,3 +24,4 @@ Who Himself having left Judæa, which by unbelief had bereft herself of the sour
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1033497a-0e8e-47ba-afc6-ab226bbbf72e"

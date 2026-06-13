@@ -4,6 +4,7 @@ To us this life is a race course: we contend here, we are crowned elsewhere. No 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_022.html'
 source_title="LETTER 22.3"
+uuid = "4a09e71e-1cee-40b8-89a1-116af738077f"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Because God did not spare the sinful angels who lost their heavenly home through
 '''
 source_url=''
 source_title="COMMENTARY ON ZECHARIAH 1:5.1-4"
+uuid = "4466cc26-2677-4659-aaf7-636763b80caf"

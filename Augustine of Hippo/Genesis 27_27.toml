@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%25204.html'
 source_title="SERMON 4.28"
+uuid = "ee71839c-b732-4568-9a81-b21bdda069fc"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ What advice does Rebekah give? That Jacob should take the skins of the kids and 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%25204.html'
 source_title="SERMON 4.21"
+uuid = "26aea58d-b087-4bc2-8fd8-84d7bd327bf1"

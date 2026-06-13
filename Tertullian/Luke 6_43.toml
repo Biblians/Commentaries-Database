@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html'
 source_title="A Treatise on the Soul"
+uuid = "7105ccba-2137-482b-b990-b7c293a66067"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ The unhappy man gained the first idea of his conceit from the simple passage of 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25201.html'
 source_title="Against Marcion Book I"
+uuid = "8f85d119-2a4a-4d0d-af72-14e8a026a07f"

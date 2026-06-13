@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252060.html'
 source_title="Homily on the Gospel of John 60"
+uuid = "f9571671-ac38-4ccb-b4f1-6a38cd1941e4"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Having therefore said that, "No man taketh it from Me," He addeth, "I have power
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252060.html'
 source_title="Homily on the Gospel of John 60"
+uuid = "5a187a4e-e6a8-4349-852b-f1dc6f2dd167"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252060.html'
 source_title="Homily on the Gospel of John 60"
+uuid = "afc10caa-59a3-47e1-b4f9-44510fec2a13"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ Then lest on hearing that, "I have received a command from the Father," thou sho
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252060.html'
 source_title="Homily on the Gospel of John 60"
+uuid = "44ef7014-a14e-4c07-8bdc-edc380b87250"
 
 [[commentary]]
 quote='''
@@ -32,3 +36,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Matthew%2FHomily%252088.html'
 source_title="Homily on the Gospel of Matthew 88"
+uuid = "86acf376-9b05-4267-ad11-67a3b146f2fe"

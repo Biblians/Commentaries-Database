@@ -2,6 +2,7 @@
 quote='''
 "Injury precedes destruction, and an evil thought precedes ruin." In the same way a house never suddenly collapses except because of some old weakness in the foundation or because of extended disregard by its tenants. Thus the structure of the roof is eventually destroyed by what had begun as a tiny leak but into which, through long neglect, a stormy tempest of rain pours like a river, once a large breach has been made. For "by slothfulness a dwelling will be brought low, and through lazy hands a house will leak." .
 '''
+uuid = "8f7a95fd-a3c3-4b43-8d34-75a66b72c072"
 
 
 [[commentary]]
@@ -10,3 +11,4 @@ quote='''
 '''
 source_url=''
 source_title="CONFERENCE 6:17"
+uuid = "abf76d13-681e-49ef-b64d-dd6ef88b28a5"

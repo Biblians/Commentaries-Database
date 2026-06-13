@@ -4,6 +4,7 @@ We must confess the Father to be in the Son and the Son in the Father, by unity 
 '''
 source_url=''
 source_title="ON THE TRINITY 9.51"
+uuid = "59364ff7-ef98-4a56-92d9-727658cef455"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ The Father, therefore, is greater, because he is the Father; but the Son, becaus
 '''
 source_url=''
 source_title="ON THE TRINITY 9.56"
+uuid = "dd13c2a1-9a0c-43b6-8fa1-0241986e9958"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "35aedc95-6bce-42a2-a2bf-aa70bc31f6eb"

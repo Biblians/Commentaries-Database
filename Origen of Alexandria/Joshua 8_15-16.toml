@@ -4,6 +4,7 @@ But perhaps you say to me, "In what manner are the people in front placed as tho
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Joshua/mx4QP8RY9ckC?hl=en&gbpv=0'
 source_title="HOMILIES ON JOSHUA 8.2"
+uuid = "fb286853-d086-4611-baff-269641a5bf6e"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ But another thing occurs to me in this place as I consider Jesus [Joshua] fleein
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Joshua/mx4QP8RY9ckC?hl=en&gbpv=0'
 source_title="HOMILIES ON JOSHUA 8.6"
+uuid = "0228c0cd-5a5d-447e-bf92-87b61177d188"

@@ -4,6 +4,7 @@ For Enoch, too, most righteous man, uncircumcised and in-observant of the Sabbat
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
 source_title="An Answer to the Jews"
+uuid = "dc90be13-104c-46f9-9f45-9925492e7451"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Such power was not accorded to the great Medea herself-over a human being at any
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
 source_title="A Treatise on the Soul"
+uuid = "7aadf1f9-4aa9-4f1b-ad89-a7e211d6453c"

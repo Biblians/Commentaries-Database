@@ -4,6 +4,7 @@ This word is rightly directed against Israel, so that they might repent and leav
 '''
 source_url=''
 source_title="COMMENTARY ON EZEKIEL 6:18.30-31"
+uuid = "f54163e9-2b96-4e0a-bea1-8298ab096813"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ These words show us that the mind must not fail to believe in the promised bless
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_122.html'
 source_title="LETTER 122.1"
+uuid = "c6fe3e86-f12e-4e33-8ca8-e87917678a5c"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Ezekiel.html'
 source_title="Commentary on Ezekiel"
+uuid = "06618a34-40d9-4312-a0b1-c0c9b557f516"

@@ -5,6 +5,7 @@ For the souls of the righteous are likened to eagles, because they soar high and
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "eb4fd27e-cc29-417e-9c51-0ebc2735e607"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Commentary on Luke"
+uuid = "ab72c197-7cae-41f2-848f-9a4b49f47bce"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ He says concerning this body, "My flesh is meat indeed, and my blood is drink in
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Commentary on Luke"
+uuid = "5372149d-4284-49f6-9476-6e3be256a0c1"

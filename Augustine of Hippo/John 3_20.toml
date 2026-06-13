@@ -4,6 +4,7 @@ People love truth when it shines on them and hate it when it rebukes them. For, 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FConfessions%2FBook%252010.html'
 source_title="Confessions 10.23.34"
+uuid = "cc3ef3c4-bc62-4b2e-977c-50072ee8fc55"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Because they dislike being deceived, and like to deceive, they love light for di
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "67ec0019-c593-484c-9879-ddcf05dcda79"

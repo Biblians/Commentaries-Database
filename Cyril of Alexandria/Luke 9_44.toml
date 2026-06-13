@@ -5,6 +5,7 @@ He had shown His glory on the mount to His disciples, and after this delivered a
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "3d0125d3-30ca-4d97-8e58-81f0665541de"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ In order that those who were going to teach the whole world might know exactly h
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 53"
+uuid = "bb1604bb-ebf5-4bdf-b779-5715829d47f9"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ The mystery of the passion may be seen also in another instance. According to th
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 53"
+uuid = "a4527480-522b-4b7f-bdbb-38a5cf585c55"

@@ -4,6 +4,7 @@ And God said, "Let there be lights in the firmament of the heaven." The world pr
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Genesis.html"
 source_title="Commentary on Genesis (Hexaemeron)"
+uuid = "c70b2d89-471d-4ccf-bc92-aff1abd5ecfd"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Therefore God said, "Let there be lights in the firmament of the heaven, to divi
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Genesis.html"
 source_title="Commentary on Genesis (Hexaemeron)"
+uuid = "693dd22a-e7dc-41e7-af51-798c3ddf768f"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ And let them be for signs, and for seasons, and for days and years. Because, of 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Genesis.html"
 source_title="Commentary on Genesis (Hexaemeron)"
+uuid = "66db5e68-2f85-42e4-a1d7-fe0b0899dca8"

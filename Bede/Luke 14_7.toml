@@ -4,6 +4,7 @@ He also spoke a parable to those who were invited, noting how they chose the bes
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "4767855d-d51e-4899-9f0e-df16445d95de"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ But as the Evangelist calls this admonition a parable, we must briefly examine w
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "32b8452e-c676-4d44-8f48-d3a737eb503f"

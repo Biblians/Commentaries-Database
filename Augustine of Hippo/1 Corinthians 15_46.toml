@@ -4,6 +4,7 @@ First comes the clay that is only fit to be thrown away, with which we must begi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252015.html'
 source_title="City of God 15.1"
+uuid = "1ebb5837-8545-40c1-a846-c4137f425d45"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ The spiritual body is understood as a body so subject to spirit that it may be s
 '''
 source_url='https://www.newadvent.org/fathers/1304.htm'
 source_title="On Faith and the Creed 6.13"
+uuid = "b149dbee-7d85-4e24-8d49-9beebf02c178"

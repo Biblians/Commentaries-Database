@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="HOMILIES ON GENESIS 22.18"
+uuid = "d16c70be-4413-459c-968e-4a8f0daedfbf"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ And Peter opened his mouth, and said, Of a truth I perceive that God is no respe
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252023.html'
 source_title="Homily on Acts 23"
+uuid = "d3489938-afd6-4486-a86d-4c8cf4a29ca5"

@@ -7,16 +7,19 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e4341055-c7af-4df1-92d3-1859f44c918a"
 
 [[commentary]]
 quote='''
 Piety corresponds to the meek: for he who inquires piously honours Holy Scripture, and does not censure what he does not yet understand, and on this account does not offer resistance; and this is to be meek: whence it is here said, Blessed are the meek. Knowledge corresponds to those that mourn who already have found out in the Scriptures by what evils they are held chained which they ignorantly have coveted as though they were good and useful.
 '''
+uuid = "c7aa9d06-7f64-46e9-8f7c-284bc2ab70f1"
 
 [[commentary]]
 quote='''
 To the meek an inheritance is given, as it were the testament of a father to those dutifully seeking it: Blessed are the meek, for they shall inherit the earth.
 '''
+uuid = "cb0340d2-e30d-4df9-8b8f-cfcb43b49c3c"
 
 [[commentary]]
 quote='''
@@ -24,3 +27,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOUR%2520LORD%2527S%2520SERMON%2520ON%2520THE%2520MOUNT%2FBook%25201.html'
 source_title="SERMON ON THE MOUNT 1.2.4"
+uuid = "20356970-bfa1-4a71-9ee7-488459c0c3f7"

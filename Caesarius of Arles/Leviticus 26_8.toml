@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="SERMON 105.10"
+uuid = "884a32e9-f101-4d85-a987-e34719b513ff"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url=''
 source_title="SERMON 105.11"
+uuid = "7858bd1d-4118-4882-ab2c-fb7fd4335175"

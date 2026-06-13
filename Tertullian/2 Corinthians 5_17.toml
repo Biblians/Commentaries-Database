@@ -4,6 +4,7 @@ When by Jeremiah He gave this precept, "Break up for yourselves new pastures," d
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "c6f7d018-b38a-4543-8e98-1708ae288d44"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Now, if the Creator indeed promised that "the ancient things should pass away," 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "9816cf74-7745-400f-ac08-bd8e359196ec"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "02423a15-0194-4f21-86d0-c60bec260278"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ All the rest of his precepts, as we have shown sufficiently, when treating of th
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "2a59bedd-6af3-4bfe-998b-7bfe5a4cc391"
 
 [[commentary]]
 quote='''
@@ -32,6 +36,7 @@ But when the Word of God descended into flesh,-(flesh) not unsealed even by marr
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "1009dd62-0a27-4dcd-9fb1-410f6a89bc33"
 
 [[commentary]]
 quote='''
@@ -39,3 +44,4 @@ Plainly we do, if we are observers of Jewish ceremonies, of legal solemnities: f
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Fasting.html"
 source_title="On Fasting"
+uuid = "6265bd0e-6f64-426a-b583-ab53afb202c5"

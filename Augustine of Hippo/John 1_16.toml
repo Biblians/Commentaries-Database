@@ -8,6 +8,7 @@ Listen to the Apostle Paul acknowledging grace, and afterwards desiring the paym
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25203.html'
 source_title="Tractates on John 3"
+uuid = "dbd5a4e5-18fc-4f7b-9fe8-34f7041bb518"
 
 [[commentary]]
 quote='''
@@ -16,3 +17,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "605b378b-03d9-404a-b2f1-981c2dd12b65"

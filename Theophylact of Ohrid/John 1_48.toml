@@ -5,6 +5,7 @@ Nathanael however, notwithstanding this praise, does not acquiesce immediately, 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e3db8290-3d58-4c0c-9057-6a10cf3fde6b"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ From this Nathanael recognized the Lord and confessed Him as the Son of God. For
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Commentary on John"
+uuid = "43e437e0-76fb-4243-8a01-a9aa9830f849"

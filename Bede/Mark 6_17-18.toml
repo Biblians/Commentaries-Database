@@ -4,6 +4,7 @@ Thus John the Baptist, who came in the spirit and power of Elijah, with the same
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "96eb4673-de4b-4bbf-abdb-85c4326f903a"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "5a7c16fa-cdd8-4b3b-a4d0-a7698c556e8f"

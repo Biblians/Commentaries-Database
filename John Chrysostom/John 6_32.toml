@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252045.html'
 source_title="Homily on the Gospel of John 45"
+uuid = "28028d96-722f-44c1-8357-0c2a08d21914"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Was then the manna not from heaven? How then is it said to be from heaven? In th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252045.html'
 source_title="Homily on the Gospel of John 45"
+uuid = "caf73516-21a0-400b-ace7-9ece56039cba"

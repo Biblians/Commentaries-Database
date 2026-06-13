@@ -4,6 +4,7 @@ Demanding then a law of God, you have that common one prevailing all over the wo
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Chaplet%252C%2520or%2520De%2520Corona.html"
 source_title="De Corona"
+uuid = "cdfc72ce-88a3-487d-8fe5-b3362e81495f"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ But, to come now to Moses, why, I wonder, did he merely at the time when Joshua 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
 source_title="An Answer to the Jews"
+uuid = "cb711b73-b6ad-43ff-8cb6-9ac199ff46cb"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ God forbid, however, that we should suppose that the soul of any saint, much les
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
 source_title="A Treatise on the Soul"
+uuid = "d0a91568-8490-4bdd-98e5-d37b65e017f1"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ The Holy Ghost had even then foreseen that there would be in a certain virgin (c
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
 source_title="The Prescription Against Heretics"
+uuid = "f80a3135-89bb-45a5-9b30-347c710b41d3"
 
 [[commentary]]
 quote='''
@@ -32,6 +36,7 @@ If "Satan himself, too, is transformed into an angel of light," such an assertio
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "1fbc6f32-a00f-434d-8b1c-d29ecf7ac3a9"
 
 [[commentary]]
 quote='''
@@ -39,3 +44,4 @@ But if you maintain that a transfiguration and a conversion amounts to the annih
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "235ecf1f-22f8-45cb-96e6-9549cecb120d"

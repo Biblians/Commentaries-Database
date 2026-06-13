@@ -4,6 +4,7 @@ John asks this not because he is ignorant but to guide others who are ignorant a
 '''
 source_url=''
 source_title="Commentary on Matthew 2.11.3"
+uuid = "9f1d19d4-1e5e-4c04-bf97-477e631503ce"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Why does John send his disciples to the Lord to ask him: Are you the one who is 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_121.html'
 source_title="Letter 121, Chapter 1"
+uuid = "64ecd1af-6a93-494c-93d9-7b24831e5d80"
 
 
 [[commentary]]
@@ -19,6 +21,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "5696ae20-db2a-46c6-9fa0-95b0011d837a"
 
 [[commentary]]
 quote='''
@@ -29,3 +32,4 @@ Therefore he does not ask as being himself ignorant. But as the Saviour asks whe
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "eed2d0c0-065f-41c8-b049-6b6225e31615"

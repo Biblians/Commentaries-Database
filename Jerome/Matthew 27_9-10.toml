@@ -4,6 +4,7 @@ This prophecy does not come from Jeremiah but from a similar passage in Zecharia
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 4.27.10"
+uuid = "f9491232-4c2a-43b5-b8ff-dafab38beb46"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "e6e096e8-d6da-4b14-b201-b123e2fb49bd"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252027.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1fbaddf1-7036-46cd-919e-d6a3ecb3e9a4"

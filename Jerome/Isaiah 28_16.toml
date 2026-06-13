@@ -4,6 +4,7 @@ This cornerstone joins together both walls and restores two peoples to unity, co
 '''
 source_url=''
 source_title="COMMENTARY ON ZECHARIAH 3:14.10-11"
+uuid = "2eef13f6-83cb-46b5-9c97-0bd5e4123079"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ Peter also spoke confidently about this stone of assistance: "This is the stone 
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 3 (21:42-44)"
+uuid = "97a49b96-7a06-4001-876c-b0cfe9524bf5"
 
 [[commentary]]
 quote='''
@@ -22,3 +24,4 @@ I had said, he says, to you: Listen to the word of the Lord, men who mock, or tr
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "7032503e-44be-4e01-a64e-6d2fc8a792c2"

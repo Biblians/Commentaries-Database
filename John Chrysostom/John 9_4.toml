@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252056.html'
 source_title="Homily on the Gospel of John 56"
+uuid = "f9970cd0-4900-4ed7-b5b3-acdc9c07953d"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252056.html'
 source_title="Homily on the Gospel of John 56"
+uuid = "5870cf30-3d7e-4986-a42c-d2e1f3847a89"

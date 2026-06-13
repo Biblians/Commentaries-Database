@@ -5,6 +5,7 @@ Or otherwise; The Lord having taken upon Him all the infirmities of our body, is
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252027.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "79df634f-873f-4d64-aa05-05ab3a8c2164"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The beaten Lord is dressed in a scarlet robe, a purple cloak and a crown of thor
 '''
 source_url='https://archive.org/details/commentaryonmatt0125hila/page/40/mode/2up'
 source_title="Commentary on Matthew 33.3"
+uuid = "265878ad-74db-46cf-890c-4d2e507348fe"

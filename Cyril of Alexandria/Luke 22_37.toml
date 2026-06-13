@@ -5,6 +5,7 @@ He next lays open the cause of these evils, namely, that He suffered the penalty
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1f8c16b1-27f6-4f6e-bd96-12159df1c9d4"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ And next He tells them the cause of the evil, and of a tribulation so severe and
 '''
 source_title="Commentary on the Gospel of Luke, Sermon 145"
 source_url="https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520the%2520Gospel%2520of%2520Luke%2FSermons%2520135-145%2520%28Luke%252020-19-22-38%29.html"
+uuid = "ec285d2d-1556-473e-8b4a-4815f4f98cb3"

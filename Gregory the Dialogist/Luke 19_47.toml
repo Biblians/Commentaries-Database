@@ -8,6 +8,7 @@ But we must know that we are truly instructed by the words of truth if we look u
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 39"
+uuid = "5c0a98ff-81a4-4a55-8f3a-f188691268cc"
 
 [[commentary]]
 quote='''
@@ -16,3 +17,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "20fa8352-36b7-405f-9f7a-58200557ecd1"

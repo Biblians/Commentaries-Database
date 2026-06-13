@@ -4,6 +4,7 @@ The image of a dove is placed before us by God so that we may learn the simplici
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.12"
+uuid = "d121465e-b5f7-4a31-aa50-debe8ed47711"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And immediately ascending out of the water He saw the heavens opened, etc. The m
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "915e889d-86ec-4f73-b729-3d85eaf507f5"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1f6da0a8-1691-470b-bb06-4c3717a9e994"
 
 [[commentary]]
 quote='''
@@ -28,6 +31,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "23994bd8-18da-4e4b-b64a-7b931ef00e78"
 
 [[commentary]]
 quote='''
@@ -36,3 +40,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6ec02173-1b9e-4f97-9c6c-761f13dd2f73"

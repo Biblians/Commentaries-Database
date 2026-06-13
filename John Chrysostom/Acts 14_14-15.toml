@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252030.html'
 source_title="Homily on Acts 30"
+uuid = "a73751ae-e642-4704-b22c-845323691dbe"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Let us imitate them: let us think nothing our own, seeing even faith itself is n
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252030.html'
 source_title="Homily on Acts 30"
+uuid = "830e75dd-33c9-4341-a282-9790fab258ca"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ Mark the vehemence with which all this is done by the Apostles: "rent their clot
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252031.html'
 source_title="Homily on Acts 31"
+uuid = "52e445af-6f81-4502-b74f-417a6e5b9915"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ First by the sight they checked them, by rending their garments. This did Joshua
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252031.html'
 source_title="Homily on Acts 31"
+uuid = "9dfcd887-6747-4ac3-917c-03389f558480"

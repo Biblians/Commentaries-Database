@@ -4,6 +4,7 @@ We come to God not by our own merits but by the bestowal of his grace alone, as 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.3"
+uuid = "a73023da-f4c5-4a22-9c6d-c04374d304c5"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ In this is love, etc. We did not love him first. For he loved us to the extent t
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "b76e9707-3121-4943-8803-2fe35b54f197"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ And he sent his Son to be the propitiation, etc. And this is the greatest sign o
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "61197119-6c4e-4353-8a09-bcb3a896d024"

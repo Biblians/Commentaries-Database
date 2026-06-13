@@ -5,6 +5,7 @@ But life must not be renounced, which both in the body and the soul the blessed 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "8f33f071-aa74-475d-b522-e6b95d459bcd"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ He says, "He that loves father or mother more than me is not worthy of me. He th
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 105"
+uuid = "f3f89a5c-1e2d-4873-ba77-4b288086b3ff"

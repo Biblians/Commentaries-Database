@@ -6,6 +6,7 @@ The dazzlingly obvious conclusion now arose in my mind: in the whole history of 
 '''
 source_url=''
 source_title="The Laws of Nature, from God in the Dock"
+uuid = "de3e9df0-ecf9-436b-9784-4264ebcf844f"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ Neither Will nor Reason is the product of Nature. Therefore either I am self-exi
 '''
 source_url=''
 source_title="Bulverism, from God in the Dock"
+uuid = "db5a3bbd-408e-452c-b87b-95cfbeb128a4"
 
 [[commentary]]
 quote='''
@@ -22,6 +24,7 @@ The two façades—the "I" as I perceive myself and the room as I perceive it—
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-letterstomalcolm/lewiscs-letterstomalcolm-00-h.html'
 source_title="LETTERS TO MALCOLM: CHIEFLY ON PRAYER, Letter 15"
+uuid = "d9bad876-1584-4cbc-a811-72faa7f93a95"
 
 [[commentary]]
 quote='''
@@ -29,6 +32,7 @@ You remember the two maxims Owen [Barfield] lays down in _Saving the Appearances
 '''
 source_url=''
 source_title="Letters to Malcolm: Chiefly on Prayer, Letter 13"
+uuid = "2b3e768d-c9f2-4fcf-9dfd-cfb2d73ce24f"
 
 [[commentary]]
 quote='''
@@ -38,6 +42,7 @@ Therefore of each creature we can say, "This also is Thou: neither is this Thou.
 '''
 source_url=''
 source_title="Letters to Malcolm: Chiefly on Prayer, Letter 14"
+uuid = "4d5dbc97-fd32-4be5-aaab-1ea64cd6ac11"
 
 [[commentary]]
 quote='''
@@ -45,6 +50,7 @@ If you could see humanity spread out in time, as God sees it, it would not look 
 '''
 source_url=''
 source_title="Mere Christianity, Book 4, Chapter 5: The Obstinate Toy Soldiers"
+uuid = "1899da39-4a0c-4fd7-82af-29422a312269"
 
 [[commentary]]
 quote='''
@@ -52,3 +58,4 @@ It is much wiser, I believe, to think of that presence in particular objects tha
 '''
 source_url=''
 source_title="Letters to Malcolm: Chiefly on Prayer, Letter 14"
+uuid = "728222ad-1e97-43d7-9c2a-246702714d56"

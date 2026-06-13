@@ -4,6 +4,7 @@ And He taught, saying to them: Is it not written that my house shall be called a
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "a976ba67-672d-4f98-a76d-9a1021ae1c93"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ But you have made it a den of robbers. Those who sat in the temple to receive gi
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "13e0f9f9-77c2-4053-924d-e319820ad719"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ It goes on: And he taught, saying unto them, My house shall be called of all nat
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "cf2dc490-c095-4c4e-a296-49adf8fc7c6b"
 
 [[commentary]]
 quote='''
@@ -28,6 +31,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "925d9b22-3c0e-441c-a596-3278cecfcc1c"
 
 [[commentary]]
 quote='''
@@ -36,3 +40,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "775bf36d-c680-4a89-a86b-6ccd5fdeed03"

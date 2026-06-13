@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252067.html'
 source_title="Homily on the Gospel of John 67"
+uuid = "0e6bf876-94d1-42ab-af00-d8a0bdb77e1c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252067.html'
 source_title="Homily on the Gospel of John 67"
+uuid = "3528f4a7-a800-48e0-b4fe-65b31e33f491"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252067.html'
 source_title="Homily on the Gospel of John 67"
+uuid = "ad81b611-1841-4453-bdec-fb580135f333"

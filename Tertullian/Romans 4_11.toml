@@ -4,6 +4,7 @@ But you Jews say that Abraham was circumcised. Yes, but he pleased God before hi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html'
 source_title="AN ANSWER TO THE JEWS 3"
+uuid = "4f78fbdf-dd8d-4ba7-aacb-2831efab4bd8"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Yes, but he pleased God before his circumcision; nor yet did he observe the Sabb
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
 source_title="An Answer to the Jews"
+uuid = "8d56b8db-5f60-4958-899a-bbd6f6192bbc"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ But how are we children of faith? and of whose faith, if not Abraham's? For sinc
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "b9e9f50f-03d8-4d46-b8b9-16775e8508fe"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ For, albeit comeliness is not to be censured, as being a bodily happiness, as be
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Apparel%2520of%2520Women%2FBook%25202.html"
 source_title="On the Apparel of Women Book II"
+uuid = "daf04959-7853-4689-8250-2836a138cefb"
 
 [[commentary]]
 quote='''
@@ -32,3 +36,4 @@ For albeit it is subsequently that he is called "a father of many nations," stil
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html"
 source_title="On Monogamy"
+uuid = "6e21876f-8d79-4dc2-bf47-1e60c7980378"

@@ -4,6 +4,7 @@ To ask joy of this sort is not to plead only with your words for entry into the 
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.12"
+uuid = "b69f98cd-e3fb-4cd0-9829-a0e35bdbfd3e"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Whom having not seen, you love, etc. And Paul says: Eye has not seen, nor ear he
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "970e2dc1-f53c-4dbf-80ae-6b940b8aa1aa"

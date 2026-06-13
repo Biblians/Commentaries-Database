@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "395cccba-f1ea-4bbc-9d25-917c4e6bc5ec"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "54b20c13-79d4-4333-b2a1-7ad4d8e728b2"

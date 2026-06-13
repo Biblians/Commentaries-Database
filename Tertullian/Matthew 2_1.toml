@@ -5,6 +5,7 @@ Let those Eastern magi be believed, dowering with gold and incense the infancy o
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
 source_title="An Answer to the Jews"
+uuid = "79a7af9c-78af-42b9-b22f-4477be9debcf"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Let the shepherds take better care of their flock, and let the wise men spare th
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Flesh%2520of%2520Christ.html"
 source_title="On the Flesh of Christ"
+uuid = "6ef15b6b-0e4e-45dd-a34f-53cc3f650f69"

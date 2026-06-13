@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252071.html'
 source_title="Homily on the Gospel of John 71"
+uuid = "e782ed55-62a5-43a6-bbc6-e633aa1396ae"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ But having said, "I speak not of you all," in order not to attach fear to more t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252071.html'
 source_title="Homily on the Gospel of John 71"
+uuid = "7324bc0e-fdc6-43b3-b720-842b994e8bb5"

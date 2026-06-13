@@ -4,6 +4,7 @@ But pray that it does not happen in winter. In Matthew it is written: But pray t
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "ffdf2448-e198-4cb0-b401-3f6e2b8f9233"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "24ce0ee0-1bff-40ca-b706-5308ba3b816c"

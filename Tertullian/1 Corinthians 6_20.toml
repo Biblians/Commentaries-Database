@@ -4,6 +4,7 @@ And suitably does he add the question: "Know ye not that your bodies are the mem
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "2fb5605d-cb53-4d2e-8c35-067671ccb883"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ A price! surely none at all was paid, since Christ was a phantom, nor had He any
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "a30ae6dd-7a0a-41ab-b1d4-f1d4ed953a9c"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ So, again, when he is ascribing certain praiseworthy actions to the flesh, he sa
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "ae6d4b12-8d1f-42d5-afca-1e8f1c27c95f"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ And thus if, from the moment when it changed its condition, and "having been bap
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "256a819b-9190-403f-9b0e-b89750860859"

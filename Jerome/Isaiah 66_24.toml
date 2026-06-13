@@ -4,6 +4,7 @@ But the worm that will not die and the fire that will not be extinguished are un
 '''
 source_url=''
 source_title="COMMENTARY ON ISAIAH 18:33"
+uuid = "c680d3b6-a342-4c8f-b872-e9ff8e179044"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "66c72152-9a0c-4f9a-8e36-5951ac9a6c5b"

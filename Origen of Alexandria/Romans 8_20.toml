@@ -4,6 +4,7 @@ What is this futility to which the creation is said to be subject? It seems to m
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520Romans%2FFrom%2520Latin%2FRufinus_Translation_Stub.html'
 source_title="COMMENTARY ON THE EPISTLE TO THE ROMANS"
+uuid = "ac6abfae-34c1-435c-b135-1335dcab5b8e"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ The moon and the stars have been compelled against their will to be subject to f
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FDe%2520Principiis%2FBook%25202.html'
 source_title="ON FIRST PRINCIPLES 2.8.3"
+uuid = "c3e08534-0341-419b-b402-af496b51c2ce"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ What is the futility to which the creation was subjected? My own opinion is that
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FDe%2520Principiis%2FBook%25201.html'
 source_title="ON FIRST PRINCIPLES 1.7.5"
+uuid = "db99cac0-95e9-498c-93cb-942bb6d038da"

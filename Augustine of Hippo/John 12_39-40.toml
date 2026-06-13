@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "fcca2919-af12-43d6-8e86-acb85966bc75"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ But the words of the Gospel also, that follow, are still more pressing, and star
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252053.html'
 source_title="Tractates on John 53"
+uuid = "995e28ed-b0c6-4fad-a573-2f8178db6abe"

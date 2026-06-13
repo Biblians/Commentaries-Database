@@ -4,6 +4,7 @@ And they could not withstand the wisdom and the Spirit with which he spoke. This
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "d3df9997-3ea5-41a4-892c-7ace5a14d2ed"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ And they were not able to resist the wisdom and the Holy Spirit who spoke. In th
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "eb8a0913-cf05-4cf1-8b64-6628cd4ea98c"

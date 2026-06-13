@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b288755d-ce71-49f0-8a94-09e1497c1e0a"
 
 [[commentary]]
 quote='''
@@ -15,3 +16,4 @@ He is called "a Man" perhaps because He had reached full maturity, for He was ba
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Commentary on John"
+uuid = "6d508a0a-0d3b-4edf-9057-48c46004a5b0"

@@ -4,6 +4,7 @@ There is a blasphemy which we must avoid completely, viz., that any of us should
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html'
 source_title="ON IDOLATRY 14"
+uuid = "3c3dc952-e16d-4925-a21f-9f36d5995685"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Else, if of all blasphemy it has been said, "By your means My Name is blasphemed
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html'
 source_title="On Idolatry"
+uuid = "12aa25b9-2fd1-44c8-9aac-8e462b8c0084"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ And thus, the former gifts of grace being withdrawn, "the law and the prophets w
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html'
 source_title="An Answer to the Jews"
+uuid = "8060ec0f-f553-4a49-b251-6a95d987073f"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ Are we then to suppose that the apostle abstained through fear from openly calum
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html'
 source_title="Against Marcion Book V"
+uuid = "3a6fb9de-5eb8-486a-9b7d-f4a3f52ba2a0"

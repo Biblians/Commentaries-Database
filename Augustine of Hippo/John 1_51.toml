@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "460c6784-06ef-44ef-89a8-45ff378e1ed0"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ Already on a former occasion I have spoken of these ascending and descending ang
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25207.html'
 source_title="Tractates on John 7"
+uuid = "734c75bb-d071-4c62-929a-5de4b3a82dd5"

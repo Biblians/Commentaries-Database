@@ -4,6 +4,7 @@ Indeed, in this type of event, reason, harmony and example are served. For after
 '''
 source_url='https://archive.org/details/commentaryonmatt0125hila/page/40/mode/2up'
 source_title="Commentary on Matthew 17.2"
+uuid = "14cdd9b8-589a-4622-92fc-77b604b673c2"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ In the three thus taken up with Him, the election of people out of the three sto
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "06176c5f-1d76-4d28-9253-d5b5694a57ec"

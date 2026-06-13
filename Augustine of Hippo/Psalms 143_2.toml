@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%2520143.html'
 source_title="Exposition on Psalm 143"
+uuid = "a9b4cafd-ab27-4071-a33f-e1da45659d6a"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And so, my glory and my life, God of my heart, I will lay aside for a while all 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FConfessions%2FBook%25209.html'
 source_title="Confessions 9.13"
+uuid = "ecfdcaf1-4a5d-4999-97ab-ee92862aa26b"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ And now, to summarize briefly and comprehensively the idea I have of the virtue 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 167:15"
+uuid = "234b785a-512c-4120-984e-1d94aa65bcc1"
 
 
 [[commentary]]
@@ -28,3 +31,4 @@ Now, whether there ever has been, or is, or ever can be, a man living so righteo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOn%2520Nature%2520and%2520Grace%252C%2520Against%2520Pelagius.html'
 source_title="On Nature and Grace, Chapter 70"
+uuid = "2ea8702d-dc4f-415f-a453-7e0d94902ed4"

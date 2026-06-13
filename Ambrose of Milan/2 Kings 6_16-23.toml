@@ -4,6 +4,7 @@ But, as many delight in warfare, which is the most glorious, to bring a battle t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FON%2520THE%2520DUTIES%2520OF%2520THE%2520CLERGY%2FBook%25203.html'
 source_title="On the Duties of the Clergy 3.1.5"
+uuid = "a7861351-5339-4079-8ef0-0b76c9ee61b2"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ If, then, justice is binding, even in war, how much more ought we to observe it 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FON%2520THE%2520DUTIES%2520OF%2520THE%2520CLERGY%2FBook%25201.html'
 source_title="On the Duties of the Clergy 1.29.140"
+uuid = "74af5fab-0138-4389-b0ae-ee3c5dfa0bbd"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ Elsewhere, also, that is, in the books of Kings we read that Elisha was in Samar
 '''
 source_url=''
 source_title="ON THE DEATH OF THEODOSIUS 10"
+uuid = "53bf365d-3d7b-40a1-816e-057bf3e86d95"

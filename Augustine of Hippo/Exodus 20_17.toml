@@ -4,6 +4,7 @@ The law said, "You shall not covet," in order that, when we find ourselves lying
 '''
 source_url=''
 source_title="ON MARRIAGE AND CONCUPISCENCE 1.32"
+uuid = "73f71e52-3732-4da8-bfe8-b7293604d1fb"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ There you are then, the law tells you "you shall not covet." You know the law wh
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252026.html'
 source_title="SERMON 26.9"
+uuid = "070f268f-d00d-4d58-bab0-f2cf359a434a"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ Even a lion can be shooed off its prey by the terrifying threat of arms and weap
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520169.html'
 source_title="SERMON 169.8"
+uuid = "c9c6a3fb-7d7d-4500-8955-46ed22e18ab9"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ What is the accomplishing of good except the cessation and end of evil? But what
 '''
 source_url=''
 source_title="TRACTATE ON THE GOSPEL OF JOHN 41.12"
+uuid = "13385940-8106-44b9-8e66-3d88b6f6a29d"
 
 
 [[commentary]]
@@ -33,3 +37,4 @@ To save me from saying a lot, among other commandments it contains "You shall no
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520252A.html'
 source_title="SERMON 252A.6"
+uuid = "4abbfdc7-ea37-407e-9f17-ff294420387d"

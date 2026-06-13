@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25208.html'
 source_title="Homily on Acts 8"
+uuid = "5ab440a7-bae4-4fc1-917c-589882534921"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ How then, I pray you, was it believed? The man himself who was healed proclaimed
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25208.html'
 source_title="Homily on Acts 8"
+uuid = "aa425d4f-6ad2-4321-ae04-3f78d8e39cc0"

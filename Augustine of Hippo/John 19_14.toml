@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a08d3545-42a5-4bd5-b99f-0a68dc7c4e03"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ On Pilate's judgment and condemnation before the tribunal, they took the Lord Je
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520117.html'
 source_title="Tractates on John 117"
+uuid = "09b4a12e-5ecf-415f-9abd-89c0e38a17eb"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ There is also another solution of this question, that we should not here underst
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520117.html'
 source_title="Tractates on John 117"
+uuid = "6453a7ef-8e39-4d0c-bdb3-ed907c0c89d7"

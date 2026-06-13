@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%2520116.html'
 source_title="Exposition on Psalm 116"
+uuid = "26072266-92c3-4647-aab5-9a2ff84f02c5"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Such a son therefore so keeps watch against a lie, as he doth against sin. For i
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FAgainst%2520Lying.html'
 source_title="Against Lying, Chapter 40"
+uuid = "e72ce357-4dd3-4a97-9ff1-65f04cf00fba"

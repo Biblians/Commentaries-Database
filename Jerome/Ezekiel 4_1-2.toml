@@ -4,6 +4,7 @@ Jerusalem is to be represented on a brick, and the brick itself is to be placed 
 '''
 source_url=''
 source_title="COMMENTARY ON EZEKIEL 1:4.1-2"
+uuid = "cb3a28aa-e56d-41cf-bd06-e19b6b59aa09"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Ezekiel.html'
 source_title="Commentary on Ezekiel"
+uuid = "f9a11c6a-fbd3-4450-a0e6-0165c8efe221"

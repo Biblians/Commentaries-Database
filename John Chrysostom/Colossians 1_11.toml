@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Colossians%2FHomily%25202.html'
 source_title="Homily on Colossians 2"
+uuid = "7c72c26c-c74f-4e40-b8b1-8feb8fd07811"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ And again, "strengthened with all power," and again, "unto all patience and long
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Colossians%2FHomily%25202.html'
 source_title="Homily on Colossians 2"
+uuid = "c44e0641-3693-42d1-b064-c2ac4013f7e5"

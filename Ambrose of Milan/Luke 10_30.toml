@@ -4,6 +4,7 @@ Jericho is an image of this world. Adam, cast out from Paradise, that heavenly J
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Commentary on Luke"
+uuid = "02ca93f4-d61d-447f-acbe-fee696847dea"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ But who are those robbers but the Angels of night and darkness, among whom he ha
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "46fa4cb2-23d6-4365-9c77-0233ddfadba6"
 
 
 [[commentary]]
@@ -22,3 +24,4 @@ Or they stripped us of the garments which we have received of spiritual grace, a
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a35392e2-565f-4c73-81b7-d9fc51bcfb9c"

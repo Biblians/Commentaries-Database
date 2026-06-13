@@ -4,6 +4,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
 source_title="The Instructor Book 1"
+uuid = "f970b727-d991-43fe-aad5-978cc18445d7"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25202.html"
 source_title="The Stromata Book 2"
+uuid = "394315b3-05ae-4a65-a95b-0320d0f494a1"

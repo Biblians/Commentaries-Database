@@ -4,6 +4,7 @@ The leper was prudent and believed; therefore he did not say: if You ask God; bu
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Commentary on Mark"
+uuid = "b269b5d5-e9f8-4760-936c-1860fd0ea3b2"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ For he said not, If thou wilt, pray unto God, but, If thou wilt, as thinking Him
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "8f7b3f05-091d-459f-b4e5-259aa6755e06"

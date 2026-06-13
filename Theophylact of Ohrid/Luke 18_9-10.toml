@@ -4,6 +4,7 @@ The Lord does not cease to destroy the passion of pride with the most powerful a
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252018.html'
 source_title="Commentary on Luke"
+uuid = "2c8d73d4-1a07-47c6-b350-2f980d450c6f"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Pride also beyond all other passions disturbs the mind of man. And hence the ver
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "54559e14-3c38-47e1-8f98-cc93e9236cef"

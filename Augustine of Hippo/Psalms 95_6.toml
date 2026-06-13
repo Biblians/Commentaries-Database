@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801095.htm'
 source_title="Exposition on Psalm 95"
+uuid = "bd379f83-63ac-49e4-b0ae-2cfdc9736352"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ But I do not somehow think that this is what the Holy Spirit was chiefly concern
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252026.html'
 source_title="SERMON 26:1"
+uuid = "0915965c-6581-4b56-80e6-450112c22ddc"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ Do not despair. You are sick, approach him and be healed; you are blind, "approa
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520176.html'
 source_title="SERMON 176:5"
+uuid = "9acc98cf-c433-433c-be3e-cf406b040d2e"

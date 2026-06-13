@@ -4,6 +4,7 @@ It is a comparatively small thing, that certain men, like Phygellus, and Hermoge
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
 source_title="The Prescription Against Heretics"
+uuid = "ccb2f2cc-4f2b-44f8-a51d-726322bf473c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ He is a thorough adulterer, both doctrinally and carnally, since he is rank inde
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Hermogenes.html"
 source_title="Against Hermogenes"
+uuid = "bda9f724-7632-49d8-b2d5-772ce77bff2d"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ What archangel's voice, (I wonder), what trump of God is now heard, except it be
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "e00a0821-643e-4051-bd79-eeb87846c3b8"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ For the apostle likewise delivered Phygellus and Hermogenes over to Satan that b
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Flight%2520in%2520Persecution.html"
 source_title="On Flight in Persecution"
+uuid = "83afc862-1951-43b6-8b96-fcb39e6c7a55"

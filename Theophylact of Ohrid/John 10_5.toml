@@ -5,6 +5,7 @@ He alludes to Antichrist, who shall deceive for a time, but lose all his followe
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "058a70b4-2e99-46ae-9e14-bdc3e63f203f"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ So then, the Scriptures are the door. Through this door the Lord leads the sheep
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520John%2FChapter%252010.html'
 source_title="Commentary on John"
+uuid = "fe0b2570-1a14-49f6-8aaf-6325d6eb3d89"

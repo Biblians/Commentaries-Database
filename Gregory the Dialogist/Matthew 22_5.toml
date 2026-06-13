@@ -4,6 +4,7 @@ There follows: "But they neglected it and went away, one to his farm, another to
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 38"
+uuid = "2d4e6c86-4c29-4eaf-9c64-470b39a9e03e"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Whosoever then intent upon earthly business, or devoted to the actions of this w
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6d0f8e54-62a3-4dc0-bc9e-19038b50004e"

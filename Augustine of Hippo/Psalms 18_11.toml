@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801018.htm'
 source_title="Exposition on Psalm 18"
+uuid = "9ce6cd10-c31d-4e18-98c5-a9c1419ecece"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ When God wished to appear visibly to people and desired also to teach them in pe
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520371.html'
 source_title="SERMON 371:2"
+uuid = "c2060526-6048-43f8-997d-fd1277e1cd7c"

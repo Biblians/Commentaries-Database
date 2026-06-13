@@ -16,6 +16,7 @@ What is important is not that we should always fear or hope about the end, but t
 '''
 source_url='https://web.archive.org/web/20240515192922/https://singjupost.com/c-s-lewis-the-worlds-last-night-transcript/?singlepage=1'
 source_title="The World's Last Night (Essay)"
+uuid = "a9418940-e56f-4b56-b7b2-61d31f3281d0"
 
 [[commentary]]
 quote='''
@@ -23,3 +24,4 @@ When that happens, it is the end of the world. When the author walks on to the s
 '''
 source_url=''
 source_title="Mere Christianity, Book 2, Chapter 5: The Practical Conclusion"
+uuid = "30ee087a-ef03-45e0-ab77-5015635f40e4"

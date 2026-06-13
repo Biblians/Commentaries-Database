@@ -4,6 +4,7 @@ The Lord himself, the Holy Spirit himself, must be entreated by us to remove eve
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Leviticus_1_16/Eo9Da7xaBuUC?hl=en&gbpv=1&dq=homilies+on+leviticus+origen&printsec=frontcover'
 source_title="HOMILIES ON LEVITICUS 1"
+uuid = "c3074106-63af-4268-9299-f5d8875f2652"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Let us beware, therefore, lest not only "when Moses is read" but also when Paul 
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Genesis_and_Exodus/X_mSBavPcq4C?hl=en&gbpv=1'
 source_title="HOMILIES ON EXODUS 12"
+uuid = "ce019da6-07be-4fdb-a124-6aa57bd0b39b"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ For thus the apostle said, "If anyone turns to the Lord, the veil will be remove
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Leviticus_1_16/Eo9Da7xaBuUC?hl=en&gbpv=1&dq=homilies+on+leviticus+origen&printsec=frontcover'
 source_title="HOMILIES ON LEVITICUS 1.4"
+uuid = "a93816f7-79e3-49d9-b41f-cfe874dc33a2"

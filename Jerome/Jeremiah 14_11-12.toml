@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Jeremiah.html'
 source_title="Commentary on Jeremiah"
+uuid = "118b627d-685a-4d8f-a9fb-33684e3d3fb9"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ In the Gospel, the Savior commends the unjust steward because, although he defra
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_127.html'
 source_title="LETTER 127.10"
+uuid = "8ce44058-8e17-413b-99b7-79b225f951e0"

@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f742080b-9b39-4c04-95c3-7b83e24e4825"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252048.html'
 source_title="Tractates on John 48"
+uuid = "11137f4a-27e2-43ba-ad81-cb7aaa9fea3c"

@@ -4,6 +4,7 @@ By "the abomination of desolation" is meant the statue of the one who subjected 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%252013.html'
 source_title="Commentary on Mark"
+uuid = "f7816ea7-fde3-427e-ab26-934250905642"
 
 [[commentary]]
 quote='''
@@ -16,3 +17,4 @@ We must also avoid sin with fervour, and not coldly and quietly.
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "bfabc152-ff8f-477d-8d73-835e54903f14"

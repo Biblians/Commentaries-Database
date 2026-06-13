@@ -4,6 +4,7 @@ quote='''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Proverbs.html"
 source_title="Commentary on Proverbs"
+uuid = "30d196a7-2d34-4949-9784-09446302257d"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Proverbs.html"
 source_title="Commentary on Proverbs"
+uuid = "47e9278c-5452-4c3c-9650-3c951c0bd504"

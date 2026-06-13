@@ -4,6 +4,7 @@ Suppose they say, though, that the Lord's own divine substance is not the same w
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252012.html'
 source_title="SERMON 12:10"
+uuid = "804951cb-593e-436f-af4d-33e73e1fefe6"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ If, however, they do not say "so impure" but "so weak," we agree entirely. And t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252012.html'
 source_title="SERMON 12:12"
+uuid = "a6c2757b-65f1-4676-83b2-38c2428d682f"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ These things that we hold according to our faith, and which reason also demonstr
 '''
 source_url=''
 source_title="ON THE NATURE OF THE GOOD 24"
+uuid = "c2a364e0-fc22-4885-98fb-4f295ce8c3b1"

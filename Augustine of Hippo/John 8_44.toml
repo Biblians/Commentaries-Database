@@ -4,6 +4,7 @@ Someone may object that the words of the Lord about the devil [here] … are to 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252011.html'
 source_title="City of God 11.13, 15"
+uuid = "e44e545c-e13f-426f-843a-ef051b0e7769"
 
 [[commentary]]
 quote='''
@@ -23,6 +24,7 @@ When he speaketh a lie, he speaketh of his own: for he is a liar, and the father
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "aa9cbba5-4825-4862-864e-f7a51a16ed24"
 
 [[commentary]]
 quote='''
@@ -36,3 +38,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252042.html'
 source_title="Tractates on John 42"
+uuid = "0c3ae4b6-9c00-4855-a908-511ecee3fb10"

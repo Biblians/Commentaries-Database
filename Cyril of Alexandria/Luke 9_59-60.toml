@@ -5,6 +5,7 @@ Or else, his father was borne down with years, and he thought he was doing an ho
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6fa752a0-e503-4f68-b707-7c0c60f63008"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ For come, and let us examine the matter in dispute, and inquire what is the reas
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520the%2520Gospel%2520of%2520Luke%2FSermons%252057-65%2520(Luke%25209-57-10-21).html'
 source_title="COMMENTARY ON LUKE, HOMILY 58"
+uuid = "68213953-8a81-4b88-b055-f71a44402502"

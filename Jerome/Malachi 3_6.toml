@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Malachi.html'
 source_title="Commentary on Malachi"
+uuid = "9580539a-bae7-43a7-8d6d-6438438beafc"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ And that which follows: I am the Lord and I do not change, he states this becaus
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Malachi.html'
 source_title="Commentary on Malachi"
+uuid = "bb09d9a2-ac42-411d-b507-7f36f88abb7b"

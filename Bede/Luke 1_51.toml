@@ -5,6 +5,7 @@ In describing the state of mankind, she shows what the proud deserve, and what t
 append_to_author_name = ' (as quoted by Aquinas, AD 1274)'
 source_url = 'https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "de1a42a0-6cc1-42d8-ba8e-e79b6a9e1d50"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ He has shown strength with His arm, He has scattered the proud in the imaginatio
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "6d6bca17-0f2f-4c69-a675-a654a7070524"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Because the venerable mother of God taught that his mercy would come to be prese
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.4"
+uuid = "5b64cfaa-25fa-4109-a2d4-09497319f414"

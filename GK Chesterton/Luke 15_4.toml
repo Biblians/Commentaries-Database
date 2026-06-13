@@ -7,6 +7,7 @@ To very great minds the things on which men agree are so immeasurably more impor
 time=1905
 source_url=''
 source_title="Heretics, Ch. 17: On the Wit of Whistler (1905)"
+uuid = "3ea2c431-ddd9-4b92-b0db-639c3bcc8050"
 
 [[commentary]]
 quote='''
@@ -16,6 +17,7 @@ This is the spirit which makes the Christian poor begin their terrible murmur wh
 '''
 source_url=''
 source_title="A Miscellany of Men, The New Theologian (1912)"
+uuid = "c05ef459-3b7a-41c5-8cad-cabc5e58403e"
 
 [[commentary]]
 quote='''
@@ -23,6 +25,7 @@ The Church did, in an evil hour, consent to imitate the commonwealth and employ 
 '''
 source_url=''
 source_title="A Miscellany of Men, The Divine Detective (1912)"
+uuid = "12116340-b83d-4a4c-8ec4-6af5f60fdb8d"
 
 [[commentary]]
 quote='''
@@ -30,3 +33,4 @@ The heart of the true Middle Ages might be found far better, for instance, in th
 '''
 source_url=''
 source_title="Alarms and Discursions, A Drama of Dolls (1910)"
+uuid = "4a693739-3cc4-458a-b9d7-5aabf4b23ef2"

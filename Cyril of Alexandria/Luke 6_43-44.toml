@@ -5,6 +5,7 @@ Each man's life also will be a criterion of his character. For not by extrinsic 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f954c569-f571-49df-ad22-6a0df62bf812"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ See again, Christ commands that those who come to us must be distinguished not b
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 33"
+uuid = "d17c01a1-fa99-4a24-8c77-a37bf6d590d8"

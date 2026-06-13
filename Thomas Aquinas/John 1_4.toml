@@ -28,6 +28,7 @@ It was fitting to join light and life by saying, And that life was the light of 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCommentary%2520on%2520John%2F1.htm'
 source_title="Commentary on John"
+uuid = "a92966ce-ae64-4f41-b410-585e87423085"
 
 [[commentary]]
 quote='''
@@ -51,3 +52,4 @@ Chrysostom is held in such esteem by the Greeks in his explanations that they ad
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCommentary%2520on%2520John%2F1.htm'
 source_title="Commentary on John"
+uuid = "ce0e19e9-00ca-4a28-9575-e0dd46b1d260"

@@ -4,6 +4,7 @@ The only thing the Almighty cannot do is what he does not will, in case anybody 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520214.html'
 source_title="SERMONS 214.4"
+uuid = "5d3cfa78-28ca-434e-95aa-5eede027bf81"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ God is all-powerful, and, since he is all-powerful, he cannot die, he cannot be 
 '''
 source_url='https://www.newadvent.org/fathers/1307.htm'
 source_title="A Sermon to Catechumens on the Creed 1.2"
+uuid = "92bdaf63-537d-4cb0-b385-5c985a1a4da5"

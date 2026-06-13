@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%2520103.html'
 source_title="Exposition on Psalm 103"
+uuid = "38c1e6b4-86e2-4740-97d9-fe51d07ed677"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Finally, after redemption from all corruption, what remains except the crown of 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520131.html'
 source_title="Sermon 131:8"
+uuid = "73d413a0-12bd-4d2c-947d-7726073a30c7"

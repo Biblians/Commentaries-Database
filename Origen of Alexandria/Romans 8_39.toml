@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520Romans%2FFrom%2520Latin%2FRufinus_Translation_Stub.html'
 source_title="COMMENTARY ON THE EPISTLE TO THE ROMANS"
+uuid = "cd22ec6e-2c28-4ae2-bad6-7564d111a7a0"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Human nature cannot by itself maintain the struggle against angels and heights a
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FDe%2520Principiis%2FBook%25203.html'
 source_title="ON FIRST PRINCIPLES 3.2.5"
+uuid = "871247ac-7613-494d-8269-a933cea44490"

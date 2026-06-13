@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25207.html'
 source_title="Homily on Acts 7"
+uuid = "a7a2353f-2895-4a8b-9f40-a909f2949289"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ They heard, and were forthwith baptized. They did not speak those cold words whi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25207.html'
 source_title="Homily on Acts 7"
+uuid = "72b857d0-e9e1-4efa-b4f6-ef92d93cc393"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ Once there were three thousand - there were five thousand - and yet they had all
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252040.html'
 source_title="Homily on Acts 40"
+uuid = "40424b21-758c-45b4-838f-69130a28cca9"

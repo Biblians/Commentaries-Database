@@ -4,6 +4,7 @@ A shrewd man conceals knowledge. Shrewd in this place is understood in a good se
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Proverbs.html"
 source_title="Commentary on Proverbs"
+uuid = "525b0e02-2c25-4b84-b975-82541babee20"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ And the heart of fools proclaims foolishness. When they either desire to know mo
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Proverbs.html"
 source_title="Commentary on Proverbs"
+uuid = "2f302f18-f532-424d-ab88-a0a8f42a1fed"

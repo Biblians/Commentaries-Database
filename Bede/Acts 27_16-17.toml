@@ -4,6 +4,7 @@ We could scarcely obtain the lifeboat. After it was taken, they used auxiliary r
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "9a7c4f80-d899-440a-ac18-106b7b8f2b0d"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ And the south wind blowing softly, they thought they had obtained their purpose,
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "b190131d-a6a6-4efc-8791-310104784ddc"

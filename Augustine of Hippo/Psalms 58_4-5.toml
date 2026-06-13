@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801058.htm'
 source_title="Exposition on Psalm 58"
+uuid = "eb41e2c5-adfa-4645-b8ad-ae42c4143ae0"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ The heavens were opened, and Stephen saw the chief of martyrs; he saw Jesus stan
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520316.html'
 source_title="SERMON 316:2"
+uuid = "7a626ed3-9476-4c70-8878-4209faf09469"

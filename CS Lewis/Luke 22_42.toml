@@ -8,6 +8,7 @@ The servant is not greater, and must not be more high-minded than the master. Wh
 '''
 source_url=''
 source_title="Letters to Malcolm: Chiefly on Prayer, Letter 7"
+uuid = "91e80d6d-da60-418f-8301-5ddc0f5e42fd"
 
 [[commentary]]
 quote='''
@@ -17,6 +18,7 @@ But for this last (and erroneous) hope against hope, and the consequent tumult o
 '''
 source_url=''
 source_title="Letters to Malcolm: Chiefly on Prayer, Letter 8"
+uuid = "346be997-7629-4f67-a89f-29eae69c9074"
 
 [[commentary]]
 quote='''
@@ -26,3 +28,4 @@ After that it would be no true faith—it would be idle presumption—for us, wh
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-letterstomalcolm/lewiscs-letterstomalcolm-00-h.html'
 source_title="LETTERS TO MALCOLM: CHIEFLY ON PRAYER, Letter 11"
+uuid = "52618329-fb0d-4b49-a715-e1eb12c6114b"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FOn%2520Isaac%2520and%2520the%2520Soul.html'
 source_title="On Isaac and the Soul 8.71"
+uuid = "9e90ef54-b03f-4af4-8829-f05708df62fe"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Neither hold back the maidens of whom it is written, "Thus have the maidens love
 '''
 source_url='https://www.newadvent.org/fathers/3407.htm'
 source_title="Concerning Virginity 7:41"
+uuid = "7e559ea8-762d-4d0c-8cb4-cdd619d3caec"

@@ -4,6 +4,7 @@ And the Lord turned and looked at Peter. And Peter remembered the word of the Lo
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "9201aa74-fc83-4139-bf78-0e5d2d73eedb"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ For to look upon him is to have compassion, seeing that not only while penance i
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "cea88048-9283-4816-9743-3b86ae03bd08"

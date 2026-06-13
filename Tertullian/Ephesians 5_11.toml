@@ -4,6 +4,7 @@ We observe among the arts also some professions liable to the charge of idolatry
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html"
 source_title="On Idolatry"
+uuid = "d4f4f29f-bb00-47c7-9c6f-2dd0a4ddc2b4"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "28cb61db-c7ae-498f-8311-a588fec21c8c"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ What, moreover, used (the Spirit) to teach? That there must be no communicating 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "68a3ba9c-38c1-4d1b-ae0b-dec237cdedb4"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-letterstomalcolm/lewiscs-letterstomalcolm-00-h.html'
 source_title="LETTERS TO MALCOLM: CHIEFLY ON PRAYER, Letter 3 (Paragraph 4)"
+uuid = "156b6a60-bccc-4c6d-9d18-200c03ec21d4"
 
 [[commentary]]
 quote='''
@@ -15,6 +16,7 @@ But Christians think that God Himself has taught us how to speak of Him. To say 
 '''
 source_url=''
 source_title="God in the Dock: Priestesses in the Church?"
+uuid = "98ec960b-a404-4ff1-8b95-19f59f042b42"
 
 [[commentary]]
 quote='''
@@ -22,6 +24,7 @@ But I think that is all an image does for me. If I tried to get more out of it, 
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-letterstomalcolm/lewiscs-letterstomalcolm-00-h.html'
 source_title="LETTERS TO MALCOLM: CHIEFLY ON PRAYER, Letter 16 (Paragraph 4)"
+uuid = "45df4ccf-27ab-479f-ab29-f70ae1bfaa4d"
 
 [[commentary]]
 quote='''
@@ -31,3 +34,4 @@ Its very first words are Our Father. Do you now see what those words mean? They 
 '''
 source_url=''
 source_title="Mere Christianity, Book 4, Chapter 7: Let's Pretend"
+uuid = "b2d7b53e-3943-4a03-9415-72b4235be639"

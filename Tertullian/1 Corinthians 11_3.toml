@@ -5,6 +5,7 @@ To what kind of a crown, I ask, did Christ Jesus submit for the salvation of bot
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Chaplet%252C%2520or%2520De%2520Corona.html'
 source_title="THE CHAPLET 14"
+uuid = "9fe56922-a175-474f-8baf-fb1fefc90419"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "51e33c8b-26ec-4520-9ebd-49a4c3b055a8"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ Now this, to be sure, is an astonishing thing, that the Father can be taken to b
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
 source_title="Against Praxeas"
+uuid = "8b7e9476-8e7d-4b2d-9aa8-108dba340d0b"
 
 [[commentary]]
 quote='''
@@ -26,6 +29,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html"
 source_title="On Prayer"
+uuid = "095e57e5-c82a-456e-a8e3-f0a2530a5a6b"
 
 [[commentary]]
 quote='''
@@ -33,6 +37,7 @@ If "the man is bead of the woman," of course (he is) of the virgin too, from who
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Veiling%2520of%2520Virgins.html"
 source_title="On the Veiling of Virgins"
+uuid = "e042a785-bf58-4ba4-a1a5-893dfb4c0c1b"
 
 [[commentary]]
 quote='''
@@ -40,3 +45,4 @@ The contraries, at all events, of all these (considerations) effect that a man i
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Veiling%2520of%2520Virgins.html"
 source_title="On the Veiling of Virgins"
+uuid = "473c7f76-a871-4f66-b5b3-3d75f858b130"

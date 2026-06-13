@@ -4,6 +4,7 @@ This refers to the third state of man, when in his mind he serves the law of God
 '''
 source_url=''
 source_title="AUGUSTINE ON ROMANS 35"
+uuid = "f0a58359-5afb-4c26-b550-54ab18fdb314"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Grace causes sin not to have power over you. Therefore do not trust in yourself,
 '''
 source_url='https://www.newadvent.org/fathers/1308.htm'
 source_title="On Continence 5.12"
+uuid = "d4c1f26a-6966-4e17-b045-1b7210a05d5d"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ It is not that the law is evil but that it makes those under it guilty by giving
 '''
 source_url=''
 source_title="GRACE AND FREE WILL 12.24"
+uuid = "e585594a-f693-40cd-b622-98e582925b1e"

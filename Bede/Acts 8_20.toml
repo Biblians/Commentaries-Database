@@ -4,6 +4,7 @@ quote='''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "0b67a682-921b-45d0-87c8-c407de0685e7"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ May your money perish with you. More accurately, it is written into perdition, a
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "a574f2b4-4db7-4433-88f9-80819b1569ea"

@@ -4,11 +4,13 @@ These illusions are apparitions of that spirit who seeks to ensnare unhappy soul
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252010.html'
 source_title="City of God 10.10"
+uuid = "51cb73c0-f3e7-441d-aa20-cc3ec60eeb53"
 
 [[commentary]]
 quote='''
 So powerful is the attraction of the virtue of purity that practically every human being is pleased to hear it praised, and no one is so sunk in depravity as to have lost all sense of decency. Hence, unless the malignity of the demons somewhere "transforms itself into an angel of light," as we read in our Scripture, it cannot carry out its business of deception.
 '''
+uuid = "247c654f-9c29-4d43-b0ac-d8c8ee874705"
 
 [[commentary]]
 quote='''
@@ -16,6 +18,7 @@ Satan sometimes transforms himself into an angel of light in order to test those
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252019.html'
 source_title="City of God 19.9"
+uuid = "042359ed-784a-4e17-b231-ba73cff7ab3d"
 
 [[commentary]]
 quote='''
@@ -23,3 +26,4 @@ As for the power of darkness, what is it but the power of the devil and his ange
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 217, TO VITALIS"
+uuid = "5d18ee48-083e-42db-9107-9c4abaa7806b"

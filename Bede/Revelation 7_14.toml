@@ -4,6 +4,7 @@ Martyrs wash their robes in the blood of the Lamb, while as for their members, w
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.10"
+uuid = "d5ae02de-cb1e-4082-832c-d1673b20946c"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And he said to me: These are those who have come out of great tribulation. Throu
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "63550d6e-a263-4775-a679-30e1141d3975"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ And they washed their robes in the blood of the Lamb. He does not speak only of 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "cfc0a72e-e45d-4e04-b9eb-712ae929a9c9"

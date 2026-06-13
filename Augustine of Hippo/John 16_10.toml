@@ -4,6 +4,7 @@ And therefore we should not consider ourselves separated from that righteousness
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520144.html'
 source_title="SERMON 144.6"
+uuid = "9dd722ea-a75b-47b5-89a8-cd7a65eb70c7"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252095.html'
 source_title="Tractates on John 95"
+uuid = "796f7cc6-763c-4b88-a4e5-6086f2f17931"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c5bf58e9-424a-4acb-bace-1a446417ba3f"
 
 [[commentary]]
 quote='''
@@ -27,6 +30,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "11bf1c61-e10c-471f-95d3-aaaf60370e51"
 
 [[commentary]]
 quote='''
@@ -35,6 +39,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "7ae61117-c9cc-4e58-89de-5e54a4911793"
 
 [[commentary]]
 quote='''
@@ -42,3 +47,4 @@ But how are we to understand, "Ye shall see me no more"? For He saith not, I go 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252095.html'
 source_title="Tractates on John 95"
+uuid = "0912c4dc-e96b-4f82-8c76-10257c585a02"

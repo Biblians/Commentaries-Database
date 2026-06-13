@@ -5,6 +5,7 @@ This precept is absolute.
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOf%2520Patience.html'
 source_title="ON PATIENCE 10"
+uuid = "537d9e71-83f9-4e90-88f5-07c6d5838f00"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "d3d1a544-b0ea-42a0-9240-810c372a3aa9"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ In evil doing there is no account taken of order, nor does place separate what s
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOf%2520Patience.html"
 source_title="Of Patience"
+uuid = "5af1278c-76bc-4298-9bbe-0f180f0a9b51"
 
 [[commentary]]
 quote='''
@@ -26,6 +29,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Apparel%2520of%2520Women%2FBook%25202.html"
 source_title="On the Apparel of Women Book II"
+uuid = "dbf595bd-9872-45d8-87d5-35992b78f644"
 
 [[commentary]]
 quote='''
@@ -33,3 +37,4 @@ So, too, "Eye for eye, and tooth for tooth," has now grown old, ever since "Let 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Exhortation%2520to%2520Chastity.html"
 source_title="On Exhortation to Chastity"
+uuid = "b9694c51-50e3-4557-9e98-774b9cdfbcd1"

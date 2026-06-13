@@ -7,6 +7,7 @@ But this is given for an example, that in vain can you expect the aid of Divine 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ac91f584-dfe9-4709-abd3-c0b2cfc7420b"
 
 
 [[commentary]]
@@ -15,3 +16,4 @@ Therefore, the Savior excuses that he has not worked any miracles of virtue in h
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Commentary on Luke"
+uuid = "10cf8af0-02ec-4fc3-9db5-4578a538f66e"

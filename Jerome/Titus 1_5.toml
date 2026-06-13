@@ -6,6 +6,7 @@ And (as) you should appoint presbyters through cities, just as I arranged for yo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Titus.html'
 source_title="Commentary on Titus"
+uuid = "47113c87-b26f-46b9-bc46-9a05e71d9cf9"
 
 
 [[commentary]]
@@ -14,3 +15,4 @@ And lest any should in a spirit of contention argue that there must then have be
 '''
 source_url='https://www.newadvent.org/fathers/1102146.htm'
 source_title="LETTERS 146.1"
+uuid = "203283d2-60c0-41a0-89c3-12a40f145a92"

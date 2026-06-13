@@ -4,6 +4,7 @@ Not in pride, as some suppose, but by necessity, he said that he was not an apos
 '''
 source_url=''
 source_title="EPISTLE TO THE GALATIANS 1.1.1"
+uuid = "ae7b669d-11b4-4687-b522-f72e0a647802"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Galatians.html'
 source_title="Commentary on Galatians"
+uuid = "398fae1e-23ae-41d5-ba00-2c6c412e582b"

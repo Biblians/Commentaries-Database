@@ -4,6 +4,7 @@ Baptism is not rashly to be administered.… Similarly, this precept is rather t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html'
 source_title="ON BAPTISM 18"
+uuid = "7d167860-4d34-42f1-9393-e8db05e370a1"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ On the contrary, this precept is rather to be looked at carefully: "Give not the
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html"
 source_title="On Baptism"
+uuid = "049b92ae-ba38-40fa-a414-8ed47a3befa2"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ Again to Timotheus: "Lay hands on no one hastily, nor communicate with others' s
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "1b721bf1-a349-4ba4-abe2-017b0e2a0bfc"

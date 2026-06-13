@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "951cf1bb-3899-47a4-a3b5-d27030163272"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ All, certainly, that was done by our Lord Jesus Christ, both works and words, ar
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252044.html'
 source_title="Tractates on John 44"
+uuid = "510828e5-c52f-4902-8e3d-0835635a433a"

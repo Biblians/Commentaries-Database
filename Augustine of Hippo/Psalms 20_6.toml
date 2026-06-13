@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801020.htm'
 source_title="Exposition on Psalm 20"
+uuid = "32d3dd0c-e794-4292-bf81-08479d7ccaf6"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Sometimes people run off to a mountain to pray, as though God will be able to he
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252045.html'
 source_title="SERMON 45:7"
+uuid = "ecdec210-a7ad-4347-8589-49fb05c328d3"

@@ -10,6 +10,7 @@ Wherefore, I beseech you, let us give thanks to God for all things, since he hat
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Philippians%2FHomily%25202.html'
 source_title="Homily on Philippians 2"
+uuid = "995c9542-95ee-474f-b882-4ca1eaa8ea78"
 
 [[commentary]]
 quote='''
@@ -17,3 +18,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Philippians%2FHomily%25203.html'
 source_title="Homily on Philippians 3"
+uuid = "837339fe-0bb8-4e43-869d-b45a433c7152"

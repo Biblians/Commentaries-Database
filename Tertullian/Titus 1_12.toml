@@ -4,6 +4,7 @@ Your Jupiter too, stolen in his infancy, was unworthy of both the home and the n
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FTo%2520The%2520Nations%2FBook%25202.html"
 source_title="Ad Nationes Book II"
+uuid = "e1b9b130-ccf2-4f57-a39c-eab3ad234ae4"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Comic poets deride the Phrygians for their cowardice; Sallust reproaches the Moo
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
 source_title="A Treatise on the Soul"
+uuid = "7a2373c2-43de-4658-bc04-d65a8c5be6e6"

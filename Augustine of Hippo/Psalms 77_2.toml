@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%252077.html'
 source_title="Exposition on Psalm 77"
+uuid = "05d4f995-1d8e-415e-9eb2-124ad18aecbd"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Just now in that reading, which most recently sounded in your ears, what did you
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520375C.html'
 source_title="Sermon 375C"
+uuid = "fd6cabc6-31aa-4e7a-9aa0-7c8aa74c11d6"

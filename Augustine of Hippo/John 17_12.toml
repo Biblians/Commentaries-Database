@@ -4,6 +4,7 @@ Here, if I am asked why God should not have given them perseverance to whom he g
 '''
 source_url=''
 source_title="ON REBUKE AND GRACE 17"
+uuid = "e26e8527-8fca-467d-8aa8-44b9aafa3f04"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ When, therefore, God's children say of those who did not have perseverance, "The
 '''
 source_url=''
 source_title="ON REBUKE AND GRACE 20"
+uuid = "c232b617-b3b1-471c-ba8c-45b6940a352c"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "676a9eaa-94eb-4c76-b9cb-ea4a1a63355c"
 
 [[commentary]]
 quote='''
@@ -26,6 +29,7 @@ But here He proceeds: "While I was with them, I kept them in Thy name." Since I 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520107.html'
 source_title="Tractates on John 107"
+uuid = "db62549c-24b2-4c0f-9d3b-3007c41413a6"
 
 [[commentary]]
 quote='''
@@ -33,3 +37,4 @@ The Son therefore goes on to say: "Those that Thou gavest me, I have kept, and n
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520107.html'
 source_title="Tractates on John 107"
+uuid = "7ba19f50-23a4-4494-9418-6f127a984dcf"

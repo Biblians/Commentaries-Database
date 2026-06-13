@@ -4,6 +4,7 @@ But if you can do anything, help us, have compassion on us. Jesus said to him: I
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "db461b44-784f-4282-818d-e8c976e85d9c"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "67d06c6a-1daa-4f40-ae84-ea8d4145ed66"

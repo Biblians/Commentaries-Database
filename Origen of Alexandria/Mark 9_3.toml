@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b1abf1f2-3c48-49ac-95af-7eb11b0c1502"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ But when he is transfigured, his face also shines as the sun that he may be mani
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520Matthew%2FIntroduction.html'
 source_title="COMMENTARY ON MATTHEW 12.37"
+uuid = "60b33eaa-903a-422e-b189-f4e86ca7f340"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ Perhaps the "fullers upon the earth" refers to the wise men of this world who cu
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520Matthew%2FIntroduction.html'
 source_title="COMMENTARY ON MATTHEW 12.39"
+uuid = "84f5ddf8-8a20-4ced-bb74-a6ce208c638f"

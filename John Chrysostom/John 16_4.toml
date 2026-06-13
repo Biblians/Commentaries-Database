@@ -6,6 +6,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252077.html'
 source_title="Homily on the Gospel of John 77"
+uuid = "e4bd7d80-f510-48f8-9317-f1ba1ee585b6"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252078.html'
 source_title="Homily on the Gospel of John 78"
+uuid = "0de277d3-10f0-4126-af9b-e64ed21dd25b"

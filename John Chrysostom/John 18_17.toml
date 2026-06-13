@@ -4,6 +4,7 @@ Peter was permitted to be the first to fall, in order that he might be less seve
 '''
 source_url=''
 source_title="SERMON ON ST. PETER AND ELIJAH 1"
+uuid = "d37a9f71-e7ef-438b-9f9b-696fa63f4b8b"
 
 [[commentary]]
 quote='''
@@ -11,4 +12,5 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252083.html'
 source_title="Homily on the Gospel of John 83"
+uuid = "cfaa10c6-548a-443a-ae60-b716ad1cbc2d"
 

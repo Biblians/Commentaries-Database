@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER FIVE"
+uuid = "87616d8e-93d0-4090-8932-7154a7fd5e15"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "b8d2f101-fbbd-4f15-88be-8947cee6e174"

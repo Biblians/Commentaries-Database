@@ -4,6 +4,7 @@ And he was a Samaritan. Indeed, Samaritan is interpreted as custodian. By this n
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "4dfb6a99-9246-4607-b87e-abe08851a16d"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ He fell upon his face, because he blushes with shame when he remembers the evils
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b37b99f0-7f97-42ab-bf28-6829710cab65"

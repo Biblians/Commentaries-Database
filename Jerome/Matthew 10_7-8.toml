@@ -6,6 +6,7 @@ Freely you have received, freely give. I, as the master and Lord, have bestowed 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "4dfee042-3ec2-4fda-a2bc-e390c1b251e0"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ Lest peasants untaught and illiterate, without the graces of speech, should obta
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "006a9766-c307-4a60-a5e7-207b8c101a1b"

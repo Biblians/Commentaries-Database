@@ -5,6 +5,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
 source_title="The Prescription Against Heretics"
+uuid = "0684e962-dd12-444a-a824-f462e47d2e62"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ We have indeed, likewise, a second font, (itself withal one with the former, ) o
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html"
 source_title="On Baptism"
+uuid = "894c6b01-5ed7-4bb0-9a80-d2660c998e62"

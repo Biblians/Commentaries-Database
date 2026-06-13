@@ -4,6 +4,7 @@ All these were continually devoting themselves with one accord to prayer. Those 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "37afeaf3-2268-47a7-88aa-7f9be050ae67"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ With the women and Mary the mother of Jesus, and his brothers. It says brothers 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "11b10897-d96e-4cef-84d9-425a3d2185da"

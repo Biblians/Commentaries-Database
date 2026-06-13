@@ -5,6 +5,7 @@ In a company of two is the church; but the church is Christ.
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Repentance.html"
 source_title="On Repentance"
+uuid = "1660595f-b158-420c-b0b6-123054a1fae5"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ For if "in the mouth of three witnesses every word shall stand: " -while, throug
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html"
 source_title="On Baptism"
+uuid = "26198c8f-0ccc-45db-825f-f8d73945ab88"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ Where two (are), there withal (is) He Himself. Where He (is), there the Evil One
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FTo%2520His%2520Wife%2FBook%25202.html"
 source_title="To His Wife Book II"
+uuid = "276245a3-5bff-4165-864e-c14c54a2680f"
 
 [[commentary]]
 quote='''
@@ -26,3 +29,4 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "e6d29bf6-fb6c-4607-853e-7bf90ad4e301"

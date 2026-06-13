@@ -4,6 +4,7 @@ And it came to pass in those days, etc. The Savior received baptism from John fo
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "14a8a21e-0be0-4606-adde-f8ec50470650"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "30c41e04-0876-42f0-b8eb-bc985eff3c8d"

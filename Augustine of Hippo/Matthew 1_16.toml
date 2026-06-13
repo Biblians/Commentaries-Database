@@ -19,6 +19,7 @@ Wherefore it pleased Him to take flesh of the womb of a woman, is known in His o
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "2ffa2847-11ad-4a62-ba2b-e77edec78bc7"
 
 [[commentary]]
 quote='''
@@ -26,6 +27,7 @@ Matthew relates the human lineage of Christ in this way: After recounting the fa
 '''
 source_url=''
 source_title="HARMONY OF THE GOSPELS 2.1.2-3"
+uuid = "147715bc-3e78-4110-ae18-c2d1e71fac52"
 
 [[commentary]]
 quote='''
@@ -33,3 +35,4 @@ Since he thus related that Christ was born from Mary as a virgin and not as a re
 '''
 source_url=''
 source_title="HARMONY OF THE GOSPELS 2.1.3"
+uuid = "40ac97e9-a96e-4042-84d6-561c57c71f91"

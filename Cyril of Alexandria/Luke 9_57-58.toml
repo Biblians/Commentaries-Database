@@ -10,6 +10,7 @@ Now under a mystical signification He applies the name of foxes and birds of the
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "7c02bc59-605a-4ad8-b7ca-357722edcf73"
 
 [[commentary]]
 quote='''
@@ -17,6 +18,7 @@ A certain man came near to Christ the Savior of us all, saying, "Teacher, I will
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE 57"
+uuid = "35fcfc9f-4b95-454e-bcbb-de3b2a4d2bf7"
 
 
 [[commentary]]
@@ -25,3 +27,4 @@ He rebuked him not to reproach him but rather to correct him, so that he might o
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 57"
+uuid = "1385e86d-7212-4d2c-ab94-8962137a56e8"

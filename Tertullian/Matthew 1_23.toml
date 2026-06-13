@@ -5,6 +5,7 @@ Begin we, therefore, to prove that the Birth of Christ was announced by prophets
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
 source_title="An Answer to the Jews"
+uuid = "3ddd3603-5fb3-42ae-862c-3dde447394be"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ Now, it will first by necessary to show what previous reason there was for the S
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Flesh%2520of%2520Christ.html"
 source_title="On the Flesh of Christ"
+uuid = "d5a245c8-cc56-4e7b-81ad-ae2cf86f3aa4"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ Whereas, then, they contend that the novelty (of Christ's birth) consisted in th
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Flesh%2520of%2520Christ.html"
 source_title="On the Flesh of Christ"
+uuid = "ecd4d628-b832-4ce0-ac0d-5f41a4e1227b"
 
 [[commentary]]
 quote='''
@@ -26,6 +29,7 @@ Now, to upset all conceits of this sort, let me dispel at once the preliminary i
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "fb853a2f-a785-408f-8ee4-3d32f1315431"
 
 [[commentary]]
 quote='''
@@ -33,3 +37,4 @@ Nay, (I answer, ) this is spoken concerning the Spirit of God. For it was certai
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
 source_title="Against Praxeas"
+uuid = "faaa5735-ca23-43bc-8cf5-b0c7f9e43428"

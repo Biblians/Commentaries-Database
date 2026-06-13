@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252023.html'
 source_title="Tractates on John 23"
+uuid = "cbca4142-147f-47f7-af53-10594884d6dc"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ For, indeed, all men are lamps, since they can be both lighted and extinguished.
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252023.html'
 source_title="Tractates on John 23"
+uuid = "d43b41ec-1734-455b-a58d-1780668220c9"

@@ -6,6 +6,7 @@ It follows, Who was the son of Adam.
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "74d04bbd-425d-4892-9a6c-274f33f29e61"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "8577ca4d-c057-4198-9d2f-55af42502186"

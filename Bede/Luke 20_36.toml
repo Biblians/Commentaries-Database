@@ -4,6 +4,7 @@ For they can no longer die. Because marriages are for the sake of children. Chil
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "697bdbac-8d42-47d9-ac13-1a7f2aeadbd3"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ For they are equal to angels and are sons of God, being sons of the resurrection
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "5494f4bd-ac77-4635-a41e-6ca7394213e8"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Or they are equal to the angels, and the children of God, because made new by th
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1f92ab42-95b6-46fa-8da6-91a85f6ba3f6"

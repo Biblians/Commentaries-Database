@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252082.html'
 source_title="Homily on the Gospel of John 82"
+uuid = "e3950b91-e8e9-4bd6-95bb-9270a269b62e"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252082.html'
 source_title="Homily on the Gospel of John 82"
+uuid = "2d7bcd20-9100-4b7f-a688-734cd0535d90"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ But why said He not, "That they may share My glory," instead of, "That they may 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252082.html'
 source_title="Homily on the Gospel of John 82"
+uuid = "7e2a00d2-d453-43cf-a4c3-b277d39ca592"

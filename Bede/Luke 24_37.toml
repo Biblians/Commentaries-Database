@@ -4,6 +4,7 @@ They were troubled and terrified, thinking they were seeing a spirit. This is wh
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "40891723-eb98-4bd8-8219-30e32c83af4c"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The disciples had known Christ to be really man, having been so long a time with
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "2f16a6bd-a066-4a36-bf3a-b15b37792572"

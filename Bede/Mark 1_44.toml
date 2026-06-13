@@ -4,6 +4,7 @@ But go and show yourself to the chief priests, etc. He is ordered to show himsel
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "e5f3332e-19fb-48dc-bf88-22b9fd27d451"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "4b3db97a-79d6-4bf7-8786-52bf8a3a9b4d"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "8d94ebec-d8f2-4082-8fa0-3dbdadd77124"

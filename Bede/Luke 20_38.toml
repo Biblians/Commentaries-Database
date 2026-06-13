@@ -4,6 +4,7 @@ quote='''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "eed60e93-649f-4fbb-a9db-fb640bf02d6f"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ For all live to him. All those, indeed, whose Lord is God. They live to him, tru
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "eb49816b-f35b-410b-ae58-7633e5d7e0a4"

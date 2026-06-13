@@ -4,6 +4,7 @@ Through all the time of this transitory age, the just and merciful Creator is wi
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.4"
+uuid = "f94cc10e-048f-4e27-b7d9-c89af917037c"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ He has taken up Israel, His servant, remembering mercy. He beautifully calls Isr
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "d8ccfeee-ce62-478a-a01e-b87dc5261099"

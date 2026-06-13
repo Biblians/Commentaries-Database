@@ -4,6 +4,7 @@ The right to tempt a man is granted to the devil … whether God or the devil in
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Flight%2520in%2520Persecution.html'
 source_title="FLIGHT IN TIME OF PERSECUTION 2.7"
+uuid = "f5d328ba-34fa-4ff8-be41-b0cdfcdcef98"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ But what will excite my surprise still more is the case (next supposed by Marcio
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "73abfc4a-e3c2-4b3e-b7ef-2490755f885a"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ Plainly, the selfsame apostle delivered to Satan Hymenaeus and Alexander, "that 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "8b483bc6-8e41-40b2-98a9-0b858b2801d6"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Flight%2520in%2520Persecution.html"
 source_title="On Flight in Persecution"
+uuid = "64061595-9e9b-40bb-8e92-a254f1dfd32c"

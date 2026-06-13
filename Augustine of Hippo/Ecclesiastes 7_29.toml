@@ -4,6 +4,7 @@ The reason that we, being bad, have a good Father is in order that we may not al
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252061.html'
 source_title="SERMON 61:2"
+uuid = "aa214e10-9c58-4566-92c6-c5bba763c73e"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Let us be displeased with ourselves when we sin, because sins displease God. And
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252019.html'
 source_title="SERMON 19:4"
+uuid = "aee6d292-b1eb-4c69-affe-4d229b464f7f"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ There is also a good world consisting of people, but made so out of a bad one. T
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252096.html'
 source_title="SERMON 96:6"
+uuid = "99f16404-41ce-44b5-b5d6-c0ec2ae0a39e"
 
 
 [[commentary]]
@@ -26,3 +29,4 @@ The Manichaeans deny that to a good man the beginning of evil came from free wil
 '''
 source_url=''
 source_title="AGAINST TWO LETTERS OF THE PELAGIANS 2:2"
+uuid = "d8bd9537-ff59-45f8-9c77-24249c4d01cb"

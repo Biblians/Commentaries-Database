@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%2520135.html'
 source_title="Exposition on Psalm 135"
+uuid = "ed6bb5db-8d15-4efe-a589-8de14cf2492c"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ But since I said that the Omnipotent can only not do what he does not will, lest
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520214.html'
 source_title="SERMON 214:4"
+uuid = "1b07389f-d980-4528-8e5e-4a4a28a3684e"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ It is not, then, to be doubted that men's wills cannot, so as to prevent His doi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTreatise%2520on%2520Rebuke%2520and%2520Grace.html'
 source_title="Treatise on Rebuke and Grace, Chapter 45"
+uuid = "34e71880-ace0-45ed-9279-e6e788a49d31"

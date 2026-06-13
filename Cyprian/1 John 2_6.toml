@@ -4,6 +4,7 @@ For you ought to know and to believe, and hold it for certain, that the day of a
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252055.html"
 source_title="Epistle LV"
+uuid = "2028c54c-6727-4a51-85d7-8360df059165"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ But there are some rich women, and wealthy in the fertility of means, who prefer
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%25202.%2520On%2520the%2520Dress%2520of%2520Virgins.html"
 source_title="Treatise II. On the Dress of Virgins."
+uuid = "3bfba9c9-d138-43c4-ade8-f160966262b4"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ But if we also, beloved brethren, are in Christ; if we put Him on, if He is the 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%25209.%2520On%2520the%2520Advantage%2520of%2520Patience.html"
 source_title="Treatise IX. On the Advantage of Patience."
+uuid = "532407a5-78c3-466b-8cfb-e4f8e0872fe7"

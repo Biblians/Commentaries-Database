@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "2150cdac-f4f1-485b-8fee-cb3330431bb5"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Knowing also that it is right to be subject to princes and powers, he called him
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "2527daca-575c-46d9-a9c4-85e497059cfb"

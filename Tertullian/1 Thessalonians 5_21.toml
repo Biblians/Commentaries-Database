@@ -4,6 +4,7 @@ For the apostle does not mean that those persons should be deemed approved who e
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
 source_title="The Prescription Against Heretics"
+uuid = "879f2f80-2ab3-4a74-9953-d89c77a4a406"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Let that, accordingly, be to you Scripture, and Nature, and Discipline, which yo
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Veiling%2520of%2520Virgins.html"
 source_title="On the Veiling of Virgins"
+uuid = "4c54992f-23f3-48e6-8ecc-699d29fe7fc4"

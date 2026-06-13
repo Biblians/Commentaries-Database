@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%252037.html'
 source_title="Expositions of the Psalms, Psalm 37"
+uuid = "1165b457-5e80-4afd-a754-5bee0ce1c19e"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Nay, I say that either before the law, or in the time of the Old Testament, they
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FA%2520Treatise%2520Against%2520Two%2520Letters%2520of%2520the%2520Pelagians%2FBook%25201.html'
 source_title="A Treatise Against Two Letters of the Pelagians, Book 1"
+uuid = "33226283-1d0b-4d52-b5bb-00b6a7e0dcac"

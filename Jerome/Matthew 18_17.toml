@@ -4,6 +4,7 @@ If our brother has sinned against us and damaged us in anything, we have the pow
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 3.18.15-17"
+uuid = "d71036a4-08bd-416d-99b8-69ceff52d685"
 
 
 [[commentary]]
@@ -15,6 +16,7 @@ That He says, As a heathen and a publican, shows that he is to be more abhorred,
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ccc2fb2f-96c6-4b87-9c20-2fda3500b8b2"
 
 
 [[commentary]]
@@ -23,3 +25,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "cabcd5e1-7dd9-4c99-b918-6dc6e1918ae7"

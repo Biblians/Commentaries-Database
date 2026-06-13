@@ -4,6 +4,7 @@ But if we listen to the apostle, forgetting what is behind, let us both strain a
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FTo%2520His%2520Wife%2FBook%25201.html"
 source_title="To His Wife Book I"
+uuid = "713fbaa5-ed52-40ff-9084-c14159e20ea8"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Yet I must necessarily prescribe you a law, not to stretch out your hand after t
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "8c77c597-6d77-4cc4-b4b8-b0854efe11b5"

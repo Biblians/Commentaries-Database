@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252067.html'
 source_title="Homily on the Gospel of John 67"
+uuid = "c6f1d1a5-9074-406f-8a57-139fe25baf7c"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ But, that this may be still more clear, I will make it plain by an example. Supp
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252067.html'
 source_title="Homily on the Gospel of John 67"
+uuid = "5f0f8e15-23e8-4f68-9f92-a918c8d0b3f1"

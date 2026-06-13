@@ -4,6 +4,7 @@ It is their right to possess the land, for in them God finds rest. We see this f
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentaries%2520on%2520the%2520Twelve%2520Davidic%2520Psalms.html'
 source_title="COMMENTARY ON TWELVE PSALMS 37:22"
+uuid = "2ea669fb-e2fb-48ad-a84c-5efc29ac3eed"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentaries%2520on%2520the%2520Twelve%2520Davidic%2520Psalms.html'
 source_title="Commentaries on the Twelve Davidic Psalms"
+uuid = "d74c3256-bd27-47f9-90ea-ad6df9bad37b"

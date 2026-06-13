@@ -4,6 +4,7 @@ One should note that the whole narrative in Genesis is here called Law, not, acc
 '''
 source_url=''
 source_title="EPISTLE TO THE GALATIANS 2.4.21"
+uuid = "f7b894f8-bf46-45e3-8c7c-dc0f59c9976e"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Galatians.html'
 source_title="Commentary on Galatians"
+uuid = "c5a768eb-566c-4eef-a50f-f9412fd838cd"

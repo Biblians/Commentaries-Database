@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801023.htm'
 source_title="Exposition on Psalm 23"
+uuid = "b9afb9bc-423d-42aa-a75d-0aea3fed2c86"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ In the sacred Eloquence we read, "His mercy goes before me," and, "His mercy sha
 '''
 source_url=''
 source_title="ENCHRIDION 9:32"
+uuid = "f02885fa-daef-48cf-a015-a6d77b45fd5b"

@@ -4,6 +4,7 @@ Let my spirit be counted as nothing for the sake of the cross, which is a stumbl
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Ignatius%2520of%2520Antioch%2FEpistle%2520to%2520the%2520Ephesians.html"
 source_title="Epistle of Ignatius to the Ephesians"
+uuid = "64278bed-3c0b-4b31-ac4c-a53454e4a190"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Be not deceived with strange doctrines, "nor give heed to fables and endless gen
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Ignatius%2520of%2520Antioch%2FEpistle%2520to%2520the%2520Magnesians.html"
 source_title="Epistle of Ignatius to the Magnesians"
+uuid = "0c461f08-ecf3-4306-b807-91206a60cd9a"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ Let not those who seem worthy of credit, but teach strange doctrines, fill thee 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Ignatius%2520of%2520Antioch%2FEpistle%2520to%2520Polycarp.html"
 source_title="Epistle of Ignatius to Polycarp"
+uuid = "8757c817-f62b-4bfd-a4fa-dc36015becda"

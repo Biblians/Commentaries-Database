@@ -34,6 +34,7 @@ And it should be known that hallowed be is understood in the first place so that
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCommentary%2520on%2520Matthew.htm'
 source_title="Commentary on Matthew"
+uuid = "41eee9b7-aee4-43fd-bacf-e1bba27e45f5"
 
 [[commentary]]
 quote='''
@@ -57,6 +58,7 @@ In the second place, prayer is efficacious and useful to obtain all that one des
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FExplanation%2520of%2520the%2520Lord%2527s%2520Prayer.htm'
 source_title="Explanation of the Lord's Prayer"
+uuid = "f9231071-57fd-486a-bf7e-cfd1eaf598a5"
 
 [[commentary]]
 quote='''
@@ -84,6 +86,7 @@ Secondly, "holy" may be understood as "unearthly." The holy ones who are in heav
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FExplanation%2520of%2520the%2520Lord%2527s%2520Prayer.htm"
 source_title="Explanation of the Lord's Prayer"
+uuid = "57a407fc-bda9-491e-bfbc-791be35a27c1"
 
 [[commentary]]
 quote='''
@@ -115,6 +118,7 @@ This part of the prayer--that is, "in heaven"--is appropriate and fitting also, 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FExplanation%2520of%2520the%2520Lord%2527s%2520Prayer.htm"
 source_title="Explanation of the Lord's Prayer"
+uuid = "2709bd10-6b82-4a14-b634-241ef4ba6a46"
 
 [[commentary]]
 quote='''
@@ -124,3 +128,4 @@ We must avoid and flee from all things which are opposed to the good. For, as we
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FExplanation%2520of%2520the%2520Lord%2527s%2520Prayer.htm"
 source_title="Explanation of the Lord's Prayer"
+uuid = "3ff5eaac-cc02-4156-ac9e-953ac5a5d50a"

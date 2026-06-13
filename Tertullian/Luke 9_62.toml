@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html'
 source_title="On Idolatry"
+uuid = "2bc97fd8-20e8-4f3b-a8f3-12f2676e65a3"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Yet I must necessarily prescribe you a law, not to stretch out your hand after t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html'
 source_title="On Modesty"
+uuid = "1c7ff0e8-7b6e-4067-86ff-929af897de84"

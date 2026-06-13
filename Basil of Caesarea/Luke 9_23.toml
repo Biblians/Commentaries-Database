@@ -4,6 +4,7 @@ For we must deny ourselves and take up the cross of Christ and thus follow him. 
 '''
 source_url=''
 source_title="THE LONG RULES"
+uuid = "e89c8903-8364-4cac-a005-41eaf4e1008f"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ It is necessary, therefore, to receive instruction before baptism, having first 
 '''
 source_url=''
 source_title="CONCERNING BAPTISM"
+uuid = "a6dda5e3-a03d-43c6-9e12-140de089b265"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "69ba6ae0-65b6-491c-b078-f430b060dd3b"
 
 [[commentary]]
 quote='''
@@ -27,6 +30,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "bbdb8cfb-7a50-47e2-ac0b-718a22495b7b"
 
 [[commentary]]
 quote='''
@@ -35,6 +39,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "505dc513-1d2e-461d-945b-9df3155205e7"
 
 [[commentary]]
 quote='''
@@ -43,3 +48,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "faa18403-d241-4a54-b5a0-bec81d0f5a57"

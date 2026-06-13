@@ -5,6 +5,7 @@ Moreover, as often as the soul has fallen short as a defaulter in sin, it has to
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
 source_title="A Treatise on the Soul"
+uuid = "8b819fed-3273-46d1-bab4-31124c50749b"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ For who is there that will not desire, while he is in the flesh, to put on immor
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "1cfe59ec-ebbd-474a-bf37-f96b629c76fc"

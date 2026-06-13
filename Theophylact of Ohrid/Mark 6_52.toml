@@ -4,6 +4,7 @@ As for the apostles, not having recognized Christ from the miracle of the loaves
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25206.html'
 source_title="Commentary on Mark"
+uuid = "fef23bc3-4dce-4019-b32e-75b0aa3bddec"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Great indeed is the miracle of our Lord's walking on the sea, but the tempest an
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "32c153d2-e4e1-4cd6-ab75-f8d60abb97f6"

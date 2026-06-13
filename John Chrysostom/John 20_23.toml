@@ -4,6 +4,7 @@ For if any one will consider how great a thing it is for one, being a man, and c
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FTREATISE%2520ON%2520THE%2520PRIESTHOOD%2FBook%25203.html'
 source_title="Treatise on the Priesthood, Book 3"
+uuid = "6246fbb1-8e33-4405-9080-c5bca9e6b68b"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Let us then do all we can to have the Holy Spirit with ourselves, and let us tre
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252086.html'
 source_title="Homily on the Gospel of John 86"
+uuid = "d5cf4351-72f7-41d1-9cbb-c915a3fef688"

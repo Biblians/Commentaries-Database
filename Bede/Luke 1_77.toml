@@ -7,6 +7,7 @@ But the Jews prefer not to receive Christ, but to wait for Antichrist; for they 
 append_to_author_name = ' (as quoted by Aquinas, AD 1274)'
 source_url = 'https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "9c055636-8b7c-4e72-a680-7cf4be2f95a8"
 
 
 [[commentary]]
@@ -15,3 +16,4 @@ To give the knowledge of salvation to His people by the remission of their sins.
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "19104da6-0469-4424-923c-865b7ddbde2d"

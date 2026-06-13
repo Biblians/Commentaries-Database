@@ -4,6 +4,7 @@ And responding to them, he said: "Which of you, having a donkey or an ox that ha
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "e8e23dbf-a765-4ebe-8e59-7942edb054fb"
 
 
 [[commentary]]
@@ -17,3 +18,4 @@ In this example also He well refers to the ox and the ass; so as to represent ei
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a479c920-444a-41aa-b58e-60ece4b42315"

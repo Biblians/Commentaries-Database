@@ -6,6 +6,7 @@ We light here upon a question of heresy. So it were well we should put it off to
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Colossians%2FHomily%25202.html'
 source_title="Homily on Colossians 2"
+uuid = "6e7f3a10-b14a-42dc-acfd-8fc785c92f84"
 
 [[commentary]]
 quote='''
@@ -15,3 +16,4 @@ But if a creature: how is He the Image of the Creator? For neither is a horse th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Colossians%2FHomily%25203.html'
 source_title="Homily on Colossians 3"
+uuid = "adf05ecc-0c8a-46e8-8638-3e89bde8db73"

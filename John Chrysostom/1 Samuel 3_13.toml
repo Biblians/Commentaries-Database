@@ -4,6 +4,7 @@ For no one of those who are now rich will stand up for me there when I am called
 '''
 source_url=''
 source_title="HOMILIES ON THE GOSPEL OF MATTHEW 17.6"
+uuid = "e17ec198-f4ae-44c0-8726-65688f72a194"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Tell me, if I had bid you contribute your money, would not each one of you readi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25208.html'
 source_title="Homily on Acts 8"
+uuid = "7a5bf68c-9908-43fe-a1f3-cd7196359656"

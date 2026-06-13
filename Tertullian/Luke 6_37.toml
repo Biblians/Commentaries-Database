@@ -4,6 +4,7 @@ If, however, it be now some other being which teaches mercy, on the ground of hi
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "2d0cbb02-b7fd-4570-a808-f50a612ab76a"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ For the fact withal, that the same servant, after liberated by his lord, does no
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html"
 source_title="On Prayer"
+uuid = "0d973137-e3f4-46ed-8140-bbd142117746"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ Is there any risk of a different result in the case of a Lord so just in estimat
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOf%2520Patience.html"
 source_title="Of Patience"
+uuid = "1c9eea16-1cde-4799-a9e4-3720e2263872"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ As regards the rule of peace, which is so pleasing to God, who in the world that
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOf%2520Patience.html"
 source_title="Of Patience"
+uuid = "4262df5a-a8a4-452d-acad-247f7d4dbf16"
 
 
 [[commentary]]
@@ -33,6 +37,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "4c5c4824-c524-40b0-b852-29f5907090b5"
 
 
 [[commentary]]
@@ -41,6 +46,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "0f4d1a4e-e821-445e-9d33-7cb7ca44242d"
 
 [[commentary]]
 quote='''
@@ -48,3 +54,4 @@ Besides, the Lord Himself demonstrates the manner in which He threatens such as 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "2075d74f-110f-4aa5-8b3f-282f361b6753"

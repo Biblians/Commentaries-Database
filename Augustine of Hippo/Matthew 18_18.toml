@@ -4,6 +4,7 @@ This then is what we have heard the Lord advising, and with such great particula
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252082.html'
 source_title="SERMON 82.7"
+uuid = "56eba74f-c974-435a-bd9b-89da389583b9"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "80db38ce-152f-45c9-8bba-a74e6a078c41"

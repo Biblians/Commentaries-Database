@@ -4,6 +4,7 @@ Consider the ravens, for they neither sow nor reap. They have neither storehouse
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "7c4bf871-19cf-4111-a022-74bfbdf577dd"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ How much more valuable are you than they! That is, you are worth more. For just 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "9c30855c-ea1d-4f2b-b980-dd837d687268"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ That is, ye are more precious, because a rational animal like man is of a higher
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "eb92e6ee-3582-4aa2-83b2-642edf8bd682"

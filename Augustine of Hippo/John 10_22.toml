@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d3392f05-c507-4a0a-b295-5008cf28d08e"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Listen to the Gospel: "And it was at Jerusalem the Encoenia." Encoenia was the f
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252048.html'
 source_title="Tractates on John 48"
+uuid = "e638e4a4-879b-4a3b-a882-9c725b8271b2"

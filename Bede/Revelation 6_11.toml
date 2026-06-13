@@ -4,6 +4,7 @@ The spirits of the elect who dwell in that heavenly city can be understood as as
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.12"
+uuid = "f05fa507-2512-4aec-ab0f-dc12f619a6f0"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And each of them was given a white robe. Now, the souls of the saints have indiv
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "47e0e4bc-5e5d-4208-8a12-432d5c7f6ac0"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ And it was told to them that they should rest for a little while longer, etc. Th
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "faa69242-4728-4991-87d7-0830141c12f5"

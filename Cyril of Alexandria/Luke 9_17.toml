@@ -4,6 +4,7 @@ But what was the result of the miracle? It was the satisfying of a large multitu
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 48"
+uuid = "e1587977-3669-457a-850d-5696d2be2746"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ Nor was this all that the miracle came to; but it follows, And there was taken u
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1407bd4b-7ec2-451b-bdef-8e9026cbb536"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 48"
+uuid = "0feeb6aa-eec3-404b-84ae-acf8b8d6a082"

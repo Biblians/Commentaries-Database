@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "2eff1117-5714-4264-b276-67eacacde043"
 
 [[commentary]]
 quote='''
@@ -14,6 +15,7 @@ Before these words, which we are now, with the Lord's help, to make the subject 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520104.html'
 source_title="Tractates on John 104"
+uuid = "e29e6b5a-7627-4aaa-9c93-1ac57d6dd1bd"
 
 [[commentary]]
 quote='''
@@ -21,6 +23,7 @@ Fitly therewith did He bring His words to a close, which were proverbs to the di
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520104.html'
 source_title="Tractates on John 104"
+uuid = "2da0349a-020f-48b5-8258-9da0e5e6b80c"
 
 [[commentary]]
 quote='''
@@ -28,6 +31,7 @@ When, therefore, He had told them on what account He had spoken all things, name
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520104.html'
 source_title="Tractates on John 104"
+uuid = "b1cd5898-6c9f-4b39-80f8-4c1784573393"
 
 [[commentary]]
 quote='''
@@ -35,6 +39,7 @@ Wherefore in saying this, "Father, the hour is come; glorify Thy Son," He showed
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520104.html'
 source_title="Tractates on John 104"
+uuid = "3821fdd8-7515-4078-9787-8c4adec6c5fe"
 
 [[commentary]]
 quote='''
@@ -42,6 +47,7 @@ The glorification of the Son by the Father is understood by some to consist in t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520104.html'
 source_title="Tractates on John 104"
+uuid = "417b1573-466a-4966-82f3-607a8190a832"
 
 [[commentary]]
 quote='''
@@ -49,6 +55,7 @@ In order, then, that the Mediator between God and men, the man Christ Jesus, mig
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520104.html'
 source_title="Tractates on John 104"
+uuid = "f34f5139-96c4-4376-b96a-f988bba6dd8d"
 
 [[commentary]]
 quote='''
@@ -56,3 +63,4 @@ That the Son was glorified by the Father in His form of a servant, which the Fat
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520105.html'
 source_title="Tractates on John 105"
+uuid = "5a93ba76-1c3b-4a66-8aa0-69182fd5c51e"

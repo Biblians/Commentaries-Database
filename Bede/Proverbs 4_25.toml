@@ -4,6 +4,7 @@ Solomon, advising the wise hearer, says, "And let your eyes anticipate your foot
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html'
 source_title="Commentary on the Catholic Epistles, Peter 1:9"
+uuid = "a193cfbb-2ed1-4e23-85ef-563ccf04bdf9"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Let your eyes look straight ahead, etc. Learn diligently the path of justice on 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Proverbs.html"
 source_title="Commentary on Proverbs"
+uuid = "fa89406e-717e-41e6-a76f-8bcb39124f7c"

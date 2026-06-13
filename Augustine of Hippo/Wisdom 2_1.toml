@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="EXPOSITIONS OF THE PSALMS 52:3"
+uuid = "a5e81c0e-33ff-42dc-bd4f-46cd9c0393f5"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ When you say to yourself, "The happiness of this world is false," though you dar
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520301.html'
 source_title="SERMON 301:4.3"
+uuid = "b70552fb-7d5f-4a1c-94c4-d7ee9fcd2baa"

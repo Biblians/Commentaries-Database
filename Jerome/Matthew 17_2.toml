@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER SEVEN"
+uuid = "816e6689-5874-4884-804f-2338698f4c61"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Certainly the Lord was transformed into that glory with which he would afterward
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 3.17.2"
+uuid = "2f462d01-2e7b-4460-9537-27bdf11890b9"
 
 
 [[commentary]]
@@ -21,6 +23,7 @@ And his face shone like the sun, and his garments became white as snow. Where th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "a2bc67b1-88a5-4879-8316-d061f971b032"
 
 [[commentary]]
 quote='''
@@ -29,3 +32,4 @@ Such as He is to be in the time of the Judgment, such was He now seen of the Apo
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d727c63d-0b8e-479b-b001-c98f34d35e01"

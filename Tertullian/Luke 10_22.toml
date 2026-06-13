@@ -4,6 +4,7 @@ But after all, it is, I presume, the edification rather than the demolition of t
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "c1c6c9de-98ed-484e-a1e8-52d9bce9ff11"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ But "no man knoweth who the Father is, but the Son; and who the Son is, but the 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "82766a61-81a9-4358-a936-d07ca97c5e57"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ He exults in spirit when He says to the Father, "I thank Thee, O Father, because
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
 source_title="Against Praxeas"
+uuid = "7f62c4cf-cba2-48bb-8f6a-e23373af46cd"

@@ -4,6 +4,7 @@ Every person is born in the flesh; yet does not universal consciousness make eve
 '''
 source_url=''
 source_title="ON THE TRINITY 6.29"
+uuid = "f5903e11-cd5e-4a5b-a660-31afd849ea9a"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url=''
 source_title="ON THE TRINITY 6.29"
+uuid = "b1c422b2-1277-496c-8bfa-25cb0f24c5af"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "7c1bc3e7-3e29-43f6-8eea-66251850a4e4"

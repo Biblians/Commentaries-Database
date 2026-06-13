@@ -5,6 +5,7 @@ Are not even we laics priests? It is written: "A kingdom also, and priests to Hi
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Exhortation%2520to%2520Chastity.html"
 source_title="On Exhortation to Chastity"
+uuid = "de5b2872-41db-4563-9b2c-d128b901871c"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html"
 source_title="On Monogamy"
+uuid = "c784ad5f-f422-4f94-95a3-929198580984"

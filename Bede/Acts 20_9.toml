@@ -4,6 +4,7 @@ A certain young man named Eutychus was sitting at the window, etc. Eutychus in H
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "449eb5ab-b2ab-44ee-bf61-7dcf97513004"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Awakened from sleep, he fell down from the third loft, etc. During the words of 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "0cf37525-5f05-49fe-863b-87fe3f8660aa"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ Awoken from sleep, he fell from the third loft. For the third loft, in Greek it 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "8350e51f-1c7f-422b-ab69-5218fb0637c0"

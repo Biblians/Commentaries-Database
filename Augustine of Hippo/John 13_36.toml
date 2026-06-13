@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a9854e88-2190-4ad0-807c-2fa14ab6abb5"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ While the Lord Jesus was commending to the disciples that holy love wherewith th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252066.html'
 source_title="Tractates on John 66"
+uuid = "6c8dccab-9e15-40ad-ab20-89dd3aaf25ca"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "3fbbb633-fd69-4ba0-a481-b05af366ed57"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Our Savior laments Chorazin and Bethsaida, cities of Galilee, because after such
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 2.11.22"
+uuid = "29b2c4c8-8dc6-4779-9ebe-af27e15a8f9b"
 
 [[commentary]]
 quote='''
@@ -25,6 +27,7 @@ This is because Tyre and Sidon had trodden under foot the law of nature only, bu
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6cfed102-d548-470a-9136-a1214e6d72d5"
 
 [[commentary]]
 quote='''
@@ -33,3 +36,4 @@ The careful reader will hesitate here; If Tyre and Sidon could have done peniten
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "0fd2f263-dca3-4223-9abc-744468aa43f9"

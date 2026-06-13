@@ -4,6 +4,7 @@ Or perhaps this could be taken in a deeper sense, that "what I say to you is bef
 '''
 source_url=''
 source_title="EPISTLE TO THE GALATIANS 1.1.20"
+uuid = "203d8f65-b578-4928-8003-7e7cee266dc2"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Galatians.html'
 source_title="Commentary on Galatians"
+uuid = "45fee444-3254-43bd-9c69-06530451583a"

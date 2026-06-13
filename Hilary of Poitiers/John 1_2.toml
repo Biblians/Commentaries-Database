@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b79cfb5a-28ea-4023-ac9e-dd96ad0db9c8"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ But I tremble to say it; the audacity staggers me. I hear, "And the Word was God
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Hilary%2520of%2520Poitiers%2FOn%2520the%2520Trinity%2FBook%25202.html'
 source_title="On the Trinity, Book 2, Section 16"
+uuid = "e7874214-f4c3-441a-a304-8629277b694d"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ The backward straining of our thoughts can never grasp anything prior to God's p
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Hilary%2520of%2520Poitiers%2FOn%2520the%2520Trinity%2FBook%252012.html'
 source_title="On the Trinity, Book 12, Sections 24-25"
+uuid = "de31d44f-f61b-466c-b056-c6c2cf83111d"

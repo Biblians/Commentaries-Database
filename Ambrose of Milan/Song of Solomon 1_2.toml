@@ -4,6 +4,7 @@ But why do we doubt? The church has believed in his goodness all these ages and 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FExposition%2520of%2520the%2520Christian%2520Faith%2FBook%25202.html'
 source_title="Exposition of the Christian Faith 2.2.32"
+uuid = "21b162e1-ba65-4ea3-ab92-59d325820159"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FLetters%2FLetter%252062.html'
 source_title="LETTER 62, TO HIS SISTER"
+uuid = "e145819a-a9ab-4b3e-81a4-780833eb77c8"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ But the church does not cease to kiss Christ's feet, and she demands not one but
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FLetters%2FLetter%252062.html'
 source_title="LETTER 62, TO HIS SISTER"
+uuid = "97bd78df-2fa6-48eb-90a5-6256b46f457a"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ Therefore, this soul also desires many kisses from the Word, in order to be illu
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FOn%2520Isaac%2520and%2520the%2520Soul.html'
 source_title="On Isaac and the Soul"
+uuid = "683abd41-6cb7-41bb-81e6-c99bcabfdc34"
 
 
 [[commentary]]
@@ -33,3 +37,4 @@ Having embraced the Word of God, [the soul] desires him above every beauty; she 
 '''
 source_url=''
 source_title="LETTER 79, TO LAYMEN"
+uuid = "2de0a630-dcd7-49e1-b533-fd10c81b057a"

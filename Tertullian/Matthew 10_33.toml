@@ -5,6 +5,7 @@ For why should you skulk withal, when you contaminate your own conscience by you
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html"
 source_title="On Idolatry"
+uuid = "aabbd8b1-0f47-478d-a7c6-f84d68e60936"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ God even in His own Scripture says: "The righteous shall flourish like the phoen
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "c3f2274c-015a-42d5-a8a7-2f8dd78482b0"

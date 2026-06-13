@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "dab8dc8e-a7cc-43ec-b9a0-f0466354aaa0"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ In the words preceding this chapter of the Gospel, the Lord strengthened His dis
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252093.html'
 source_title="Tractates on John 93"
+uuid = "f6852e09-ae4f-4eee-ad4b-8223598991d9"

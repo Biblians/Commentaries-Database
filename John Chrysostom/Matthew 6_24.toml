@@ -14,6 +14,7 @@ Then, as adding to the force of it, He saith, "so far from serving, he will even
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Matthew%2FHomily%252021.html'
 source_title="Homily on the Gospel of Matthew 21"
+uuid = "017ec8cb-752e-44ed-ac7e-6e1661583a03"
 
 [[commentary]]
 quote='''
@@ -25,6 +26,7 @@ Now He calls mammon here "a master," not because of its own nature, but on accou
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Matthew%2FHomily%252021.html'
 source_title="Homily on the Gospel of Matthew 21"
+uuid = "ae34c981-4a0a-45c5-840c-859e09aab5c8"
 
 [[commentary]]
 quote='''
@@ -36,3 +38,4 @@ And what of the covetous man? Is he not like this? For who will be able ever to 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Matthew%2FHomily%252028.html'
 source_title="Homily on the Gospel of Matthew 28"
+uuid = "c647dc49-c4f9-4f4f-8d7b-a8e167e7a4a3"

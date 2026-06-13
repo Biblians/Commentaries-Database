@@ -4,6 +4,7 @@ John, the apostle whom Jesus most loved, the son of Zebedee and brother of James
 '''
 source_url='https://www.newadvent.org/fathers/2708.htm'
 source_title="De Viris Illustribus (On Illustrious Men), Section 9"
+uuid = "735ae6e5-ec87-4c85-ae6f-bca2f0a044d9"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ We read in the Apocalypse of John (a book which, although rejected in these regi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FHomilies%2Fhomily_001.html'
 source_title="Homily 1, on Psalm 1"
+uuid = "5ccb36d7-4386-42b9-9693-5242db607f69"

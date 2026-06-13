@@ -4,6 +4,7 @@ But the blind man himself also did not have perfect faith. Therefore the Lord do
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Commentary on Mark"
+uuid = "8a9096cf-88ea-4a6e-9d17-fe7184137fe0"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ But the reason why he did not see at once perfectly, but in part, was, that he h
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "0b281635-7697-4c3f-b1b2-3e851da0ac75"

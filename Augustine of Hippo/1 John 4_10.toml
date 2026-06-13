@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTen%2520Homilies%2520on%2520the%2520First%2520Epistle%2520of%2520John%2FHomily%25207.html'
 source_title="Ten Homilies on 1 John 7"
+uuid = "3d960414-3346-46fc-a932-12084d943036"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ This we have said in the case where the things done are similar. In the case whe
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTen%2520Homilies%2520on%2520the%2520First%2520Epistle%2520of%2520John%2FHomily%25207.html'
 source_title="Ten Homilies on 1 John 7"
+uuid = "1ee9aa17-7fc5-4902-b813-0eaeacfe6e02"

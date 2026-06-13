@@ -21,6 +21,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d22dc125-b9bd-4945-b154-021b1ba23f17"
 
 [[commentary]]
 quote='''
@@ -28,6 +29,7 @@ But the disciples, still thinking that the Father is something greater than the 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252014.html'
 source_title="Tractates on John 14"
+uuid = "4a93ff8c-3d4c-4232-88de-8fc83dd6cc60"
 
 [[commentary]]
 quote='''
@@ -43,3 +45,4 @@ Why, then, Philip, dost thou say, "Show us the Father, and it sufficeth us? Have
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252070.html'
 source_title="Tractates on John 70"
+uuid = "0a82a9ce-1a1d-49e9-9a1f-4ce1e40beae1"

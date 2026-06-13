@@ -4,6 +4,7 @@ And he entered again into the synagogue, etc. The man who had a withered hand in
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "9fbacdcb-6f90-4615-b28d-ab6583eed4a9"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "8d2a25f2-27c9-4cc9-80d1-8e31c376b93d"

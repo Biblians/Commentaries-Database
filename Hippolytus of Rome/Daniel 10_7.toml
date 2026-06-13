@@ -4,6 +4,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Hippolytus%2520of%2520Rome%2FFragments%2520-%2520Exegetical.%2520Fragments%2520from%2520Commentaries%2520on%2520Various%2520Books%2520of%2520Scripture.html"
 source_title="Hippolytus Exegetical Fragments - Scholia on Daniel"
+uuid = "2a156333-4600-49e9-9167-3a2466cd8f38"
 
 
 
@@ -13,3 +14,4 @@ Also at that time there were many who stood alongside Daniel, but they did not s
 '''
 source_url=''
 source_title="COMMENTARY ON DANIEL 4:38.3"
+uuid = "50ff3349-d638-4f91-838a-1f8cde71b295"

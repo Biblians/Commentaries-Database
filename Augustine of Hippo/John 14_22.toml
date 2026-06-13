@@ -4,6 +4,7 @@ While the disciples thus question, and Jesus their Master replies to them, we al
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252076.html'
 source_title="Tractates on John 76"
+uuid = "d00bf796-a7d8-494e-911f-09614ca54176"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "9b5c3e0d-cbd6-460b-ae71-97ce447841ed"

@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "db56363b-87f6-467c-8805-c7a0fd913d9c"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ And certainly we should not heedlessly neglect to call attention to the fact tha
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOUR%2520LORD%2527S%2520SERMON%2520ON%2520THE%2520MOUNT%2FBook%25202.html'
 source_title="SERMON ON THE MOUNT 2.11.39"
+uuid = "65d8f4ae-e28a-491d-ba45-c1fd49dd89ea"

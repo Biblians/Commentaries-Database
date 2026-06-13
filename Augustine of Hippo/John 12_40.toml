@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "385c2773-782a-4b1f-8201-0db9e41e059e"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ But the prophet, sayest thou, assigns another cause than that of their will. Wha
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252053.html'
 source_title="Tractates on John 53"
+uuid = "89f1f3e7-6c60-4c81-b045-0d9b321b56c8"

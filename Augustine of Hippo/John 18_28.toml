@@ -4,6 +4,7 @@ Here we might suppose either that there had been something imperative requiring 
 '''
 source_url=''
 source_title="HARMONY OF THE GOSPELS 3.7.27"
+uuid = "58c62ad4-e943-4167-935c-e871ff9dd164"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Let us now consider, so far as indicated by the evangelist John, what was done w
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520114.html'
 source_title="Tractates on John 114"
+uuid = "70387b26-69dd-4c35-804e-699575830ab7"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520114.html'
 source_title="Tractates on John 114"
+uuid = "26b96157-13b0-44b4-9fa4-08499b1f53e2"
 
 [[commentary]]
 quote='''
@@ -37,3 +40,4 @@ And it was early.
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f890bdd6-1c54-48df-9c71-ed91b50a0a6e"

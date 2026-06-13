@@ -5,6 +5,7 @@ Christ is rightly called the Day-spring, because He hath disclosed to us the ris
 append_to_author_name = ' (as quoted by Aquinas, AD 1274)'
 source_url = 'https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "3f69b4e6-6571-43ab-a0c3-f7921c87ab76"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ Illuminate those who sit in darkness and in the shadow of death to guide our fee
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "0ea6fc12-e3b0-43b1-86eb-e718955fcecd"

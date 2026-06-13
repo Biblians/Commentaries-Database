@@ -4,6 +4,7 @@ And they were all scattered throughout the regions of Judea and Samaria. This is
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "2c952512-706f-409f-9f4b-2c2f9efc42ad"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Now on that day, a great persecution arose in the Church that was in Jerusalem, 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "2d0f20b2-b980-437c-a638-160b5525de4c"

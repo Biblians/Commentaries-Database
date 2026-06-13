@@ -4,6 +4,7 @@ And he commanded the crowd to recline on the ground. Earlier, during the feeding
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "e25c7397-0fad-4672-b73d-1fba627a2ca4"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And taking the seven loaves, giving thanks, he broke them and gave to his discip
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "8326af0e-6385-4e06-b3f5-7706c834db3f"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a51b27bf-0f56-4403-933e-ac19800cbd70"

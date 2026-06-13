@@ -4,6 +4,7 @@ The God of glory appeared to our father Abraham when he was in Mesopotamia, etc.
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "b6cede07-49f3-4f34-81c4-5e822943b5a5"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Brothers and fathers, hear: The God of glory appeared to our father Abraham. Bec
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "24828a37-cfa0-466b-b71b-0f3e560e0fe4"

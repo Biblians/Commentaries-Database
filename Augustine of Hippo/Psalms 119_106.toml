@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801119.htm'
 source_title="Exposition on Psalm 119"
+uuid = "b849a925-20a6-45dd-8ceb-faf8bfe85fae"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Is anybody, I mean to say, in a position to have both the will and the ability, 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520193.html'
 source_title="SERMON 193:2"
+uuid = "8cf17b2e-4652-4345-84c1-6bfd6963e6a5"

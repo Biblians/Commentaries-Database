@@ -4,6 +4,7 @@ Let us therefore reflect, dearly beloved brethren, on the evils we have done, an
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 20"
+uuid = "7543e063-62e6-4b0b-9efe-3783a65e9849"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ For I consider Peter, I reflect upon the thief, I look at Zacchaeus, I gaze upon
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 25"
+uuid = "55dfe314-448a-47cc-b9ed-08aa6e2ea3f7"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ Did not the thief come at the eleventh hour, who, even if he did not have time t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 19"
+uuid = "4917e036-5c9c-4be1-a539-b30be725be42"
 
 [[commentary]]
 quote='''
@@ -26,3 +29,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "90477222-ecea-4409-93cd-bb2b6a1ac0dc"

@@ -4,6 +4,7 @@ The Lord, arranging all things for our salvation, stands in the midst of the dis
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Commentary on Luke"
+uuid = "c9501c1b-ffea-4928-a203-9bcfd83a0008"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The Lord then standing in the midst of the disciples, first with His accustomed 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "70317000-8bef-4461-8d7b-995b33fb67b4"

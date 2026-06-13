@@ -4,6 +4,7 @@ Whenever we are urged to use our understanding, the meaning is shown to be mysti
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 4.24.15"
+uuid = "33592181-7159-461b-85dd-1328b74af53c"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "b7f3beb7-eb98-44ce-908f-5a6bb626585f"
 
 [[commentary]]
 quote='''
@@ -22,3 +24,4 @@ Or it may be understood of the statue of Cæsar, which Pilate set up in the temp
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "4e13aada-5cd1-4d3b-913c-ccfdbdee7a0f"

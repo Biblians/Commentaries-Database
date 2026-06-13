@@ -4,6 +4,7 @@ Finding out that these men were unlettered and ignorant, they marveled. Illitera
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "31cca20b-61ee-4f09-a231-7e834303c9be"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ But seeing the boldness of Peter and John, and realizing that they were unletter
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "4ecc6595-937a-4626-897d-7d3ea4449a47"

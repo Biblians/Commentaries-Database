@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "0a3be55d-3055-4f4f-b999-7c078475c586"
 
 
 [[commentary]]
@@ -15,3 +16,4 @@ Ululate the ships of Carthage, for they have perished, and they will not come ag
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "baa3f8b6-8394-4b81-9227-6f8701da9619"

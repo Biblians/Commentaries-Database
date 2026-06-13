@@ -8,6 +8,7 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER TWO"
+uuid = "6b4e07d0-a791-4bf3-b75f-56b6baaec98c"
 
 [[commentary]]
 quote='''
@@ -25,3 +26,4 @@ same death and equal troubles confine each one.
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Ecclesiastes.html'
 source_title="Commentary on Ecclesiastes"
+uuid = "55fcb669-735e-4d38-9018-6252eecfec5f"

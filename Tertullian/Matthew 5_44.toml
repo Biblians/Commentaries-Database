@@ -5,6 +5,7 @@ Learn from them that a large benevolence is enjoined upon us, even so far as to 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Apology.html"
 source_title="The Apology"
+uuid = "6e3ba442-4ed1-4704-9539-7c51fc583aa1"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ How much more, while you are returning the malediction in the name of Jupiter hi
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html"
 source_title="On Idolatry"
+uuid = "b7b21e00-4e5e-47e0-ba76-a4bc1aa532d1"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ On the other hand, for our own petition, when we say, "Hallowed be Thy name," we
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html"
 source_title="On Prayer"
+uuid = "69d96268-cae6-4643-a406-58f61c98927d"
 
 [[commentary]]
 quote='''
@@ -26,3 +29,4 @@ The law has found more than it has lost, while Christ says, "Love your personal 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOf%2520Patience.html"
 source_title="Of Patience"
+uuid = "917e4a0b-acdc-4665-98f8-1e98989ad906"

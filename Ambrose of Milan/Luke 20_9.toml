@@ -7,6 +7,7 @@ Not that our Lord journeys from place to place, seeing that He is ever present i
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "0a147f93-7d4b-4386-b315-68dea2dae3fa"
 
 [[commentary]]
 quote='''
@@ -15,6 +16,7 @@ The vineyard is also our type. For the husbandman is the Almighty Father, the vi
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f14da91e-cffa-4718-9449-3f4036109459"
 
 
 [[commentary]]
@@ -23,3 +25,4 @@ Very many derive various meanings from the word vineyard, but Isaiah clearly sta
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="EXPOSITION OF THE GOSPEL OF LUKE 9.23-24"
+uuid = "14d221fd-13d9-4172-88b2-bf449035d11a"

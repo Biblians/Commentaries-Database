@@ -4,6 +4,7 @@ Our Gnostic then alone, having grown old in the Scriptures, and maintaining apos
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25207.html"
 source_title="The Stromata Book 7"
+uuid = "ec545231-bfec-4045-8a90-215f3f9060e4"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ And again, those also are likewise unclean that part the hoof, but do not rumina
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25207.html"
 source_title="The Stromata Book 7"
+uuid = "a0b8c33e-bc8c-44fb-82ef-256ebfc52a66"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25204.html"
 source_title="The Stromata Book 4"
+uuid = "6eb26a63-c37f-4b29-a234-33627d5e64c9"

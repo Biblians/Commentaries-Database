@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://archive.org/details/commentaryonmatt0125hila/page/40/mode/2up'
 source_title="Commentary on Matthew 4.17"
+uuid = "6cd76d0c-4547-4f28-9eab-4ae0122144f1"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Or, he who reproaches with emptiness one full of the Holy Spirit, will he arraig
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "5a4a9191-9e90-4faf-8b8c-16f70a1bc0e6"

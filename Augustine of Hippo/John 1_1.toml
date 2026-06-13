@@ -15,6 +15,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e1c181c8-694c-421a-8aed-d86d6f59097c"
 
 [[commentary]]
 quote='''
@@ -22,6 +23,7 @@ There are two births of our Lord Jesus Christ, the one divine, the other human.â
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520196.html'
 source_title="SERMON 196.1"
+uuid = "c9a2403c-bfbe-4684-bb04-fe618fb89d8b"
 
 [[commentary]]
 quote='''
@@ -29,6 +31,7 @@ Moses, they tell us, says, "In the beginning God made heaven and earth," and doe
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%25201.html'
 source_title="SERMON 1.2"
+uuid = "060feb30-3389-492e-821a-769c2078a667"
 
 [[commentary]]
 quote='''
@@ -36,6 +39,7 @@ Whoever, then, is able to understand a word, not only before it is uttered in so
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOn%2520The%2520Trinity%2FBook%252015.html'
 source_title="On The Trinity 15.10.19-11.20"
+uuid = "446fec36-6964-4097-b5e2-63e1e5b8a0a7"
 
 [[commentary]]
 quote='''
@@ -49,6 +53,7 @@ Wherefore that Word of God is in such wise so called, as not to be called a thou
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOn%2520The%2520Trinity%2FBook%252015.html'
 source_title="On The Trinity 15.13.22-16.26"
+uuid = "67f8417d-befb-40fc-b0ff-0114bb8416b3"
 
 [[commentary]]
 quote='''
@@ -56,6 +61,7 @@ We are not now discussing, brothers and sisters, possible ways of understanding 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520117.html'
 source_title="SERMON 117.3"
+uuid = "102d8903-03d3-4efb-9bdd-383ae94ac4a3"
 
 [[commentary]]
 quote='''
@@ -63,6 +69,7 @@ But let us see what advantage it is that these words have sounded, "In the begin
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25201.html'
 source_title="Tractates on John 1"
+uuid = "779b2885-dc47-477e-a0c5-627645c98f71"
 
 [[commentary]]
 quote='''
@@ -70,6 +77,7 @@ Perhaps some one now answers me, "Who so conceives this Word?" Do not then imagi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25201.html'
 source_title="Tractates on John 1"
+uuid = "3914ea6a-cc04-412e-88ac-38f8d278c7be"
 
 [[commentary]]
 quote='''
@@ -77,6 +85,7 @@ Now some unbelieving Arian may come forth and say that "the Word of God was made
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25201.html'
 source_title="Tractates on John 1"
+uuid = "e497c99e-c824-42a6-93f5-56df8c040187"
 
 [[commentary]]
 quote='''
@@ -84,6 +93,7 @@ Do not then believe that that was made by which were made all things, lest thou 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25201.html'
 source_title="Tractates on John 1"
+uuid = "466de5fb-2692-4dd2-a753-d8342f0c2425"
 
 [[commentary]]
 quote='''
@@ -91,6 +101,7 @@ Consider the body: it is mortal, earthy, weak, corruptible; away with it. Yes, p
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252020.html'
 source_title="Tractates on John 20"
+uuid = "9fa433a5-002a-43fb-bfbe-cb695bdd3fd9"
 
 [[commentary]]
 quote='''
@@ -98,6 +109,7 @@ Do not imagine that thou art to do something beyond a man's ability. The Evangel
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252020.html'
 source_title="Tractates on John 20"
+uuid = "f256442f-259c-4999-ab46-24d33fdcf5be"
 
 [[commentary]]
 quote='''
@@ -105,3 +117,4 @@ If, indeed, thou canst separate the brightness from the sun, then separate the W
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252020.html'
 source_title="Tractates on John 20"
+uuid = "3e8e0aae-b6ae-4362-9036-a20f954eec97"

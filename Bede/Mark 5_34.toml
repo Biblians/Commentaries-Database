@@ -4,6 +4,7 @@ He said to her, "Daughter, your faith has saved you; go in peace and be healed o
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "d680c8a8-db2a-48ce-9961-4e228c499b47"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f8372422-7510-41b7-ab8a-f191f49ab16b"

@@ -4,6 +4,7 @@ In saying that the Apostles were eyewitnesses of the substantial and living Word
 '''
 source_url='https://ecatholic2000.com/cyril/untitled-03.shtml'
 source_title="COMMENTARY OF S. CYRIL, PATRIARCH OF ALEXANDRIA, UPON THE GOSPEL OF ST. LUKE, Verse 2"
+uuid = "ec8329ff-1923-4b6d-a609-b560551d5172"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ They "who from the beginning were eyewitnesses and ministers of the Word" did no
 '''
 source_url=''
 source_title="LETTER 67.4"
+uuid = "dee69ee2-783d-4557-9030-0aa99c3a7ba1"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b6025ad2-e1b4-42f0-b4fa-fe25e8aabb4f"

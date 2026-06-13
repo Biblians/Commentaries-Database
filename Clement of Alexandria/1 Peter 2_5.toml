@@ -7,6 +7,7 @@ Hence it appears that the soul is not naturally immortal; but is made immortal b
 append_to_author_name=' (as quoted by Cassiodorus)'
 source_url='https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FFragments%2F1.-From%2520the%2520Latin%2520Translation%2520of%2520Cassiodorus.html'
 source_title="From the Latin Translation of Cassiodorus"
+uuid = "f121bba1-007d-43ff-a92a-36c50ac9d2f1"
 
 [[commentary]]
 quote='''
@@ -18,3 +19,4 @@ And with reference to the body, which by circumscription He consecrated as a hal
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FFragments%2F12.-Fragments%2520Not%2520Given%2520in%2520the%2520Oxford%2520Edition.html'
 source_title="Fragments Not Given in the Oxford Edition"
+uuid = "c6c8a9eb-b025-4d1f-9d13-138e03760d87"

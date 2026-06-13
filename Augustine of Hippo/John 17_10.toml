@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6b500a6f-60ec-4874-b0e4-b21d0f0af9d2"
 
 [[commentary]]
 quote='''
@@ -16,3 +17,4 @@ He proceeds: "And I am glorified in them." He now speaks of His glorification as
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520107.html'
 source_title="Tractates on John 107"
+uuid = "ccd730bc-5fa6-4ce0-baca-e34134690bf3"

@@ -4,6 +4,7 @@ You wonder why a sinner should be born of the seed of a just person. Don't you a
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520294.html'
 source_title="SERMON 294.16"
+uuid = "01d2da13-1c2a-49e1-a17f-0be5d02295a7"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252011.html'
 source_title="Tractates on John 11"
+uuid = "bb7883ee-5d34-4517-b59a-c598396b84b3"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ This Nicodemus, who had come to Jesus by night, did not savor of this spirit and
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252011.html'
 source_title="Tractates on John 11"
+uuid = "5c8f5baa-6415-41b8-a74c-cbfd91926107"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ Whilst there are two births, then, he understood only one. One is of the earth, 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252011.html'
 source_title="Tractates on John 11"
+uuid = "aaff0247-6c98-48c2-9a65-e2ae62e045dc"
 
 [[commentary]]
 quote='''
@@ -32,6 +36,7 @@ Spiritual regeneration is one, just as the generation of the flesh is one. And N
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252012.html'
 source_title="Tractates on John 12"
+uuid = "4ee4b504-fc5d-44f4-9292-00fb889869ff"
 
 [[commentary]]
 quote='''
@@ -40,3 +45,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "daca91e0-0807-4d34-9110-8352ad593c5a"

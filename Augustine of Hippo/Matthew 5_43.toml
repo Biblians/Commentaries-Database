@@ -2,6 +2,7 @@
 quote='''
 For without this love, wherewith we are commanded to love even our enemies and persecutors, who can fully carry out those things which are mentioned above? Moreover, the perfection of that mercy, wherewith most of all the soul that is in distress is cared for, cannot be stretched beyond the love of an enemy; and therefore the closing words are: Be therefore perfect, even as your Father who is in heaven is perfect. Yet in such a way that God is understood to be perfect as God, and the soul to be perfect as a soul.
 '''
+uuid = "d5093b06-34eb-49b2-af31-c85e686d6277"
 
 [[commentary]]
 quote='''
@@ -10,3 +11,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a14493a1-e7a4-410c-923c-0805c52f38e9"

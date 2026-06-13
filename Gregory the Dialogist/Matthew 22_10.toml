@@ -12,6 +12,7 @@ But it should not frighten you that in the Church there are both many who are ev
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 38"
+uuid = "2b6c3bb3-3593-4ab3-a6f0-227dcb1d5144"
 
 [[commentary]]
 quote='''
@@ -20,3 +21,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ad3ccc13-dd7e-4753-813c-6f078afb2cc2"

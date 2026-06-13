@@ -4,6 +4,7 @@ The waters that flow forth from the threshold of the temple refer to the teachin
 '''
 source_url=''
 source_title="COMMENTARY ON EZEKIEL 14:47.1-5"
+uuid = "f184ba34-a63d-4998-89fe-a2fc2261201f"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ From the temple of the Lord, that is, from his bosom, the Savior came forth and 
 '''
 source_url=''
 source_title="HOMILIES ON THE PSALMS 10 (PS 76)"
+uuid = "b22667e1-0f40-41a7-99b4-b9cbcc696a74"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ When the world falls into sin, nothing but a flood of waters can cleanse it agai
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_069.html'
 source_title="LETTER 69.6"
+uuid = "a8e663ba-6b69-4331-8f1d-d3e26b70fbf6"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Ezekiel.html'
 source_title="Commentary on Ezekiel"
+uuid = "7c99c231-099f-4904-8594-dccafbe9b5bc"

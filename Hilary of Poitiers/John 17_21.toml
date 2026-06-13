@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="ON THE TRINITY 8.5"
+uuid = "cb9b1e39-682f-4ac1-b4a4-4ffdf5d29b9e"
 
 
 [[commentary]]
@@ -17,3 +18,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "2e3562ec-6225-47da-9641-f428bc47e3c6"

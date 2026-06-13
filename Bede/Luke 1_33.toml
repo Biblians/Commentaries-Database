@@ -4,6 +4,7 @@ And he shall reign over the house of Jacob forever, and of his kingdom there sha
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "c3e15a7c-772f-4833-a13c-b46106a6df1b"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Or by the house of Jacob he means the whole Church which either sprang from a go
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "0ed4e140-9a08-41f6-b900-0ed75b3b6391"

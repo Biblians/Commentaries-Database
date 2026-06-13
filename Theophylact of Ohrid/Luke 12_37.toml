@@ -4,6 +4,7 @@ For such a servant, the Lord Himself becomes a servant. For it is said: "and wil
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Commentary on Luke"
+uuid = "d5809157-6a20-4f59-959b-048c04695f16"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ That is, Give back to them, as it were, an equal return, that as they served Him
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "8cf796c7-b928-4868-b89e-d5e9133d032b"

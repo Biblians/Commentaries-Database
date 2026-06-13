@@ -4,6 +4,7 @@ But he said: Woe to you lawyers also, because you load men with burdens that can
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "6f671b6f-d541-466f-b3ca-cbaee118ec01"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Now they are rightly told that they would not touch the burdens of the Law even 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ea9d20e8-4413-4a88-9da8-62acff7cb1e9"

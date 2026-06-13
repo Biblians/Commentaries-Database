@@ -4,6 +4,7 @@ There is money lent out at interest, and there is money lent in kindness. But th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentaries%2520on%2520the%2520Twelve%2520Davidic%2520Psalms.html'
 source_title="COMMENTARY ON TWELVE PSALMS 37:62"
+uuid = "53a8042c-fea7-40a4-a2ec-3ee68ac8aaf3"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentaries%2520on%2520the%2520Twelve%2520Davidic%2520Psalms.html'
 source_title="Commentaries on the Twelve Davidic Psalms"
+uuid = "0d0d4552-0c14-4bcf-a7f0-146661b1a5a2"

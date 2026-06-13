@@ -4,6 +4,7 @@ Oh, what and how great will that day be at its coming, beloved brethren, when th
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252055.html"
 source_title="Epistle LV.10"
+uuid = "40182aaa-a8e5-4224-81a3-c41be557e681"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ What now must be the vigour, beloved brethren, of your victorious consciousness,
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252076.html"
 source_title="Epistle LXXVI"
+uuid = "7a2f8d45-d4cc-480a-8754-68e5e6d230d8"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ Nor let anything now be revolved in your hearts and minds besides the divine pre
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252080.html"
 source_title="Epistle LXXX.2"
+uuid = "d400a621-acd4-483b-a38e-eab3bec151d9"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ That we receive more as the reward of our suffering than what we endure here in 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%252011.%2520Exhortation%2520to%2520Martyrdom%252C%2520Addressed%2520to%2520Fortunatus.html"
 source_title="Treatise XI. Exhortation to Martyrdom, Addressed to Fortunatus"
+uuid = "f31083df-1e63-48bb-aba8-059e82106b29"
 
 [[commentary]]
 quote='''
@@ -32,6 +36,7 @@ That what we suffer in this world is of less account than is the reward which is
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%252012.%2520Three%2520Books%2520of%2520Testimonies%2520Against%2520the%2520Jews.html"
 source_title="Treatise XII. Three Books of Testimonies Against the Jews"
+uuid = "7363efec-5984-4642-bda9-a32c8ef6acd8"
 
 [[commentary]]
 quote='''
@@ -39,4 +44,5 @@ For Abraham also thus pleased God, in that he, when tried by God, spared not eve
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FPseudo-Cyprian%2FOn%2520the%2520Glory%2520of%2520Martyrdom.html"
 source_title="Pseudo-Cyprian On the Glory of Martyrdom"
+uuid = "262f6fdb-1a46-4056-89c8-4ba5f7f066d1"
 

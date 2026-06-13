@@ -12,6 +12,7 @@ And the life was the light of men.
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "307527c3-3fcc-4bc5-a724-20e113deba17"
 
 [[commentary]]
 quote='''
@@ -20,6 +21,7 @@ And therefore he says, "that which was made in the Word was life," and not "that
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520John%2FBook%25202.html'
 source_title="COMMENTARY ON THE GOSPEL OF JOHN 2.128-32"
+uuid = "57103092-8730-4f7a-84c6-f9df936d64e6"
 
 
 [[commentary]]
@@ -29,3 +31,4 @@ And perhaps this life is light potentially (and not actually) for those who real
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520John%2FBook%25202.html'
 source_title="COMMENTARY ON THE GOSPEL OF JOHN 2.153, 156-57"
+uuid = "40d0f8eb-f018-4442-8596-a90d65d76f0e"

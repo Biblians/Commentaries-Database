@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="HOMILIES ON GENESIS 29:6"
+uuid = "4e5a46e3-7378-4082-a22c-52e1a7acfd33"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url=''
 source_title="HOMILIES ON EPHESIANS 19:5.17"
+uuid = "cfc2f3dc-d34d-420c-b68a-c873d01be645"

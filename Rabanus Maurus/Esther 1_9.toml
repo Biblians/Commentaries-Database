@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://sites.google.com/site/aquinasstudybible/home/esther/rabanus-maurus-commentary-on-esther'
 source_title="Commentary on Esther"
+uuid = "4789dc02-7722-46f6-9cb3-c55396f78595"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ The person of Queen Vashti provides a clear expression of the Jewish people who 
 '''
 source_url=''
 source_title="EXPLANATION ON THE BOOK OF ESTHER 2"
+uuid = "fa98cc07-99fc-4efc-bf35-257bab9e584a"

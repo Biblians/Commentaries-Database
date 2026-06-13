@@ -8,6 +8,7 @@ And Judas Iscariot, who also betrayed him. He took his name either from the vill
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "0e5af5ce-c270-4509-b3d3-a26d52f914df"
 
 
 [[commentary]]
@@ -17,6 +18,7 @@ Simon Chananæus is the same who in the other Evangelist is called Zelotes. Chan
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a43010ef-56ca-4ae0-8125-562148595b1e"
 
 
 [[commentary]]
@@ -25,3 +27,4 @@ Simon the Cananaean is the one whom another Evangelist calls the Zealot. In fact
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 1.10.2"
+uuid = "7da19068-05e6-4de2-905d-75219493f416"

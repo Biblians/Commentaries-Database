@@ -4,6 +4,7 @@ While they were talking about these things, Jesus stood in their midst, and said
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "dad3dab5-c44c-4d93-a2a2-fa1f60e17b92"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ First, we must note and diligently remember that the Lord condescended to stand 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 11.9"
+uuid = "3738d214-7c37-4522-9aa4-aab153a697f3"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ We must also see that when the Savior appeared to his disciples, he immediately 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.9"
+uuid = "8ef43242-a1c5-48fa-a295-0e848476b4a7"

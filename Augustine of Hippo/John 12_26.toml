@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "42ec1d00-9c94-49f3-8c0f-2dca616eb78a"
 
 [[commentary]]
 quote='''
@@ -16,3 +17,4 @@ Accordingly, brethren, when you hear the Lord saying, "Where I am, there shall a
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252051.html'
 source_title="Tractates on John 51"
+uuid = "3a4a4691-187f-4f22-8eaa-8b9aae28f026"

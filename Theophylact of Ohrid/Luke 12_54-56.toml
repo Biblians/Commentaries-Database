@@ -5,6 +5,7 @@ When He spoke about preaching, and called it a sword, His hearers may have been 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "8bf8f077-ff46-4ba0-808c-93a51629bf4a"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Since the Lord was speaking about preaching and called it fire and a sword, it i
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Commentary on Luke"
+uuid = "a1684e84-782c-4f26-8950-6cbd384088e0"

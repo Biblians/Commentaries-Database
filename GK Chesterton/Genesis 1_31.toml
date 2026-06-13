@@ -4,6 +4,7 @@ Superficially, one would imagine that the railer would be the reformer; that the
 '''
 source_url=''
 source_title="All Things Considered, The Vote and the House (1908)"
+uuid = "faa44882-c99e-4854-8332-5a37a8a11d5c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ The creed declared that man was sinful, but it did not declare that life was evi
 '''
 source_url=''
 source_title="The Everlasting Man, Part II, Chapter IV: The Witness of the Heretics (1925)"
+uuid = "21a28438-33a4-408b-b908-4ea4a3e45546"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ Something tells him that the ultimate idea of a world is not bad or even neutral
 '''
 source_url=''
 source_title="The Everlasting Man, The Escape from Paganism (1925)"
+uuid = "89af203f-6fba-4e10-a58a-37653364804a"

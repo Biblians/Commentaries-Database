@@ -4,6 +4,7 @@ Such healing is rightly attributed to our Lord. After his return from the cornfi
 '''
 source_url='https://archive.org/details/commentaryonmatt0125hila/page/40/mode/2up'
 source_title="Commentary on Matthew 12.7"
+uuid = "bcc610ff-a09a-4e37-b08f-393752744671"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ All healing is done by the word; and the hand is restored as the other; that is,
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6f4bdd47-21ab-4331-97e5-aa2a495fca6f"

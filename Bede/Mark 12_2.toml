@@ -4,6 +4,7 @@ And he sent a servant to the tenants at the proper time to receive from the tena
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "8def40d1-d3ea-4f3d-87dc-61b04f7f249c"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "88795fc1-275c-4625-a23c-60b7f3992d9d"

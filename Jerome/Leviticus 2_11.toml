@@ -4,6 +4,7 @@ They quote the passage which says that "the lips of a strange woman drop as hone
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_128.html'
 source_title="LETTER 128.2"
+uuid = "d8766db9-5e74-4caa-b9a9-d2982694cc3e"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Under no circumstances is there an offering of honey. "Whatever happens," it say
 '''
 source_url=''
 source_title="HOMILY 75"
+uuid = "f1cf5f87-21ad-4137-8da8-e14424bda70f"

@@ -4,6 +4,7 @@ But he said to them: "The kings of the Gentiles exercise lordship over them, and
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "0a88201a-8116-4010-8cbf-ef3531ac9dfc"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Rather let us look not what carnal disciples did, but what their spiritual Maste
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e76003aa-4a17-4166-b813-9437972a3604"

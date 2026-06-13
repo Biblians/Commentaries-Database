@@ -22,6 +22,7 @@ What manner of sending this is, and the mode of the being sent, we having before
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520the%2520Gospel%2520of%2520John%2FBook%25202.html"
 source_title="Commentary on the Gospel of John, Book 2"
+uuid = "d4a2b804-6b04-4d03-803f-584c66fda248"
 
 
 [[commentary]]
@@ -30,3 +31,4 @@ Since the Son is of one essence with the Father, by his nature he possesses all 
 '''
 source_url=''
 source_title="COMMENTARY ON THE GOSPEL OF JOHN 2.9"
+uuid = "51e54eb0-50b3-40ef-8126-7989a29f0dbf"

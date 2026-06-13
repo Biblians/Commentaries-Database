@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON ISAIAH 5:17.12-14"
+uuid = "e0750d05-eb60-4ae4-90ed-d4858a05f4b8"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "0fcfce73-e02f-40e3-9b8a-274cd838c5f6"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "f9ebea88-cf45-4a06-8e61-36b37b778ee0"

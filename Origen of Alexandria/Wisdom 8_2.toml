@@ -4,6 +4,7 @@ I think therefore that Sarah, which means "principal," or what has primacy, is a
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Genesis_and_Exodus/X_mSBavPcq4C?hl=en&gbpv=1&printsec=frontcover'
 source_title="HOMILIES ON GENESIS 6:1"
+uuid = "9cdebb0c-d2f7-48aa-a445-3cce0a3f5d9a"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ In many places the sacred Scripture has avoided the term "desire," replacing it 
 '''
 source_url='https://books.google.com/books/about/The_Song_of_Songs.html?id=Mjxy0Fl7VMsC'
 source_title="COMMENTARY ON THE SONG OF SONGS, PREFACE"
+uuid = "fee9da2b-3a0e-4517-a310-5d3380939442"

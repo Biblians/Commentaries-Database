@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25207.html'
 source_title="Homily on Acts 7"
+uuid = "687a1fdc-7bf2-4284-af57-d71703dc7008"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25207.html'
 source_title="Homily on Acts 7"
+uuid = "638dd8c2-0161-48dc-9c91-8a4cc98c87c7"

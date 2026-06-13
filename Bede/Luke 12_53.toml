@@ -4,6 +4,7 @@ It should be noted how he speaks of the five divided, when it seems he has menti
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "c5281254-7e9d-4e43-9d38-0418189828c1"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ The father against his son, and the son against his father. Here, the father is 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "7992970f-4f3c-423c-a774-697513b214ae"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ The mother against her daughter, and the daughter against her mother. The mother
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "ce3d9346-0ef5-4805-b12d-fa43bc8794ce"
 
 
 [[commentary]]
@@ -28,6 +31,7 @@ The mother-in-law against her daughter-in-law, and the daughter-in-law against h
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "85ab9317-1f87-49fd-8bda-edf5bdcc749a"
 
 [[commentary]]
 quote='''
@@ -36,3 +40,4 @@ But the father is the devil, whose children we were by following him, but when t
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e3a87859-ea7e-4847-b58f-c77d78dbf79a"

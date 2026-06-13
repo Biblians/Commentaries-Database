@@ -9,6 +9,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "539b617f-8bfa-4c08-a1e3-b5bc03491cea"
 
 [[commentary]]
 quote='''
@@ -16,3 +17,4 @@ Mary Magdalene had brought the news to His disciples, Peter and John, that the L
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520121.html'
 source_title="Tractates on John 121"
+uuid = "0e9b4c31-8fac-4464-9d8b-038bf2749e20"

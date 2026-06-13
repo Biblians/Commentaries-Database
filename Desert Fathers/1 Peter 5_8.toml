@@ -4,6 +4,7 @@ Cassian told a story of a hermit who was living in the desert. He asked God to g
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "6ec2b87d-476c-4b2b-b104-44733f982cb3"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Evagrius said, 'If your attention falters, pray. As it is written, pray in fear 
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "e471d7b4-910d-481b-8fc4-a3878682ead7"

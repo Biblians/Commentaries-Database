@@ -4,6 +4,7 @@ How is it possible, he says, for someone to plunder the goods of the strong man,
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25203.html'
 source_title="Commentary on Mark"
+uuid = "3aeca996-ce74-4294-a27c-dab4ea9ce273"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The meaning of the example is this: The devil is the strong man; his goods are t
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f59e696b-394f-47b5-87bf-1c36763e75b5"

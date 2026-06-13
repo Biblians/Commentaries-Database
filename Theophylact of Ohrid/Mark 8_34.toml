@@ -4,6 +4,7 @@ Since Peter was opposing Christ, Who desired to give Himself over to Crucifixion
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Commentary on Mark"
+uuid = "d985d621-f539-4fbe-8dca-a5df55e177ad"
 
 [[commentary]]
 quote='''
@@ -16,3 +17,4 @@ But because after the cross we must have a new strength, He adds, and follow me.
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1e4fff1a-4a5a-4bfe-a444-8947a2921b41"

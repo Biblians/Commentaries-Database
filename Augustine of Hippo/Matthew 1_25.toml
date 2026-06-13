@@ -4,6 +4,7 @@ Those heretics were called Antidicomarites who denied the virginity of Mary to t
 '''
 source_url='https://books.google.com/books?id=Z3DYAAAAMAAJ&lpg=PA72&ots=WC8rp17mAB&dq=Antidicomarianite%20augustine&pg=PA48#v=onepage&q&f=false'
 source_title="Heresies, LVI"
+uuid = "42661c0f-a78b-4053-8c20-ff8e6d952ce7"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ It was not the visible sun, but its invisible Creator who consecrated this day f
 '''
 source_url='http://www.dec25th.info/Augustine%27s%20Sermon%20186.html'
 source_title="Sermons 186"
+uuid = "f1c0cd7e-69ca-4caa-a444-5fba4d8cfb36"

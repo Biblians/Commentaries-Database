@@ -4,6 +4,7 @@ Behold, I see the heavens opened, and the Son of Man standing at the right hand 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "ed2644bd-0979-4eec-a3b4-5fcfbad5b360"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Behold, I see the heavens opened. What we say in Latin as "I see," in Greek is c
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "8f1b6f60-de87-4d07-9bce-78f2353137df"

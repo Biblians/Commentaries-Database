@@ -4,6 +4,7 @@ Paul, in his first epistle to the Corinthians, sets his mark on certain who deni
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
 source_title="The Prescription Against Heretics"
+uuid = "ff3e38f7-ebbe-4ae4-a0d7-bbf04f90c2a9"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ I am content to illustrate this imperfection by the fact that even those whom he
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25201.html"
 source_title="Against Marcion Book I"
+uuid = "f8462686-32f1-49c9-9359-e9645b495e25"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ Ours is a better faith, which believes in a future Christ, than the heretic's, w
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "f756269b-4ec0-4d31-a3b6-36080550b263"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ For if the dead rise not, then is not Christ raised: and if Christ be not raised
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "c81cbd54-efc5-4614-88c7-40d98f7205bb"

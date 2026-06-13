@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a716d583-550c-40d3-a2af-dd7517859086"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ When she had said these things, she turned around and saw Jesus standing, and sh
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 25"
+uuid = "ebe4b870-24e3-4ecd-9e01-d3a6aa7db304"

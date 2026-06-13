@@ -4,6 +4,7 @@ Cassian said, 'We came from Palestine to Egypt, and visited one of the hermits. 
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "683b95f8-f821-47f9-bb95-606c82f9ab9c"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ In Scetis there once went out an order that they should fast for a week, and the
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "5d38b55b-773c-493e-8a4d-07d7ccec5c8f"

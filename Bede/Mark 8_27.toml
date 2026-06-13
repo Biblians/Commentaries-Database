@@ -4,6 +4,7 @@ We note that the Lord called himself "Son of man," while Nathanael proclaimed hi
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.17"
+uuid = "82ac2d07-dfe7-40a9-8b7b-3cb1725cff10"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And Jesus and His disciples went out to the village of Caesarea Philippi. This P
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "173e1db1-2a1b-471a-941b-ea0d01f9ca44"
 
 
 [[commentary]]
@@ -21,6 +23,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ca817d91-c5e8-43f7-85a9-639979973ca1"
 
 [[commentary]]
 quote='''
@@ -29,6 +32,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "aa08dd3b-d320-4a73-bae3-b3d8134ed906"
 
 
 [[commentary]]
@@ -37,3 +41,4 @@ And he questioned his disciples along the way, saying: Who do men say that I am?
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "249c6ec6-36f1-4449-982a-41ceb179c3db"

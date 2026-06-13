@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801016.htm'
 source_title="Exposition on Psalm 16"
+uuid = "6734a7a0-9bd3-4107-a377-c32d349c70f7"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ What in any case are my goods, if not what I have been given by you? And how can
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520331.html'
 source_title="SERMON 331:2"
+uuid = "cad2f572-54ce-4757-ad7b-77a5226d84e3"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ It is man, not God, who benefits from the whole economy of worship.
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252010.html'
 source_title="City of God 10.5"
+uuid = "ced9a99f-5fe6-468c-a3ef-582e5ba5312a"
 
 
 [[commentary]]
@@ -28,3 +31,4 @@ God does not derive any benefit from our worship, but we do. When he reveals or 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 102:3"
+uuid = "794054b1-90d8-434b-8cee-9a03770f440b"

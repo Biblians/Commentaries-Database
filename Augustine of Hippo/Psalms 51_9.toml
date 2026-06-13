@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801051.htm'
 source_title="Exposition on Psalm 51"
+uuid = "7967464f-71fc-47f2-af11-4171ca961fda"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ So all past sins are forgiven people on conversion; but for the rest of this lif
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520278.html'
 source_title="SERMON 278:12"
+uuid = "c0e30b42-8ce3-48cc-b2de-c2921524fd78"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ God does not listen to sinners. When he was beating his breast, he was punishing
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520136A.html'
 source_title="SERMON 136A.2"
+uuid = "5d7d4363-3251-4c48-a418-5d13feed080c"

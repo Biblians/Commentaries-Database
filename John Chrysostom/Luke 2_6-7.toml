@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "5195459e-9967-472c-9b88-e6feb33fa92f"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ To prevent you from thinking that his coming to earth was merely an accommodatio
 '''
 source_url=''
 source_title="AGAINST THE ANOMOEANS 7.49"
+uuid = "cb01af0f-661c-474a-af2a-8c5632984fc1"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ A feast day is about to arrive, and it is the most holy and awesome of all feast
 '''
 source_url=''
 source_title="ON THE INCOMPREHENSIBLE NATURE OF GOD 6.23-24"
+uuid = "00606fb6-6e16-4262-8c7f-45d881bf9781"

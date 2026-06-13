@@ -4,6 +4,7 @@ No doubt He had once said, "I have yet many things to say unto you, but ye canno
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
 source_title="The Prescription Against Heretics"
+uuid = "db01a5d0-8271-4cbb-85ae-4be4634a343a"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Veiling%2520of%2520Virgins.html"
 source_title="On the Veiling of Virgins"
+uuid = "65918e48-97a1-473c-af5e-194baf6cc4d7"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ For in saying, "I still have many things to say unto you, but ye are not yet abl
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html"
 source_title="On Monogamy"
+uuid = "90e048f9-4087-4881-a6ba-c573a15fccb5"

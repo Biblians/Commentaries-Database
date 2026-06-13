@@ -4,6 +4,7 @@ I indeed baptize you with water. However, one mightier than I is coming, whose s
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "9cc60410-6fa3-479b-9e91-a21673f9a3d6"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ He will baptize you with the Holy Spirit and fire. This is both the cleansing of
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "cb22d5c7-46d9-4d6c-8707-1b87c23389b9"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ The Holy Spirit also may be understood by the word fire, for He kindles with lov
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "24468368-b566-4453-a681-e8a44b0c3b7c"

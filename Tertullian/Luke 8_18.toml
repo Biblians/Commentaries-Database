@@ -4,6 +4,7 @@ Now, if from the very first "the natural man, not receiving the things of the Sp
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25202.html"
 source_title="Against Marcion Book II"
+uuid = "ba772b7f-4e98-459a-a8fa-a47e028af404"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ He, however, was teaching them that it was the ears of the heart which were nece
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "43be40a0-aad9-4a3a-88de-b4baf9e28b94"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ This is proved even by the sentence which immediately follows: "Whosoever hath, 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "a3dca9b0-92d5-485c-af76-c37fab983b73"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ The parable also of the (ten) servants, who received their several recompenses a
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "ac9666db-c8d6-4adb-bf01-b2479cc766c9"
 
 [[commentary]]
 quote='''
@@ -32,3 +36,4 @@ Why, a shepherd like this will be tuned off from the farm; the wages to have bee
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Flight%2520in%2520Persecution.html"
 source_title="On Flight in Persecution"
+uuid = "46094f74-d21c-4f69-a9ab-ee9e8821c058"

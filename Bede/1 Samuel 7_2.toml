@@ -5,6 +5,7 @@ quote = '''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FQuestions%2520on%2520the%2520Book%2520of%2520Kings.html"
 source_title="Questions on the Book of Kings #4"
+uuid = "f6f965ef-c5c1-43ca-ad5e-b802bec91a2c"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ And it came to pass, from the day the ark remained in Kiriath-jearim, etc. Here,
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "a581de71-03ac-46f9-9d07-f162fa9ab382"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ And the whole house of Israel rested after the Lord. It symbolically designates 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "4e2c568a-f99c-454f-ad31-818f8a0a4780"

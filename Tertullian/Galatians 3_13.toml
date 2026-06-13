@@ -4,6 +4,7 @@ Concerning the last step, plainly, of His passion you raise a doubt; affirming t
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
 source_title="An Answer to the Jews"
+uuid = "d7fb4902-6ee8-48c6-b8e4-d2d3f3bfe81f"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ On the subject of His death, I suppose, you endeavour to introduce a diversity o
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25203.html"
 source_title="Against Marcion Book III"
+uuid = "68ee3d76-80a2-4fe7-94dc-e2602dfaa65f"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ You cannot establish a diversity of authors because there happens to be one of t
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "14d40f87-3b97-4953-a2d8-b86dc8869117"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ But yet it by no means follows, because the Creator said of old, "Cursed is ever
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "254f0012-bf02-4794-a3cc-531c7eac97ab"
 
 [[commentary]]
 quote='''
@@ -32,6 +36,7 @@ Nay, but you do blaspheme; because you allege not only that the Father died, but
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
 source_title="Against Praxeas"
+uuid = "1a5036f9-4b97-4173-921a-64c945df2430"
 
 [[commentary]]
 quote='''
@@ -39,6 +44,7 @@ But when we assert that Christ was crucified, we do not malign Him with a curse;
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
 source_title="Against Praxeas"
+uuid = "924a665f-0a60-461d-93c7-704ba8b08590"
 
 [[commentary]]
 quote='''
@@ -46,6 +52,7 @@ The Lord Himself was "cursed" in the eye of the law; and yet is He the only Bles
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOf%2520Patience.html"
 source_title="Of Patience"
+uuid = "ae58f5a4-85cc-4ecf-9f47-b6db09e1bce1"
 
 [[commentary]]
 quote='''
@@ -53,3 +60,4 @@ Why, in this very standing of yours there was a fleeing from persecution, in the
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Flight%2520in%2520Persecution.html"
 source_title="On Flight in Persecution"
+uuid = "9a307359-4e5c-462e-825e-db20ec4b4a6a"

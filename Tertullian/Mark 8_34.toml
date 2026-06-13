@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html'
 source_title="ON IDOLATRY 12"
+uuid = "3902d4b8-2d30-43ce-ae2c-ff83e80bc92c"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ If you wish to be the Lord's disciple, it is necessary you "take your cross, and
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html"
 source_title="On Idolatry"
+uuid = "8f3fee5a-7754-405e-9c04-c5aa8089f339"

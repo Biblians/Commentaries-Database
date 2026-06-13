@@ -4,6 +4,7 @@ He who avenges himself is not worthy of the vengeance of the Lord.
 '''
 source_url='https://www.newadvent.org/fathers/27103.htm'
 source_title="Against Rufinus 3.2"
+uuid = "ec4ebf8d-ccc6-4d0b-a63d-95f4c8a9dab2"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ We are not to revile and condemn our enemy, as the world does, but rather we are
 '''
 source_url='https://www.newadvent.org/fathers/30111.htm'
 source_title="Against the Pelagians 1.30"
+uuid = "ec475a36-d17f-4d22-b5e9-310fed9a03b0"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ If someone does you a wrong and in return you do him good you will be heaping co
 '''
 source_url=''
 source_title="HOMILIES ON THE PSALMS 41"
+uuid = "2d3f1c93-75c4-4a49-a102-75d090f3975b"

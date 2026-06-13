@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="EXPLANATION OF PSALM 84.13"
+uuid = "29b59a66-f7fe-47d9-b646-d67527bc4221"
 
 [[commentary]]
 quote='''
@@ -14,6 +15,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "aa25622c-1bb7-4192-9f9d-47374ed5e81f"
 
 [[commentary]]
 quote='''
@@ -23,3 +25,4 @@ Thereafter He adds, "To this end was I born, and for this cause came I into the 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520115.html'
 source_title="Tractates on John 115"
+uuid = "c405409a-04f4-459c-941f-4a1ad3ff9199"

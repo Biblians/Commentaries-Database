@@ -4,6 +4,7 @@ The Law, He says, teaches: "Honor your father and your mother" (Exodus 20:12); b
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25207.html'
 source_title="Commentary on Mark"
+uuid = "260def34-f260-4dd0-8463-ef98c293d253"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ For the Pharisees, wishing to devour the offerings, instructed sons, when their 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f1f0f79c-7134-47a2-93d5-599eb1dd0663"

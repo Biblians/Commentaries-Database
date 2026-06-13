@@ -4,6 +4,7 @@ Let us now, beloved, discuss the five wise and the five foolish virgins. They wi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252093.html'
 source_title="SERMON 93.5"
+uuid = "e033de66-a6f0-413b-87f4-e8022f617f5f"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ So then let us understand, dearly beloved, that this parable relates to us all, 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252093.html'
 source_title="SERMON 93.5"
+uuid = "3d3ccc66-d92a-47b1-907c-ce832be32042"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "29a1c1ac-9d09-49f4-990b-9c51d382a770"
 
 [[commentary]]
 quote='''
@@ -27,3 +30,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e700f1c9-0ac4-45b0-bd3e-233dc3e43dc9"

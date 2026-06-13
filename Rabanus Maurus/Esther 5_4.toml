@@ -4,6 +4,7 @@ And yet once she is allowed to choose her request, she invites him to the feast 
 '''
 source_url='https://sites.google.com/site/aquinasstudybible/home/esther/rabanus-maurus-commentary-on-esther'
 source_title="Commentary on Esther"
+uuid = "b3580efa-993a-4e5a-ba50-d4c4d7ce8aa5"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ But she, after choosing her petition, invited him to the banquet that she had pr
 '''
 source_url=''
 source_title="EXPLANATION ON THE BOOK OF ESTHER 8"
+uuid = "f5779f3f-0ce3-4d4d-9fb6-0625b2194203"

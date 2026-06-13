@@ -4,6 +4,7 @@ But because we have already sinned, because we are entangled by the habit of evi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 20"
+uuid = "199cbc05-bb0c-4348-bba0-a23b90c838fb"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ But the Jews, glorying in the nobility of their lineage, were unwilling to ackno
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 20"
+uuid = "0e4f0cca-7292-4001-8b50-6bb62f83ce5b"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ba6ef61a-a889-4a14-80b0-b8aa09fd36d7"
 
 [[commentary]]
 quote='''
@@ -27,6 +30,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "63e9937b-8852-4b22-9f92-e025efbf7a30"
 
 [[commentary]]
 quote='''
@@ -35,3 +39,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "27966aa8-cfa4-417c-b0de-3cbf673447c3"

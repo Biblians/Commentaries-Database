@@ -4,6 +4,7 @@ Just as Christ washes us from our sins by interceding with the Father on our beh
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.5"
+uuid = "734d9b3e-cc89-4791-907d-7930c03e6579"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Who knows his brother to sin a sin not unto death, etc. These and such things ar
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "57914111-88f2-4d9c-9955-71ef0e8fe049"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ There is a sin unto death, etc. A great question arises here, because blessed Jo
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "4f0d6e7a-06ca-4269-9fb1-1ea5fd0849a8"

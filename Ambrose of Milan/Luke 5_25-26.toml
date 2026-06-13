@@ -4,6 +4,7 @@ What is this bed which he is commanded to take up, as he is told to rise? It is 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Commentary on Luke"
+uuid = "6b639b79-c52d-41f6-aeaa-a2676d8115b6"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ Nor is there any delay, health is present; there is but one moment both of words
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ccdc7658-2ed3-44ef-bdc3-27878938d641"
 
 
 [[commentary]]
@@ -22,6 +24,7 @@ But the Lord, pointing out the full hope of resurrection, pardons the sins of th
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "03a6fff6-e617-49b2-b189-75db53fb908d"
 
 
 [[commentary]]
@@ -31,3 +34,4 @@ Or it may reseek its own home, i. e. return to Paradise, for that is its true ho
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ccaf9624-7a7c-47e9-ad17-53ac19218dfc"

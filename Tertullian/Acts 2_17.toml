@@ -4,6 +4,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "5407a667-2092-40ff-bda4-1cb849af512b"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "b936bf0e-0970-4556-9297-7ef3c8c5e492"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "79c5a9dd-b515-468c-bcdc-bf1a2c8a1218"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ But yet Almighty God, in His most gracious providence, by "pouring out of His Sp
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "b1bfa320-af13-4a3b-bc34-d38c38e975d3"

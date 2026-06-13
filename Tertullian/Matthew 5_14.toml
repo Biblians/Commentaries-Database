@@ -5,6 +5,7 @@ You are a light of the world, and a tree ever green.
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html"
 source_title="On Idolatry"
+uuid = "61281e42-4d64-4437-aa20-9877663a4c18"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ For what purpose, except that malice may have no access at all to you, or that y
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Apparel%2520of%2520Women%2FBook%25202.html"
 source_title="On the Apparel of Women Book II"
+uuid = "d40ce9da-24b1-4329-9ba8-6aa04b8ce161"

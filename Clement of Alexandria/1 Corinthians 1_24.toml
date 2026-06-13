@@ -4,6 +4,7 @@ Perspicuity accordingly aids in the communication of truth, and logic in prevent
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25201.html"
 source_title="The Stromata Book 1"
+uuid = "bcc3fb5a-a9f2-413f-b2d7-2d94638f9694"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ And he is truly a legislator, who not only announces what is good and noble, but
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25201.html"
 source_title="The Stromata Book 1"
+uuid = "89fe5467-5d22-4372-bc90-775ecadfcc7d"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ One righteous man, then, differs not, as righteous, from another righteous man, 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25206.html"
 source_title="The Stromata Book 6"
+uuid = "7a614ebc-1738-4e6b-9533-dae818f048d3"

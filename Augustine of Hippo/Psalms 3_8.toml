@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801003.htm'
 source_title="Exposition on Psalm 3"
+uuid = "cdd33e5c-d991-4331-aa98-c936951c8049"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ He who gives salvation is called "the salvation of the Lord," and he is likewise
 '''
 source_url=''
 source_title="ON THE TRINITY 5:14.15"
+uuid = "8c512199-344f-4e3f-af31-82b826d16692"

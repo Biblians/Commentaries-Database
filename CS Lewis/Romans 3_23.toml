@@ -4,6 +4,7 @@ Since the Fall no organization or way of life whatever has a natural tendency to
 '''
 source_url=''
 source_title="The Sermon and the Lunch, from God in the Dock"
+uuid = "1b2745ea-24cd-498f-a944-1ae4b9ae4dd4"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ What assurance have we that our masters will or can keep the promise which induc
 '''
 source_url=''
 source_title="Is Progress Possible? Willing Slaves of the Welfare State, from God in the Dock"
+uuid = "17187ca3-0167-4165-a406-35fc7b7b43c4"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ This sin has been described by Saint Augustine as the result of Pride, of the mo
 '''
 source_url=''
 source_title="The Problem of Pain, Chapter 5: The Fall of Man"
+uuid = "f1abef1d-2006-4200-969b-afe715a45e5d"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ The moralities accepted among men may differ--though not, at bottom, so widely a
 '''
 source_url=''
 source_title="The Problem of Pain, Chapter 1: Introductory"
+uuid = "33a402d3-6432-4989-9d05-7b44b37f4520"
 
 [[commentary]]
 quote='''
@@ -32,6 +36,7 @@ We must guard against the feeling that there is "safety in numbers". It is natur
 '''
 source_url=''
 source_title="The Problem of Pain, Chapter 4: Human Wickedness"
+uuid = "a67adcda-8b93-4561-89a4-1cb8d675742a"
 
 [[commentary]]
 quote='''
@@ -41,6 +46,7 @@ These, then, are the two points I wanted to make. First, that human beings, all 
 '''
 source_url=''
 source_title="Mere Christianity, Book 1, Chapter 1: The Law of Human Nature"
+uuid = "e4e752fb-4483-4cd1-8dff-2fec36ef39c5"
 
 [[commentary]]
 quote='''
@@ -48,3 +54,4 @@ And he cannot get into the right relation until he has discovered the fact of ou
 '''
 source_url=''
 source_title="Mere Christianity, Book 3, Chapter 12: Faith"
+uuid = "1b50ae75-bcc2-41f1-8c26-f4837d6c7104"

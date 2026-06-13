@@ -6,6 +6,7 @@ And in another sense one must render unto Caesar the things that are Caesar's. E
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Commentary on Luke"
+uuid = "6c188709-8167-4459-8eaf-580d2e4ecaa0"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ And observe that He said not, give, but return. For it is a debt. Thy prince pro
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "9c25501d-35e3-4921-90b5-0489421772db"

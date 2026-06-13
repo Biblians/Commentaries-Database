@@ -4,6 +4,7 @@ Two walls must adhere to the cornerstone in order to preserve "the unity of the 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520204.html'
 source_title="SERMONS 204.3"
+uuid = "109599dc-c6d0-4823-af67-cd8296bdaa74"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Therefore, let us not love ourselves but him, and in feeding his sheep let us se
 '''
 source_url=''
 source_title="TRACTATES ON JOHN 123.5"
+uuid = "f8bdaa32-1785-40d2-8495-209d6462db61"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ What, therefore, if the soul and spirit of a human being is given by God himself
 '''
 source_url=''
 source_title="On the Soul and Its Origin 1.16.26"
+uuid = "c7b1104b-82f2-4645-9139-c67c0716f8f4"

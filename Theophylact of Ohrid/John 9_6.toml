@@ -5,6 +5,7 @@ Some think that the clay was not laid upon the eyes, but made into eyes.
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "2a17bda7-773e-4a2e-8887-1bb5139473e2"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Having said this, Jesus did not stop at words alone, but joined action to them a
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520John%2FChapter%25209.html'
 source_title="Commentary on John"
+uuid = "c27bf161-a5f0-4668-ac4c-10ccc9de0678"

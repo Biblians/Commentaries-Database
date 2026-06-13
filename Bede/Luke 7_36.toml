@@ -4,6 +4,7 @@ He asked him, he said, one of the Pharisees, to eat with him. And he entered the
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "07b1c118-3d16-4a5c-849d-81a0854b4c1f"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And He entered, it says, the house of the Pharisee and reclined at the table. Th
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "0b3bed2f-78f2-4712-a999-f62602cb2eb4"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Having said just before, And the people that heard him justified God, being bapt
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ad187063-7ec3-464d-a825-8e3c79df9c82"

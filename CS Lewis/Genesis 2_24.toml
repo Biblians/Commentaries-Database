@@ -4,6 +4,7 @@ I think there is also a confusion. We don't really want grief, in its first agon
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-agriefobserved/lewiscs-agriefobserved-00-h.html'
 source_title="A Grief Observed, Chapter III"
+uuid = "eb72b8f0-05f5-4d64-a2ff-6bff824911f5"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ But, it will be replied, the thing is serious. Yes; quadruply so. First, theolog
 '''
 source_url=''
 source_title="The Four Loves, Chapter 5: Eros"
+uuid = "0612550f-125f-453a-82af-33c6632ae754"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ Now comes the joke. The Enemy described a married couple as "one flesh". He did 
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters"
+uuid = "84d610bf-9f63-423e-b7a5-413d4887c5a5"

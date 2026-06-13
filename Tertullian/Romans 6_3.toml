@@ -4,6 +4,7 @@ Now it would not at all have been consistent that any rule of holiness and right
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html'
 source_title="On the Resurrection of the Flesh"
+uuid = "4589105c-f23b-44c1-8c59-32ee541bc081"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ But some think as if God were under a necessity of bestowing even on the unworth
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Repentance.html'
 source_title="On Repentance"
+uuid = "46a34134-1173-4cf3-9d52-e6535581b81b"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ If you were "in him," you have your norm; if you have passed over "into Christ,"
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html'
 source_title="On Monogamy"
+uuid = "b708dca7-344e-4a49-b304-8557096c7132"

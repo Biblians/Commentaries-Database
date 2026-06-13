@@ -4,6 +4,7 @@ In a certain way, there is a circumcision that is both carnal and spiritual. Con
 '''
 source_url=''
 source_title="COMMENTARY ON ISAIAH 6:15"
+uuid = "e3b714c9-cadd-4bc0-8ecb-e858914d236d"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "07f20550-3057-435d-965e-acd6382e7c93"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "39ca2903-fe8f-4a70-8f22-7f90ec6817ed"
 
 
 [[commentary]]
@@ -28,3 +31,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "f0e4a61a-ed8c-478d-90c1-6ac75ed466e9"

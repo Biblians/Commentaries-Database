@@ -2,6 +2,7 @@
 quote = "The saints, the most exalted of human figures, were also the most local. It was exactly the men whom we most easily connected with heaven whom we also most easily connected with earth."
 source_title="Edward VII. and Scotland"
 source_url = ""
+uuid = "69beac2c-9038-4bbd-8042-17d36838a0b4"
 
 [[commentary]]
 quote='''
@@ -10,6 +11,7 @@ Religious imagery, so far from being subtle, is the only simple thing left for p
 time=1908
 source_url=''
 source_title="All Things Considered, A Dead Poet (1908)"
+uuid = "a65da060-8724-4176-b7aa-c7328ab5ce51"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ quote='''
 '''
 source_url=''
 source_title="Tremendous Trifles, XXXVII. The Shop of Ghosts (1909)"
+uuid = "cc7ce5bc-950c-435f-89e0-f89940888daf"
 
 [[commentary]]
 quote='''
@@ -26,6 +29,7 @@ Right in the middle of all these things stands up an enormous exception. It is q
 '''
 source_url=''
 source_title="The Everlasting Man, Conclusion: The Summary of This Book (1925)"
+uuid = "c6fc3690-08b5-42ec-8237-64f577b4a759"
 
 [[commentary]]
 quote='''
@@ -33,6 +37,7 @@ The more deeply we think of the matter the more we shall conclude that, if there
 '''
 source_url=''
 source_title="The Everlasting Man, The Escape from Paganism (1925)"
+uuid = "78392aae-ec92-4f34-975b-81e8d7e9ee00"
 
 [[commentary]]
 quote='''
@@ -42,3 +47,4 @@ Thus Giotto or Fra Angelico would have at once admitted theologically that God w
 '''
 source_url=''
 source_title="A Miscellany of Men, The Mystagogue (1912)"
+uuid = "05b36614-8a6f-4812-886b-10e4bcca046e"

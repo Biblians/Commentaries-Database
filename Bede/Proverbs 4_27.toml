@@ -4,6 +4,7 @@ Do not turn to the right or to the left. The right way is taken as good, the lef
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Proverbs.html"
 source_title="Commentary on Proverbs"
+uuid = "e81b0ca5-876e-447a-8f83-0b1bf3f26581"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Keep your foot from evil. This means do not deviate from the right, either to th
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Proverbs.html"
 source_title="Commentary on Proverbs"
+uuid = "5c9acd7d-dc64-4ce9-b06b-61f2f51c0c33"

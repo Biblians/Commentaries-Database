@@ -5,6 +5,7 @@ And like graves which appear not, they deceive by their outside beauty, and by t
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c99da054-ac6d-4586-93e1-86c169c09236"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The sentence of condemnation is also pronounced against those who deceive others
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Exposition of the Gospel of Luke, 7.105"
+uuid = "c82a15c2-26bf-46f5-9795-b1639d8ec4f0"

@@ -17,6 +17,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "7daff7ea-71c0-4787-ad9a-a51e5a153230"
 
 [[commentary]]
 quote='''
@@ -28,3 +29,4 @@ But did he know Christ, or did he not know Him? If he did not know Him, wherefor
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25204.html'
 source_title="Tractates on John 4"
+uuid = "3c07d8ad-00d7-4126-bb6b-2eee8ae75d76"

@@ -13,16 +13,19 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "dd6a9272-0d0e-4353-86c3-3d4c0e2d2691"
 
 [[commentary]]
 quote='''
 The sevenfold number of these petitions also seems to me to correspond to that sevenfold number out of which the whole sermon before us has had its rise. For if it is the fear of God through which the poor in spirit are blessed, inasmuch as theirs is the kingdom of heaven; let us ask that the name of God may be hallowed among men through that fear which is clean, enduring for ever. If it is piety through which the meek are blessed, inasmuch as they shall inherit the earth; let us ask that His kingdom may come, whether it be over ourselves, that we may become meek, and not resist Him, or whether it be from heaven to earth in the splendour of the Lord's advent, in which we shall rejoice, and shall be praised, when He says, Come, you blessed of my Father, inherit the kingdom prepared for you from the foundation of the world. For in the Lord, says the prophet, shall my soul be praised; the meek shall hear thereof, and be glad. If it is knowledge through which those who mourn are blessed, inasmuch as they shall be comforted; let us pray that His will may be done as in heaven so in earth, because when the body, which is as it were the earth, shall agree in a final and complete peace with the soul, which is as it were heaven, we shall not mourn: for there is no other mourning belonging to this present time, except when these contend against each other, and compel us to say, I see another law in my members, warring against the law of my mind; and to testify our grief with tearful voice, O wretched man that I am! Who shall deliver me from the body of this death? If it is fortitude through which those are blessed who hunger and thirst after righteousness, inasmuch as they shall be filled; let us pray that our daily bread may be given to us today, by which, supported and sustained, we may be able to reach that most abundant fullness. If it is prudence through which the merciful are blessed, inasmuch as they shall obtain mercy; let us forgive their debts to our debtors, and let us pray that ours may be forgiven to us. If it is understanding through which the pure in heart are blessed, inasmuch as they shall see God; let us pray not to be led into temptation, lest we should have a double heart, in not seeking after a single good, to which we may refer all our actings, but at the same time pursuing things temporal and earthly. For temptations arising from those things which seem to men burdensome and calamitous, have no power over us, if those other temptations have no power which befall us through the enticements of such things as men count good and cause for rejoicing. If it is wisdom through which the peacemakers are blessed, inasmuch as they shall be called the children of God; let us pray that we may be freed from evil, for that very freedom will make us free, i.e. sons of God, so that we may cry in the spirit of adoption, Abba, Father.
 '''
+uuid = "11c2855e-f746-4933-a3f1-c940235aff2e"
 
 [[commentary]]
 quote='''
 But the distinction among these seven petitions is to be considered and commended. For inasmuch as our temporal life is being spent now, and that which is eternal hoped for, and inasmuch as eternal things are superior in point of dignity, albeit it is only when we have done with temporal things that we pass to the other; although the three first petitions begin to be answered in this life, which is being spent in the present world (for both the hallowing of God's name begins to be carried on just with the coming of the lord of humility; and the coming of His kingdom, to which He will come in splendour, will be manifested, not after the end of the world, but in the end of the world; and the perfect doing of His will in earth as in heaven, whether you understand by heaven and earth the righteous and sinners, or spirit and flesh, or the Lord and the Church, or all these things together, will be brought to completion just with the perfecting of our blessedness, and therefore at the close of the world), yet all three will remain to eternity. For both the hallowing of God's name will go on for ever, and there is no end of His kingdom, and eternal life is promised to our perfected blessedness. Hence those three things will remain consummated and thoroughly completed in that life which is promised us.
 '''
+uuid = "1ab3e979-28d3-4379-9c40-5772b1691e47"
 
 [[commentary]]
 quote='''
@@ -32,6 +35,7 @@ We have heard whom we ought to call upon and with what hope of an eternal inheri
 
 Therefore is it said, "Hallowed by Thy name." This we also ask of Him that His name may be hallowed in us; for holy is it always. And how is His name hallowed in us except while it makes us holy? For once we were not holy, and we are made holy by His name: but He is always holy, and His name always holy. It is for ourselves, not for God, that we pray. For we do not wish well to God, to whom no ill can ever happen. But we wish what is good for ourselves, that His holy name may be hallowed, that that which is always holy may be hallowed in us.
 '''
+uuid = "36657a1b-8d4e-4d04-b13c-54172539d4fa"
 
 [[commentary]]
 quote='''
@@ -39,3 +43,4 @@ Let the new people, therefore, who are called to an eternal inheritance freely e
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOUR%2520LORD%2527S%2520SERMON%2520ON%2520THE%2520MOUNT%2FBook%25202.html'
 source_title="SERMON ON THE MOUNT 2.5.17"
+uuid = "3c9d1cb1-61f6-4018-8cd4-7e81f3dd35e1"

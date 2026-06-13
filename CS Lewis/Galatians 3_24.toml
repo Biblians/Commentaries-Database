@@ -8,6 +8,7 @@ There is, or might be, martyrdom. We are not called upon to like it. Our Master 
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-letterstomalcolm/lewiscs-letterstomalcolm-00-h.html'
 source_title="LETTERS TO MALCOLM: CHIEFLY ON PRAYER, Letter 21"
+uuid = "2c61fc21-cc11-4d5f-9b2e-03c9acba069d"
 
 [[commentary]]
 quote='''
@@ -15,3 +16,4 @@ Some modern theologians have, quite rightly, protested against an excessively mo
 '''
 source_url=''
 source_title="The Problem of Pain, Chapter 4: Human Wickedness"
+uuid = "dcd02ebe-44c8-4e02-ab52-77a4bac8e99d"

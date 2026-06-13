@@ -4,6 +4,7 @@ For the first time in my life I began to look at the question with both eyes ope
 '''
 source_url=''
 source_title="Two Lectures, from God in the Dock"
+uuid = "1a0520fb-a320-4c13-97c9-3ed5ee597aa0"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Evidently, then, something beyond Nature exists. Man is on the border line betwe
 '''
 source_url=''
 source_title="Bulverism, from God in the Dock"
+uuid = "b69fa2f6-08f0-4557-a5ee-a275de6e3e62"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ In the same way the Church exists for nothing else but to draw men into Christ, 
 '''
 source_url=''
 source_title="Mere Christianity, Book 4, Chapter 8: Is Christianity Hard or Easy?"
+uuid = "a1b80123-1a76-478b-92a5-1bbcc44c1af7"

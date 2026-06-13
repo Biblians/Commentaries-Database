@@ -2,6 +2,7 @@
 quote='''
 This relates to  Corinthians [:]: "Behold, now is the acceptable time, now is the day of salvation." Paul means by this the time of the gospel and the opportunity to save all those who believe in God.
 '''
+uuid = "3d724217-ed8b-4404-9b2d-23aba21a1a9a"
 
 [[commentary]]
 quote='''
@@ -9,3 +10,4 @@ This relates to 2 Corinthians [6:2]: "Behold, now is the acceptable time, now is
 '''
 source_url=''
 source_title="AUGUSTINE ON ROMANS 76"
+uuid = "c1f2f352-fecf-472e-85af-4284feee4aa7"

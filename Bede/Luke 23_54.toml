@@ -4,6 +4,7 @@ And it was the day of Preparation, and the Sabbath was drawing near. Preparation
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "f3896730-bd4a-4ef7-be92-9ae512de53aa"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ But because man was created on the sixth day, rightly being crucified on the six
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f085b9f5-441f-48e7-80c8-877fd1707f70"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Now that the Lord is crucified on the sixth day and rests on the seventh, signif
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "48d82d04-b5c0-4317-8038-a17e09f32b2d"

@@ -4,6 +4,7 @@ Let us hear also why He doth not cast out him that cometh: "For I came down from
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252025.html'
 source_title="Tractates on John 25"
+uuid = "28829ac0-1079-4c53-9d46-f8674014bd7b"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ For He Himself teaches us humility by doing, not His own will, but the will of H
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252025.html'
 source_title="Tractates on John 25"
+uuid = "750e9eba-0a36-472b-a0a1-df25d0ec20de"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ Since therefore God teaches humility, He saith, "I came not to do mine own will,
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252025.html'
 source_title="Tractates on John 25"
+uuid = "d0b1182f-e25d-4236-b2e1-63a1a16d1a11"
 
 [[commentary]]
 quote='''
@@ -26,3 +29,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "62694879-dac6-47c3-916b-1fd339b573d8"

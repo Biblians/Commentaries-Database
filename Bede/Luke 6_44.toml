@@ -4,6 +4,7 @@ For each tree is known by its own fruit. Which fruit it is by which a tree shoul
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "1eecb74e-bb00-4c70-86cd-3bd5c24521bb"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ For they do not gather figs from thorns, nor do they harvest grapes from a bramb
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "ac91f635-9dd1-4836-8407-a08f5c32433b"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Or, I think the thorns and bramble are the cares of the world and the prickings 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "59555749-58df-4377-aa24-f41a0ba0647d"

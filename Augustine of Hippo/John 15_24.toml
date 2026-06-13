@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "4835ec87-7294-4125-9e86-63984a1be4ea"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ The Lord had said, "He that hateth me, hateth my Father also." For of a certaint
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252091.html'
 source_title="Tractates on John 91"
+uuid = "aa4fd49a-ed38-4178-b049-83e9cd367617"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ But what is meant when, after saying, "If I had not done among them works," He i
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252091.html'
 source_title="Tractates on John 91"
+uuid = "9d3829b4-814b-4f39-8930-80d0eb1c2a56"
 
 [[commentary]]
 quote='''
@@ -26,3 +29,4 @@ I pass by other examples, as these I consider to be sufficient to show that some
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252091.html'
 source_title="Tractates on John 91"
+uuid = "9682bdd6-6e21-4ad7-824c-8e6334a1c86c"

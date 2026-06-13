@@ -5,6 +5,7 @@ Neither indignation at their treatment, nor displeasure at their wickedness, cau
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "45f2b980-d49d-4195-a88a-2f6b409f35e7"
 
 
 [[commentary]]
@@ -14,6 +15,7 @@ The work of divine healing commenced on the sabbath, signifying thereby that he 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "2eab7fd9-8ff9-4bdb-958e-fc607d4fa71a"
 
 
 [[commentary]]
@@ -22,3 +24,4 @@ He describes the works of divine healing begun on the sabbath day, to show from 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Commentary on Luke"
+uuid = "003da91f-48b6-44d6-bd1c-a9f59f2622e5"

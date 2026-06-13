@@ -4,6 +4,7 @@ Hence also miracles were added to the holy preachers, so that the power displaye
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 4"
+uuid = "573fe141-712e-48fc-bf27-f1fb4a16d0f8"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "97f40f49-aa1d-4eee-a733-c90f264c87f3"

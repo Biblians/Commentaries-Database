@@ -4,6 +4,7 @@ And suddenly there came a sound from heaven as of a rushing mighty wind, etc. Th
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "13ec5efc-58dc-47db-aa27-e68a8d0d4df6"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ And suddenly there came from heaven a sound as of a violent rushing wind, and it
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "4267b4f1-2751-4024-9f2b-50c0c1f667c8"

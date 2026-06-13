@@ -4,6 +4,7 @@ In what way is it said that bad shepherds kill the sheep? By leading bad lives, 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252046.html'
 source_title="Sermons 46.9"
+uuid = "0093c87e-d05f-4eb8-82a4-109ad9732f3a"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ However, the life of the speaker has greater weight in determining whether he is
 '''
 source_url='https://www.newadvent.org/fathers/12024.htm'
 source_title="ON CHRISTIAN DOCTRINE 4.27.59-60"
+uuid = "e4dea02e-6bee-41ca-8d50-40e16da7bf6b"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ There is no way of resisting the temptation to pride except by instilling the fe
 '''
 source_url=''
 source_title="Letters 22.2.7"
+uuid = "750ae9fd-fef0-4122-b2fa-ae559c8be55d"

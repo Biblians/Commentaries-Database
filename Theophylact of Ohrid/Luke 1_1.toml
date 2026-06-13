@@ -4,6 +4,7 @@ The divine Luke, an Antiochian and a physician, had a great knowledge of natural
 '''
 source_url='https://web.archive.org/web/20220629013331/https://www.johnsanidopoulos.com/2010/12/preface-to-four-gospels-by-saint.html'
 source_title="Preface to the Four Gospels"
+uuid = "b19007ac-7777-48e3-8ad8-87f265030f1a"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Who were these many who undertook? The false apostles. For indeed many composed 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Commentary on Luke"
+uuid = "fd009ef1-3b0d-44bc-b7b8-140b579997e4"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252043.html'
 source_title="Homily on the Gospel of John 43"
+uuid = "c7480274-9db1-4ad6-ac39-b4847811c8af"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ He allowed the storm to arise, that they might ever seek Him.
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252043.html'
 source_title="Homily on the Gospel of John 43"
+uuid = "901a525f-98ab-4a14-b351-6fde06f2cc2e"

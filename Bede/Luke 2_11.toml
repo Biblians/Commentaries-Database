@@ -4,6 +4,7 @@ For today a Savior has been born to you, who is Christ the Lord, in the city of 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "aac0757b-59b4-4c64-bf90-73ee26243144"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ It is good that the angel said "has been born today" and did not say "this night
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.6"
+uuid = "8ac7fe17-aaca-4ddb-879a-dcda52699a19"

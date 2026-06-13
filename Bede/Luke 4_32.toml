@@ -4,6 +4,7 @@ And they were amazed at his teaching, because his word was with authority. The w
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "77c568d3-b1a7-4870-be3a-dfeaf3e4614c"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ The word of the teacher is with power, when he performs that which he teaches. B
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "0396cdf7-e0aa-4d01-b88c-5250c0b46ace"

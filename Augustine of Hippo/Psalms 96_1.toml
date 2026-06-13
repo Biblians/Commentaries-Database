@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%252096.html'
 source_title="Exposition on Psalm 96"
+uuid = "87b46671-1c03-4c6d-81ad-525658b0330e"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Let the nations hear, let the nations believe: let the nations blossom, let the 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520116.html'
 source_title="SERMON 116:7"
+uuid = "43c76230-d279-4519-b95c-244ff692aba8"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ Just as a door leads into a house, so does the title of a psalm lead into unders
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252027.html'
 source_title="SERMON 27:1"
+uuid = "7bb3b0e1-77e0-48a7-99b6-23fc5ba9ee91"
 
 
 [[commentary]]
@@ -28,6 +31,7 @@ Let us sing, therefore, a new song, singing praise with a psaltery of ten string
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252033.html'
 source_title="SERMON 33:5"
+uuid = "8999ecea-c4e5-424e-b691-5f7f8d2de0c0"
 
 
 [[commentary]]
@@ -36,3 +40,4 @@ The baptized have, then, something to do in themselves, that is, in the temple o
 '''
 source_url=''
 source_title="AGAINST JULIAN 6:14.42"
+uuid = "0625d760-79e4-4afb-8271-6363a41399b6"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 140.21"
+uuid = "33d2e071-222b-47f1-a30e-27e29d6f0e98"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ A better simile, so far, at least, as illustration of spiritual things can be bo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 167.13"
+uuid = "0cb11547-2dd5-4910-8f93-b2d61d0ca8b3"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ And to what end? That I and all who read the same may reflect out of what depths
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FConfessions%2FBook%25202.html'
 source_title="Confessions 2.3.5"
+uuid = "48acbe55-9e3c-46e6-b7a5-a2ed98d61eef"
 
 
 [[commentary]]
@@ -28,6 +31,7 @@ Will any of us dare to say: I am righteous? For I think that this is: I am right
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520158.html'
 source_title="SERMON 158.4"
+uuid = "01417d32-7bc8-4c45-bcf0-5938f3d12c37"
 
 
 [[commentary]]
@@ -36,3 +40,4 @@ This justice is the grace of the New Testament, by which the faithful are just w
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 140.30"
+uuid = "15575748-6ae9-4c51-b695-6c34bc44cfda"

@@ -13,6 +13,7 @@ Nor do the Evangelists seem so to differ who have followed the old order, nor ca
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "52501948-528b-4b87-9f13-8ca3b92834a7"
 
 [[commentary]]
 quote='''
@@ -20,6 +21,7 @@ You see that the description of descent is connected by the old custom from the 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="EXPOSITION OF THE GOSPEL OF LUKE 3.4"
+uuid = "a34c1683-23bd-44c6-ab70-ee53fa1ba5e9"
 
 
 [[commentary]]
@@ -28,6 +30,7 @@ Here too some … raise issues: that Matthew counted forty-two generations from 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="EXPOSITION OF THE GOSPEL OF LUKE 3.12-13"
+uuid = "6add327d-febc-4f4e-aa56-820f92bfc683"
 
 
 [[commentary]]
@@ -36,6 +39,7 @@ He could not include more sons of Jacob, lest he seem to digress outside the gen
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="EXPOSITION OF THE GOSPEL OF LUKE 3.47"
+uuid = "05310fbb-6d10-4bae-bff0-427c95980c92"
 
 
 [[commentary]]
@@ -44,3 +48,4 @@ Yet it seems needful to explain why St. Matthew began to enumerate the descent o
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="EXPOSITION OF THE GOSPEL OF LUKE 3.6, 10"
+uuid = "7d9d32a5-d623-4abe-8324-edb04fc23bcc"

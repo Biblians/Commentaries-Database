@@ -4,6 +4,7 @@ How are we to explain this narrative, if we read later that Paul went immediatel
 '''
 source_url=''
 source_title="EPISTLE TO THE GALATIANS 1.1.17"
+uuid = "288014bd-6584-4fdf-b8ac-d68940b74973"
 
 
 [[commentary]]
@@ -14,3 +15,4 @@ But I went into Arabia and then returned to Damascus. It does not seem to fit wi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Galatians.html'
 source_title="Commentary on Galatians"
+uuid = "7a38b591-00f0-421b-823a-5b6f6530ddfe"

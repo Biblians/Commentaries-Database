@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bernard%2520of%2520Clairvaux%2FSermons%2520on%2520the%2520Song%2520of%2520Songs%2FSermon%252069.html'
 source_title="Sermons on the Song of Songs, Sermon 69"
+uuid = "1d9e9833-2b19-4020-87f6-6f6ddea45b49"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ You have indeed concerning him who is the image, that "being in the form of God,
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bernard%2520of%2520Clairvaux%2FSermons%2520on%2520the%2520Song%2520of%2520Songs%2FSermon%252080.html'
 source_title="Sermons on the Song of Songs, Sermon 80"
+uuid = "8e4ff5a8-05ab-4df1-9fb8-fcd2999a5e9b"

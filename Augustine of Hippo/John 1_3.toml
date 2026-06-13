@@ -15,6 +15,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "28d1f516-ec5a-4303-a2a8-3af8d1bca31b"
 
 [[commentary]]
 quote='''
@@ -22,6 +23,7 @@ But herein is declared, not only that He is God, but also that He is of the same
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOn%2520The%2520Trinity%2FBook%25201.html'
 source_title="On The Trinity, Book 1"
+uuid = "7d1c0f1e-bf52-449b-b883-1de45b9f2e30"
 
 [[commentary]]
 quote='''
@@ -29,6 +31,7 @@ We have found the genuine poor person. We have found him to be kind and humble, 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252014.html'
 source_title="SERMON 14.9"
+uuid = "32d20e0d-9579-475e-8934-a93493ce2c05"
 
 [[commentary]]
 quote='''
@@ -36,6 +39,7 @@ Give good heed to what follows, brethren, "All things were made by Him, and with
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25201.html'
 source_title="Tractates on John 1"
+uuid = "65280c90-85c0-4ef9-b589-67d8b19ffaff"
 
 [[commentary]]
 quote='''
@@ -43,6 +47,7 @@ Therefore, let no one deceive you, when perchance you suffer annoyance from flie
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25201.html'
 source_title="Tractates on John 1"
+uuid = "65a757d3-d13f-4b47-b40c-508a2c6e6b69"
 
 [[commentary]]
 quote='''
@@ -50,6 +55,7 @@ What then, brethren? why have I said these things? Shut the ears of your hearts 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25201.html'
 source_title="Tractates on John 1"
+uuid = "69a62f43-ad5e-4261-b447-8ee40c49c103"
 
 [[commentary]]
 quote='''
@@ -57,3 +63,4 @@ Therefore let the Prophet have honor among us, because He had no honor in His ow
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252016.html'
 source_title="Tractates on John 16"
+uuid = "80a5e508-6675-4765-b35a-23d81c4bcace"

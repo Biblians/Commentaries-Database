@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Joshua/mx4QP8RY9ckC?hl=en&gbpv=0'
 source_title="HOMILIES ON JOSHUA 19.2"
+uuid = "71fad2a3-058e-4f5e-a706-985bf9045f72"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Moreover, "from the boundaries of Edom" is the wilderness of Zin. We said a litt
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Joshua/mx4QP8RY9ckC?hl=en&gbpv=0'
 source_title="HOMILIES ON JOSHUA 19.3"
+uuid = "1575deba-476b-4741-b3fd-c6f891e97050"

@@ -5,6 +5,7 @@ Obviously you are making excellent progress. My only fear is lest in attempting 
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters, Chapter XII"
+uuid = "db1c0d52-6344-40f7-9f81-3eebee16226b"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The first step is to recognise the fact that your moods change. The next is to m
 '''
 source_url=''
 source_title="Mere Christianity, Book 3, Chapter 11: Faith"
+uuid = "a4359e25-7290-45ca-aa23-464cf6f83999"

@@ -4,6 +4,7 @@ For he had previously said, "I have not come to bring peace but a sword." He add
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 1.10.37"
+uuid = "13dfa9fa-6748-4726-863e-88c79b3a6dac"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "3a216443-4188-4bed-843b-6f6377e6182b"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ Because of what He had said, I am not come to send peace but a sword, &c. that n
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e1d4eb79-9c98-48ef-af88-2a098fde8d68"

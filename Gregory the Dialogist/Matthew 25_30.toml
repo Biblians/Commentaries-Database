@@ -6,6 +6,7 @@ It must be known that no lazy person is secure from this receiving of the talent
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 9"
+uuid = "85f1adac-0f91-48e8-8061-dcadee79fe63"
 
 [[commentary]]
 quote='''
@@ -14,6 +15,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c2a3cbe7-95a8-4384-8ea6-5560a20ae300"
 
 [[commentary]]
 quote='''
@@ -22,3 +24,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "36ae6874-bdd1-4cdd-aa8f-154b8045ce93"

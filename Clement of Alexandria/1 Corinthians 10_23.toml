@@ -4,6 +4,7 @@ Let the mention we make for our present purpose suffice, as it is not unsuitable
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25202.html"
 source_title="The Instructor Book 2"
+uuid = "050e4365-a97c-407a-a268-d41a4a81cd2a"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Truly, "all things are lawful, but all things are not expedient," says the apost
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25204.html"
 source_title="The Stromata Book 4"
+uuid = "fa143313-75a6-4d61-ab8f-38adeded093f"

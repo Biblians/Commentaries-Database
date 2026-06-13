@@ -4,6 +4,7 @@ And I saw something like a sea of glass mingled with fire. That is, the transluc
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "af800dae-0b43-40ba-b6d0-ad7bb070ce9c"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And those who have conquered the beast and its image, etc. Those who conquer the
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "28475f7a-d30a-4050-aaa9-3ec6c9f6ff88"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ Having the harps of God, and singing, etc. That is, bearing hearts dedicated to 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "be7f4dc1-ee88-4dd5-95d8-a2815956c9b1"

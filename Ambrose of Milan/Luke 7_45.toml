@@ -5,6 +5,7 @@ But she is of no slight merit of whom it is said, From the time that she entered
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ce118afc-0daa-45c8-9c10-b3c8613c5060"
 
 
 [[commentary]]
@@ -14,3 +15,4 @@ The church does not cease to kiss Christ's feet and demands not one but many kis
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FLetters%2FLetter%252062.html'
 source_title="LETTER 62"
+uuid = "fb5d0dc3-b140-4faa-8100-240540b26749"

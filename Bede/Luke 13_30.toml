@@ -4,6 +4,7 @@ And behold, there are the last who will be first, and there are the first who wi
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "6e76f314-8d14-4523-a4f6-0dcefcbd73c6"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Many also at first burning with zeal, afterwards grow cold; many at first cold, 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "09d3ae50-7b37-498c-9314-d53a7cb362ea"

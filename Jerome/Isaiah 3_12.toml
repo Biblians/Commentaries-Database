@@ -4,6 +4,7 @@ Let us hearken to God, as he proclaims through Isaiah: "O my people, they that c
 '''
 source_url='https://www.newadvent.org/fathers/30112.htm'
 source_title="Against the Pelagians 2.24"
+uuid = "8fae8953-b2f0-408b-b03e-466ec2a7bcac"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ The Lord speaks by the mouth of Isaiah, saying, "O my people, they who call you 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_125.html'
 source_title="LETTER 125.19"
+uuid = "67b42433-dd7b-4d75-b77d-6bdad7a43dc5"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "12b8b9fe-25b4-409a-8f8b-384220e7640d"

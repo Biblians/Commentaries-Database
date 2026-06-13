@@ -4,6 +4,7 @@ But even if the apostle had abruptly thrown out the sentence that flesh and bloo
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "c6d6fea6-0bf1-4b45-928c-dd5b6eeb6e25"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ A third saying let them add, "Let us eat, and drink, and marry, for to-morrow we
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html"
 source_title="On Monogamy"
+uuid = "3d91cf68-cd47-4429-b1f7-62f27cb2ecdc"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "f52edd61-d05b-4e01-bd89-0acd246411ae"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ If the prophets were pleasing to such, my (prophets) they were not. Why, then, d
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Fasting.html"
 source_title="On Fasting"
+uuid = "cb4a51dd-9131-4e10-9161-9dcabb37ee1b"

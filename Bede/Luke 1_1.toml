@@ -5,6 +5,7 @@ quote = '''
 append_to_author_name = ' (as quoted by Aquinas, AD 1274)'
 source_url = 'https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "25c1e89f-6f8d-4ac5-ad6a-0d0a0da13c42"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ Prologue. Since many have undertaken to set in order a narrative of those things
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "7d663aa1-b238-4156-a544-4eb96be28d12"

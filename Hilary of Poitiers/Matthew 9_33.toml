@@ -4,6 +4,7 @@ In the deaf and dumb and demoniac appear the need of the Gentiles for a complete
 '''
 source_url='https://archive.org/details/commentaryonmatt0125hila/page/40/mode/2up'
 source_title="Commentary on Matthew 9.10"
+uuid = "3f95cb1e-06f8-426c-a9ca-830cf0599b7a"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ But by the knowledge of God the frenzy of superstition being chased away, the si
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "0e0f386f-2416-4483-8d6e-2dec791e3a53"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ The wonder of the multitude is followed up by the confession, It was never so se
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "81414ea2-d28d-49ac-aa39-7536fc705274"

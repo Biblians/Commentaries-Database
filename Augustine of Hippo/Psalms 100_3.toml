@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%2520100.html'
 source_title="Exposition on Psalm 100"
+uuid = "609885e4-96e1-4cb7-be21-fc73864e616e"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ And what is this? I asked the earth; and it answered, "I am not He;" and whatsoe
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FConfessions%2FBook%252010.html'
 source_title="Confessions 10.6"
+uuid = "5cdf1186-f78d-44d7-9e60-bda1002062cb"

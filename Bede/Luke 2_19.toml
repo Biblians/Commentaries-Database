@@ -4,6 +4,7 @@ But Mary kept all these words, pondering them in her heart. What does it mean wh
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "a149837f-96f2-49f5-ab04-a7c930af6722"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ For keeping the laws of virgin modesty, she who had known the secrets of Christ 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "4ab75779-264d-4b48-9f80-a59ece720893"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ Abiding by the rules of virginal modesty, Mary wished to divulge to no one the s
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.7"
+uuid = "b96435b0-ba6d-4708-b253-2d3fb194f368"

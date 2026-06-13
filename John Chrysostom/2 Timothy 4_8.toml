@@ -4,6 +4,7 @@ The martyr's own struggles surpass our mortal nature. The prizes they won go bey
 '''
 source_url=''
 source_title="DISCOURSES AGAINST JUDAIZING CHRISTIANS 6.1"
+uuid = "afd61da5-ebf2-4015-9c72-9515883a91a9"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%25202%2520Timothy%2FHomily%25209.html'
 source_title="Homily on 2 Timothy 9"
+uuid = "aafabd82-ab73-43b8-b55b-f576b2e3ae50"

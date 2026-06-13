@@ -4,6 +4,7 @@ Nor ought it, my dearest brother, to disturb any one who is faithful and mindful
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252054.html"
 source_title="Epistle LIV"
+uuid = "9c0264e8-9522-4cc4-956a-a02073666515"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Yet although, in these last times, evangelic rigour has not so failed in the Chu
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252067.html"
 source_title="Epistle LXVII"
+uuid = "a4662afb-c965-4910-bdc3-2504fc8d63a1"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ You have written also, that on my account the Church has now a portion of hersel
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252068.html"
 source_title="Epistle LXVIII"
+uuid = "ea30d0e3-3503-4141-b707-72e25e83dc46"
 
 
 [[commentary]]
@@ -28,6 +31,7 @@ For the Lord chose Judas also among the apostles, and yet afterwards Judas betra
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%25201.%2520On%2520the%2520Unity%2520of%2520the%2520Church.html"
 source_title="Treatise I. On the Unity of the Church."
+uuid = "da527593-9322-492f-bdb9-4b184d83f7d0"
 
 [[commentary]]
 quote='''
@@ -35,3 +39,4 @@ Paulus of Obba said: It does not disturb me if any man does not assert the faith
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FThe%2520Seventh%2520Council%2520of%2520Carthage%2520Under%2520Cyprian.html"
 source_title="The Seventh Council of Carthage Under Cyprian"
+uuid = "b24d26ae-72b7-4f6a-9e35-c6f04b3ad370"

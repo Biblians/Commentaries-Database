@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "581e3449-1545-41b8-94bc-8dc46fa36675"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ For Abraham saw the day of the Lord when, as a figure of the supreme Trinity, he
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 18"
+uuid = "daf0185b-3819-427c-b277-b4a76e2891e0"

@@ -4,6 +4,7 @@ After healing the sick, the Lord withdraws to a solitary place, teaching us by t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Commentary on Mark"
+uuid = "5cf5e51c-33c9-415b-b3e5-5a16ee9cb632"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ For He shows to us that we ought to attribute to God whatever we do well, and to
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "4cc518c1-702a-466b-ae26-4820ea6e01e3"

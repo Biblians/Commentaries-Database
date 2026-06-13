@@ -4,6 +4,7 @@ They entreat him to leave their district, not out of pride on their part (as man
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 1.8.34"
+uuid = "11bbdb4c-6c1b-40c0-b478-716000f3e227"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "08af3fc8-89d6-4963-97c5-609bb54b7a13"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ Otherwise; This request may have proceeded from humility as well as pride; like 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "37c20e86-19a1-416c-a170-d978d36b0234"

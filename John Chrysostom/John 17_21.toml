@@ -4,6 +4,7 @@ After having thus spoken concerning their salvation, and their being sanctified 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252082.html'
 source_title="Homily on the Gospel of John 82"
+uuid = "fe807b6a-cb7a-4391-8e66-2f0729c1c641"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ But what is, "In Us"? In the faith which is on Us. Because nothing so offends al
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252082.html'
 source_title="Homily on the Gospel of John 82"
+uuid = "a82cef04-ffe5-4e98-acf7-2cf14d380993"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ Elsewhere He says of Himself and the Father, We will come and make Our abode wit
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "27fee6a2-b012-4ad3-a9f4-609298e640b9"

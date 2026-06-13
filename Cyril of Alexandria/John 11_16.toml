@@ -4,6 +4,7 @@ The language of Thomas has indeed zeal, but it also has timidity; it was the out
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520the%2520Gospel%2520of%2520John%2FBook%25207%2520(Fragments).html'
 source_title="Commentary on the Gospel of John, Book 7 (Fragments)"
+uuid = "9d19bc61-370c-4261-ab97-770f7eaaf597"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ There is audacity in Thomas's words, but also timidity. It was the outflow of a 
 '''
 source_url=''
 source_title="COMMENTARY ON THE GOSPEL OF JOHN 7"
+uuid = "449e5274-b54c-4232-94b8-d136df6ee54f"

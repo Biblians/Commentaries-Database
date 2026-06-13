@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801030.htm'
 source_title="Exposition on Psalm 30"
+uuid = "3f95d74f-87e6-4f76-b923-701bfd63469d"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ We weep only until that morning of resurrection gladness, looking to the joy tha
 '''
 source_url=''
 source_title="EXPOSITION 1 OF PSALM 30:6"
+uuid = "8d6ecbae-f3b9-48c7-b183-7a13edc858f3"

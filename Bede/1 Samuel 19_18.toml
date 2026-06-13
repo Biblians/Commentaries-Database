@@ -4,6 +4,7 @@ David was allotted the kingdom of the Israelites in place of Saul. He was a humb
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.14"
+uuid = "202ca53d-ff83-4d99-a488-90b26d5a8a66"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ David, however, fleeing, was saved, etc. Ramathaim meaning heights, Naioth inter
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "b1b11752-8d58-44e0-b3fc-150122c34aac"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ It was announced to Saul by those saying, Behold, David is in Naioth in Ramah, e
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "a8f7a483-e8b1-40f5-9289-2b4847ca7d38"

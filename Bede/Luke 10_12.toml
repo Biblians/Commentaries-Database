@@ -4,6 +4,7 @@ But I say to you that it will be more bearable for Sodom in that day than for th
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "ae8e430c-eacf-4045-bb24-669d7689418c"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ The men of Sodom, although they were hospitable in the midst of all their wicked
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "7b588725-d4c3-4451-827e-89be81eed1e2"

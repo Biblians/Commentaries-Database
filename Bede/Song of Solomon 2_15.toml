@@ -4,6 +4,7 @@ This animal, which is very shrewd with respect to deceit and craftiness, represe
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html'
 source_title="Commentary on Acts 19:14"
+uuid = "cecd9283-3ff1-44b7-9486-9682c698d0f3"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Catch for us the little foxes, etc. Indeed, the foxes that destroy the vineyards
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Song%2520of%2520Songs.html"
 source_title="Commentary on the Song of Songs"
+uuid = "c19ff43f-18d5-4781-ac68-0e7d41bc8f97"

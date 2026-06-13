@@ -4,6 +4,7 @@ This should not exclude the prophets who came after John the Baptist, for we rea
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 2.11.13"
+uuid = "855d1c17-d377-461b-80f3-e433b2bd949a"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "12be5bee-8d59-46bf-9249-72a93b1785a9"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Not that He cuts off all Prophets after John; for we read in the Acts of the Apo
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "5711fb21-54fa-4099-9cd4-9f32f28ccba1"

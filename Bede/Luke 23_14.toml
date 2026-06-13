@@ -4,6 +4,7 @@ But Pilate, having called together the chief priests, and the magistrates, and t
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "7e613b69-4578-4ecc-a6ae-17ccfa848d76"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ You have presented this man to me as turning away the people, yet look, I have q
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "afe8d164-039f-4191-b5da-64ac4e10ab37"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ Perish then those writings, which, composed so long a time after Christ, convict
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d7494252-8cd0-463c-a7c5-f4d00ada6d28"

@@ -4,6 +4,7 @@ He declares that the works of the one who comes to the light are wrought in God,
 '''
 source_url=''
 source_title="ON THE MERITS AND FORGIVENESS OF SINS AND ON INFANT BAPTISM 1.62"
+uuid = "68480504-9c0b-4426-8203-920b95955131"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252012.html'
 source_title="Tractates on John 12"
+uuid = "e5fbeb8a-7d3e-453a-a1cf-669d3f0a23a5"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ He calls the works of him who comes to the light, wrought in God; meaning that h
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ca2ffb9d-163c-4db3-838d-98b0264ae5aa"
 
 [[commentary]]
 quote='''
@@ -26,3 +29,4 @@ Run, my brethren, lest the darkness lay hold of you. Awake to your salvation, aw
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252012.html'
 source_title="Tractates on John 12"
+uuid = "c52e2003-f591-49aa-aee4-1f2991a0f234"

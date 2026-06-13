@@ -7,6 +7,7 @@ For in the height of His marvellous power He is far beyond every creature, and i
 append_to_author_name = ' (as quoted by Aquinas, AD 1274)'
 source_url = 'https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "798202ff-fd9f-4100-8d15-8011b5db729a"
 
 
 [[commentary]]
@@ -15,3 +16,4 @@ Because He who is mighty has done great things for me, and holy is His name. Thi
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "dd37da60-6682-421c-ac69-b1033672dcb9"

@@ -9,6 +9,7 @@ The illustration is taken from husbandry. Salt, though it be necessary for seaso
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "746302c2-4ec4-4576-8fd8-14e5156dd553"
 
 
 [[commentary]]
@@ -21,3 +22,4 @@ It is worthless beyond nothingness, except to be thrown out and trampled by men.
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "a886c2d0-69ed-4455-9d50-ca1034ff25ae"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801008.htm'
 source_title="Exposition on Psalm 8"
+uuid = "6645b714-2c7d-4b60-b9f6-f72a4e0f23d6"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ So, then, in accordance with the simile of the winepresses, not only the grapes 
 '''
 source_url=''
 source_title="EXPLANATIONS OF THE PSALMS 8:13"
+uuid = "6d322413-cfbc-44eb-9fba-b86994bd6f3e"

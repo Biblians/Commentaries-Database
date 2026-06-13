@@ -4,6 +4,7 @@ A hermit said to a brother, 'When a proud or vain thought enters your mind, exam
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "9c6aef90-676d-401e-ae07-0fb190ae644e"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ A brother asked a hermit, 'What is humility?' He answered, 'To do good to them t
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "a6a08853-7936-476d-b67a-0e0c9134d04b"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ A brother asked Poemen about the words, 'Do not render evil for evil' (1 Thess. 
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "2c68b97b-8c9b-4f47-925b-9a968b8e57fc"

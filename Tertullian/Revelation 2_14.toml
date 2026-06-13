@@ -5,6 +5,7 @@ John, however, in the Apocalypse is charged to chastise those "who eat things sa
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
 source_title="The Prescription Against Heretics"
+uuid = "4006e4f5-2d9e-4ffd-8ab0-060fcf42fd11"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ He imputes to the Ephesians "forsaken love; " reproaches the Thyatirenes with "f
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Repentance.html"
 source_title="On Repentance"
+uuid = "8645e74e-cc81-4051-98d8-10e19f334a93"

@@ -4,6 +4,7 @@ The brothers of the Lord came out of envy to seize Him, as one who was mad and p
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25203.html'
 source_title="Commentary on Mark"
+uuid = "939918d7-a8bc-45d8-8c58-aa1ec04c3f31"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Because the relations of the Lord had come to seize upon Him, as if beside Himse
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6513f5d4-a5dc-4fc6-ad42-78eebaaf5426"

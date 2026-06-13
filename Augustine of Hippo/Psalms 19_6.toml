@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801019.htm'
 source_title="Exposition on Psalm 19"
+uuid = "45069aed-1a76-45c1-81ae-a8234ef2730d"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Someone lights a lamp.… That lamp, as far as regards the little flame that shi
 '''
 source_url=''
 source_title="TRACTATES ON THE GOSPEL OF JOHN 22:10.1"
+uuid = "0cb99e95-33c2-43b3-a166-d1b9e7cb2df8"

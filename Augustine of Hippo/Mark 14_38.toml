@@ -2,6 +2,7 @@
 quote='''
 The Lord has commanded us to watch and pray that we enter not into temptation. Obviously, if we could endow ourselves with this gift merely by willing it, we would not be asking it in prayer. If the will itself sufficed to protect us from temptation, we would not have to pray for it. But if we were not given a will at all, we would be unable to pray. Grant, then, that we may will it freely, praying that we may be made able by grace to do what we have willed, when by mercy we have attained to wise discernment. Letter , To Palatinus.
 '''
+uuid = "70854d63-d7b0-46c9-b403-2ec2a396ddf7"
 
 [[commentary]]
 quote='''
@@ -9,3 +10,4 @@ For, if these things are placed in our power through the capability of nature an
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 175, TO POPE INNOCENT"
+uuid = "753fca6d-cdb0-4b91-94fe-383fde539fa5"

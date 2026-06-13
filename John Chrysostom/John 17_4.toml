@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252080.html'
 source_title="Homily on the Gospel of John 80"
+uuid = "b37ece87-5384-4ed0-9173-e4b6484ef7c3"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252080.html'
 source_title="Homily on the Gospel of John 80"
+uuid = "689c1c02-33a0-4ba0-80c5-4cd7311fd19c"

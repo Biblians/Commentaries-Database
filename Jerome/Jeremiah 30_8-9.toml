@@ -4,6 +4,7 @@ This is the David of whom the Gospel speaks: "It will be granted to us, that, li
 '''
 source_url=''
 source_title="SIX BOOKS ON JEREMIAH 6:5.2-3"
+uuid = "6e258c6f-f58d-44a4-8965-423e340d7916"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Jeremiah.html'
 source_title="Commentary on Jeremiah"
+uuid = "9f4042e5-a4a9-4d3c-92b5-4f652c48f214"

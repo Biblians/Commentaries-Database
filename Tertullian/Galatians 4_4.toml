@@ -5,6 +5,7 @@ A certain person thought that he had cleverly solved this question: that Mary wa
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Veiling%2520of%2520Virgins.html'
 source_title="ON THE VEILING OF VIRGINS 6"
+uuid = "6ff95aa5-6223-4ddc-9156-714f93a9bb83"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "8b8f227e-7f00-46d6-ba45-7cf8bf3df097"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ Since, then, the Creator promised the gift of His Spirit in the latter days; and
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "645f7cae-a465-43d4-b528-f442af118769"
 
 [[commentary]]
 quote='''
@@ -26,6 +29,7 @@ But Paul, too, silences these critics when he says, "God sent forth His Son, mad
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Flesh%2520of%2520Christ.html"
 source_title="On the Flesh of Christ"
+uuid = "baa8da3a-d997-4ad6-84b6-af6087b2a250"
 
 [[commentary]]
 quote='''
@@ -33,3 +37,4 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Veiling%2520of%2520Virgins.html"
 source_title="On the Veiling of Virgins"
+uuid = "d651ed25-f447-4a8b-81e2-445044418e5b"

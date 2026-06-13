@@ -7,6 +7,7 @@ Or thus: We must not suppose that Peter was afraid and refused, when the others 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "47b2c69f-4a83-4e71-a65c-0bb9824d90d1"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ When the Lord was washing the disciples' feet, "He cometh to Simon Peter; and Pe
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252056.html'
 source_title="Tractates on John 56"
+uuid = "96c7b488-6c78-459d-9cd3-6bdf5e507e68"

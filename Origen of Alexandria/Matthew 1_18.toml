@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ebbaa4ce-59d1-43a7-af83-8c6e896c0f22"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ There is a difference between generation and birth. For "generation," or "coming
 '''
 source_url=''
 source_title="FRAGMENT 11.7"
+uuid = "c53d45a0-18ca-4189-b9f8-c2d98b6c009f"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ For what reason did God, deciding that the Savior should be born from a virgin, 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FHomilies%2520on%2520Luke.html'
 source_title="Homilies on Luke"
+uuid = "4339ec90-e4aa-4f97-97fc-ca3873043e87"

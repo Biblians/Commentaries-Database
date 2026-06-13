@@ -4,6 +4,7 @@ And the father said to his servants: Quickly bring the first robe, and put it on
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "199ed544-a1ff-4d43-9ce7-8984f88c903a"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And put a ring on his hand, and shoes on his feet. The ring is either the seal o
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "5e163cf6-9484-4737-856d-e6d39381869f"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ That is, his working, that by works faith may shine forth, and by faith his work
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "bed3831a-0e93-4ea7-b873-ae7760ad54be"

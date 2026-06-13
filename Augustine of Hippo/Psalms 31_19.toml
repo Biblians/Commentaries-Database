@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801031.htm'
 source_title="Exposition on Psalm 31"
+uuid = "b3c65cc2-86f6-4904-88c0-b5fd964fee1a"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ From the law comes our fear of God, from faith our hope in him; but grace is hid
 '''
 source_url=''
 source_title="ON THE SPIRIT AND THE LETTER 51"
+uuid = "78396593-e2a8-4dc4-b94e-eef580bc9ae0"

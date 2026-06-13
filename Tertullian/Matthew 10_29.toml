@@ -5,6 +5,7 @@ Else it would be most absurd if the flesh should be raised up and destined to "t
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "03e9ae71-7c94-436a-a8dd-b3c7221f37b2"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ The first virginity is (the virginity) of happiness, (and consists in) total ign
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Exhortation%2520to%2520Chastity.html"
 source_title="On Exhortation to Chastity"
+uuid = "132d237b-a9a1-4173-9cc1-ebc6dceab4a7"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ But grant that these argumentations may be thought to be forced and founded on c
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html"
 source_title="On Monogamy"
+uuid = "8da4dc6e-5671-4c3b-8ed1-86feee403abb"
 
 [[commentary]]
 quote='''
@@ -26,3 +29,4 @@ For you say, seeing we assemble without order, and assemble at the same time, an
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Flight%2520in%2520Persecution.html"
 source_title="On Flight in Persecution"
+uuid = "9084dec5-3812-4969-9d2e-2d4e253b8856"

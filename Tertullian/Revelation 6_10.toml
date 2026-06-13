@@ -4,6 +4,7 @@ Our hope is that we may sooner reign and not be slaves any longer. Even if it we
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html'
 source_title="ON PRAYER 5.1-4"
+uuid = "f47db0d3-8333-4639-83e2-8757347de8fc"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ The souls of the martyrs beneath the altar cry in jealousy unto the Lord "How lo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html'
 source_title="On Prayer"
+uuid = "cd615b9d-f6c6-40fb-ba59-5103f7102d52"

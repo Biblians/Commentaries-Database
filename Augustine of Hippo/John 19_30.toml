@@ -4,6 +4,7 @@ The spirit is to be preferred to the body. The death of the spirit means that Go
 '''
 source_url=''
 source_title="ON THE TRINITY 4.13.16"
+uuid = "6cf345d4-e63c-464e-9953-c8f9455efca7"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ He had the authority to lay down his life, as he himself had declared. And he ga
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520218.html'
 source_title="SERMON 218.12"
+uuid = "f2ed236c-bcd8-4c09-b2e3-8fd6945f0216"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520119.html'
 source_title="Tractates on John 119"
+uuid = "404ee066-a556-4a50-8879-223b24f68545"
 
 [[commentary]]
 quote='''
@@ -30,3 +33,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "50d50af7-a6b3-4d42-a818-af324496bb5f"

@@ -4,6 +4,7 @@ He became the guest of his host to fulfill a duty. It says, "They watched him." 
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 101"
+uuid = "199f28b8-bc0d-4f24-ac54-02c22edf4a46"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ Although our Lord knew the malice of the Pharisees, yet He became their guest, t
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "cf88856a-ead4-4da0-a792-aa69fab14895"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ A Pharisee, of higher rank than usual, invited Jesus to a banquet. Although he k
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 101"
+uuid = "c2514048-d455-43da-acf1-27469129d281"

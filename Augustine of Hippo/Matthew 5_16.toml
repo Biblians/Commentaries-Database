@@ -4,6 +4,7 @@ That person places the lamp under a bushel who obscures and conceals the light o
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOUR%2520LORD%2527S%2520SERMON%2520ON%2520THE%2520MOUNT%2FBook%25201.html'
 source_title="SERMON ON THE MOUNT 1.6.17"
+uuid = "acd829fa-9656-45f6-a499-416f167c34bc"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Of course, the very words of the gospel are self-explanatory. While they feed th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252054.html'
 source_title="SERMON 54.3"
+uuid = "b8670afd-4427-4820-97b5-af164f2e7321"

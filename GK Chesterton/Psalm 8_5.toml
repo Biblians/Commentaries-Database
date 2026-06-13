@@ -5,6 +5,7 @@ We do not laugh at the mere fact of something falling down; there is nothing hum
 time=1908
 source_url=''
 source_title="Cockneys and Their Jokes (All Things Considered)"
+uuid = "247b8e83-9a81-4bd4-ba07-04679c7dd01b"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ Man is always something worse or something better than an animal; and a mere arg
 time=1908
 source_url=''
 source_title="Wine When It Is Red (All Things Considered)"
+uuid = "8d4ca2c7-2fa3-4d2d-8c7a-76b8409fd133"
 
 [[commentary]]
 quote='''
@@ -21,3 +23,4 @@ It is the simple truth that man does differ from the brutes in kind and not in d
 time=1925
 source_url=''
 source_title="The Everlasting Man, Chapter I: The Man in the Cave (1925)"
+uuid = "cb0ab94c-b540-45d6-99f1-3262f62c4d51"

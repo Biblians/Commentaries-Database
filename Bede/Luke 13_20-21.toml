@@ -4,6 +4,7 @@ A woman took some yeast when the church, by the Lord's generosity, secured the e
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.13"
+uuid = "ad8c0748-3423-4a98-ba6b-d8135f4b4806"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And again he said, "To what shall I compare the kingdom of God, and what is it l
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "b7e857a1-7c6b-45fb-8552-d999d90cb999"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ The Satum is a kind of measure in use in the province of Palestine, holding abou
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "8dc18ea8-e2ab-46a6-9997-ceb75fc5476a"
 
 [[commentary]]
 quote='''
@@ -28,3 +31,4 @@ Or, by the leaven He speaks of love, which kindles and stirs up the heart; the w
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "79d70555-cf18-4537-874e-1719580344df"

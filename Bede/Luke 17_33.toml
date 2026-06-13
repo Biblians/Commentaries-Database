@@ -4,6 +4,7 @@ Whoever seeks to save his life will lose it. This sentence can be correctly unde
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "99ff9011-ec91-4fc0-a94a-0b07fa67a1cc"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ And whoever loses it will save it. That is, whoever loses it here, will save it 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "add96205-cfec-4db1-b8f1-974c4fe83928"

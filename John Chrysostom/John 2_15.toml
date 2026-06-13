@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252023.html'
 source_title="Homily on the Gospel of John 23"
+uuid = "99dce738-c724-4721-bd7a-0da38792bce1"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Since he was about to heal on the Sabbath day, and to do many such things which 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252023.html'
 source_title="Homily on the Gospel of John 23"
+uuid = "0cd8e012-1f15-4a3b-9da7-26bdcf40529a"

@@ -4,6 +4,7 @@ But he who has heard and not done is like a man building his house upon the eart
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "c572b6ee-1b03-44d3-8e10-dc5462e97f3a"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Into which the river crashed, and immediately it fell. And the ruin of that hous
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "063a1aaa-28d5-4efb-a626-9d14330e8fc9"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ The house of the devil is the world which lieth in wickedness, (1 John 5:19.) wh
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "67a198e2-ade1-4b62-8da9-853b749ca2cd"

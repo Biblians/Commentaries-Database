@@ -4,6 +4,7 @@ And they cried out with a loud voice, saying: Salvation to our God, who sits on 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "8c59f74e-5170-4046-8b31-284ee2786031"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ With a loud voice [the martyrs] sing of salvation from God, since they recall wi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.10"
+uuid = "9c996f47-9713-4311-a244-aab332bfa14b"

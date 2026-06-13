@@ -4,6 +4,7 @@ Now it is no wonder that precisely "while they were going out to buy," while the
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252093.html'
 source_title="SERMON 93.9"
+uuid = "92ce2f88-46e5-4dd0-89a6-9cf87d22f4f1"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252093.html'
 source_title="SERMON 93.9"
+uuid = "50d90a7e-8a6a-4d04-9cd1-84cc60dd3f27"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "3f324040-eb02-4102-a929-92ef0fcccf80"
 
 [[commentary]]
 quote='''
@@ -27,3 +30,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "330fe63e-d9dc-4c3b-b639-a61cd08f5d62"

@@ -4,6 +4,7 @@ And they came to the other side of the sea, into the country of the Gerasenes. G
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "89637ef6-9cda-45c9-a91b-bb0d6e6d227d"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "eee0d804-5d2b-4a6e-b612-0fc46811193f"
 
 
 [[commentary]]
@@ -22,3 +24,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "255ab667-9aef-4a3f-a832-54e000a1668f"

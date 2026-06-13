@@ -4,6 +4,7 @@ But his disciples asked him what this parable might be. No one should think that
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "ee8322a9-1232-4311-a07f-6465b4d30e12"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ For as often as the admonition occurs either in the Gospel or the Revelation of 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c92991e6-3cc2-4d6e-b1ee-eaf91a6f6caf"

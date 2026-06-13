@@ -4,6 +4,7 @@ But if before the day of your contest, of the mercy of God, peace shall superven
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%25208.html"
 source_title="Epistle VIII"
+uuid = "1fe9cffc-73de-49d6-9985-755227f14b4f"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ That nothing that is done is hidden from God. In the Wisdom of Solomon: "In ever
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%252012.%2520Three%2520Books%2520of%2520Testimonies%2520Against%2520the%2520Jews.html"
 source_title="Treatise XII. Three Books of Testimonies Against the Jews."
+uuid = "18df17f2-fc99-4b1c-900f-8d659a7c5ead"
 
 
 
@@ -20,3 +22,4 @@ One will not escape and avoid God as his judge, for the Holy Spirit says in the 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%25203.%2520On%2520the%2520Lapsed.html'
 source_title="Treatise III. On the Lapsed 27"
+uuid = "7c5da140-7945-425c-96c6-3352fc93262c"

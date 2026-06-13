@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801018.htm'
 source_title="Exposition on Psalm 18"
+uuid = "028846d5-d618-4945-8fdf-392e19741a24"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ There you have something you can do. Praising, call—but remember it is the Lor
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252067.html'
 source_title="SERMON 67:6"
+uuid = "25e753e5-de24-4f41-b4e2-887701cb7025"

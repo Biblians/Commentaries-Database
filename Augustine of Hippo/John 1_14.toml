@@ -11,6 +11,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6c81cf75-89d3-4723-8462-85944722a701"
 
 [[commentary]]
 quote='''
@@ -18,6 +19,7 @@ For our word is so made in some way into an articulate sound of the body, by ass
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOn%2520The%2520Trinity%2FBook%252015.html'
 source_title="On The Trinity, Book 15, Chapter 11"
+uuid = "ca0740e1-ba4d-4b42-ac7a-699be0814e7d"
 
 [[commentary]]
 quote='''
@@ -27,6 +29,7 @@ But it was a nature entirely free from the bonds of all sin. It was not a nature
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FEnchiridion-%2520On%2520Faith%252C%2520Hope%2520and%2520Love.html'
 source_title="Enchiridion, On Faith, Hope and Love, Chapter 10"
+uuid = "b48be5ff-a407-45d2-9282-203166050356"
 
 [[commentary]]
 quote='''
@@ -34,6 +37,7 @@ What you see here, beloved, on the table of the Lord, is bread and wine; but thi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520229.html'
 source_title="SERMON 229.1"
+uuid = "f1175dd6-6c32-40f7-a909-b66191869a83"
 
 [[commentary]]
 quote='''
@@ -41,6 +45,7 @@ He assumed poverty and did not lose riches. Rich inside, poor outside. God hidde
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252036.html'
 source_title="SERMON 36.3"
+uuid = "ddb92efa-877d-4190-b9af-c8eba63d5e24"
 
 [[commentary]]
 quote='''
@@ -48,6 +53,7 @@ He made Himself a mother while He was with the Father: and when He was made from
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520186.html'
 source_title="SERMON 186.1"
+uuid = "1cdaf357-7a93-410a-834c-605cdf52f342"
 
 [[commentary]]
 quote='''
@@ -57,6 +63,7 @@ But because "the Word was made flesh, and dwelt among us," by His very nativity 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25202.html'
 source_title="Tractates on John 2"
+uuid = "a83ef7b3-c1c8-432b-9c0c-dcb1ecf6b0dc"
 
 [[commentary]]
 quote='''
@@ -64,3 +71,4 @@ Of that man we have to-day heard it said: "One Mediator of God and men, the man 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252016.html'
 source_title="Tractates on John 16"
+uuid = "9533f736-1772-417d-a0f8-ea40866c8a97"

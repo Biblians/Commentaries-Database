@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "89a51608-22ae-4a89-b525-77036b1c327e"
 
 [[commentary]]
 quote='''
@@ -14,6 +15,7 @@ The way of the Lord is made straight to the heart when the word of truth is humb
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 7"
+uuid = "22bb9bf5-37b1-4d4f-82ce-4f3dda788d22"
 
 [[commentary]]
 quote='''
@@ -23,3 +25,4 @@ For today the Holy Spirit came upon the disciples with a sudden sound, and chang
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 30"
+uuid = "cb91b1ca-1b67-472e-83a4-41a9969d0729"

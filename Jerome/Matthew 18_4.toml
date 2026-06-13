@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 3.18.4"
+uuid = "d05fd1fd-759a-4e64-8268-2178daa951a7"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "ab8e06ea-db2f-49d6-a320-c56f22f0892f"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Or otherwise; Whoso shall humble himself as this little child, that is, whoso sh
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "9b7e5886-68df-4f1e-ab78-44598de573a7"

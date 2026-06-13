@@ -5,6 +5,7 @@ quote = '''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FQuestions%2520on%2520the%2520Book%2520of%2520Kings.html"
 source_title="Questions on the Book of Kings #2"
+uuid = "8f17c91f-308d-4397-8c3e-076394abdb9a"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ Samuel grew, etc. The preaching of the Gospel grew, and God was in Christ, recon
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "6c3cadfe-bc97-4399-b132-92580f9607f0"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ And not a word from Him fell to the ground. You will find nothing earthly in the
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "7ae65f43-60c7-41b6-ac5a-e87347c06d3d"

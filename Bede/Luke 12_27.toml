@@ -4,6 +4,7 @@ Consider the lilies, how they grow: they neither labor nor spin. But these examp
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "6964f762-bbd4-4e16-a280-f14fabf26ae6"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ But I say to you, not even Solomon in all his glory was clothed like one of thes
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "84103991-71cc-42f7-a498-ad6c31024c96"

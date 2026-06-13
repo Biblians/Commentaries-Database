@@ -18,6 +18,7 @@ Oddly enough, what corroborates me in this faith is the fact, otherwise so infin
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-letterstomalcolm/lewiscs-letterstomalcolm-00-h.html'
 source_title="LETTERS TO MALCOLM: CHIEFLY ON PRAYER, Letter 14"
+uuid = "6c4868a7-a04e-43c8-bea6-323d852684fd"
 
 [[commentary]]
 quote='''
@@ -27,3 +28,4 @@ The smallest event, then, if we face the fact that it occurs (instead of concent
 '''
 source_url=''
 source_title="The Laws of Nature, from God in the Dock"
+uuid = "aa7fb6c9-12e5-4066-9b1f-5263dcdc2ab5"

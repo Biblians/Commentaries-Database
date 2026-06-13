@@ -4,6 +4,7 @@ Already you have told me, O Lord, by means of a loud voice in my interior ear, t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FConfessions%2FBook%252012.html'
 source_title="Confessions 12.11.11"
+uuid = "08a24384-3491-43bb-93e0-229c94c7b05d"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ I am doing the right thing in taking my time over this question [about the origi
 '''
 source_url=''
 source_title="LETTERS 143.1.7"
+uuid = "4993efd6-6718-4d1d-bdf1-5b824aa638fd"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ So if God alone has immortality, is the soul mortal? That's why I said the soul 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252065.html'
 source_title="Sermons 65.4"
+uuid = "e49ab0a5-2faa-4b12-92ff-e414d90214a5"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ If you ask whether he can also be seen at any time as he is, I answer that this 
 '''
 source_url=''
 source_title="LETTERS 147.15.37"
+uuid = "52ba1bb1-63a9-4c6d-9db4-cb48007aef64"
 
 [[commentary]]
 quote='''
@@ -32,6 +36,7 @@ This, then, is charity, however small a thing it appears to us, as it inheres in
 '''
 source_url=''
 source_title="LETTERS 147.18.44"
+uuid = "5581fa37-746c-4a06-ac21-e88bfe66e4ca"
 
 
 [[commentary]]
@@ -40,3 +45,4 @@ God, Father Son and Holy Spirit, is in his own proper nature invisible. But he h
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%25207.html'
 source_title="SERMONS 7.4"
+uuid = "1585ab9d-df12-4a35-84d7-3d3e152385f4"

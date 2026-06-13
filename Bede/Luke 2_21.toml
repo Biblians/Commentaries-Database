@@ -15,6 +15,7 @@ Of this name the elect also in their spiritual circumcision rejoice to be partak
 append_to_author_name = ' (as quoted by Aquinas, AD 1274)'
 source_url = 'https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b9d17379-22d7-47d6-93be-5fc79c22d7d9"
 
 [[commentary]]
 quote = '''
@@ -22,6 +23,7 @@ He therefore received in the flesh the circumcision decreed by the law, although
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.11"
+uuid = "9a4260ca-b7bf-41cc-bb6d-e6ab8f5cc90a"
 
 
 [[commentary]]
@@ -30,6 +32,7 @@ And when eight days were completed for the circumcision of the child, his name w
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "04e9f6ae-b7e3-40a1-b717-095427e546c9"
 
 
 [[commentary]]
@@ -38,6 +41,7 @@ Circumcision was also a type and figure of many things. For it was a seal (as st
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "eee77353-6999-419f-8156-2f6a1e5c75a3"
 
 
 [[commentary]]
@@ -46,3 +50,4 @@ His name was called Jesus, said he, which was named by the angel before he was c
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "02e2d1c7-0e78-4d0a-b0e4-050b4f89528e"

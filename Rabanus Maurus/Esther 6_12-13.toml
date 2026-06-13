@@ -6,6 +6,7 @@ Here we see how the stubbornness of the Synagogue of the Jews was crushed, and t
 '''
 source_url='https://sites.google.com/site/aquinasstudybible/home/esther/rabanus-maurus-commentary-on-esther'
 source_title="Commentary on Esther"
+uuid = "55aa438b-3684-43d2-b0f9-491296bc6f6b"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ This is the change caused by the right hand of the Highest: the one who had just
 '''
 source_url=''
 source_title="EXPLANATION ON THE BOOK OF ESTHER 9"
+uuid = "b78ede2d-c884-4718-92a0-414906381587"

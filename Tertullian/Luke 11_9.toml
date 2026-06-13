@@ -4,6 +4,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
 source_title="The Prescription Against Heretics"
+uuid = "86ffcbc2-1064-4c95-be59-e12eb85b5626"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ In like manner, from whom must I ask that I may receive? Of whom seek, that I ma
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "212f74f1-ff99-4b3f-83e4-edaf6a24fb4d"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ Therefore, blessed ones, whom the grace of God awaits, when you ascend from that
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html"
 source_title="On Baptism"
+uuid = "40481f9e-8928-42f1-a71a-da51b49a5a79"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ Since, however, the Lord, the Foreseer of human necessities, said separately, af
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html"
 source_title="On Prayer"
+uuid = "791e8af8-1fd3-4080-94d5-50bb076c63fc"

@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d25d45ea-f45a-4cbc-ac37-5bcd7f0a5fc6"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252088.html'
 source_title="Tractates on John 88"
+uuid = "3b39c24c-c0b2-4bf7-935a-e87c183bff83"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ And He added, "Because they know not Him that sent me." This is to be understood
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252088.html'
 source_title="Tractates on John 88"
+uuid = "bf5b9daf-0fa8-4279-87bd-1e8b897654c9"

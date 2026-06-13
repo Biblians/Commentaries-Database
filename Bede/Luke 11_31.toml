@@ -4,6 +4,7 @@ The Queen of the South will rise in the judgment with the men of this generation
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "fcb794f8-6953-4afd-9f9f-c045188f62de"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ For she came from the ends of the earth to hear the wisdom of Solomon, and behol
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "919963e8-9b47-48b4-b256-59decf92b440"
 
 
 [[commentary]]
@@ -21,6 +23,7 @@ Not certainly by any authority to judge, but by the contrast of a better deed. A
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6f65e8a2-9d5d-4f10-b125-2d8b52995ce5"
 
 
 [[commentary]]
@@ -30,3 +33,4 @@ But if the queen of the South, who doubtless is of the elect, shall rise up in j
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "451d64af-201c-4b08-ad50-5b17ab0bc491"

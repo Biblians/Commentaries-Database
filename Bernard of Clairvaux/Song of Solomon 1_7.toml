@@ -28,6 +28,7 @@ Just as we say that our ancestors possessed only shadows and images, whereas the
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bernard%2520of%2520Clairvaux%2FSermons%2520on%2520the%2520Song%2520of%2520Songs%2FSermon%252031.html'
 source_title="Sermons on the Song of Songs, Sermon 31"
+uuid = "41f53ee9-8e90-443e-9250-01541a4e78cb"
 
 [[commentary]]
 quote='''
@@ -55,6 +56,7 @@ HOW CHRIST IS RECEIVED BY THE HOLY SOUL AS A BRIDEGROOM, AND BY THE WEAK SOUL AS
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bernard%2520of%2520Clairvaux%2FSermons%2520on%2520the%2520Song%2520of%2520Songs%2FSermon%252032.html'
 source_title="Sermons on the Song of Songs, Sermon 32"
+uuid = "e5990a99-c383-42e5-a217-f05d71f5733b"
 
 
 [[commentary]]
@@ -65,6 +67,7 @@ SERMON 3 ON THE KISS OF THE LORD'S FOOT, HAND, AND MOUTH
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bernard%2520of%2520Clairvaux%2FSermons%2520on%2520the%2520Song%2520of%2520Songs%2FSermon%25203.html'
 source_title="Sermons on the Song of Songs, Sermon 3"
+uuid = "1a13210a-c0b4-41b8-98cd-147f9ca31b46"
 
 [[commentary]]
 quote='''
@@ -110,3 +113,4 @@ Therefore let both sides know that there are four kinds of temptation, described
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bernard%2520of%2520Clairvaux%2FSermons%2520on%2520the%2520Song%2520of%2520Songs%2FSermon%252033.html'
 source_title="Sermons on the Song of Songs, Sermon 33"
+uuid = "14791d75-5066-4fc1-a377-650547c0ea38"

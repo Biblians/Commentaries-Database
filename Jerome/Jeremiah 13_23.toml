@@ -4,6 +4,7 @@ By the reading of the prophet the eunuch of Candace, the queen of Ethiopia, is m
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_069.html'
 source_title="LETTER 69.6"
+uuid = "b883018b-9b9a-4562-a434-57e6b637c407"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Then immediately quickening her pace, she began to move along the old road that 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_108.html'
 source_title="LETTER 108.11"
+uuid = "e8bf5692-27ba-4229-8454-8bfca6b490fd"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Jeremiah.html'
 source_title="Commentary on Jeremiah"
+uuid = "8264c6c9-3b85-4729-a4e0-c7581468c85b"

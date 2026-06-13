@@ -5,6 +5,7 @@ quote = '''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FQuestions%2520on%2520the%2520Book%2520of%2520Kings.html"
 source_title="Questions on the Book of Kings #1"
+uuid = "49087f66-3a56-46dc-a2b6-0b709f7ca547"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ And I will build a faithful house for him, etc. The faithful house, which is bui
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "2bc6d6b3-dd26-42ec-a56b-b85d0841b8a4"

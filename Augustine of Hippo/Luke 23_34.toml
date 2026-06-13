@@ -4,6 +4,7 @@ Look at the Lord who did precisely what he commanded. After so many things the g
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520382.html'
 source_title="SERMON 382.2"
+uuid = "c31ebc6b-0c91-4f9b-bd87-d931c5690d08"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ So Stephen loved his enemies. I mean, while he stood up to pray for himself, he 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520317.html'
 source_title="SERMON 317.2-3, 6"
+uuid = "d1c02d3a-24f3-43bc-9a9f-5b1487b31cff"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ Let me now tell you something that will help you believe what you cannot possibl
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520229G.html'
 source_title="SERMON 229G.5"
+uuid = "809818fd-a2b7-416a-84d4-aa00e1192fbf"
 
 [[commentary]]
 quote='''
@@ -27,6 +30,7 @@ You are a Christian. You carry the cross of Christ on your forehead. The mark st
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520302.html'
 source_title="SERMON 302.3"
+uuid = "59b1a4fb-7c46-4578-ae7f-75b28762c557"
 
 [[commentary]]
 quote='''
@@ -35,3 +39,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "3a0bc6e8-47d9-432d-bee5-c04fa1677893"

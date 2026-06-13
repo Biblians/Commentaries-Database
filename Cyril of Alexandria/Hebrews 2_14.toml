@@ -4,6 +4,7 @@ It was not otherwise possible for man, forasmuch as he was of a nature that was 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520the%2520Gospel%2520of%2520John%2FBook%25209.html'
 source_title="Commentary on the Gospel of John, Book 9"
+uuid = "153083cc-a547-4aac-a1bc-807b81844a7d"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ For existing essentially as life, the only begotten Word of God united himself t
 '''
 source_url=''
 source_title="COMMENTARY ON HEBREWS"
+uuid = "0b15299f-7e78-4a94-b97b-0c4cf1cba73b"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ We say that he partook of blood and flesh in accordance with the meaning establi
 '''
 source_url=''
 source_title="ON THE UNITY OF CHRIST 744"
+uuid = "8624869b-fd33-4ee0-b880-e68e51ed7c1b"
 
 
 [[commentary]]
@@ -28,3 +31,4 @@ Therefore, the one Lord Jesus Christ must not be divided into two sons. The corr
 '''
 source_url=''
 source_title="SECOND LETTER TO NESTORIUS"
+uuid = "607bdcf1-ef2b-4c04-889e-654edc1d0909"

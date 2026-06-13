@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON EZEKIEL 6:18.32"
+uuid = "25bd3206-e82d-4de4-b503-6177d8098f2e"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Ezekiel.html'
 source_title="Commentary on Ezekiel"
+uuid = "b56ddf82-fa81-4bbf-8cff-160313b3f8b0"

@@ -4,6 +4,7 @@ A man writing an article on military strategy is simply a man writing an article
 '''
 source_url=''
 source_title="Tremendous Trifles, The Toy Theatre (1909)"
+uuid = "f47208c3-ca5e-4a32-93a8-29fe39aca85f"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url=''
 source_title="A Miscellany of Men: The Angry Author: His Farewell"
+uuid = "cb175690-139e-40ce-a7f9-a48a05eccbad"

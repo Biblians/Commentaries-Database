@@ -5,6 +5,7 @@ He said not positively to them I am he, but rather leads them to the certainty o
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "2d757b99-b7b5-4f9c-b277-31bed83cd24f"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ Or else, He wished by this to show that whatever was passing in their hearts, co
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1bceacf3-dfe5-4abf-8a24-e5a2127909ee"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Here see I pray the beautiful art of the Saviour's management. For He does not s
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520the%2520Gospel%2520of%2520Luke%2FSermons%252027-38%2520(Luke%25206-20-7-28).html'
 source_title="Commentary on the Gospel of Luke, Sermon 37"
+uuid = "53ce61d8-dd9a-468c-846f-1053c776b356"

@@ -4,6 +4,7 @@ With one and the same voice of confession and praise, they exalt the Lord, both 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.3"
+uuid = "eaebcce3-ae49-488e-8156-cd6a0e5b4707"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ But the crowds take up a verse of praise from the one hundred and seventeenth ps
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.3"
+uuid = "a3b7c9d2-f019-48b5-9698-3d88d5c64185"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ Blessed is he who comes in the name of the Lord. In the name of the Lord signifi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.3"
+uuid = "7ad4ddde-4ec1-485f-b4f1-b4506335140d"
 
 [[commentary]]
 quote='''
@@ -28,3 +31,4 @@ It is a compound of two words; Hosi is shortened into save; Anna a mere exclamat
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "802630ee-7593-4dba-a87f-9e7582741d98"

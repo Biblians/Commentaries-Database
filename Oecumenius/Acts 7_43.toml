@@ -4,6 +4,7 @@ Moloch, or Molchom. This is an idol of the Moabites, a stone having a transparen
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "b7378377-6ed3-4e18-907f-e65bdd14e921"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ And because you filled up the madness of the Moabites, which is the region near 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "23cb5b53-9ce4-40de-807a-5ceb596f668e"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ And although the prophet says "beyond Damascus" (for so the Septuagint translati
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "1b44741e-2775-47bf-a567-f212132e7c31"

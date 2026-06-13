@@ -5,6 +5,7 @@ Not an Angel, as many have held. The Evangelist here refutes such a notion.
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "11bbed5e-8ca4-4d7e-99f5-d035747b12dd"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Having told us about the pre-eternal existence of God the Word and intending to 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Commentary on John"
+uuid = "c14b7398-8e4c-4a02-92db-8ccc7e9038a2"

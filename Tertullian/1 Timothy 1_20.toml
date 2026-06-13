@@ -5,6 +5,7 @@ Plainly Paul states that he delivered to Satan Hymenaeus and Alexander, "that th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html'
 source_title="ON MODESTY 13"
+uuid = "7d88b124-c378-4d0c-9110-960b6dd1f4d1"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ It is a comparatively small thing, that certain men, like Phygellus, and Hermoge
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
 source_title="The Prescription Against Heretics"
+uuid = "ba836f20-3b1f-4fb1-895b-ed372f44c2fa"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ The famous Alexander, too, instigated by his love of disputation in the true fas
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Flesh%2520of%2520Christ.html"
 source_title="On the Flesh of Christ"
+uuid = "9aaad1cf-9ae1-4445-bdb3-920cf664f9a7"
 
 [[commentary]]
 quote='''
@@ -26,6 +29,7 @@ Plainly, the selfsame apostle delivered to Satan Hymenaeus and Alexander, "that 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "82641b7c-6175-4174-b2dd-a40aa7292f46"
 
 [[commentary]]
 quote='''
@@ -33,3 +37,4 @@ For the apostle likewise delivered Phygellus and Hermogenes over to Satan that b
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Flight%2520in%2520Persecution.html"
 source_title="On Flight in Persecution"
+uuid = "d6c11f47-21d0-4bab-8d70-9ba232129fed"

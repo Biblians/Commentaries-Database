@@ -4,6 +4,7 @@ And they returned and came to the fountain of Mesphat. This is Kadesh. Mesphat i
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Genesis.html"
 source_title="Commentary on Genesis (Hexaemeron)"
+uuid = "303794dd-3ce4-4330-9f4c-2674a07c9cff"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And they struck the whole region of the Amalekites. This must be linked with the
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Genesis.html"
 source_title="Commentary on Genesis (Hexaemeron)"
+uuid = "9bbe75c8-9629-4e7c-a6a2-8ff00fcf554a"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ But what follows: And the Amorite who lived in Hazezzon-tamar, belongs to anothe
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Genesis.html"
 source_title="Commentary on Genesis (Hexaemeron)"
+uuid = "817385cb-5eb1-4ba4-88ce-37a29df152d2"

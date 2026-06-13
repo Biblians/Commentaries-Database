@@ -4,6 +4,7 @@ See how matters are managed. First they were all mocked together. Then, after th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "308ac23e-fb75-4457-a979-ac07445c87ef"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ While the apostles had not yet recovered from their previous afflictions, they f
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "95feed76-4ea1-4e31-838b-2b655aef8b78"

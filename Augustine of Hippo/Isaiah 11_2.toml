@@ -4,6 +4,7 @@ A person would not have wisdom, understanding, counsel, fortitude, knowledge, pi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 194"
+uuid = "c14de2b2-6d8f-4ad7-8227-eecaed2f868d"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ For if Paul had said only "Jesus Christ," he would have included Jesus Christ ac
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%2520120.html'
 source_title="EXPLANATIONS OF THE PSALMS 120 (119): 1"
+uuid = "66a9296f-3026-4a79-a621-065522f113ee"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ And this Holy Spirit is in Scripture especially spoken of by the number seven, w
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%2520150.html'
 source_title="EXPLANATIONS OF THE PSALMS 150: 1"
+uuid = "222926d5-bcb8-4845-8a98-b47b6d88abdf"
 
 
 [[commentary]]
@@ -28,6 +31,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520229M.html'
 source_title="SERMON 229M.2"
+uuid = "715b6246-61a8-46c5-8d28-1400e5cccd13"
 
 
 [[commentary]]
@@ -36,6 +40,7 @@ The apostle also says to Timothy, "For God hath not given to us the spirit of fe
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FA%2520Treatise%2520on%2520Grace%2520and%2520Free%2520Will.html'
 source_title="ON GRACE AND FREE WILL 39"
+uuid = "4d4e6165-67e5-42c4-93fb-847c194da47d"
 
 
 [[commentary]]
@@ -44,3 +49,4 @@ It seems to me, therefore, that the sevenfold operation of the Holy Spirit, of w
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOUR%2520LORD%2527S%2520SERMON%2520ON%2520THE%2520MOUNT%2FBook%25201.html'
 source_title="SERMON ON THE MOUNT 1:11"
+uuid = "fb6f6145-7581-4aa2-bbc2-70856d9524e3"

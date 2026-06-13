@@ -4,6 +4,7 @@ For, withal, according to the memorial records of the divine Scriptures, the peo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html'
 source_title="An Answer to the Jews"
+uuid = "f3d63e69-063d-4719-becb-a99231a32597"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ How, therefore, can such a hydra of delinquencies fail to offend the Lord, the D
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOf%2520Patience.html'
 source_title="Of Patience"
+uuid = "6b40b17d-a137-4613-9ca2-198928de1e21"

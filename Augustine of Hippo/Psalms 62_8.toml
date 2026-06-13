@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%252062.html'
 source_title="Exposition on Psalm 62"
+uuid = "d53539d4-fa27-4951-9a0d-f9a084b1cad0"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Therefore no one is self-sufficient except by God's gift. You have a gift agains
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520283.html'
 source_title="Sermon 283:3"
+uuid = "621acf43-93ee-442e-99c0-275533cb4991"

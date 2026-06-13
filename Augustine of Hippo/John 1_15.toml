@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "0f0789f7-61a8-48ed-aef2-e0520f82bb32"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ John admitted he was a lamp lit from Christ, and that is why he took refuge at h
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252066.html'
 source_title="SERMON 66.1"
+uuid = "f701ed98-467d-47ad-9ec5-2b82f5c8ef2d"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25203.html'
 source_title="Tractates on John 3"
+uuid = "74246cbe-6e9a-4bf2-86c3-9a957544b981"

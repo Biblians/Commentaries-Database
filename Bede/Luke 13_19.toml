@@ -4,6 +4,7 @@ A man took it and planted it in his garden. The man is Christ, the garden is His
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "7ec95d14-6ff1-450b-a645-5f0a4818fe13"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And it grew and became a tree. The preaching of the Gospel spread throughout the
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "b4ddae31-6eaf-49b3-be8d-9601d33eff30"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ And the birds of the air rest in its branches. The branches of this tree are the
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "b62f2de6-5b3e-4814-9216-986bfd3e2f5b"
 
 [[commentary]]
 quote='''
@@ -28,3 +31,4 @@ Now the man, is Christ, the garden, His Church, to be cultivated by His discipli
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "907fc929-a66e-4a40-87c4-d66aaf402dd7"

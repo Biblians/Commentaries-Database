@@ -5,6 +5,7 @@ The modern world, when it praises its little Caesars, talks of being strong and 
 time=1905
 source_url=''
 source_title="Heretics, Ch. 5: Mr. H. G. Wells and the Giants (1905)"
+uuid = "dbd78174-a3fd-4352-a2ad-921b4180d348"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ For the truth is much stranger even than it appears in the formal doctrine of th
 time=1905
 source_url=''
 source_title="Heretics, Ch. 9: The Moods of Mr. George Moore (1905)"
+uuid = "1c33d59f-d5bb-4d12-af40-c5e894dc73ab"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ As a matter of fact, the strongest nations are those, like Prussia or Japan, whi
 '''
 source_url=''
 source_title="Heretics, Ch. 12: Paganism and Mr. Lowes Dickinson (1905)"
+uuid = "cdbbad05-15a3-472b-9fbf-3612d0504549"
 
 [[commentary]]
 quote='''
@@ -27,6 +30,7 @@ There is the chivalrous lesson of "Jack the Giant Killer"; that giants should be
 '''
 source_url=''
 source_title="Orthodoxy, Ch. 4: The Ethics of Elfland (1908)"
+uuid = "32bcbf67-f413-460f-bd8a-c6fd81132fb4"
 
 [[commentary]]
 quote='''
@@ -36,3 +40,4 @@ I have heard that there is a place under the knee which, when struck, should pro
 '''
 source_url=''
 source_title="Alarms and Discursions, A Drama of Dolls (1910)"
+uuid = "8fc597c0-3a14-4162-8f9c-d88a10a9073e"

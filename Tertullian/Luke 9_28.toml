@@ -4,6 +4,7 @@ You ought to be very much ashamed of yourself on this account too, for permittin
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "da9c136e-f889-42ee-b452-e6ec2d693d3a"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ And this is just the way of the Creator. "In the mouth of three witnesses," says
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "a641d4ac-0cc6-4300-a730-51782e8d9bef"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ is it that He Himself withal should set upon His own official chair men who were
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html"
 source_title="On Monogamy"
+uuid = "1ac98050-4f08-4ac7-8bd0-9f0eaca0b146"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ On the other hand, he whose "heart" was habitually found "lifted up" rather than
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Fasting.html"
 source_title="On Fasting"
+uuid = "4fbb13c8-f380-41f5-abdb-93cecf1c78b7"

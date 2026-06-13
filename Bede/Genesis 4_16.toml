@@ -4,6 +4,7 @@ And Cain went out from the presence of the Lord, that is, from the inner parts o
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Genesis.html"
 source_title="Commentary on Genesis (Hexaemeron)"
+uuid = "49656e2f-4cc4-40e7-945f-e7603226ebcb"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ He dwelled in the land as a fugitive to the east of Eden. Eden is interpreted as
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Genesis.html"
 source_title="Commentary on Genesis (Hexaemeron)"
+uuid = "9cc96155-2b28-4f99-99db-d955e2ef2b45"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ And Cain went out from the presence of the Lord and dwelt in the land of Nod to 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Genesis.html"
 source_title="Commentary on Genesis (Hexaemeron)"
+uuid = "281bb773-563c-47d3-b402-d1e0d4f07a8a"

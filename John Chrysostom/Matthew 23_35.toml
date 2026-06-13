@@ -5,6 +5,7 @@ Then to show them that they should not do this without punishment, He holds out 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ac786221-8e3d-4e78-92d9-7a6b47b27655"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ Moreover, He names Abel, to show that it would be out of envy that they would ki
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "254976c5-89b9-49d3-a33f-c4549067e94f"

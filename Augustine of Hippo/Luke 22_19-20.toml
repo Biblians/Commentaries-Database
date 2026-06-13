@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "bad1ecc5-3ab8-49ee-b98e-7db175b0f29c"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ You hold the sacraments in their order. First, after the prayer, you are admonis
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520227.html'
 source_title="SERMON 227"
+uuid = "3394b44d-3011-476f-9f33-5926e1d7f610"

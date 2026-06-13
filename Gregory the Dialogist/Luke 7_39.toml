@@ -4,6 +4,7 @@ A witness of divine mercy is present: this very Mary of whom we speak, about who
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 25"
+uuid = "9e57f187-1114-4c48-872b-93477867b273"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ But amid these things, a groaning compels us to look at certain men of our own o
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 33"
+uuid = "dea009db-2339-49f1-bcb7-0e926153cc63"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ In a mystical sense, the Pharisee sees this and envies it, because when the Jewi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 33"
+uuid = "6a6ca014-ef4c-401a-9adb-6e4b6f137726"
 
 [[commentary]]
 quote='''
@@ -28,6 +31,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "69dbdc65-6cfc-464a-b304-8a333b2133c9"
 
 [[commentary]]
 quote='''
@@ -36,3 +40,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "400006a8-3495-467f-8258-01abe54e3d5b"

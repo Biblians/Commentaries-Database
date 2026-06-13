@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 7"
+uuid = "be096406-7835-45b0-989c-7c812f2286e4"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ As it is written in the book of the words of Isaiah the prophet: The voice of on
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 20"
+uuid = "1734c017-a70b-4304-a715-dc36ae1bc9f7"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b5f7886d-0f78-4dc7-8e57-709f02955bd7"
 
 [[commentary]]
 quote='''
@@ -27,6 +30,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "7c3b212b-9354-45c0-a774-3f50f95976de"
 
 [[commentary]]
 quote='''
@@ -35,3 +39,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "5feca107-c0b0-4505-88d9-84838efda0f5"

@@ -4,6 +4,7 @@ Never mind those who pass sentence on apostles! It is a happy fact that Peter is
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html'
 source_title="The Prescription Against Heretics"
+uuid = "30d9b177-bb58-416f-a3b0-3b7c9c2347ba"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Why should I add more touching these two planks (as it were) of human salvation,
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Repentance.html'
 source_title="On Repentance"
+uuid = "9d00f17b-d624-4479-9996-5489f8c56dce"

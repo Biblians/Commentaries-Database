@@ -4,6 +4,7 @@ He led them out as far as Bethany, and lifting up his hands, he blessed them. An
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "4d59fc67-eb66-4720-a000-a298c6d8b688"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ Having omitted all those things which may have taken place during forty-three da
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "66986be0-e35b-4c3f-aa4c-f25a6e6d4904"
 
 
 [[commentary]]
@@ -21,6 +23,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 11.15"
+uuid = "694dafea-e3b8-4b03-a06d-8cb1de97c0d6"
 
 
 [[commentary]]
@@ -29,3 +32,4 @@ We must not pass over the fact that Bethany is on the slope of the Mount of Oliv
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 11.15"
+uuid = "742499bb-6b91-4778-88c3-09a154310b56"

@@ -4,6 +4,7 @@ Everyone, even little children, have broken God's covenant, not indeed in virtue
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252016.html'
 source_title="City of God 16.27"
+uuid = "a63ee0a2-36cb-4019-9d1a-b050326a0fa6"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ When a man is born, he is already born with death, because he contracts sin from
 '''
 source_url=''
 source_title="TRACTATES ON THE GOSPEL OF JOHN 49.12.2"
+uuid = "62f75223-8502-4f82-a9bb-d4cb48bfcf52"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ If the souls of all men are derived from that one which was breathed into the fi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 164"
+uuid = "bb90b3a8-69e1-4169-9ffb-10030302640a"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ As infants cannot help being descended from Adam, so they cannot help being touc
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 157"
+uuid = "1d934b64-40a3-4885-97d4-1c3c87bd6ed2"
 
 [[commentary]]
 quote='''
@@ -32,6 +36,7 @@ These words clearly teach that original sin is common to all men, regardless of 
 '''
 source_url=''
 source_title="AGAINST JULIAN 6.20.63"
+uuid = "b70a013b-65c0-4024-b633-474d83fec973"
 
 [[commentary]]
 quote='''
@@ -39,3 +44,4 @@ All men for whom Christ died died in the sin of the first Adam, and all who are 
 '''
 source_url=''
 source_title="AGAINST JULIAN 6.7.21"
+uuid = "5b4381db-198a-4c7b-acac-ba895bdea0a3"

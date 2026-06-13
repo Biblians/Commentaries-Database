@@ -5,6 +5,7 @@ For why should we be eager to bear children, whom, when we have them, we desire 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FTo%2520His%2520Wife%2FBook%25201.html"
 source_title="To His Wife Book I"
+uuid = "f51fdac0-32c8-406c-9e70-5c602794b81d"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ A third saying let them add, "Let us eat, and drink, and marry, for to-morrow we
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html"
 source_title="On Monogamy"
+uuid = "78228c93-4a50-469c-97d2-a9ceafc419ae"

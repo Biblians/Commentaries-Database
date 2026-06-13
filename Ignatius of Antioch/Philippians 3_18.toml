@@ -4,6 +4,7 @@ And after the observance of the Sabbath, let every friend of Christ keep the Lor
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Ignatius%2520of%2520Antioch%2FEpistle%2520to%2520the%2520Magnesians.html"
 source_title="Epistle of Ignatius to the Magnesians"
+uuid = "02ca50ab-2c52-45d7-8400-b467d3d9d1ee"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Do ye also avoid those wicked offshoots of his, Simon his firstborn son, and Men
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Ignatius%2520of%2520Antioch%2FEpistle%2520to%2520the%2520Trallians.html"
 source_title="Epistle of Ignatius to the Trallians"
+uuid = "064b5d3a-36c4-4935-a48a-f55106ed65e9"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ These things I write to you, thou new olive-tree of Christ, not that I am aware 
 source_url="https://historicalchristian.faith/by_father.php?file=Ignatius%2520of%2520Antioch%2FPseudo-Ignatius%2FEpistle%2520to%2520the%2520Antiochians.html"
 source_title="Epistle of Pseudo-Ignatius to the Antiochians"
 time = 400
+uuid = "70766ebe-fbf9-4a14-b214-03c949bf463f"

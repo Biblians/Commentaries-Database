@@ -5,6 +5,7 @@ Those also are even now condemned under the name of Jews, and made subject to fu
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "af025bc4-bbad-465b-8b63-75810ed1049b"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ They are still accused under the name of the Jews, and they are determined to be
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Exposition of the Gospel of Luke, 7.108"
+uuid = "9c841fdb-a19e-4328-86de-543188d0b61b"

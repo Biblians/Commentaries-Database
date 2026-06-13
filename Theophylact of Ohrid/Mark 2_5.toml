@@ -5,6 +5,7 @@ He saw the faith of the sick man himself, since he would not have allowed himsel
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "5e8d178b-acdd-4ba1-9e52-e323b1524a62"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ If therefore I, having the powers of my mind unstrung, remain, whenever I attemp
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c873411e-783b-4173-bf12-7d9fc18d6e05"

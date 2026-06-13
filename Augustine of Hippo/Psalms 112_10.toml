@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801112.htm'
 source_title="Exposition on Psalm 112"
+uuid = "0750c305-ef06-45d0-97ae-9f85a7cae2ee"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Dearly beloved, whether the Jews receive these divine testimonies with joy or wi
 '''
 source_url=''
 source_title="IN ANSWER TO THE JEWS 10:15"
+uuid = "78df2cce-be1e-4e28-879c-df2f93b91339"

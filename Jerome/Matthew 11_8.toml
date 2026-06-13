@@ -4,6 +4,7 @@ If the Lord had intended a higher meaning unfavorable to John, as many imagine t
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 2.11.6"
+uuid = "9a6211ce-5c5b-4ec1-9f53-ff52e064759c"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "a7998676-33eb-4a35-80b4-173d76f08921"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ This teaches that an austere life and strict preaching ought to shun kings' cour
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "9b130e15-eeb4-4320-932f-7c9b019ac9b1"
 
 [[commentary]]
 quote='''
@@ -28,3 +31,4 @@ Mystically; By the garment wherewith his body is clothed is his mind shown, that
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "eda98183-9cdf-464f-9881-3df62d64a223"

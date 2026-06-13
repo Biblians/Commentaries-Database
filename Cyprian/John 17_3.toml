@@ -4,6 +4,7 @@ For whereas in the Gospels, and in the epistles of the apostles, the name of Chr
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252072.html"
 source_title="Epistle LXXII"
+uuid = "587750a0-8261-47b7-b3c4-a66268fc959a"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ What wonder is it, beloved brethren, if such is the prayer which God taught, see
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%25204.%2520On%2520the%2520Lord%2527s%2520Prayer.html"
 source_title="Treatise IV. On the Lord's Prayer."
+uuid = "614390c1-5c17-49cf-b365-0edf312183ad"
 
 
 [[commentary]]
@@ -19,6 +21,7 @@ Look, therefore, while there is time, to the true and eternal salvation; and sin
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%25205.%2520An%2520Address%2520to%2520Demetrianus.html"
 source_title="Treatise V. An Address to Demetrianus."
+uuid = "14d3571f-1f7e-4533-aca7-1a0cdb319db2"
 
 
 [[commentary]]
@@ -27,6 +30,7 @@ That God alone must be worshipped. "As it is written, Thou shall worship the Lor
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%252011.%2520Exhortation%2520to%2520Martyrdom%252C%2520Addressed%2520to%2520Fortunatus.html"
 source_title="Treatise XI. Exhortation to Martyrdom, Addressed to Fortunatus."
+uuid = "d95f0c8d-d794-471c-bd72-d591320dfc7d"
 
 
 [[commentary]]
@@ -35,3 +39,4 @@ That Christ is the First-born, and that He is the Wisdom of God, by whom all thi
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%252012.%2520Three%2520Books%2520of%2520Testimonies%2520Against%2520the%2520Jews.html"
 source_title="Treatise XII. Three Books of Testimonies Against the Jews."
+uuid = "5a3cefea-9b6e-495e-a026-e34a8960d13f"

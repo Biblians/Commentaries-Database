@@ -4,6 +4,7 @@ For what are this next words? "Now this I say, brethren, that flesh and blood ca
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "ddf13cf3-fa46-40b7-9656-a71ba9d0eb2b"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Now if, on the contrary, there is to be no flesh, how then shall it put on incor
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "f3305d09-a841-42f6-a6e8-8e3a03a9d396"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ When also he (in a later passage) enjoins us "to cleanse ourselves from all filt
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "1bb05056-19d1-44b4-9100-0e4667465edb"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ The apostle, however, himself here comes to our aid; for, while explaining in wh
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "40051599-c3e4-47f8-a7df-dcab73434705"
 
 [[commentary]]
 quote='''
@@ -32,6 +36,7 @@ But "flesh and blood," you say, "cannot inherit the kingdom of God." We are quit
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "dc041ba1-09b9-4bc7-8a3a-5b4a3ef92689"
 
 [[commentary]]
 quote='''
@@ -39,6 +44,7 @@ Since, therefore, he makes the image both of the earthy and the heavenly consist
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "76f909fb-e6c3-488a-bbeb-e8be484cbebc"
 
 [[commentary]]
 quote='''
@@ -46,6 +52,7 @@ Now, when it is clearly stated what the condition is to which the resurrection d
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "dc820ec1-6e87-492a-b5a3-6b6f365d4bf0"
 
 [[commentary]]
 quote='''
@@ -53,6 +60,7 @@ Otherwise, if they say that you are not in Christ, let them also say that Christ
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "6aa4b298-861c-4a0b-9abf-03d3a047b0bb"
 
 [[commentary]]
 quote='''
@@ -60,3 +68,4 @@ I believe (He does so) for fear the heads of some should be seen! And oh that in
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Apparel%2520of%2520Women%2FBook%25202.html"
 source_title="On the Apparel of Women Book II"
+uuid = "8e735bd0-b650-4fdb-ae25-b9fe6b746e23"

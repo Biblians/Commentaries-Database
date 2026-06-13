@@ -4,6 +4,7 @@ But by repentance I mean, not only to forsake our former evil deeds, but also to
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Matthew%2FHomily%252010.html'
 source_title="Homily on the Gospel of Matthew 10"
+uuid = "ff37f4c7-4669-4cf8-916d-3467751c9264"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ For to flee from wickedness is not enough, but you must show forth also great vi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Matthew%2FHomily%252011.html'
 source_title="Homily on the Gospel of Matthew 11"
+uuid = "e8f64ae3-4d62-4478-9d05-ffb8d20be28e"

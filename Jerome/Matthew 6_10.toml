@@ -9,6 +9,7 @@ Let them be put to shame by this text who falsely affirm that there are daily fa
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f382a5ef-705d-4e9e-9ba6-d007712b9e46"
 
 
 [[commentary]]
@@ -19,3 +20,4 @@ Thy will be done, on earth as it is in heaven. Just as the angels serve thee bla
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "f9820fa5-c07f-4498-aeed-7693d690bedd"

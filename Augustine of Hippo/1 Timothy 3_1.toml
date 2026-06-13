@@ -4,6 +4,7 @@ But you think that this should not have happened to you because you believe that
 '''
 source_url=''
 source_title="LETTERS 173.1.2"
+uuid = "043ff655-c581-451c-96fa-a33a085e9794"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Consider these three temperaments: the contemplative, the active, the contemplat
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252019.html'
 source_title="City of God 19.19"
+uuid = "e7b85083-674a-4407-86f9-1e48ff6155b7"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520340A.html'
 source_title="SERMONS 340A.6"
+uuid = "11dd32b5-4d6e-4a08-aba1-c0e82e52488f"

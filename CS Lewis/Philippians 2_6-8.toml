@@ -4,6 +4,7 @@ The New Testament in the original Greek is not a work of literary art: it is not
 '''
 source_url=''
 source_title="Modern Translations of the Bible, from God in the Dock"
+uuid = "2dc844ff-bf86-44b3-88c4-b6f631d1a13e"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ One must be careful not to put this in a way which would blur the distinction be
 '''
 source_url=''
 source_title="Letters to Malcolm: Chiefly on Prayer, Letter 13"
+uuid = "2b0a8587-0697-4904-990e-fe79114c7de2"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ I have found it impossible, in thinking of what I call Transposition, not to ask
 '''
 source_url=''
 source_title="Weight of Glory, Transposition"
+uuid = "0fb69ac8-2c4d-4bb6-b26f-949bd950fefa"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ The Second Person in God, the Son, became human Himself: was born into the world
 '''
 source_url=''
 source_title="Mere Christianity, Book 4, Chapter 5: The Obstinate Toy Soldiers"
+uuid = "09110080-aab0-4d07-aba8-f53740163193"

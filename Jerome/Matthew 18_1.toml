@@ -4,6 +4,7 @@ We must seek for reasons for individual sayings and actions of the Lord. After t
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 3.18.1"
+uuid = "8b060d01-a78c-4a27-8823-6b3b9d6c1850"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "cfe7fc60-e68c-46fb-bf58-3d718a0082e0"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ The disciples seeing one piece of money paid both for Peter and the Lord, concei
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a5ba22b6-a665-4673-98bf-83721e9621a2"

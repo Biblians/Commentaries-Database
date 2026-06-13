@@ -4,6 +4,7 @@ Some brothers from Scetis wanted to visit Antony, and set out in a ship to go th
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "c5240ddb-7ef0-44a3-8a59-ae8ee3c25b0c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ They said of Agatho that for three years he kept a stone in his mouth in order t
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "ef1fb449-fa0f-42a4-897f-558a5d750660"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ They said of Agatho that some people went to him because they heard he was a man
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "193bca55-6eb7-402f-b645-5537535f855d"

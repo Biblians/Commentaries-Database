@@ -4,6 +4,7 @@ Woe when all men speak well of you. This is what the Psalmist laments, because t
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "9f0c1f3c-85e7-410a-8a70-3e9ca5b0bb9f"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ For such things indeed did their fathers do to the prophets. He means false prop
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "2231dd03-d89d-4b66-a6b3-7c0a2e5db633"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ But because flattery being the very nurse of sin, like oil to the flames, is won
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1491076b-785c-4998-831e-de6a82b56d3c"
 
 [[commentary]]
 quote='''
@@ -28,3 +31,4 @@ By the false prophets are meant those, who to gain the favour of the multitude a
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "77828d15-264e-46fd-88cf-0d81d19c1218"

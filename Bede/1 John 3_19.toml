@@ -4,6 +4,7 @@ In this we know that we are of the truth. That is, when we perform acts of piety
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "c0407487-e656-48b6-bede-6cd2fcf27a6f"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ And shall assure our hearts before Him. This statement depends on what preceded.
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "1d4239e7-f0be-4dfc-933f-1cac1547a40a"

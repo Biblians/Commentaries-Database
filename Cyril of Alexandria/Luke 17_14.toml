@@ -7,6 +7,7 @@ Whereby the Jewish priests who were jealous of His glory might know that it was 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c3630845-d5c5-4f60-aae7-a030f2e30366"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ Why did he not say, "I will, be cleansed," as he did in the case of another lepe
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILIES 113-16"
+uuid = "da25042e-1dc3-42ea-90c0-e82851ff1c60"

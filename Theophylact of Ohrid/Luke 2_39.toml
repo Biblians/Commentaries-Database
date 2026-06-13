@@ -4,6 +4,7 @@ After fulfilling everything, they returned to Galilee, to their own city of Naza
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Commentary on Luke"
+uuid = "63eecde5-55e6-4b46-8193-5df22c0e60c6"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Bethlehem was indeed their city, their paternal city, Nazareth the place of thei
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c3c90c63-6604-4595-8ee5-fac278fe0421"

@@ -4,6 +4,7 @@ When a strong man fully armed guards his own palace, his goods are in peace. By 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "275fe7bc-2109-4abe-a484-7028353cef45"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ But the world he calls his palace, which lieth in wickedness, (1 John 5:19.) whe
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c6c8a481-cd96-4816-ac93-c16bac5898aa"

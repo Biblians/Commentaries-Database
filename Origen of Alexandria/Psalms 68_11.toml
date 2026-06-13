@@ -4,6 +4,7 @@ And the divine Scriptures bear witness both to the preaching of the gospel by th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520John%2FBook%25201.html'
 source_title="COMMENTARY ON THE GOSPEL OF JOHN 1:48, 50"
+uuid = "8392a766-8137-4366-9de8-30103c571d27"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ For the word of God declares that the preaching (although in itself true and mos
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FAgainst%2520Celsus%2FBook%25206.html'
 source_title="AGAINST CELSUS 6:2"
+uuid = "fbc73383-b7f8-4401-9012-8bb8bbd26627"

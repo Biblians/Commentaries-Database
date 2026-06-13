@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "2da0b9e4-b5f1-482b-aeb6-ab755040f5a5"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Hence they also set Abraham himself and the prophets before Truth itself, as if 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 18"
+uuid = "78b1dbd8-fc89-4165-9c5e-eba2e04f373d"

@@ -4,6 +4,7 @@ In the literal sense the following is meant: If I desired something among the th
 '''
 source_url=''
 source_title="COMMENTARY ON ECCLESIASTES 43:23"
+uuid = "dfe6fa76-0db5-457c-a915-471a2c0c07a1"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON ECCLESIASTES 44:17"
+uuid = "1fa2bcf5-95fe-4a7c-9b88-f35b2103973f"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ As is well known, the person who toils for something in his heart suffers if he 
 '''
 source_url=''
 source_title="COMMENTARY ON ECCLESIASTES 44:23"
+uuid = "5fd1a603-8fa7-40a9-97fb-9a905d5a9596"

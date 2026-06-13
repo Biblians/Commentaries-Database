@@ -4,6 +4,7 @@ Therefore also the Scripture has sent the sluggard to the ant, saying, "Go to th
 '''
 source_url=''
 source_title="HOMILIES CONCERNING THE STATUES 12.2"
+uuid = "9752dec3-6573-439d-a19c-e869b2ea7a4f"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ I do not say these things haphazardly now, but rather because many are often ove
 '''
 source_url=''
 source_title="ON REPENTANCE AND ALMSGIVING 10.6.23-24"
+uuid = "1b722aa5-aea9-4a01-abec-c3f8ba6f17df"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ See how in the former Epistle indeed he discourses somewhat more mildly concerni
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%25202%2520Thessalonians%2FHomily%25205.html'
 source_title="Homily on 2 Thessalonians 5"
+uuid = "f02f4a4e-9ccd-4217-afbe-17484ef6f7ce"

@@ -4,6 +4,7 @@ The Spirit of the Lord is upon me, because He has anointed me to preach the gosp
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "8ea82305-2648-497f-9f39-c4b3cdea9f27"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Release the broken into forgiveness. To proclaim the acceptable year of the Lord
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "90e68a47-812d-4e3c-834b-f0ee88e6e91e"
 
 
 [[commentary]]
@@ -26,3 +28,4 @@ Or, to set at liberty them that are bruised; i. e. to relieve those who had been
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c5bd019a-37e6-4e80-9c4f-f95798849694"

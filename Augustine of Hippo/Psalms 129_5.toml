@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801129.htm'
 source_title="Exposition on Psalm 129"
+uuid = "5bed6870-bc60-43a7-acbf-e5aced8816b7"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ You accuse a person of greed, and he accuses God on the ground that he made gold
 '''
 source_url=''
 source_title="EXPLANATIONS OF THE PSALMS 129:5"
+uuid = "32eba895-4808-443b-98cf-8153e8326205"

@@ -4,6 +4,7 @@ I certainly believe that to be God is to enjoy an infinite present, where nothin
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-letterstomalcolm/lewiscs-letterstomalcolm-00-h.html'
 source_title="LETTERS TO MALCOLM: CHIEFLY ON PRAYER, Letter 20 (Paragraph 14)"
+uuid = "45b8a5ee-0bf3-4d13-9019-d25365353674"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ In Psalm 90 (4) it had been said that a thousand years were to God like a single
 '''
 source_url=''
 source_title="Reflections on the Psalms, Chapter 12: Second Meanings in the Psalms"
+uuid = "5687ce3e-1a51-4876-977e-fefa726bbf36"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ You, being a spirit, will find it difficult to understand how he gets into this 
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters"
+uuid = "e5be2517-a470-4bf8-a697-4de78b5d600f"
 
 [[commentary]]
 quote='''
@@ -28,3 +31,4 @@ If you picture Time as a straight line along which we have to travel, then you m
 '''
 source_url=''
 source_title="Mere Christianity, Book 4, Chapter 3: Time and Beyond Time"
+uuid = "40a6e287-bd5a-4809-80e5-3305a117596a"

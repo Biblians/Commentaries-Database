@@ -4,6 +4,7 @@ John's baptism did not have the remission of sins, but introduced only repentanc
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Commentary on Mark"
+uuid = "9039432f-ecde-4fe9-b151-1606de141e6f"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The baptism of John had not remission of sins, but only brought men to penitence
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "8aef22c2-2afd-4e3e-a233-33ac3587573c"

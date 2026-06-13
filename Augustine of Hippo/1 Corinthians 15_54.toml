@@ -4,6 +4,7 @@ Were our heretics capable of grasping this one truth, they would surrender their
 '''
 source_url=''
 source_title="THE WAY OF LIFE OF THE CATHOLIC CHURCH 30.64"
+uuid = "d0b1c516-24df-46b7-bbdd-34bc88b2a384"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Where is death? Seek it in Christ, for it exists no longer. It did exist, and no
 '''
 source_url=''
 source_title="EASTER SERMON 233.4"
+uuid = "7a3a9032-cbed-4566-95bc-34bec989dfa8"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ The apostle Paul seems to have directly pointed his finger at the flesh when he 
 '''
 source_url='https://www.newadvent.org/fathers/1304.htm'
 source_title="On Faith and the Creed 10.22"
+uuid = "4ecb8329-168a-4824-b74b-d1e4bcb9ff4d"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ There are many desires of the sick which health takes away. In just the same way
 '''
 source_url=''
 source_title="EASTER SERMON 55.8"
+uuid = "fe9d57d1-4509-47c8-84e1-ecd3ef21bf54"
 
 [[commentary]]
 quote='''
@@ -32,6 +36,7 @@ Then not only shall we not obey any enticement of sin, but there will be no such
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 196, TO ASELLICUS"
+uuid = "66129ba3-0f37-40d5-b01c-bbeceb5cb671"
 
 [[commentary]]
 quote='''
@@ -39,3 +44,4 @@ Because of the necessary activities of this life, health is not to be despised u
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 130, To Proba"
+uuid = "cb2040e3-d26d-43bb-8d61-a7090605cd74"

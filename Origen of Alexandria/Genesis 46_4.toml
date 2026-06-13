@@ -6,6 +6,7 @@ But regarding the statement "I will recall you from there in the end," I think t
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Genesis_and_Exodus/X_mSBavPcq4C?hl=en&gbpv=1&printsec=frontcover'
 source_title="HOMILIES ON GENESIS 15.5"
+uuid = "087908a4-3ae2-4340-8619-845f079058ba"
 
 
 [[commentary]]
@@ -14,6 +15,7 @@ But each of us also, in the same manner and in the same way, enters Egypt and st
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Genesis_and_Exodus/X_mSBavPcq4C?hl=en&gbpv=1&printsec=frontcover'
 source_title="HOMILIES ON GENESIS 15.6"
+uuid = "b45a3233-aa0c-4fa6-952f-3f56ec74103c"
 
 
 [[commentary]]
@@ -23,3 +25,4 @@ And would that the Lord Jesus might put "his hands on" our "eyes" too, that we t
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Genesis_and_Exodus/X_mSBavPcq4C?hl=en&gbpv=1&printsec=frontcover'
 source_title="HOMILIES ON GENESIS 15.7"
+uuid = "399a5abb-a32b-4798-823d-4aae4a12a0de"

@@ -5,6 +5,7 @@ Figuratively; When the Lord departed from the temple, all the buildings of the L
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "7ad554cd-985b-41cd-a1f1-dcad1ae60d6d"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "db376a3a-e017-40bd-b730-c5e3a31558a1"

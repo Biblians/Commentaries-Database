@@ -4,6 +4,7 @@ These [heretics now referred to], being the disciples of those mentioned, render
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25202.html"
 source_title="Against Heresies Book II"
+uuid = "cce9e89f-353e-432b-ae80-ca1b12100db4"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ And the Apostle Paul also, saying, "For though ye have served them which are no 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Irenaeus%2FIrenaeus%2520Against%2520Heresies%2520Book%25203.html"
 source_title="Against Heresies Book III"
+uuid = "cde52e76-f7ac-4b9f-b802-c9cc67db964a"

@@ -5,6 +5,7 @@ The wisdom of God is Christ. The words indeed in Matthew are, Behold I send unto
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c1c89401-cac6-4907-94e2-6015631eef11"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Therefore Wisdom sends apostles and prophets to them. Who is Wisdom if not Chris
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Exposition of the Gospel of Luke, 7.107"
+uuid = "4c097a53-4447-42c8-9289-c596f478b71a"

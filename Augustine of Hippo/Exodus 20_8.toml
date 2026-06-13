@@ -4,6 +4,7 @@ The third commandment: "Remember the sabbath day to sanctify it." This third com
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%25208.html'
 source_title="SERMON 8.6"
+uuid = "d2023327-a5fc-4259-bd2b-c84e82ffbce0"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ We are not ordered to keep the sabbath day by a literal corporal abstinence from
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 55"
+uuid = "fdd30ce6-2209-40bf-94e0-ebdf4e7adc24"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ But the rite of the sabbath was taught to our ancient fathers which we Christian
 '''
 source_url=''
 source_title="TRACTATE ON THE GOSPEL OF JOHN 20.2"
+uuid = "c49268c5-e5a9-4186-9700-9edeabbc61f6"
 
 
 [[commentary]]
@@ -26,3 +29,4 @@ To teach a Christian anything about the observance of the sabbath would seem to 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520179A.html'
 source_title="SERMON 179A.3"
+uuid = "8bab4f8d-89b8-4761-b315-94b814d67a5b"

@@ -4,6 +4,7 @@ Caius [Julius] Caesar and Octavianus Augustus, and Tiberius, the successor of Au
 '''
 source_url=''
 source_title="EPISTLE TO THE GALATIANS 3.6.12"
+uuid = "21270b1f-9eba-403c-b882-f82476398bd6"
 
 
 [[commentary]]
@@ -14,3 +15,4 @@ For neither those who are circumcised keep the Law, but they wish to have you ci
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Galatians.html'
 source_title="Commentary on Galatians"
+uuid = "99836332-89aa-4e40-a497-8d69aa87fd69"

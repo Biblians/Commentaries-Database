@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801022.htm'
 source_title="Exposition on Psalm 22"
+uuid = "48c7f666-281c-4b47-9378-e7d8f000b6cf"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Let each one also think this about his own life, that he may hate in it that pri
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 243"
+uuid = "f9089832-b814-43b0-8480-396d3271d406"

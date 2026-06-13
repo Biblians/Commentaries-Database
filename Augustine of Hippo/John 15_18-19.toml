@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "71de9fef-4907-458b-8b60-71f876fe5a8e"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ But if we are asked about the love which is borne to itself by that world of per
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252087.html'
 source_title="Tractates on John 87"
+uuid = "a5ce5cd8-ac2a-42a8-8e7d-b92c789a090c"

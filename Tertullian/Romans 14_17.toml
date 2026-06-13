@@ -4,6 +4,7 @@ For a defiled spirit cannot be acknowledged by a holy Spirit, nor a sad by a joy
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html'
 source_title="On Prayer"
+uuid = "4e317cc1-bb0f-4fc6-9cbf-88a1bb6d913a"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ And if he has "delivered you the keys of the meat-market," permitting the eating
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Fasting.html'
 source_title="On Fasting"
+uuid = "4dfebc44-57bc-4b47-a814-e965a054d99d"

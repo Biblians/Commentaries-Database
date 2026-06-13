@@ -5,6 +5,7 @@ Do not suppose from this that the body of Christ came down from heaven, as the h
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "cc3f5714-a0e0-4166-816f-3f3e6d7da8f3"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ Hearing that the Son of Man was formerly in heaven, do not think that the body d
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520John%2FChapter%25206.html'
 source_title="Commentary on John"
+uuid = "0ac0a64e-6ad1-477b-8289-611080323b6f"

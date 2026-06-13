@@ -9,6 +9,7 @@ To be sure, the Enemy wants men to think of the Future too--just so much as is n
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters, Chapter XV"
+uuid = "e507c705-f663-49b8-9869-754a5b3f0018"
 
 [[commentary]]
 quote='''
@@ -19,3 +20,4 @@ Your patient will, of course, have picked up the notion that he must submit with
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters, Chapter VI"
+uuid = "e43690a7-d029-43ab-936a-dae02162de8c"

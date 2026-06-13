@@ -6,6 +6,7 @@ The people, seeing that John the Baptist himself was endowed with wonderful holi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 20"
+uuid = "1c13c288-c2e8-41b3-bec7-0088314d6ab4"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ The text continues: "And the crooked shall be made straight, and the rough ways 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 20"
+uuid = "0822a8bb-6b21-4b3c-a2e3-bc1d733eebf7"
 
 [[commentary]]
 quote='''
@@ -21,6 +23,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e3120c8a-9436-4ad4-8fc3-d2ef55b4b8ba"
 
 [[commentary]]
 quote='''
@@ -29,3 +32,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "cc0a0a2c-a327-4c26-a1f3-ac7924d44ef2"

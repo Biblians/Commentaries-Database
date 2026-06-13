@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801032.htm'
 source_title="Exposition on Psalm 32"
+uuid = "e27a11d8-40e6-4dca-9f04-7180860cfdc7"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ To have a soul and not to have an understanding, that is, not to use it or to li
 '''
 source_url=''
 source_title="TRACTATES ON THE GOSPEL OF JOHN 15:19.2"
+uuid = "a24b5488-664b-4d16-95ae-6462ad75ff5b"

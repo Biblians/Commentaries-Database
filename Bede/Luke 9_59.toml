@@ -4,6 +4,7 @@ But he said to another: Follow me. But he said: Lord, allow me first to go and b
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "b40a0d8a-8f74-4992-80c9-057d5dfa2fce"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ He did not refuse the discipleship, but his wish was, having fulfilled the filia
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e1d78855-2b48-4c5b-a6be-87a9a0754e92"

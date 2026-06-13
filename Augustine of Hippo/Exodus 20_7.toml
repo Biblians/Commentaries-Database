@@ -4,6 +4,7 @@ The second commandment: "You shall not take the name of the Lord your God in vai
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%25208.html'
 source_title="SERMON 8.5"
+uuid = "10e6143e-c2b9-4ce3-950a-c8f98523e4c9"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ You are told "Do not take the name of the Lord your God in vain"; do not regard 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%25209.html'
 source_title="SERMON 9.3"
+uuid = "091e3be4-9f5d-45cf-9954-6b2f126bc239"

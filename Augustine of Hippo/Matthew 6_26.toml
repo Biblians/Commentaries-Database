@@ -2,6 +2,7 @@
 quote='''
 i.e. you are of more value. For surely a rational being such as man has a higher rank in the nature of things than irrational ones, such as birds. Which of you, by taking thought, can add one cubit unto his stature? And why do you take thought for raiment? That is to say, the providence of Him by whose power and sovereignty it has come about that your body was brought up to its present stature, can also clothe you; but that it is not by your care that it has come about that your body should arrive at this stature, may be understood from this circumstance, that if you should take thought, and should wish to add one cubit to this stature, you cannot. Leave, therefore, the care of protecting the body to Him by whose care you see it has come about that you have a body of such a stature.
 '''
+uuid = "84f8c403-5fb6-4ee0-a72f-dfb81cb3977b"
 
 [[commentary]]
 quote='''
@@ -9,6 +10,7 @@ These examples are not to be analyzed like allegories. We must not inquire about
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOUR%2520LORD%2527S%2520SERMON%2520ON%2520THE%2520MOUNT%2FBook%25202.html'
 source_title="SERMON ON THE MOUNT 2.15.52"
+uuid = "cfad0857-9c7e-40ed-9cfa-9b8536636416"
 
 [[commentary]]
 quote='''
@@ -17,6 +19,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ceb5087a-5dfb-4098-bd97-4fb536933410"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "28748a48-9450-4b3f-9d4e-f93ab9792923"
 
 [[commentary]]
 quote='''
@@ -33,3 +37,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "44bf1e53-6356-43ed-b1b7-dcb8cdf57620"

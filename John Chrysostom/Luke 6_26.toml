@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="HOMILIES ON GENESIS 23.8"
+uuid = "e1e85ddb-fd17-4f61-bbfc-49e637b4f54a"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ What is said here is not opposed to what our Lord says elsewhere, Let your light
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "649c536c-4436-4996-974e-f22a53aa1891"

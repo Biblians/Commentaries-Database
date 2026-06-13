@@ -5,6 +5,7 @@ For this reason we are branded by them as simple, and as being merely so, withou
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520the%2520Valentinians.html"
 source_title="Against the Valentinians"
+uuid = "f9c2f2a3-d0b5-4c7e-97c9-b25af5e508fe"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ Though, even if He had appointed all this persecution in case He were obeyed for
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FScorpiace.html"
 source_title="Scorpiace"
+uuid = "85a15780-b93b-4333-acef-3f04688f6bbd"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ Then, over our cleansed and blessed bodies willingly descends from the Father th
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html"
 source_title="On Baptism"
+uuid = "38132529-0b0e-4833-b7ec-838a3dbc2d33"

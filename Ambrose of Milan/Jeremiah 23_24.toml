@@ -4,6 +4,7 @@ But of what creature can it be said that it fills all things, as is written of t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FOn%2520the%2520Holy%2520Spirit%2FBook%25201.html'
 source_title="On the Holy Spirit 1.8.85-86"
+uuid = "81056620-3d6d-43b6-99d1-94e071005174"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Wherefore, if we sensibly hold to those things which be worthy of the Son of God
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FExposition%2520of%2520the%2520Christian%2520Faith%2FBook%25205.html'
 source_title="Exposition of the Christian Faith 5.7.98"
+uuid = "127b3b98-c09e-4484-ab4a-79284c7c6642"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ For, if we may presume to speak of ourselves after His image and likeness, as Sc
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FLetters%2FLetters%252041-50.html'
 source_title="Letter 43.15"
+uuid = "ae893ce2-1b6a-425b-8f86-4a128d6231ff"

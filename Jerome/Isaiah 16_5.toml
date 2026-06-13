@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON ISAIAH 5:16.5"
+uuid = "2c06d87e-6847-4adf-8548-a93df32280be"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "1c51dac2-b55f-43d1-8268-c274ed121545"

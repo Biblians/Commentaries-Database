@@ -4,6 +4,7 @@ Fools, did not he who made the outside make the inside also? He who, he says, ma
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "6d47a0cf-082e-4e56-9e6a-3b76ef278f4d"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ As if He says, He who made both natures of man, will have each to be cleansed. T
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f3fe52a5-54d7-4a57-951a-75db26647cc3"

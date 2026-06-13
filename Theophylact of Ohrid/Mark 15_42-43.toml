@@ -4,6 +4,7 @@ Blessed Joseph, while still serving the Law, recognized Christ as God, which is 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%252015.html'
 source_title="Commentary on Mark"
+uuid = "c4cb747b-1516-43cb-b5c7-af479dd46710"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ He was bold with a praiseworthy boldness; for he did not consider within himself
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "9110b6eb-f21b-4a93-9b7b-e02e19d1ea1a"

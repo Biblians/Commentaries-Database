@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON ISAIAH 14:45.20-21"
+uuid = "187b92f6-d9ed-4550-bf95-86af87cfe0d2"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON ISAIAH 14:45.25"
+uuid = "857e23ae-322d-4dec-9f5f-cfa5a8a89ed7"

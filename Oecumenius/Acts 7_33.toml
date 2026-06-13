@@ -4,6 +4,7 @@ Even if the voice as worded in Exodus does not appear to be exactly the same, ne
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "991b471c-b4f7-41ea-9d2a-f5a5360d921e"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ What then is the riddle signified by the sandal? It is necessary to say that the
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "e21a3bfd-eafb-4e49-8f04-d84f126fc20f"

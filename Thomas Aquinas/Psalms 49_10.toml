@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCommentary%2520on%2520the%2520Psalms.html'
 source_title="Exposition on the Psalms of David"
+uuid = "314a9145-3896-49e7-85a5-b9b5e6b43f32"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCommentary%2520on%2520the%2520Psalms.html'
 source_title="Exposition on the Psalms of David"
+uuid = "9ef18ae3-86a1-490c-99d8-2fe3f763e8cf"

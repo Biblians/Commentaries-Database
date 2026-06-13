@@ -4,6 +4,7 @@ This bread which Jesus breaks is truly the mystical Word of God and a discourse 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Commentary on Luke"
+uuid = "ddc9da6e-7c32-4877-9b4f-c837aac0304e"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ The order of the mystery is preserved everywhere. The first healing is bestowed 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Commentary on Luke"
+uuid = "e01f0ba0-ee53-4119-a1b8-498a6a78481f"
 
 
 [[commentary]]
@@ -19,6 +21,7 @@ There is also a mystery in that the people who eat are satisfied. The apostles m
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Commentary on Luke"
+uuid = "aed2d256-44d5-47ae-a16a-b5ec2ab90996"
 
 
 [[commentary]]
@@ -30,3 +33,4 @@ But here the bread which Jesus brake is mystically indeed the word of God, and d
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "be2fa965-b4d1-434c-ba01-ff28dc5a6cb3"

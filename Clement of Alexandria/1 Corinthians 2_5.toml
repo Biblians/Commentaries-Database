@@ -4,6 +4,7 @@ Let no man therefore glory on account of pre-eminence in human thought. For it i
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25201.html"
 source_title="The Stromata Book 1"
+uuid = "1afee6be-9584-43df-b604-07332a8c38df"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Wherefore also the apostle exhorts, "that your faith should not be in the wisdom
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25205.html"
 source_title="The Stromata Book 5"
+uuid = "f2358474-48be-48cb-90b1-83c2bd6a863d"

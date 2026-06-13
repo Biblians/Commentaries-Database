@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "2b4df90e-be3a-4288-b178-6f6b5ee9828b"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ Here He shows most manifestly that these things are not to be sought as if they 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOUR%2520LORD%2527S%2520SERMON%2520ON%2520THE%2520MOUNT%2FBook%25202.html'
 source_title="OUR LORD'S SERMON ON THE MOUNT 2.16.53"
+uuid = "99286992-88b3-4348-85ac-ef878c9a4ae1"

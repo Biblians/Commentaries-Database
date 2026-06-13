@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252034.html'
 source_title="Homily on Acts 34"
+uuid = "e27a2f65-0878-42ef-80c3-f6f670e73015"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ And there seems indeed to be exasperation, but in fact the whole matter is a pla
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252034.html'
 source_title="Homily on Acts 34"
+uuid = "ef868c22-5887-4fe2-a61f-307e2db03738"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ And besides, the contention cannot be said to be evil, when each disputes for su
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252034.html'
 source_title="Homily on Acts 34"
+uuid = "b7984d98-e5e7-4fee-b719-6d91ae541389"

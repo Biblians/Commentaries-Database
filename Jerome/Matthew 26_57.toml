@@ -4,6 +4,7 @@ In accordance with God's command, Moses ordered that high priests should succeed
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 4.26.57"
+uuid = "e048a7a2-19ca-451f-836e-f2a43b042848"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "253dfb83-cdbd-4fcd-865e-3569427c03a5"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ But Josephus writesu, that this Caiaphas had purchased the priesthood of a singl
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252026.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a0d2c749-6e85-43b9-b2bc-1fe42aa27f27"

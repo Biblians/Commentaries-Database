@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%2520104.html'
 source_title="Exposition on Psalm 104"
+uuid = "ab751cfa-ea91-408a-9f74-0ded203406a6"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ That none of us might struggle, two things have been said: God and neighbor; He 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252016A.html'
 source_title="Sermon 16A.6"
+uuid = "a504342d-566a-437b-a400-5372e81dd287"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ The Word, by which heaven and earth were made, the Word itself was not made. For
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520223A.html'
 source_title="Sermon 223A.1"
+uuid = "ed75d688-ef93-4990-9f39-5d1544915c1d"
 
 
 [[commentary]]
@@ -28,6 +31,7 @@ I will not contest the point, chiefly because it gives me the liveliest satisfac
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252011.html'
 source_title="City of God 11.32"
+uuid = "78d1cdea-53f1-41e1-a180-de6ecf77aa41"
 
 
 [[commentary]]
@@ -36,3 +40,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25201.html'
 source_title="Tractates on the Gospel of John, Tractate 1.16"
+uuid = "6fa51c91-2d76-4409-b5a1-a80203b74dbc"

@@ -4,6 +4,7 @@ Do not fear, little flock, for it has pleased your Father to give you the kingdo
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "9d245e42-417a-4eb1-b151-4952bfac79b4"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ As if He says, Fear not lest they who warfare for the kingdom of God, should be 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d4d020d5-76e9-4eb6-b0b3-1cda7a0d9695"

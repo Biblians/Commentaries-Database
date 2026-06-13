@@ -4,6 +4,7 @@ He who hears you hears me, and he who despises you despises me. So that anyone, 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "2fbbf16c-f5b6-4588-a3cd-a0474532721f"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ But he who despises me despises Him who sent me. For without doubt the master is
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "879937a2-3b75-4027-a72c-1a8ba22febeb"
 
 
 [[commentary]]
@@ -21,6 +23,7 @@ That is, that every one indeed on hearing or despising the preaching of the Gosp
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b41092e5-08cc-49ca-84cc-5207967d7023"
 
 
 [[commentary]]
@@ -30,3 +33,4 @@ It may also be understood as follows, He who despiseth you, despiseth me, that i
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "4e23242c-8e99-4ba2-9d0f-e962093aa1a4"

@@ -4,6 +4,7 @@ The Lord Jesus himself chided his disciples, his earliest followers who remained
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520231.html'
 source_title="SERMON 231.1"
+uuid = "62d9909b-a7c3-4070-9c99-669c669a403f"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ He also showed himself on one final occasion to the eleven as they sat at table 
 '''
 source_url=''
 source_title="HARMONY OF THE GOSPELS 3.25.76"
+uuid = "3134d0cd-3eee-4f49-a83d-cc0eac2e7ced"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a3e6d64b-8b00-4819-b7b4-a4df505b22f0"

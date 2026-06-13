@@ -4,6 +4,7 @@ Then, lest they be inwardly troubled by thoughts (such as, for example), how sha
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Commentary on Luke"
+uuid = "2d73e044-73e6-4ff4-be59-f0af73d92344"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ That is, not with human but heavenly power. He said not, until ye receive, but b
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1d7be27c-447b-43b7-b7ad-d3e5360b0754"

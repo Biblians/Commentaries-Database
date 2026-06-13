@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="LETTER TO THE BISHOPS OF EGYPT 17"
+uuid = "bec5bc49-0b6c-4cde-8e99-f5b30a331498"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ The fact is, then, that the Word is not from things created but is rather himsel
 '''
 source_url='https://www.newadvent.org/fathers/28162.htm'
 source_title="Discourses Against the Arians 2.70"
+uuid = "e5b191c2-186a-41a0-8661-3010f0e6b40f"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ Although the Word did indeed become flesh, it is to the flesh that affections ar
 '''
 source_url='https://www.newadvent.org/fathers/28163.htm'
 source_title="Discourses Against the Arians 3.41"
+uuid = "34a72fa6-a6b4-430b-afcd-054b5e651543"
 
 
 [[commentary]]
@@ -26,3 +29,4 @@ The Lord is God's true and natural Son, and he is known to be not just eternal b
 '''
 source_url='https://www.newadvent.org/fathers/28163.htm'
 source_title="Discourses Against the Arians 3.28-29"
+uuid = "87e39801-6abf-48c5-b1ec-9f2ad9ae1c9a"

@@ -4,6 +4,7 @@ From this I see only two exits: either that there is a Great God, and also a 'Go
 '''
 source_url=''
 source_title="The Pains of Animals, from God in the Dock"
+uuid = "071c0043-4e49-48ab-bf81-94414d5b39a5"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ It sounds as if you supposed that argument was the way to keep him out of the En
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters"
+uuid = "69a1d008-a609-4261-a56d-fe0a0c83a6b9"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ One of the things that surprised me when I first read the New Testament seriousl
 '''
 source_url=''
 source_title="Mere Christianity, The Invasion"
+uuid = "11754ad2-e8d0-45a7-81f1-b1bb98324939"

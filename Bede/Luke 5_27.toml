@@ -4,6 +4,7 @@ And after these things, he went out and saw a tax collector named Levi sitting a
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "a9e46625-4792-4e36-b325-39ceb8adc0dc"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ Now by the election of Matthew is signified the faith of the Gentiles, who forme
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f96d439d-6168-4205-8827-59d98962b746"

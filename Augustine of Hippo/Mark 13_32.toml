@@ -4,6 +4,7 @@ According to "the form of God" everything that the Father has belongs to the Son
 '''
 source_url=''
 source_title="ON THE TRINITY 1.12.23"
+uuid = "85a64302-4871-4ea7-b8f9-ac3ed5990d35"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ I am by no means of the opinion that a figurative mode of expression can be righ
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 180, TO OCEANUS 3"
+uuid = "6facab12-c6d0-429e-9e40-90a1cdd39f91"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ No one should arrogate to oneself the knowledge of that time by any computation 
 '''
 source_url='https://www.newadvent.org/fathers/1801006.htm'
 source_title="ON THE PSALMS 6.1"
+uuid = "648abdf8-7015-48fc-bd0a-99dccc3299df"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ It was not part of his office as our master that through him the day should beco
 '''
 source_url='https://www.newadvent.org/fathers/1801037.htm'
 source_title="ON THE PSALMS 37.1"
+uuid = "abaae5a5-57f0-4acf-bb28-c143927e98fa"

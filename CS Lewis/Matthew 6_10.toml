@@ -22,6 +22,7 @@ And the joke, or tragedy, of it all is that these golden moments in the past, wh
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-letterstomalcolm/lewiscs-letterstomalcolm-00-h.html'
 source_title="LETTERS TO MALCOLM: CHIEFLY ON PRAYER, Letter 5 (Paragraphs 4-13)"
+uuid = "b1768999-39ec-4c39-8ec4-dcb6196cfd73"
 
 [[commentary]]
 quote='''
@@ -29,3 +30,4 @@ Our elders submitted and said "Thy will be done." How often had bitter resentmen
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-agriefobserved/lewiscs-agriefobserved-00-h.html'
 source_title="A Grief Observed, Chapter I"
+uuid = "22044880-6a05-49c9-a77f-85512589a9d0"

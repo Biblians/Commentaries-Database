@@ -4,6 +4,7 @@ But Jesus, calling them, said: Let the children come to me, and do not hinder th
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "2987640d-f610-42f1-85a9-582f616fa3d2"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Hence our Lord pointedly says, of such, not "of these," to show that to characte
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e06cfa3f-42f5-4180-b3be-29191ab72046"

@@ -4,6 +4,7 @@ But Peter said to him: Lord, are you telling this parable for us, or for everyon
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "0e0b07d3-d111-4e9e-b812-ee74ef012158"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Our Lord had taught two things in the preceding parable unto all, even that He w
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "bcee1a19-ec33-4302-a0ca-5e4bfb018413"

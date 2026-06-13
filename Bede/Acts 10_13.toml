@@ -4,6 +4,7 @@ Rise, Peter, kill and eat. He says, rise to prepare for evangelization. Kill in 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "ab7c4233-8c59-4f78-b847-0519f0ef5e16"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Rise, Peter, kill and eat. What is said in Latin as "kill" is said in Greek in t
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "6af79876-3c65-4756-8a71-ae9d64f6afa3"

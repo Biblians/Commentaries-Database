@@ -4,6 +4,7 @@ Let us praise the Lord both in voice, and in understanding, and in good works; a
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%2520149.html'
 source_title="Exposition on Psalm 149"
+uuid = "05277d1d-d561-4cea-a655-9cc72f438177"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ O brothers, o sons, o Catholic offspring, o holy and celestial seeds, o regenera
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252034.html'
 source_title="Sermon 34"
+uuid = "171679fc-c481-47fa-9ca7-54c626d69f91"

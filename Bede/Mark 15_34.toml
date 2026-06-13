@@ -4,6 +4,7 @@ And at the ninth hour Jesus cried out with a loud voice, saying: "Heloi, Heloi, 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "b8e3e0b9-a7df-4ddf-8727-9296b68672a1"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "3bcba1ed-4ca1-4772-b1b1-aa7c6b257ec9"

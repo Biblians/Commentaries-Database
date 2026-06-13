@@ -4,6 +4,7 @@ Throwing off his cloak, he sprang up and came to him. Indeed, he throws off his 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "ffcfdc11-69a4-41f7-9f62-a9b4bbeb4018"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Again, he throws away his garment and leaps, who, throwing aside the bands of th
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "538383ce-bd9a-4c77-9280-2e0d35eb8018"

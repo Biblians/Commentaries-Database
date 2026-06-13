@@ -4,6 +4,7 @@ I indeed desire, beloved brethren, and I equally endeavour and exhort, that if i
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%25201.%2520On%2520the%2520Unity%2520of%2520the%2520Church.html"
 source_title="Treatise I. On the Unity of the Church."
+uuid = "e5118a37-d9b4-44be-b9b2-2010551f0a6c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Let the lapsed, however, who acknowledge the greatness of their sin, not depart 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252063.html"
 source_title="Epistle LXIII"
+uuid = "64429817-cba4-4427-8c4d-4b50291a149d"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ The Lord warns us in His Gospel, saying, "Ye reject the commandment of God, that
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252039.html"
 source_title="Epistle XXXIX"
+uuid = "c0e6ab29-7288-4db3-ac7b-b4e8fd6da9bd"

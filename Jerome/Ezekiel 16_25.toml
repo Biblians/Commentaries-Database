@@ -4,6 +4,7 @@ She will sit by the waters of loneliness, her pitcher laid aside, and open her l
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_022.html'
 source_title="LETTER 22.6"
+uuid = "e52f6a46-190f-404b-bfa7-4189f325a1ea"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ A noble alternative only to be embraced in preference to Satan! In the old days 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_079.html'
 source_title="LETTER 79.10"
+uuid = "b6e139a5-e9c7-4ebc-94e3-2c4ee0bb1ff4"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ Our Zion, in which at times there are Philistines and Tyre and Ethiopia; that wa
 '''
 source_url=''
 source_title="HOMILIES ON THE PSALMS 18 (PS 86)"
+uuid = "d69577a8-2b4e-4876-9928-84ce59ee7e4a"

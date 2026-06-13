@@ -4,6 +4,7 @@ If you demand a divine law, you have that common one prevailing all over the wor
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Chaplet%252C%2520or%2520De%2520Corona.html'
 source_title="THE CHAPLET 6.1"
+uuid = "8ba4d1d1-86b7-4266-b5c4-1aac5432ec33"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ So completely has Paul by naming the sex generally, mingled "daughters" and spec
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html"
 source_title="On Prayer"
+uuid = "8968b605-dbd6-4416-a421-9086f1d6c24c"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ If, moreover, the apostle further adds the prejudgment of "nature," that redunda
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Veiling%2520of%2520Virgins.html"
 source_title="On the Veiling of Virgins"
+uuid = "9ecddf0c-3ce7-41bb-a420-2d6d855a1f5b"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ If Scripture is uncertain, Nature is manifest; and concerning Nature's testimony
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Veiling%2520of%2520Virgins.html"
 source_title="On the Veiling of Virgins"
+uuid = "47525a7e-6b75-4ef6-a40e-0fc51693c730"

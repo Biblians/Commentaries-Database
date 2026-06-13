@@ -4,6 +4,7 @@ But those gifts which have been foretold as to be led, seem to me to signify men
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%252072.html'
 source_title="Exposition on Psalm 72"
+uuid = "8d6c736d-5eec-42a6-84d5-4d9332568c7d"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ I hear that you have remarked and often quote the fact recorded in the gospels, 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="Letter CLXXIII"
+uuid = "290ae710-734e-43af-9a68-fefe44720050"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ This and many similar prophecies, which it would take too long to quote, would s
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FReply%2520to%2520Faustus%2520the%2520Manichaean%2FBook%252013.html'
 source_title="Reply to Faustus the Manichaean, Book 13"
+uuid = "9342c68c-c964-4b62-a9fa-7424acf8f3e3"
 
 
 [[commentary]]
@@ -28,3 +31,4 @@ But we on our side do not rely on any human power, although, no doubt, it would 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="Letter CV"
+uuid = "291d5345-6749-4619-b5f0-41655f4eacf5"

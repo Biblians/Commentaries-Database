@@ -4,6 +4,7 @@ If you say that, you will not be singing to no purpose, "I said, Lord, have merc
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252016B.html'
 source_title="SERMON 16B.2"
+uuid = "7e570112-ecb6-4cd1-a079-8f71a9ef89e9"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801075.htm'
 source_title="Exposition on Psalm 75"
+uuid = "aefe6b4b-7a22-4c31-a0ee-af6f7681a6b3"

@@ -4,6 +4,7 @@ The weight of Judas's impiety overshadowed the magnitude of his avarice. Seeing 
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 4.27.4"
+uuid = "643461db-e6cc-4612-8b51-cd5c4ac66f71"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Judas, when he saw that the Lord was condemned to death, returned the money to t
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252027.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "2f5e958f-31de-406c-a123-d6d42ebc4fc0"

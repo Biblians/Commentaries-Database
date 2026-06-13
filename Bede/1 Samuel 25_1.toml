@@ -4,6 +4,7 @@ quote='''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "09b3a7df-9aa0-418c-98ed-fe3b04c9bc53"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ But David arose and went down to the wilderness of Paran. Paran is interpreted a
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "a38e32a3-6697-46e1-b202-cce9dffd6f88"

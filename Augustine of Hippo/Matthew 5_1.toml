@@ -2,6 +2,7 @@
 quote='''
 If any one will piously and soberly consider the sermon which our Lord Jesus Christ spoke on the mount, as we read it in the Gospel according to Matthew, I think that he will find in it, so far as regards the highest morals, a perfect standard of the Christian life: and this we do not rashly venture to promise, but gather it from the very words of the Lord Himself. For the sermon itself is brought to a close in such a way, that it is clear there are in it all the precepts which go to mould the life. For thus He speaks: Therefore, whosoever hears these words of mine, and does them, I will liken him unto a wise man, which built his house upon a rock: and the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock. And every one that hears these words of mine, and does them not, I will liken unto a foolish man, which built his house upon the sand: and the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it. Since, therefore, He has not simply said, Whosoever hears my words, but has made an addition, saying, Whosoever hears these words of mine, He has sufficiently indicated, as I think, that these sayings which He uttered on the mount so perfectly guide the life of those who may be willing to live according to them, that they may justly be compared to one building upon a rock. I have said this merely that it may be clear that the sermon before us is perfect in all the precepts by which the Christian life is moulded; for as regards this particular section a more careful treatment will be given in its own place.
 '''
+uuid = "ed31c761-2697-4bdf-9e2b-f83a8050d5a9"
 
 [[commentary]]
 quote='''
@@ -9,6 +10,7 @@ If we ask what the mountain signifies, it is rightly understood to point toward 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOUR%2520LORD%2527S%2520SERMON%2520ON%2520THE%2520MOUNT%2FBook%25201.html'
 source_title="SERMON ON THE MOUNT 1.1.2"
+uuid = "40cbff85-3d7a-40b2-95f3-a4f33f4bd84c"
 
 [[commentary]]
 quote='''
@@ -23,3 +25,4 @@ Or, to teach sitting is the prerogative of the Master. His disciples came to him
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "df81653a-ef76-43f5-95d4-94f93d1c3ce6"

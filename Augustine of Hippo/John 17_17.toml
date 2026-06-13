@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d402520d-3620-4831-8a5c-b51d9b2fbe3e"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ Finally, He proceeds, and doing so fails not to suggest the same with increasing
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520108.html'
 source_title="Tractates on John 108"
+uuid = "a456bc5e-bb1e-4ddc-bd11-43eb79aecf7f"

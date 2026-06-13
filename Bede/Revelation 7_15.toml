@@ -4,6 +4,7 @@ To be continuously present at the praises of God is not a laborious servitude bu
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.10"
+uuid = "6b6356aa-c7d9-49c2-b38d-a86d51e5965f"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And they serve him day and night in his temple. Speaking in our manner, he signi
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "697afbf6-87a0-42ae-b013-9917fab3f328"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ And he who sits on the throne will dwell over them. The throne of God is the sai
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "2a94375b-5787-4222-ac02-7255ee7af3a0"

@@ -4,6 +4,7 @@ The Pharisee invites him to an entertainment for his own purpose. The Savior of 
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 83"
+uuid = "dd8596a7-40e4-4dc5-b428-381a35c70f09"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The Pharisee, while our Lord still continued on speaking, invites Him to his own
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c5bdbc41-e561-452d-9dc3-5a2c8f5d9fe1"

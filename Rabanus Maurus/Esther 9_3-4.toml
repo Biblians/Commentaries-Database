@@ -4,6 +4,7 @@ That is, the praiseworthy actions of our sacred teachers and the power of the vi
 '''
 source_url='https://sites.google.com/site/aquinasstudybible/home/esther/rabanus-maurus-commentary-on-esther'
 source_title="Commentary on Esther"
+uuid = "24e5e133-ed9e-4e03-ab4f-90c2f15118f9"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url=''
 source_title="EXPLANATION ON THE BOOK OF ESTHER 12"
+uuid = "6e43f9a8-1795-465b-84f5-bfb8d44f7c03"

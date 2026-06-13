@@ -4,6 +4,7 @@ How, then, are people to behave at home? If a man can't be comfortable and ungua
 '''
 source_url=''
 source_title="The Sermon and the Lunch, from God in the Dock"
+uuid = "57d78de5-367d-41f9-8464-7ca1beef6caf"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ The promises of Scripture may very roughly be reduced to five heads. It is promi
 '''
 source_url=''
 source_title="The Weight of Glory"
+uuid = "4db61a6f-753d-4e59-a85e-b8d3282fb8fc"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ He saw not only Them; he saw Him. This animal, this thing begotten in a bed, cou
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters"
+uuid = "fdd200a4-d9a7-4d91-bde8-58b10a8624c2"
 
 [[commentary]]
 quote='''
@@ -26,6 +29,7 @@ Now the point in Christianity which gives us the greatest shock is the statement
 '''
 source_url=''
 source_title="Mere Christianity, Book 4, Chapter 1: Making and Begetting"
+uuid = "4852d351-f68f-4b52-a99b-ac4d01d122c7"
 
 [[commentary]]
 quote='''
@@ -33,3 +37,4 @@ At the beginning I said there were Personalities in God. I will go further now. 
 '''
 source_url=''
 source_title="Mere Christianity, Book 4, Chapter 11: The New Men"
+uuid = "8efc31b0-6b7c-4871-8152-5b48bbede5bc"

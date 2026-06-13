@@ -4,6 +4,7 @@ And the expression, "When I was a child, I thought as a child, I spoke as a chil
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
 source_title="The Instructor Book 1"
+uuid = "41cc9c9b-cc04-4d0e-a36c-ad2da2dc1f3b"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ And the expression, "When I was a child, I thought as a child, I spoke as a chil
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
 source_title="The Instructor Book 1"
+uuid = "70328113-b04b-47d4-8f18-46ab0b7b4cca"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
 source_title="The Instructor Book 1"
+uuid = "caad58d5-d04a-4b75-8904-8ca949abc09f"

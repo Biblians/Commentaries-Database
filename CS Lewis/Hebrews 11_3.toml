@@ -4,6 +4,7 @@ For the first time in my life I began to look at the question with both eyes ope
 '''
 source_url=''
 source_title="Two Lectures, from God in the Dock"
+uuid = "74c9a3fd-8fb5-403e-bd54-ccd710a4dc5c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Evidently, then, something beyond Nature exists. Man is on the border line betwe
 '''
 source_url=''
 source_title="Bulverism, from God in the Dock"
+uuid = "3129e3b0-a668-475d-b79f-140407d1f719"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ The relation between Nature and Supernature, which is not a relation in space an
 '''
 source_url=''
 source_title="Bulverism, from God in the Dock"
+uuid = "41af1954-20c0-4cb5-9cbe-408eb5f0246d"

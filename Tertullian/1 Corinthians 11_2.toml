@@ -4,6 +4,7 @@ In vain do you labour to seem adorned: in vain do you call in the aid of all the
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Apparel%2520of%2520Women%2FBook%25202.html"
 source_title="On the Apparel of Women Book II"
+uuid = "d58603ce-27f4-4c25-a7d3-fe73608befb3"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ And so they upbraid the discipline of monogamy with being a heresy; nor is there
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html"
 source_title="On Monogamy"
+uuid = "acf895d3-d2d9-4b09-99ca-495a811cf292"

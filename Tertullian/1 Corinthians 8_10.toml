@@ -4,6 +4,7 @@ Give nothing and take nothing from an idol! If it be against the faith to reclin
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Chaplet%252C%2520or%2520De%2520Corona.html'
 source_title="THE CHAPLET 10"
+uuid = "c12f1f18-d0d8-49e4-a8eb-b165014d7db5"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ What schoolmaster, without a table of the seven idols, will yet frequent the Qui
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html'
 source_title="On Idolatry"
+uuid = "36c23d18-2847-4aae-9ba2-f9d727025a82"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ What sense is there in discussing the merely accidental, when that on which it r
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Chaplet%252C%2520or%2520De%2520Corona.html'
 source_title="De Corona"
+uuid = "22d947ed-7203-43a6-8a57-70e86588060f"

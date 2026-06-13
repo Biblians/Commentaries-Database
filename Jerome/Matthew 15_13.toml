@@ -4,6 +4,7 @@ Even what seems to be clear in the Scriptures presents many problems. Christ sai
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 2.15.13"
+uuid = "c7324e80-7298-4d6e-aaa7-f0ceb406ac1d"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "08ff4510-f3e9-4d37-959b-26020e794862"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Shall that plant also be rooted up of which the Apostle says, I planted, Apollos
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "404e3ad8-0952-4ded-85ae-ce0db4f16f41"

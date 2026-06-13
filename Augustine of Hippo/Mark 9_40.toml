@@ -4,6 +4,7 @@ Both declarations are true: that "he who is not with me is against me, and he th
 '''
 source_url=''
 source_title="ON BAPTISM, AGAINST THE DONATISTS 1.7 (9)"
+uuid = "49b31536-a71f-4333-a11f-3fd2cd570e46"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ This is the principle on which the whole church acts, not condemning common sacr
 '''
 source_url=''
 source_title="HARMONY OF THE GOSPELS 4"
+uuid = "e58e337d-5ab9-4be2-813e-2adcc1014967"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ We must take care that this saying of the Lord appear not to be contrary to that
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b2a86b5c-5d62-4464-a823-920d994c8f59"

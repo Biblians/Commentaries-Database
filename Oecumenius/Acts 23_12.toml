@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "43a79e7e-cc36-42bc-874e-b8b450042e9c"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ The binding is therefore to be understood in a double sense: one, as directed to
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "1dc1371f-178a-44e2-84fb-a7931a8ae7a9"

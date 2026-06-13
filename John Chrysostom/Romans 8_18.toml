@@ -4,6 +4,7 @@ Even if each day we suffer death, something which nature could not endure even i
 '''
 source_url=''
 source_title="HOMILIES ON GENESIS 25.23"
+uuid = "c30f31f7-2f32-47fe-aeb0-9147ea934f34"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ In what went before, he requires of the spiritual man the correcting of his habi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Romans%2FHomily%252014.html'
 source_title="Homily on Romans 14"
+uuid = "5a237bca-3710-479c-bc77-bcfa83c08b2d"

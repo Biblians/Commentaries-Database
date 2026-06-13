@@ -4,6 +4,7 @@ It is to be noted, however, that for what Mark says: And they clothed Him in pur
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "2e8bd0b5-22f4-407f-999a-8f7c1c2322a8"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "db3639c2-92e4-44b6-bb3c-84d0d3a0103b"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6bb04926-e300-4672-a667-996141ba2ee6"
 
 [[commentary]]
 quote='''
@@ -28,6 +31,7 @@ Or else, by the purple robe, with which the Lord is clothed, is meant His flesh 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "cd9f76bd-6d2d-439c-86c8-ef7228144145"
 
 
 [[commentary]]
@@ -36,3 +40,4 @@ In the crown of thorns He wore is shown the taking up of our sins, for which He 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "8c3f8570-2171-4725-8a75-ad1dbaef6ee0"

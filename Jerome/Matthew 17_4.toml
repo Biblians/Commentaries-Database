@@ -4,6 +4,7 @@ You go astray, Peter, just as the other Evangelist attests: you do not know what
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 3.17.4"
+uuid = "5dc191a3-ede6-427d-981a-83092deb9af1"
 
 
 [[commentary]]
@@ -14,6 +15,7 @@ If you wish, let us make here three tabernacles: one for you, one for Moses, and
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "bad19e0a-a91f-4ba8-8f09-1f951a4aa07d"
 
 [[commentary]]
 quote='''
@@ -22,3 +24,4 @@ Yet art thou wrong, Peter, and as another Evangelist says, knowest not what thou
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "97f6c082-3279-4ce9-b46f-e59c56130ff9"

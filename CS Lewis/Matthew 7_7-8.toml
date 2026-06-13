@@ -6,6 +6,7 @@ I don't see how the problem would be different for a factory worker than for any
 '''
 source_url=''
 source_title="ANSWERS TO QUESTIONS ON CHRISTIANITY, from God in the Dock"
+uuid = "4300d83f-f027-40c1-8b4e-87252d40e322"
 
 [[commentary]]
 quote='''
@@ -21,6 +22,7 @@ We know that we can act and that our actions produce results. Everyone who belie
 '''
 source_url=''
 source_title="God in the Dock: Work and Prayer"
+uuid = "84a5cb03-b528-4c3b-81f0-b12ac547ddae"
 
 [[commentary]]
 quote='''
@@ -30,3 +32,4 @@ On the other hand, "Knock and it shall be opened." But does knocking mean hammer
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-agriefobserved/lewiscs-agriefobserved-00-h.html'
 source_title="A Grief Observed, Chapter III"
+uuid = "b12474ac-2bbb-4853-b529-1b8a70c8881a"

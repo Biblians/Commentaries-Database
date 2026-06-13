@@ -4,6 +4,7 @@ I have compassion on the crowd, he said, because they have already been with me 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "f4410e99-c1c9-4c27-b368-8f744b3b140a"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "59d1600d-b618-452d-b3f3-fb5f3b483c76"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "3e9c8d73-6b64-4f6d-bbc5-d3c93e9a4aac"

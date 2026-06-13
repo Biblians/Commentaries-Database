@@ -4,6 +4,7 @@ Christ rose again in the flesh, and Peter rose in the spirit because, when Chris
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520229N.html'
 source_title="SERMON 229n.1"
+uuid = "6f26dda9-9087-4aa6-95b3-4c45c21bc2aa"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ He is being armed for weightier and greater matters. He is told "Feed my sheep,"
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520290.html'
 source_title="SERMON 290.3"
+uuid = "52017c1e-1ea6-4b1c-9546-7e39472c6a02"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ Feed "my" sheep; he did not say "yours," did he? Feed, good servant, the Lord's 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520295.html'
 source_title="SERMON 295.5"
+uuid = "b55f4b1a-7567-47d3-9c5d-2c9d38341e1d"
 
 [[commentary]]
 quote='''
@@ -30,3 +33,4 @@ While our Lord was being condemned to death, he feared, and denied Him. But by H
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1f464593-47aa-40f1-91a0-270a99680772"

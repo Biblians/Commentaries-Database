@@ -5,6 +5,7 @@ The whole secret of the practical success of Christendom lies in the Christian h
 time=1905
 source_url=''
 source_title="Heretics, Ch. 5: Mr. H. G. Wells and the Giants (1905)"
+uuid = "cd039ecd-d794-4e95-8e03-a73fc13af89a"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ For the truth is much stranger even than it appears in the formal doctrine of th
 time=1905
 source_url=''
 source_title="Heretics, Ch. 9: The Moods of Mr. George Moore (1905)"
+uuid = "781ed1ab-44e5-4bd2-b174-8b398e6d1164"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ As a matter of fact, the strongest nations are those, like Prussia or Japan, whi
 '''
 source_url=''
 source_title="Heretics, Ch. 12: Paganism and Mr. Lowes Dickinson (1905)"
+uuid = "cda1089d-eaa5-4f8e-9b0a-9582107f4bfa"
 
 [[commentary]]
 quote='''
@@ -29,6 +32,7 @@ For those interested in revolt (as I am) I only say meekly that one cannot have 
 '''
 source_url=''
 source_title="Alarms and Discursions, The Wheel (1910)"
+uuid = "1566617e-d0b4-4cf0-a8c1-e7502bd34a4b"
 
 [[commentary]]
 quote='''
@@ -36,3 +40,4 @@ The mountain tops are only noble because from them we are privileged to behold t
 '''
 source_url=''
 source_title="Alarms and Discursions, The High Plains (1910)"
+uuid = "db91849d-1bdd-4d8f-ab3c-31dc5e4184c6"

@@ -11,6 +11,7 @@ From the words, her firstborn Son, some most erroneously suspect that Mary had o
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c3442220-b0f6-48f0-a6b0-77cfe0e2dab1"
 
 [[commentary]]
 quote='''
@@ -29,3 +30,4 @@ If you are so contentious, your own thoughts shall now prove your master. You mu
 time=383
 source_url='https://www.newadvent.org/fathers/3007.htm'
 source_title="Against Helvidius"
+uuid = "eb40c62f-4750-4ee3-81cd-b251a91c837a"

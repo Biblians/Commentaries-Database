@@ -4,6 +4,7 @@ Let the blind therefore come to Christ to be enlightened. For Christ is the ligh
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520136B.html'
 source_title="Sermon 136B"
+uuid = "4d6cece0-a5fe-4b5a-89cb-3f30273e30de"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ But whoever would be disposed to look for something more profound in the words o
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252091.html'
 source_title="Tractates on the Gospel of John, Tractate 91"
+uuid = "86833dfd-c7d4-4a57-8fed-ba94b0fce94e"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%252072.html'
 source_title="Exposition on Psalm 72"
+uuid = "1d3138cb-3281-406b-99a3-4804b245e1c9"

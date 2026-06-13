@@ -4,6 +4,7 @@ As it is written, "O God, I will sing you a new song, on a harp of ten strings I
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252033.html'
 source_title="SERMON 33:1"
+uuid = "c8b650f1-1484-4370-abbf-413a42571b3e"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801144.htm'
 source_title="Exposition on Psalm 144"
+uuid = "fcd4da27-4ea6-41d8-bf02-cfa4ec4bfa74"

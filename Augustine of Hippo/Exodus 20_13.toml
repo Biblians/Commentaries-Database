@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1312.htm'
 source_title="On Lying 13.23"
+uuid = "9c689e56-326e-416e-b0f1-45126b4aebc0"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ It is significant that in Holy Scripture no passage can be found enjoining or pe
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%25201.html'
 source_title="City of God 1.20"
+uuid = "a99ce92d-4efe-424f-96ed-d5f3cb7feb7a"

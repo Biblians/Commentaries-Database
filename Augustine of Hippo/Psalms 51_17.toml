@@ -4,6 +4,7 @@ Do you wish to appease God? Know what you do with yourself, so that God may be a
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252019.html'
 source_title="Sermon 19:3"
+uuid = "9dba41d1-c3f9-4ca7-bdbc-34936b2de3a7"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ How close is God's mercy to the one confessing! For God is not far from the brok
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520112A.html'
 source_title="Sermon 112A:5"
+uuid = "5ee8e644-fabb-4037-ba0b-880f7cc02336"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ Nevertheless, no matter how great our crimes, their forgiveness should never be 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FEnchiridion-%2520On%2520Faith,%2520Hope%2520and%2520Love.html'
 source_title="Enchiridion 17:65"
+uuid = "1ddcdc66-c6d5-46fa-b150-21f3d38b6d3c"
 
 
 [[commentary]]
@@ -28,3 +31,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%252051.html'
 source_title="Exposition on Psalm 51"
+uuid = "300613b5-a590-4fb5-9299-314f46cc1acd"

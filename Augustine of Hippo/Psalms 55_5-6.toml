@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%252055.html'
 source_title="Exposition on Psalm 55"
+uuid = "73a40569-e8a0-4429-89fb-7e7d42340cb9"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ We would falter when the persecutor is present if the comforter were absent. And
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520305A.html'
 source_title="Sermon 305A"
+uuid = "e17924fd-7800-4d5e-9fe9-9da9181a76f1"

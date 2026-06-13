@@ -4,6 +4,7 @@ This may very well agree with what Luke records in connection with the said accu
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520Harmony%2520of%2520the%2520Gospels%2FBook%25203.html'
 source_title="The Harmony of the Gospels, Book 3"
+uuid = "54340e95-56ae-44df-aa24-652872a77547"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "619e48a5-afab-4fe6-947f-4987340abd45"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ad6e751c-ac96-4520-aa96-b29927c0f688"
 
 [[commentary]]
 quote='''
@@ -27,6 +30,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520116.html'
 source_title="Tractates on John 116"
+uuid = "e9ea7d04-fff2-47bd-b060-c31d4c804a6b"
 
 [[commentary]]
 quote='''
@@ -34,3 +38,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520116.html'
 source_title="Tractates on John 116"
+uuid = "7e42b8ea-49cc-4d21-8e8e-df3e45897abf"

@@ -4,6 +4,7 @@ The root of Jesse the patriarch is the family of the Jews, Mary is the rod, Chri
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FOn%2520the%2520Holy%2520Spirit%2FBook%25202.html'
 source_title="On the Holy Spirit 2.5"
+uuid = "2903f892-5452-4af0-8dbc-461d662ebc71"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Moreover, he wonderfully expressed his incarnation, saying: From the shoot, my s
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FOn%2520the%2520Blessings%2520of%2520the%2520Patriarchs.html"
 source_title="On the Blessings of the Patriarchs, 4.19-20"
+uuid = "c8bfcfe9-935f-4df0-959d-25134e81bf56"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ And there shall come forth a shoot from the stump of Jesse, and a branch from hi
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FSecond%2520Apology%2520for%2520the%2520Prophet%2520David.html"
 source_title="Second Apology for the Prophet David, 8.43"
+uuid = "667ca068-7627-4d15-b1c8-4c9478d4c613"

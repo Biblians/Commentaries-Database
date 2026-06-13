@@ -4,6 +4,7 @@ Pray for kings, because when the kingdom is shaken, all its other members are sh
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Apology.html'
 source_title="APOLOGY 1.31"
+uuid = "44f9c6cb-2db0-42c0-ac72-a0edecf8b9f3"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Therefore, as to what relates to the honours due to kings or emperors, we have a
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html"
 source_title="On Idolatry"
+uuid = "7901e63e-0bbb-4759-9e12-8bbfd6e80ab0"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ Then he goes on also to show how he wishes you to be subject to the powers, bidd
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FScorpiace.html"
 source_title="Scorpiace"
+uuid = "57094377-17bb-438a-adf0-28bc967604b3"

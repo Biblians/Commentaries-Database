@@ -2,6 +2,7 @@
 quote='''
 O Theophilus: For our Lord taught us by His own example that we ought to keep to this order, as of Him it is said: "that Jesus began to do and to teach.
 '''
+uuid = "ad119104-4148-4bca-a602-c4dbb42427de"
 
 
 [[commentary]]
@@ -10,3 +11,4 @@ Take care then that you do not rush into teaching before doing, and so be reckon
 '''
 source_url=''
 source_title="CONFERENCE 14.9"
+uuid = "26771ce3-19ef-44f8-bb09-41b534dd4735"

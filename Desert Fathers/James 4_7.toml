@@ -4,6 +4,7 @@ A brother felt hungry at dawn, and struggled not to eat till nine o'clock. When 
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "68d11b2c-2d01-4596-95dd-e28d6a83493b"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ A brother came to Poemen and said to him, 'Many thoughts come into my mind and p
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "c56e0891-9f90-4163-b5b3-77f178f9b126"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ A hermit said, 'If anyone says "Forgive me", and humbles himself, he burns up th
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "928d1069-0ca3-4bb0-b467-77d1a816aad7"

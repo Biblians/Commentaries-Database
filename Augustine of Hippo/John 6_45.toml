@@ -4,6 +4,7 @@ And yet in a certain sense the Father teaches all men to come to His Son. For it
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FA%2520Treatise%2520on%2520the%2520Predestination%2520of%2520the%2520Saints%2FBook%25201.html'
 source_title="A Treatise on the Predestination of the Saints"
+uuid = "58a35431-c2ee-4cd8-abd9-de7ed0bdc1a7"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ What then, brethren? If every man who has heard and learned of the Father, the s
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252026.html'
 source_title="Tractates on John 26"
+uuid = "43686768-873a-46f6-a5e7-fbad39da8d35"
 
 [[commentary]]
 quote='''
@@ -25,3 +27,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b0754bb3-e3a2-4a65-bcaf-ceef3d5f59aa"

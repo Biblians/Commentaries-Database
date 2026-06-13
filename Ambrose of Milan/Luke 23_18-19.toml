@@ -5,6 +5,7 @@ Not unreasonably do they seek the pardon of a murderer, who were themselves dema
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b896d5a1-811a-47b0-8082-3eea5d703249"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ But what about those who crucified the Lord of majesty? It is not without reason
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="EXPOSITION OF THE GOSPEL OF LUKE 10.102"
+uuid = "edd788ac-7eac-454e-ae42-24e1da769e23"

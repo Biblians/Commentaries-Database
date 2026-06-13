@@ -2,6 +2,7 @@
 quote='''
 first begotten of the dead. For if the Christ is believed to be the first begotten of the dead, He is the first begotten of the dead as having risen in a glorified state before all others.
 '''
+uuid = "2dd2e453-f40d-4123-a609-a9c2d8aed9c9"
 
 [[commentary]]
 quote='''
@@ -9,4 +10,5 @@ But Moses and Elias arose and appeared with this form of which you speak, before
 '''
 source_url="http://ccel.org/fathers2/ANF-06/anf06-122.htm#P5853_1772906"
 source_title="Methodius From the Discourse on the Resurrection"
+uuid = "1d3e4972-a6c8-49fa-9dd3-9380831ae428"
 

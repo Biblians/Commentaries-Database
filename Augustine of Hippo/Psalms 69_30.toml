@@ -4,6 +4,7 @@ For what is more fruitful or more filled with the truest confession than that pa
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 186"
+uuid = "436a1ced-e158-4ac2-8776-b01b1454d262"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801069.htm'
 source_title="Exposition on Psalm 69"
+uuid = "81b4a30d-45f9-4d2e-9c12-2791179fb496"

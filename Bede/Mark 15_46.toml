@@ -4,6 +4,7 @@ Joseph then bought a linen cloth, and taking Him down, wrapped Him in the linen 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "fa62d08c-df21-4dab-8bcb-63387c78eaec"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And they laid him in a tomb, which was hewn out of a rock, and rolled a stone to
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "42d294ca-5756-4146-9a2d-58a8fd1ca9c7"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ad1b0aa7-ec93-42cf-b8fd-af49bdf83888"

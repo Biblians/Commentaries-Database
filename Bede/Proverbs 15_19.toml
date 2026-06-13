@@ -4,6 +4,7 @@ The way of the sluggard is blocked with thorns. He calls those lazy who are relu
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Proverbs.html"
 source_title="Commentary on Proverbs"
+uuid = "63acdda2-96a3-49b1-9f91-b07bf20389a5"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ The way of the just is without stumbling. For indeed the just, in their conduct,
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Proverbs.html"
 source_title="Commentary on Proverbs"
+uuid = "ba6c1743-09b0-455e-81a1-de59bcc0b0bf"

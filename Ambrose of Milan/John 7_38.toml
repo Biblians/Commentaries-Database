@@ -4,6 +4,7 @@ This … is not a trivial matter when we read that a river goes forth from the t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FOn%2520the%2520Holy%2520Spirit%2FBook%25203.html'
 source_title="On the Holy Spirit 3.20.153-156"
+uuid = "dbb51e3c-2bfb-4c2c-ad95-3163f4eb3bc0"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ There was a fountain that irrigated the paradise. What fountain, if not the Lord
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FOn%2520Paradise.html'
 source_title="On Paradise 3.13-14"
+uuid = "326da196-b698-4733-8abf-87008c6d073b"

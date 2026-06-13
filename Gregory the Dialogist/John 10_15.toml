@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "97e57859-2768-4ffc-b596-6f7ee611bc4e"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Hence in this passage the Lord immediately adds: "As the Father knows me, and I 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 14"
+uuid = "14660c64-9aa8-4e32-907f-85601fdbd609"

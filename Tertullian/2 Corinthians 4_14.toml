@@ -4,6 +4,7 @@ What fellowship has light with darkness, life with death?
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Shows%252C%2520or%2520De%2520Spectaculis.html"
 source_title="De Spectaculis"
+uuid = "00a0c775-40a2-46b8-90bc-c8bdb2c24097"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Now of what life of Christ does he here speak? Of that which we are now living? 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "96fb0a67-fa15-4bf2-921d-f13e1487e3a9"

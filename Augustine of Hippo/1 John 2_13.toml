@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTen%2520Homilies%2520on%2520the%2520First%2520Epistle%2520of%2520John%2FHomily%25202.html'
 source_title="Ten Homilies on 1 John 2"
+uuid = "3ebfe8df-d3c2-49eb-8e7f-5fe8dc1b1c24"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTen%2520Homilies%2520on%2520the%2520First%2520Epistle%2520of%2520John%2FHomily%25202.html'
 source_title="Ten Homilies on 1 John 2"
+uuid = "51b0dc25-c2bc-4a32-8e81-d8bca5ee2868"

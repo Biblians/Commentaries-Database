@@ -4,6 +4,7 @@ quote='''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "7ec90026-1884-4198-b317-9ff5f585d2b2"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ When his brothers heard this, they went down, etc. With Christ remaining among t
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "349545a1-ee45-444d-a034-056b4d58637e"

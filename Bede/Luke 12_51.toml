@@ -4,6 +4,7 @@ Do you think that I have come to bring peace on earth? No, I tell you, but divis
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "cc2bb133-33df-418e-b90f-dc38b9f83394"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ But the manner in which after the baptism of His passion and the coming of the s
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "44feeffa-6f74-4a35-9881-0ebce4e7ec81"

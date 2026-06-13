@@ -4,6 +4,7 @@ And the angel answered him, saying: I am Gabriel, who stands in the presence of 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "55843c60-4117-4265-9046-956ffc71fce9"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ Here we must remark, that the angel testifies, that he both stands before God, a
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "bf38a866-fa10-4a2c-ae25-010b1445589e"

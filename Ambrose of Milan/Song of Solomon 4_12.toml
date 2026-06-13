@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FLetters%2FEpistle%252063.html'
 source_title="Epistle 63.36"
+uuid = "7febf746-c3e3-479b-bbeb-a1d54deb5fed"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Therefore, beware that the strength of your mind is not weakened by a certain un
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FOn%2520Isaac%2520and%2520the%2520Soul.html'
 source_title="On Isaac and the Soul 1.2"
+uuid = "0075fe79-11bc-476f-9f5c-c7bece84fbe8"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ In gardens of this kind the water of the pure fountain shines, reflecting the fe
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FConcerning%2520Virgins%2FBook%25201.html'
 source_title="Concerning Virginity 1.9.45"
+uuid = "4e2d2fe7-2e45-4d07-ab9e-e74733dab090"

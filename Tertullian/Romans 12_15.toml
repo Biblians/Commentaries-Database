@@ -4,6 +4,7 @@ The first point, indeed, on which I shall join issue is this: whether a servant 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html"
 source_title="On Idolatry"
+uuid = "adab0eae-5ff6-4ba1-8e12-9ded5e53f7e3"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Fasting.html"
 source_title="On Fasting"
+uuid = "09817508-6b47-49fa-be53-dd045a8459de"

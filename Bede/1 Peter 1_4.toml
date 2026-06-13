@@ -4,6 +4,7 @@ God has revealed the doctrine of truth, enjoined the path of good work and both 
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FOn%2520the%2520Tabernacle.html'
 source_title="On the Tabernacle 1.8.35"
+uuid = "0ec8c8d2-3b8e-4c11-9fb7-ccf5424c0e27"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ To an inheritance incorruptible, etc. Incorruptible, he says, because of the hea
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "6f002fcd-fa26-430d-a974-b5d254c625a4"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ Kept in heaven for you. Kept in you he says, instead of saying, kept for you, th
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "d183b420-1a9a-4ba4-9af6-3e80b0405070"

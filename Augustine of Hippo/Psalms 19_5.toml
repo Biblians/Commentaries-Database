@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%252019.html'
 source_title="Exposition on Psalm 19"
+uuid = "ccffcf11-daba-41e2-abb1-00739e39bedb"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ But our very life came down to earth and bore our death, and killed death with t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FConfessions%2FBook%25204.html'
 source_title="Confessions 4.12.19"
+uuid = "786e3dd3-c10d-4c3b-963b-ddc1d480ba7f"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ He came in the flesh intending to cleanse the vices of the flesh. He came, cloth
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520195.html'
 source_title="SERMON 195:3"
+uuid = "ac11b015-724b-4d8a-ab38-117930ead71c"

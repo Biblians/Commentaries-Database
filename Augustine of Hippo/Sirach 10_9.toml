@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FConfessions%2FBook%252010.html'
 source_title="Confessions 10.5.7"
+uuid = "69f98ca5-1a2f-46a8-aff1-ef92f2300d79"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ I am afraid that the reason why the soul went forth away from God is that it was
 '''
 source_url=''
 source_title="TRACTATES ON THE GOSPEL OF JOHN 25:15"
+uuid = "26dcf407-6546-423b-bb6b-b8fb4af3ca80"

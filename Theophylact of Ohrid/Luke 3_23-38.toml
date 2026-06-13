@@ -5,6 +5,7 @@ For this reason he closes the generations in God, that we may learn that those f
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "974e6614-ce66-4b2b-973c-9c01095a7fb3"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The Lord was baptized, being thirty years old, because this age is the most perf
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Commentary on Luke"
+uuid = "f803891b-05c8-4074-89e1-d75673c7f7e1"

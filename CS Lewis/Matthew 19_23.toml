@@ -6,6 +6,7 @@ Imagine a set of people all living in the same building. Half of them think it i
 '''
 source_url='http://www.orcuttchristian.org/Lewis%20CS%20-%20God_in_the_Dock.pdf'
 source_title="ANSWERS TO QUESTIONS ON CHRISTIANITY, from God in the Dock"
+uuid = "199514ef-5afd-48b3-b98d-31825d435162"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ The dangers of apparent self-sufficiency explain why Our Lord regards the vices 
 '''
 source_url=''
 source_title="The Problem of Pain, Ch. 6"
+uuid = "150dbfcf-66f6-4e40-930f-9a0b9138674f"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ One of the dangers of having a lot of money is that you may be quite satisfied w
 '''
 source_url=''
 source_title="Mere Christianity, Book 4, Chapter 10: Nice People or New Men"
+uuid = "94c9e7b0-821e-4bbd-ab85-97e62d0253d1"

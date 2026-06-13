@@ -4,6 +4,7 @@ And as for the donkeys you lost three days ago, do not be anxious, etc. And conc
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "e65e84f3-f05f-4350-9a6f-75b924d3a3cd"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And whose shall be the best of Israel? etc. And who will be the giver and author
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "089529b1-9452-4d74-bea2-492981632d59"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ Am I not the son of Jemini from the least tribe of Israel? etc. And the Lord cho
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "b2dd12b3-af2b-422e-85d1-0e38b9ffb290"

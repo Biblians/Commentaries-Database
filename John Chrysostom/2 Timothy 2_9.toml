@@ -4,6 +4,7 @@ For just as it is not possible to bind a sunbeam or to shut it up within the hou
 '''
 source_url=''
 source_title="HOMILIES CONCERNING THE STATUES 16.5"
+uuid = "31d25192-8e9c-408c-a6cd-3d7ebd570b01"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Any cloud passing over our skies may from time to time make us gloomy. But Paul'
 '''
 source_url=''
 source_title="HOMILIES ON FIRST CORINTHIANS 13.4"
+uuid = "1a754508-8b94-4c5e-8dda-084b65584711"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ For what could be better than those bonds which always in his Epistles he prefer
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252052.html'
 source_title="Homily on Acts 52"
+uuid = "282e3300-99ca-40c3-9ab8-abb62d7a2f43"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%25202%2520Timothy%2FHomily%25204.html'
 source_title="Homily on 2 Timothy 4"
+uuid = "8ba7c494-7577-4394-8cf6-355eda180dd1"

@@ -4,6 +4,7 @@ It is appropriate and necessary that at the time the "mystery" is handed over, t
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520Isaiah.html"
 source_title="COMMENTARY ON ISAIAH 3:1.25"
+uuid = "4e24e970-37ab-479c-937c-c367e3abfdec"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ And since the holy Virgin brought forth as man God united personally to flesh, w
 '''
 source_url=''
 source_title="THIRD LETTER TO NESTORIUS 17:18"
+uuid = "19743b38-74ce-45e6-b403-35a6b6cbd59a"

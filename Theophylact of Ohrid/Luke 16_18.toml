@@ -5,6 +5,7 @@ So, Christ confirmed all the requirements of the Law; and therefore He said well
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252016.html'
 source_title="Commentary on Luke"
+uuid = "c5baa44d-1557-4b98-8dca-01875d993e31"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ For that to the imperfect the Law spoke imperfectly is plain from what he says t
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "9556745d-cc64-4a15-9433-23f3d8c5c5de"

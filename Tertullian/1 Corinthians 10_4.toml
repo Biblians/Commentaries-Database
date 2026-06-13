@@ -4,6 +4,7 @@ For, because Jesus Christ was to introduce the second people (which is composed 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
 source_title="An Answer to the Jews"
+uuid = "a2fdd7ec-e0f8-4487-bd8c-1900cf9f10fe"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ But why enlarge on such a subject? When the very apostle whom our heretics adopt
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25203.html"
 source_title="Against Marcion Book III"
+uuid = "b5c3a708-37ce-4f14-a32a-d1e6a886ce86"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ But having to be rejected and afterwards to be acknowledged, and taken up and gl
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "4e9de0ce-e1b3-4c36-b466-bca537323986"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ For behold Marcion, in his blindness, stumbled at the rock whereof our fathers d
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "cd9c4505-fb8a-46a5-990f-8c0400673768"
 
 [[commentary]]
 quote='''
@@ -32,3 +36,4 @@ How, therefore, can such a hydra of delinquencies fail to offend the Lord, the D
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOf%2520Patience.html"
 source_title="Of Patience"
+uuid = "2458cabf-89e0-4bf0-8700-6eaa877e6f9f"

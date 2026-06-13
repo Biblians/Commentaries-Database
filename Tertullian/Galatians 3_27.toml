@@ -4,6 +4,7 @@ Now since Emmanuel is God-with-us, and God-with-us is Christ, who is in us (for 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25203.html"
 source_title="Against Marcion Book III"
+uuid = "92f5a408-fe7f-4abe-86be-2bc82497999e"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ When, however, the prescript is laid down that "without baptism, salvation is at
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html"
 source_title="On Baptism"
+uuid = "21fd9411-92e6-46b2-8333-9d82eb1b119a"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ Us, moreover, Jesus, the Father's Highest and Great Priest, clothing us from His
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html"
 source_title="On Monogamy"
+uuid = "1ac97d49-533f-4a4d-931d-1a9b7ab50381"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ On the ground of continence the priests likewise of the famous Egyptian bull wil
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html"
 source_title="On Monogamy"
+uuid = "8bed9c2e-01fc-4daa-b9ff-cd9552719b70"
 
 [[commentary]]
 quote='''
@@ -32,3 +36,4 @@ And thus if, from the moment when it changed its condition, and "having been bap
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "140d91c0-2e1e-4db0-b723-5b9a48fe7d30"

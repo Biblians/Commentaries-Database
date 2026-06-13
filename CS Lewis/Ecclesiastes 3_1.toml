@@ -5,6 +5,7 @@ The humans live in time, and experience reality successively. To experience much
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters, Ch. XXV"
+uuid = "eb337a60-96a0-43aa-ae2b-2ee877b038ba"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ It is a mistake to think that some of our impulses—say mother love or patrioti
 '''
 source_url=''
 source_title="Mere Christianity, Book 1, Chapter 2: Some Objections"
+uuid = "30f74b9e-91db-4087-bfe7-f9f335e4e519"

@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a712c0b8-18ff-4319-a694-9fb57fcde092"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ But when Jesus, that is, the Evangelical Word, takes a person by the hand, that 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25209.html'
 source_title="Commentary on Mark"
+uuid = "16b0ddac-cb9e-4a71-92a1-e784f317c26e"

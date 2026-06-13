@@ -7,6 +7,7 @@ That they were thus made exceeding sorrowful, came not of their lack of faith; b
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "603657ca-3f67-4a92-96bd-8a7dd7b3be3b"
 
 [[commentary]]
 quote='''
@@ -14,6 +15,7 @@ Whenever the Lord speaks of future disaster, he always teaches its close relatio
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 3.17.23"
+uuid = "9014b319-1c4f-47ba-8416-18dbc5662786"
 
 [[commentary]]
 quote='''
@@ -21,3 +23,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "ac2bbd9b-184d-4b62-8a5f-b9e8fda3b780"

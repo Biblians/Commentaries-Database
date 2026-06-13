@@ -4,6 +4,7 @@ What are the marks of the person who fears the Lord? What is the stamp of those 
 '''
 source_url=''
 source_title="HOMILIES ON THE PSALMS 42 (PS 127)"
+uuid = "f504e337-6790-4632-be97-a02885c35b7e"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ When you eat your meals, remember that you must immediately afterwards pray and 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_054.html'
 source_title="LETTER 54.11"
+uuid = "cea8428e-4e8b-417d-b75d-304e9f6bf1df"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Jeremiah.html'
 source_title="Commentary on Jeremiah"
+uuid = "29754d62-bc8c-401c-8ea8-e07f58a154c5"

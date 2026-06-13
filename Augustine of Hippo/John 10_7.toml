@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "14587941-ad95-4596-8623-4b595d5e9bde"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ Return then with me to what I was saying, in case it is so to be understood that
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252020.html'
 source_title="Tractates on John 20"
+uuid = "7bb495c8-91be-4e07-b13e-941aad9542fe"

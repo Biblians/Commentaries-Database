@@ -7,6 +7,7 @@ But the name of Jesus, a glorious name and worthy of all honour, a name which is
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "0f1a72a8-5fed-439c-9321-52fdbbfcd419"
 
 [[commentary]]
 quote='''
@@ -14,6 +15,7 @@ So, when he died, we died with him, and when he rose, we rose with him. Likewise
 '''
 source_url=''
 source_title="HOMILIES ON THE GOSPEL OF LUKE 14.1"
+uuid = "040ffbd7-d641-42ff-93d6-f7a4c25d7ca3"
 
 
 [[commentary]]
@@ -22,3 +24,4 @@ Christians are seen to draw their courage not from incantations but from the nam
 '''
 source_url=''
 source_title="AGAINST CELSUS 1.6"
+uuid = "16c0e954-8f1e-456a-8a3c-e7c72661f443"

@@ -4,6 +4,7 @@ The psalmist spoke of this solemnity [when he said], "God has ascended with a sh
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2:15"
+uuid = "25ca58ce-4929-4407-af98-a80e987df99c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Such brief downpours are rightly compared with the shallow, inflated boasting of
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Song%2520of%2520Songs.html'
 source_title="Commentary on the Song of Songs 3:4.15"
+uuid = "4a52b228-95f4-43da-96c7-ed189e22b605"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ The blessed Virgin, being purely human, was unable to receive bodily all the ple
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html'
 source_title="On the Gospel of Luke 1:1.35"
+uuid = "c1a037e3-7feb-47b0-a123-974d94f42ed0"
 
 
 [[commentary]]
@@ -26,3 +29,4 @@ But if the entire world is divided against itself with respect to faith in Chris
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html'
 source_title="On the Gospel of Luke 4:12.51"
+uuid = "1fe24b0b-d157-4213-9cb1-9caf64e2ccfa"

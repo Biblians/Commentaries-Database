@@ -4,6 +4,7 @@ Father, if you will, remove this cup from me. Nevertheless, not my will, but you
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "6799931e-1b49-43b3-8103-b4dbdfc1da1c"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Nevertheless, not my will, but yours be done. He says, not let this happen becau
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "d2a9d996-f237-41b3-9e72-750a438e2a82"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ Or He begs the cup to be removed from Him, not indeed from fear of suffering, bu
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "5f1e1070-fb94-4958-887c-64cb4d50a4a0"
 
 [[commentary]]
 quote='''
@@ -28,3 +31,4 @@ When He drew near His Passion, the Saviour also took upon Him the words of weak 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f97635df-ec28-4bb7-952f-f30c39392cb4"

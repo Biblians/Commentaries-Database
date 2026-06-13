@@ -4,6 +4,7 @@ Likewise, young men, be subject to the elders. After teaching the elders how to 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "bd63f363-2fc6-44fc-90ba-84a86749fdf5"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ All of you, clothe yourselves with humility towards one another. For he says all
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "bd10ea13-fabb-4a8c-9235-84e5504e0df8"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ For God resists the proud, etc. And he immediately explains what that same grace
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "27150c5f-856d-4c71-b5f0-3f5b5fbb8bdf"

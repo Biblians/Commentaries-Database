@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%25202%2520Corinthians%2FHomily%252015.html'
 source_title="Homily 15 on 2 Corinthians"
+uuid = "0590cf2a-7fd6-45f8-8b63-7fefaf989b3e"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ See again how he exalts their praises, and showeth their love. For having said, 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%25202%2520Corinthians%2FHomily%252016.html'
 source_title="Homily 16 on 2 Corinthians"
+uuid = "e9d8cda8-cce6-453f-990b-4f8a05a566d1"

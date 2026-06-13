@@ -4,6 +4,7 @@ Besides the signs just mentioned and the voices which could be heard in the neig
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252010.html'
 source_title="City of God 10.17"
+uuid = "0776043a-12e3-435a-8191-72d9d017cca2"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ So the walls of that city, called Jericho, which in the Hebrew tongue is said to
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 55"
+uuid = "65875223-d26e-4b75-98f3-9e585c43fd3d"

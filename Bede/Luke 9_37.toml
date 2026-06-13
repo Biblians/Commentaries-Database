@@ -4,6 +4,7 @@ And it happened on the following day, as they were descending from the mountain,
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "971c907a-e663-42bb-ab75-3eeefb1d3b76"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ Certain places accord with certain events. On the Mount our Lord prays, is trans
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "17572e76-3c0e-4041-9936-7a05910096ad"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Now in a mystical manner in proportion to their deserts docs our Lord daily asce
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "819318f6-5a92-4a32-a8dc-11a2012bb34b"

@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "034f8e49-d27c-44d7-a180-c06156d0202a"
 
 [[commentary]]
 quote='''
@@ -14,6 +15,7 @@ It is, forsooth, a degradation for learned men to pass from the school of Plato 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252010.html'
 source_title="City of God 10.29"
+uuid = "a24ce1e3-aea0-45ae-b795-44b307519458"
 
 [[commentary]]
 quote='''
@@ -21,3 +23,4 @@ But perhaps the slow hearts of some of you cannot receive their sins, so that th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25201.html'
 source_title="Tractates on John 1"
+uuid = "fbadf642-5204-4b76-9b6d-fa6b4d9fa825"

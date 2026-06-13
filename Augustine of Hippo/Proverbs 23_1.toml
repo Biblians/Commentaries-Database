@@ -4,6 +4,7 @@ What is "the table of a powerful man" except that one from which is taken the bo
 '''
 source_url=''
 source_title="TRACTATES ON THE GOSPEL OF JOHN 84:2"
+uuid = "30a3569d-13d7-4e29-b6fb-f79db479d177"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ You are approaching the table of a potentate. You, the faithful, know what table
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520332.html'
 source_title="SERMON 332:2"
+uuid = "8ee3f260-c223-47b3-8df7-fa6d1563cfda"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ It is certainly a great table where the lord of the table is himself the banquet
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520329.html'
 source_title="SERMON 329:1"
+uuid = "38edd51d-a889-49be-a1a6-8973f141fe1a"

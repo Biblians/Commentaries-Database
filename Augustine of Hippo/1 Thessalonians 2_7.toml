@@ -4,6 +4,7 @@ But there is no greater proof of charity in Christ's church than when the very h
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252010.html'
 source_title="Sermons 10.8"
+uuid = "70db12ef-81e2-451d-b427-8d1028290822"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ While Scripture is spiritual in itself, nonetheless it often, so to say, adapts 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252023.html'
 source_title="Sermons 23.3"
+uuid = "71253d2f-de18-49e8-8143-cb80fa237962"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ There you are then; persecution had increased so much, and tribulation so much, 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520305A.html'
 source_title="SERMONS 305A.5"
+uuid = "bbb472cf-1e71-4c53-a602-4adb57fc27a5"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ See Paul ascending: "I know a man in Christ who fourteen years ago (whether in t
 '''
 source_url=''
 source_title="TRACTATES ON JOHN 7.23.4"
+uuid = "64983b15-7d12-4235-8c2c-4dad57e311b6"
 
 
 [[commentary]]
@@ -33,3 +37,4 @@ Can we not see, even in dumb, unreasoning creatures, where there is no spiritual
 '''
 source_url=''
 source_title="HOMILIES ON 1 JOHN 9.1"
+uuid = "8a78d4d6-1de1-45a1-8b24-ef80a3b18eb7"

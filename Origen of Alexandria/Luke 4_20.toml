@@ -5,6 +5,7 @@ And now also if we will, our eyes can look upon the Saviour. For when you direct
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "827dc89b-6d14-4511-90d4-c20a46935770"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ When Jesus had read this passage, he rolled up "the scroll, gave it to the serva
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FHomilies%2520on%2520Luke.html'
 source_title="HOMILIES ON THE GOSPEL OF LUKE 32.6"
+uuid = "8af850d7-adb3-40c1-a3b0-fc30dedfa910"

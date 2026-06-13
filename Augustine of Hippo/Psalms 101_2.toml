@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%2520101.html'
 source_title="Exposition on Psalm 101"
+uuid = "9680a352-d416-4705-a131-23652099142b"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ I have become deaf and humbled - this follows - and I have remained silent about
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252016A.html'
 source_title="Sermon 16A"
+uuid = "c821702c-9a94-48ec-bd1b-ab828b40b7d2"

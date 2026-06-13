@@ -6,6 +6,7 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER FOUR"
+uuid = "319f3297-0f0d-421f-a893-5948149a3f12"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ You may as well accuse God of falsehood because he said by the mouth of Jonah: "
 '''
 source_url='https://www.newadvent.org/fathers/30113.htm'
 source_title="Against the Pelagians 3.6"
+uuid = "f9dc9b91-9ad5-4c5f-933a-4fe366b9c93e"

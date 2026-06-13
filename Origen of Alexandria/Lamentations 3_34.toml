@@ -4,6 +4,7 @@ When Celsus adds, "We must therefore believe that people are entrusted to certai
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FAgainst%2520Celsus%2FBook%25208.html'
 source_title="AGAINST CELSUS 8:54"
+uuid = "aa706d0f-c05c-453b-a9d3-977cd162a88e"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Celsus in the next place, as if he were able to tell certain secrets regarding t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FAgainst%2520Celsus%2FBook%25204.html'
 source_title="AGAINST CELSUS 4:66"
+uuid = "ded6c615-de39-4fb7-a672-000d783298c2"

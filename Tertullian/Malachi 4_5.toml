@@ -4,6 +4,7 @@ I fully expect these heretics to seize upon the example of Elijah as reincarnate
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html'
 source_title="ON THE SOUL 36:6"
+uuid = "f011b2e6-a6a5-45d5-80a7-37bf3b643876"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ We must after all this turn our attention to those scriptures also which forbid 
 '''
 source_url='https://www.newadvent.org/fathers/0316.htm'
 source_title="On the Resurrection of the Flesh, Chapter 22"
+uuid = "b5b54af1-b3e2-455e-a4a2-14ddd7462f22"

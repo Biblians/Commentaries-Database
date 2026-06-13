@@ -2,6 +2,7 @@
 quote='''
 When the two of them had been questioned and found to be lacking in contrition or valid excuse, God descended to the serpent, not with a question, but with a punishment. For where there was a possibility of repentance He made use of questions, but with a creature that is alien to repentance He employed a sentence of judgment. And you should realize that the serpent cannot repent from the fact that, when God said to it, "Because you have done this you are more cursed than all cattle," [ Gen. 3:14 ] it did not say "I did not do it" because it was afraid to lie, nor did it say "I did it," because it was alien to repentance.
 '''
+uuid = "c9c4c844-5384-443c-8406-2198db3d3daa"
 
 [[commentary]]
 quote='''
@@ -9,6 +10,7 @@ When [Adam and Eve] had been questioned and were both found to be wanting in rem
 '''
 source_url=''
 source_title="COMMENTARY ON GENESIS 2.29.1"
+uuid = "cb2785b7-4b84-46dc-b47f-b5ed4d29b772"
 
 
 [[commentary]]
@@ -17,3 +19,4 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON GENESIS 2.29.2"
+uuid = "3a25cb57-7263-41d7-b581-bb36d18ed77a"

@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Cassiodorus)'
 source_url='https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FFragments%2F1.-From%2520the%2520Latin%2520Translation%2520of%2520Cassiodorus.html'
 source_title="From the Latin Translation of Cassiodorus"
+uuid = "1e0943f8-bee3-45e4-8cb7-9a35032d56ce"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ But on the other side hear the Saviour: "I regenerated thee, who wert ill born b
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FFragments%2FWho%2520is%2520the%2520Rich%2520Man%2520that%2520Shall%2520Be%2520Saved%253F.html"
 source_title="Who is the Rich Man that Shall Be Saved?"
+uuid = "a1df7adb-b3ff-486b-93c9-d339f051cd34"

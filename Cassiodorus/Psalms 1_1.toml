@@ -4,6 +4,7 @@ It is important to pay close attention to the order of the text, especially how 
 '''
 source_url=''
 source_title="EXPLANATION OF THE PSALMS 1:1"
+uuid = "8c2e23c8-3a60-4a4a-9351-79711e909b50"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url=''
 source_title="EXPOSITIONS OF THE PSALMS 1:1"
+uuid = "4c2b6a20-8070-4caa-98a0-dbac3a37c363"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "e7675e78-351d-433d-b2f7-d89e4e76864a"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ But Marcion's god can be mocked; for he knows not how to be angry, or how to tak
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "6168d24e-2758-4c44-acbb-277a8b12f124"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ For God is "jealous," and is One who is not contemptuously derided -derided, nam
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "616cf440-dfe5-4b4e-9280-ceb79ffc0a5f"

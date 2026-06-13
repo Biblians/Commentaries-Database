@@ -4,6 +4,7 @@ As long as you are a potter's vessel, you must first be broken by the iron rod o
 '''
 source_url=''
 source_title="AUGUSTINE ON ROMANS 62"
+uuid = "2af24515-f4d6-4ac9-9b99-b3993bded312"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ First comes the clay which is fit only to be thrown away. We must begin with thi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252015.html'
 source_title="City of God 15.1"
+uuid = "b1ad6a86-8500-4bb3-b6d5-fb25725854a9"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ Given that our nature sinned in paradise, we are now formed through a mortal beg
 '''
 source_url=''
 source_title="QUESTIONS 68.3"
+uuid = "728331d5-7fb9-4259-a434-189b457eae57"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ If this lump of clay were of such indifferent value that it deserved nothing goo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 186"
+uuid = "1d89d1a4-c482-489c-9316-1ea54ced7e9f"
 
 [[commentary]]
 quote='''
@@ -32,3 +36,4 @@ It would seem unjust that vessels of wrath should be made unto destruction if th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 190"
+uuid = "07059b48-e4d1-46db-8c1b-a6f4c1c311c9"

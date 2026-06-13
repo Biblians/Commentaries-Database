@@ -6,6 +6,7 @@ I don't often use the kingdom, the power, and the glory. When I do, I have an id
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-letterstomalcolm/lewiscs-letterstomalcolm-00-h.html'
 source_title="LETTERS TO MALCOLM: CHIEFLY ON PRAYER, Letter 5 (Paragraphs 16-17)"
+uuid = "f7846101-ae1c-4fea-a829-aee9f0c790a5"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ quote='''
 '''
 source_url=''
 source_title="Reflections on the Psalms, Chapter 7: Connivance"
+uuid = "2d6d5dd4-b024-49b8-87ba-c78df45de818"

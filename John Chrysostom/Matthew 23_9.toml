@@ -5,6 +5,7 @@ Not that when Christ is here said to be our Master, the Father is excluded, as n
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e8d770cc-6eab-4643-9a75-03d6b618e386"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ Seest thou not those who adopt to themselves sons here, how they commit not the 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Matthew%2FHomily%252050.html'
 source_title="Homily on the Gospel of Matthew 50"
+uuid = "f4581955-b63f-4ec1-94de-d2051e6b1884"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ And again, "Call not, father," not that they should not call, but they may know 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Matthew%2FHomily%252072.html'
 source_title="Homily on the Gospel of Matthew 72"
+uuid = "5f1a3403-6f2e-4dd8-88fa-488ea5991e25"

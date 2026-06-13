@@ -4,6 +4,7 @@ However, do not rejoice in this that the spirits are subject to you. They are fo
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "766d7b38-fe79-4a82-afe2-e371b5e0f235"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Rejoice that your names are written in heaven. If Satan (he said) through pride 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "04e73b23-d3ff-4d54-9060-cb97ed0e26e9"
 
 
 [[commentary]]
@@ -21,6 +23,7 @@ They are forbidden to rejoice in the subjection of the spirits to God, since the
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c0fa6a11-231e-4cd3-b137-0203363bf533"
 
 
 [[commentary]]
@@ -30,3 +33,4 @@ As if he said, It becomes you to rejoice not in the putting down of the evil spi
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "48a5bd9e-976c-4187-a991-96be32aa80dc"

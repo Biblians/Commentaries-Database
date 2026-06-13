@@ -4,6 +4,7 @@ If I had been a Jew in the times of the ancient people, when there was nothing b
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 23"
+uuid = "122b36b1-13d8-4bd0-9e0b-6f2129b6b294"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ And this was made manifest by the message of an angel in the case of Moses' son,
 '''
 source_url=''
 source_title="ON BAPTISM 4.24.32"
+uuid = "56161e12-ed14-4690-8d61-6586d635dcc3"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ Christ was the rock whence was formed the stony blade for the circumcision, and 
 '''
 source_url=''
 source_title="ON THE GRACE OF CHRIST AND ORIGINAL SIN 2.31.36"
+uuid = "a02474e7-219f-4dcc-925a-6a3317cbe6c0"

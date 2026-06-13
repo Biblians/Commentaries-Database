@@ -5,6 +5,7 @@ Or judgment, because they do not bring to examination every thing that they do; 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d974f756-a895-46b6-80c1-566b97e1249b"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ But so that it does not make us diligent in faith, neglectful of works, he concl
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Exposition of the Gospel of Luke, 7.103-104"
+uuid = "29a1e144-8e74-4ae0-a007-0e9d1b49fc46"

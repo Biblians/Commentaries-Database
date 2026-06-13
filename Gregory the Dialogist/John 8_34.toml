@@ -4,6 +4,7 @@ For it is written, Everyone that sinneth is the servant of sin. For whosoever yi
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2FMorals%2520on%2520the%2520Book%2520of%2520Job%2FGregoryMoralia%2FBook04.html"
 source_title="MORALS ON THE BOOK OF JOB 4.35.71"
+uuid = "75c9f287-1b65-4536-80fa-84e34d6ebb91"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ For since it is written, that whosoever committeth sin is the servant of sin, th
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2FMorals%2520on%2520the%2520Book%2520of%2520Job%2FGregoryMoralia%2FBook25.html"
 source_title="MORALS ON THE BOOK OF JOB 25.16.34"
+uuid = "9ef182a8-1e31-4a20-8f58-931021baa733"
 
 [[commentary]]
 quote='''
@@ -22,3 +24,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ffdfa296-f038-4f58-9185-6d56e1b78892"

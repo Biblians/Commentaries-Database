@@ -4,6 +4,7 @@ Up to this point there was shadow, but now the truth of things is shown to be mo
 '''
 source_url=''
 source_title="HOMILIES ON GENESIS 47.14"
+uuid = "c55086d4-bd8a-42e9-94a9-15245e74f9b0"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Romans%2FHomily%252015.html'
 source_title="Homily on Romans 15"
+uuid = "fd45fae4-9148-4789-a8e9-2deb02f96f1a"

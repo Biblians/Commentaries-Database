@@ -4,6 +4,7 @@ Whenever … it seems that the Son is shown to be less than the Father, interpre
 '''
 source_url=''
 source_title="ANSWER TO MAXIMUS 2.14.8"
+uuid = "e4744901-8f3f-4300-ac54-8651c34cf3ef"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "50d3e2b6-3766-4d12-a98b-b16a0db2f867"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ We have just heard, brethren, these words of the Lord, which He addressed to His
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252078.html'
 source_title="Tractates on John 78"
+uuid = "a70e632a-0733-4d51-825e-1a32339b28e6"
 
 [[commentary]]
 quote='''
@@ -26,6 +29,7 @@ Let the Arian attend to this, and find healing in his attention; that wrangling 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252078.html'
 source_title="Tractates on John 78"
+uuid = "e23f57ee-5355-49ce-85bd-2363477d9e3e"
 
 [[commentary]]
 quote='''
@@ -33,3 +37,4 @@ May our Lord and Master bring home clearly to our minds the words, "If ye loved 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252078.html'
 source_title="Tractates on John 78"
+uuid = "55d9d41c-10e9-4f8e-b925-45ab66a6f58a"

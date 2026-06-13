@@ -4,6 +4,7 @@ But there is that species of knowledge which is characteristic of the herald, an
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25201.html"
 source_title="The Stromata Book 1"
+uuid = "ba5f977f-af0f-4374-91c0-a563baf29bd7"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25204.html"
 source_title="The Stromata Book 4"
+uuid = "b8f2b361-477c-46a9-9d25-487e54e9af61"

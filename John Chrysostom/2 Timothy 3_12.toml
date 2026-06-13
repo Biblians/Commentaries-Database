@@ -4,6 +4,7 @@ If the road is narrow and difficult, how can it be that "My yoke is easy and my 
 '''
 source_url=''
 source_title="ON LAZARUS AND THE RICH MAN 3"
+uuid = "3f75dc77-bb1c-4b99-b2a8-446db0b9ff1f"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252024.html'
 source_title="Homily on Acts 24"
+uuid = "1e89d8a1-4034-47aa-b062-0caae6f7c65c"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%25202%2520Timothy%2FHomily%25208.html'
 source_title="Homily on 2 Timothy 8"
+uuid = "ebf4e849-1aa0-4bb3-ba4a-c8e4090b8e2c"

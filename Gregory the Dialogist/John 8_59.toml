@@ -9,6 +9,7 @@ Who, had He chosen to exert the power of His Divinity, could, without a word, by
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "3e35cfa2-0a52-4f98-9135-7671e3a7af9c"
 
 [[commentary]]
 quote='''
@@ -18,3 +19,4 @@ But against this pride says in the heart: It is shameful that, having received a
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 18"
+uuid = "8cc99db8-25ae-4bce-a012-5ccf7e716a42"

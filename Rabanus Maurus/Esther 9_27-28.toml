@@ -4,6 +4,7 @@ So the days of lots—on which God gives his true followers victory over their e
 '''
 source_url='https://sites.google.com/site/aquinasstudybible/home/esther/rabanus-maurus-commentary-on-esther'
 source_title="Commentary on Esther"
+uuid = "92eb5baa-4b5b-4a02-b59d-9c35d9a570e0"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ The fateful days in which God gives the victory over the enemies to his true con
 '''
 source_url=''
 source_title="EXPLANATION ON THE BOOK OF ESTHER 13"
+uuid = "f69fb13e-da6a-4d63-bcc8-9b0514042e08"

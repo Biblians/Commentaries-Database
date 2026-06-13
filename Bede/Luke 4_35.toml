@@ -4,6 +4,7 @@ And Jesus rebuked him, saying: Be silent, and come out of him. Since by the envy
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "e14a0757-431b-406f-94aa-e9c11fcec128"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And when the demon had thrown him down in their midst, it came out of him, and d
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "58be1c01-ce28-4fed-8af0-4e597003da5a"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ But by the permission of God, the man who was to be delivered from the devil is 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a32e4f6b-d8e0-4710-bdb3-6fae446b9a30"

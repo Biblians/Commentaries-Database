@@ -4,6 +4,7 @@ Saul, who is also called Paul, filled with the Holy Spirit. From Sergius Paulus 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "66be71d3-300e-4c55-9635-1d61223889bc"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ But Saul, who is also Paul, filled with the Holy Spirit, and so on. Just as Barn
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "05a5baea-f350-43c1-966b-254bf28c9b1b"

@@ -4,6 +4,7 @@ God the Only Begotten proves his Sonship by an appeal not only to the name but t
 '''
 source_url=''
 source_title="ON THE TRINITY 6.27"
+uuid = "c5adb985-4bc7-4492-a159-254b4f8c9d8b"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "815f4c35-3cd5-4bc8-85d2-159e8b0ac3e2"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ Are they blameless, in that they did not know the testimony of the Father who wa
 '''
 source_url=''
 source_title="ON THE TRINITY 9.20"
+uuid = "3fac9e4d-9ad8-4944-90bd-64ae970459af"

@@ -4,6 +4,7 @@ And they bound themselves by an oath, saying that they would neither eat nor dri
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "b50590d4-a14a-418d-8434-73d05d906ec6"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ And they vowed themselves saying they would neither eat nor drink until they had
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "ad77803b-30b9-40a6-81bd-ab3d1ac34fad"

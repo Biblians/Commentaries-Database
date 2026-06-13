@@ -4,6 +4,7 @@ We have neither devised fictions of our own nor invented new fables; but from re
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cosmas%2520Indicopleustes%2FThe%2520Christian%2520Topography%2FBook%25201.html"
 source_title="The Christian Topography, Book 1"
+uuid = "767291d3-e2ff-425b-b977-456ad19f6102"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ He beheld Adam sinning, but He foresaw his posterity acting righteously; He saw 
 append_to_author_name='(quoting Severianus of Gabala, Hexaemeron, Book 4)'
 source_url="https://historicalchristian.faith/by_father.php?file=Cosmas%2520Indicopleustes%2FThe%2520Christian%2520Topography%2FBook%252010.html"
 source_title="The Christian Topography, Book 10"
+uuid = "10eee8a7-4e48-42a9-8401-be2af54d379c"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ All the perfect therefore who walk by this rule, peace be upon them and mercy, a
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cosmas%2520Indicopleustes%2FThe%2520Christian%2520Topography%2FBook%25206.html"
 source_title="The Christian Topography, Book 6"
+uuid = "6fb83933-0af8-4395-a1de-c648a73a8975"
 
 [[commentary]]
 quote='''
@@ -26,3 +29,4 @@ And when was the kingdom of which he there speaks prepared? From the foundation 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cosmas%2520Indicopleustes%2FThe%2520Christian%2520Topography%2FBook%25207.html"
 source_title="The Christian Topography, Book 7"
+uuid = "f6a9ad1e-c7d8-494b-a1ba-0d6ee2a61422"

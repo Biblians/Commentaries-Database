@@ -4,6 +4,7 @@ These men are not the planting of the Father, but are an accursed brood. And say
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Ignatius%2520of%2520Antioch%2FEpistle%2520to%2520the%2520Trallians.html"
 source_title="Epistle of Ignatius to the Trallians"
+uuid = "24df84fe-5565-4540-9f86-53e9bd958b6f"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ Seeing these things, thou wast in utter perplexity. And thou wast ignorant that 
 source_url="https://historicalchristian.faith/by_father.php?file=Ignatius%2520of%2520Antioch%2FPseudo-Ignatius%2FEpistle%2520to%2520the%2520Philippians.html"
 source_title="Epistle of Pseudo-Ignatius to the Philippians"
 time = 400
+uuid = "ef838d73-1806-41e4-9f21-7fc5b27c793b"
 
 [[commentary]]
 quote='''
@@ -21,3 +23,4 @@ For if the Lord were a mere man, possessed of a soul and body only, why dost tho
 source_url="https://historicalchristian.faith/by_father.php?file=Ignatius%2520of%2520Antioch%2FPseudo-Ignatius%2FEpistle%2520to%2520the%2520Philippians.html"
 source_title="Epistle of Pseudo-Ignatius to the Philippians"
 time = 400
+uuid = "3e3dc256-1bee-4ef5-8ecf-df99afaab292"

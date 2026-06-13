@@ -4,6 +4,7 @@ Everyone who comes to me and hears my words and does them, I will show you whom 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "175300eb-1635-49d2-b345-019a1cbc7a8a"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ The Lord indicates what the true distinction between good and bad fruits is by c
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.25"
+uuid = "3b2e65bb-bb0e-4a24-97b2-5deaa11a2d63"

@@ -2,6 +2,7 @@
 quote='''
 In the sixtyeighth Psalm [lxx] the Savior says that he did not come to please himself but God the Father. For because he said: "I did not come down from heaven to do my will but the will of him who sent me," the Jews objected and put him to death as a sinner. Therefore the psalmist puts himself in Christ's place and says: "The reproaches of those who reproached thee fell on me." Commentary on Paul's Epistles.
 '''
+uuid = "4b238bd8-4bed-4645-a7de-188042c5f145"
 
 
 [[commentary]]
@@ -10,3 +11,4 @@ In the sixty-eighth Psalm [LXX] the Savior says that he did not come to please h
 '''
 source_url=''
 source_title="COMMENTARY ON PAUL'S EPISTLES"
+uuid = "0fbd3f0d-d78a-42dc-947c-d76b217b85c6"

@@ -4,6 +4,7 @@ Therefore "one star differeth from another star in glory." If, again, Christ in 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "caf52617-f016-4b27-a400-6cf6a915b38e"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "aff1adb6-51ee-4286-8397-0931e31513ac"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ Well now, if He had put forth faith to suffer martyrdoms not for the contest's s
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FScorpiace.html"
 source_title="Scorpiace"
+uuid = "43c1bc57-c3f4-4b20-ae1c-2b7e664a1fd3"

@@ -4,6 +4,7 @@ Because God fulfilled this promise to your children by raising Jesus, as it is w
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "3d2be8af-ecc8-4de2-8fd1-c2e95c0fd187"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "dbace363-69ee-4e1a-80a7-42cc6300fcb4"

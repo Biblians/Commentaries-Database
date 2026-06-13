@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 99"
+uuid = "e64710e1-91fd-4707-a9d8-552a22d11940"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ I now consider it my duty to mention why the door to life is narrow. Whoever wou
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 99"
+uuid = "5cca986b-a0ef-4ee9-80ff-99fbd84cd67c"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 99"
+uuid = "aeca94e1-0172-48a3-ad42-477573c24ccf"

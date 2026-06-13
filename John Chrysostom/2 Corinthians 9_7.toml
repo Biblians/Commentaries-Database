@@ -4,6 +4,7 @@ Paul's purpose was not only for money to be contributed to the poor but for it t
 '''
 source_url=''
 source_title="HOMILY 10.4.16: A SERMON ON ALMSGIVING"
+uuid = "ca6cf48c-ee9f-45b5-a41d-2c6d9e049139"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%25202%2520Corinthians%2FHomily%252019.html'
 source_title="Homily 19 on 2 Corinthians"
+uuid = "6a3ae0ce-4c29-4886-be4e-5dea0b5aa24d"

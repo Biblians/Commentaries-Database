@@ -4,6 +4,7 @@ Enjoin them too (as I have borrowed a figure from agriculture) to preserve invio
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FLetters%2FLetters%25201-10.html'
 source_title="Letters 1-10"
+uuid = "4e093cc9-309d-41a9-8aa3-5958cc6da5d3"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ But on the contrary, if your eye has looked upon a woman to covet her, you have 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FOn%2520Jacob%2520and%2520the%2520Blessed%2520Life.html'
 source_title="On Jacob and the Blessed Life"
+uuid = "c79fbdbc-611f-4ba1-81ef-6ec388f3cd1a"

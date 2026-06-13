@@ -8,6 +8,7 @@ Moreover, Harbona the eunuch, who handed over the actual cross that had been mad
 '''
 source_url='https://sites.google.com/site/aquinasstudybible/home/esther/rabanus-maurus-commentary-on-esther'
 source_title="Commentary on Esther"
+uuid = "e583de2c-6d4c-44c7-b3a5-eaf74eef7dcd"
 
 [[commentary]]
 quote='''
@@ -15,3 +16,4 @@ It is written in the book of Proverbs: "Whoever digs a pit will fall into it, an
 '''
 source_url=''
 source_title="EXPLANATION ON THE BOOK OF ESTHER 10"
+uuid = "dd90201b-9b99-41e8-97bb-f389b75f9889"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252014.html'
 source_title="Tractates on John 14"
+uuid = "0c7bdc68-4cae-4afe-a556-31976ad3f139"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252014.html'
 source_title="Tractates on John 14"
+uuid = "383bcb00-5086-4f44-ba6b-1121fed813b7"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "03e77b78-c9cb-46b5-b50f-51fadaed336f"

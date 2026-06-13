@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "087e775f-5ea7-4bff-b3bb-15c386ef81d7"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "20d68b9c-8426-41d0-94a3-1d22ccb4158d"
 
 [[commentary]]
 quote='''
@@ -21,3 +23,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ddb4937b-48a3-4899-b370-e1e862ad054a"

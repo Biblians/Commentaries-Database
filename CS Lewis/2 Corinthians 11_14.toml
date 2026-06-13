@@ -4,6 +4,7 @@ It will be exposed, in an aggravated degree, to that temptation which the Devil 
 '''
 source_url=''
 source_title="Meditation on the Third Commandment, from God in the Dock"
+uuid = "311b3aa3-7726-4315-838f-5c79e7db1e9c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Long before [the Christian movement] became as important as that the real opposi
 '''
 source_url=''
 source_title="The Decline of Religion, from God in the Dock"
+uuid = "6022151e-fc1d-4c39-9bfc-3193fac09d59"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ No doubt you have often practised transforming yourself into an angel of light a
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters, Ch. XXIII"
+uuid = "3d4f4100-8a6e-4b82-9a8f-9e457851e311"

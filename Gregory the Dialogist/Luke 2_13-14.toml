@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "079a4ff2-5529-44df-984c-f612965bf7b8"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Consider therefore, brothers, what is cheaper when purchased, what is more preci
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 5"
+uuid = "3ba9d2d1-3113-42c2-8510-13d768c8dc3c"

@@ -4,6 +4,7 @@ For I say to you: Among those born of women there is no greater prophet than Joh
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "980b50d2-de23-451b-b7c0-ff7814fe70c5"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Whoever is least in the kingdom of God is greater than he. This sentence can be 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "842806be-0de2-4638-835c-f930e9078b05"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ These words may be understood in two ways. For either he called that the kingdom
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "2abd5372-2957-44dd-9d4b-4d375c4b91ab"

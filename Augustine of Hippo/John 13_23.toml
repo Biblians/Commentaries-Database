@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6a9e15a1-264d-4783-adc4-d171cec8e3db"
 
 [[commentary]]
 quote='''
@@ -16,3 +17,4 @@ But what mean the words, "whom Jesus loved"? As if He did not love the others, o
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252061.html'
 source_title="Tractates on John 61"
+uuid = "9cba709e-eba8-4a08-8a78-ec2c3954e0e1"

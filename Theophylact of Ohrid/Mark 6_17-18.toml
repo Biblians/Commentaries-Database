@@ -4,6 +4,7 @@ Taking advantage of the occasion, Mark inserts here an introductory discourse on
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25206.html'
 source_title="Commentary on Mark"
+uuid = "4dcdeffa-34cc-4457-8ea1-b6ca18dd0f10"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ The law also commanded a brother to marry his brother's wife, if he died without
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f7b967bb-03a8-4754-8898-b0daf016a983"

@@ -2,11 +2,13 @@
 quote='''
 What is now the church, prior to the appearance of what will be, lives in toils and afflictions, and in her the just live by faith.
 '''
+uuid = "f5856a07-4cb2-47dc-bb72-546642f04e5c"
 
 [[commentary]]
 quote='''
 He who claims to be just without faith is a liar. Sermons for the Feast of the Nativity, Homily
 '''
+uuid = "aa9f2028-fc8e-4f79-ac7f-886f049f65b6"
 
 [[commentary]]
 quote='''
@@ -14,3 +16,4 @@ This righteousness is the grace of the New Testament, by which the faithful are 
 '''
 source_url=''
 source_title="THE SPIRIT AND THE LETTER 18.11"
+uuid = "2593e4f4-118c-477d-8cb6-5e76b4e7c329"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801019.htm'
 source_title="Exposition on Psalm 19"
+uuid = "1d9a06d8-5378-4afb-a4d6-57ec2ccdd100"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ The sun's maker could only be seen by the sun's light, because he "set his taber
 '''
 source_url=''
 source_title="HOMILIES ON 1 JOHN 1:2"
+uuid = "e2591e5e-2204-4686-a329-26e09a79d953"

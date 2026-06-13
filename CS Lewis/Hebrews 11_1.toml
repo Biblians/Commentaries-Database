@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="IS THEISM IMPORTANT?, from God in the Dock"
+uuid = "c540bb14-e1e9-4b52-9859-eb0017bdabe6"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ My own idea is that it occurs only when the one who prays does so as God's fello
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-letterstomalcolm/lewiscs-letterstomalcolm-00-h.html'
 source_title="LETTERS TO MALCOLM: CHIEFLY ON PRAYER, Letter 11"
+uuid = "5a178b38-2414-4518-9150-9ac33cd7218a"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ Now Faith, in the sense in which I am here using the word, is the art of holding
 '''
 source_url=''
 source_title="Mere Christianity, Book 3, Chapter 11: Faith"
+uuid = "47ede325-2f48-4081-b331-fc6c99dd2057"

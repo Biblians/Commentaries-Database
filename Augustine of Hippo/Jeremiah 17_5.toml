@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 155"
+uuid = "2b1fe784-3d8b-40e4-b2cd-e2f3ba8dbcf6"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ The Stoics, when questioned about where they place the efficient cause of the ha
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520150.html'
 source_title="SERMON 150:8"
+uuid = "44bc5d4e-97b0-4d5e-8d44-c77276fb9b23"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ But of these matters, all of which are true objects of faith, those only pertain
 '''
 source_url='https://www.newadvent.org/fathers/1302.htm'
 source_title="Enchiridion 114"
+uuid = "01253db6-2b61-4948-9203-f4a21e03503e"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ Out of that confession of faith that is briefly contained in the creed and that,
 '''
 source_url='https://www.newadvent.org/fathers/1302.htm'
 source_title="Enchiridion 30:114"
+uuid = "92f21fd5-d086-4222-9f33-409c971911f5"
 
 [[commentary]]
 quote='''
@@ -32,6 +36,7 @@ Blessed are all who trust in God. If the blessed are those who trust in him, the
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252013.html'
 source_title="SERMON 13:2"
+uuid = "cd13f6f5-dc82-4666-858d-1c64994d876a"
 
 [[commentary]]
 quote='''
@@ -39,6 +44,7 @@ Take care not to let trust in your own strength steal on you, for you are human,
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 218"
+uuid = "c3503ca3-88bd-40a9-885e-71253e7e8dd9"
 
 
 [[commentary]]
@@ -47,6 +53,7 @@ People who despise being in need before God, lest they receive true perseverance
 '''
 source_url='https://www.newadvent.org/fathers/1315.htm'
 source_title="On Patience 12"
+uuid = "eedb4c98-35cb-46ee-968e-0568bb96f25d"
 
 
 [[commentary]]
@@ -55,6 +62,7 @@ But it is said, "It is by his own fault that any one deserts the faith, when he 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FA%2520Treatise%2520on%2520the%2520Predestination%2520of%2520the%2520Saints%2FBook%25202.html'
 source_title="PREDESTINATION OF THE SAINTS 2:46"
+uuid = "8272ceda-44d3-4e7b-a562-5b373cac496a"
 
 
 [[commentary]]
@@ -63,6 +71,7 @@ We must find out from what source true perseverance, worthy of the name, is to b
 '''
 source_url='https://www.newadvent.org/fathers/1315.htm'
 source_title="On Patience 15:12"
+uuid = "af380874-3f93-4acd-b0b1-3ed12699d499"
 
 
 [[commentary]]
@@ -71,6 +80,7 @@ This is the combat we are challenged to, this the struggle with the flesh, this 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520344.html'
 source_title="SERMON 344:1"
+uuid = "1dc48bb4-13f5-43d9-ab9f-f3d06882a201"
 
 
 [[commentary]]
@@ -79,6 +89,7 @@ We have recognized ourselves, seen ourselves and taken a thorough look at oursel
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520335B.html'
 source_title="SERMON 335B.5"
+uuid = "45482d19-aad6-4b62-875d-fbfabf7f7469"
 
 
 [[commentary]]
@@ -87,3 +98,4 @@ In order that we fall not away from the virtue of the soul, we ought to watch es
 '''
 source_url='https://www.newadvent.org/fathers/1308.htm'
 source_title="On Continence 10"
+uuid = "bbd0b933-d89b-4f61-91ce-4a82c64b25b7"

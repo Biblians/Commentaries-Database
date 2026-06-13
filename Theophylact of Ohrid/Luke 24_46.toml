@@ -4,6 +4,7 @@ After this He teaches them that "thus it was necessary for Christ to suffer." Ho
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Commentary on Luke"
+uuid = "80c0b73e-48aa-40f2-b5c7-319e28f41c8c"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ But He taught them by His words; for it follows, And said unto them, Thus it is 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d6be6f54-89db-41f1-b058-f687bf2b225a"

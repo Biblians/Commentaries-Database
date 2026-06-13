@@ -4,6 +4,7 @@ To none, forsooth, except these, nor prior to these, was revealed the truth of t
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html"
 source_title="The Prescription Against Heretics"
+uuid = "f62f2d25-5d31-46f8-9af1-5240581a95e2"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Some persons believe Marcion. But "the disciple is not above his master." Apelle
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "71d7a6c8-1bba-47af-ab04-7a6e11a0499c"

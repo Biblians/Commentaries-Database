@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%252094.html'
 source_title="Exposition on Psalm 94"
+uuid = "03cdd23e-9de3-448a-88c4-b41f6a03461c"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ However, with the other class of unbelievers who either believe that there is no
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 184.a"
+uuid = "52a3e0da-7ed8-419c-9a33-43286b6803f8"

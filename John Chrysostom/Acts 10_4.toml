@@ -5,6 +5,7 @@ Let us not simply pass these words by, but let us carefully consider the virtue 
 '''
 source_url=''
 source_title="BAPTISMAL INSTRUCTIONS 7.28-29"
+uuid = "d04fe828-d9bf-4136-a3a4-3dd8e896729e"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ And after these virtues let us seek, which together with our own salvation will 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Matthew%2FHomily%252077.html'
 source_title="Homily on Matthew 77"
+uuid = "993e8d1c-ea4d-431e-8a80-3b9d528c3ea2"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252022.html'
 source_title="Homily on Acts 22"
+uuid = "8fdee13e-d2bc-44c6-9a83-598c6b06e294"
 
 [[commentary]]
 quote='''
@@ -26,6 +29,7 @@ But the Angel says to him, "Thy prayers and thine alms are come up for a memoria
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252022.html'
 source_title="Homily on Acts 22"
+uuid = "5f2fb275-f44e-425f-bf0b-5b149190ec0e"
 
 [[commentary]]
 quote='''
@@ -33,3 +37,4 @@ Nothing like alms: great is the virtue of this practice, when the alms is poured
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%252022.html'
 source_title="Homily on Acts 22"
+uuid = "4c6e7b45-bea0-4f92-b514-7b6c9ec5b86a"

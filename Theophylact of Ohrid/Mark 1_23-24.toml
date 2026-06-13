@@ -4,6 +4,7 @@ Evil spirits are called "unclean" because they love all manner of unclean deeds.
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Commentary on Mark"
+uuid = "8c4c1200-e4e5-4b6d-8eda-3d24baee4f70"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ For to come out of man the devil considers as his own perdition; for devils are 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "06a20da2-3694-4040-8dd0-574216a358a6"

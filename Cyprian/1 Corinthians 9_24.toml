@@ -4,6 +4,7 @@ A voice filled with the Holy Spirit broke forth from the martyr's mouth when the
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%25208.html"
 source_title="Epistle VIII"
+uuid = "cba77204-90a6-49cb-af95-233776b0c8bf"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ That we must press on and persevere in faith and virtue, and in completion of he
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%252011.%2520Exhortation%2520to%2520Martyrdom%252C%2520Addressed%2520to%2520Fortunatus.html"
 source_title="Treatise XI Exhortation to Martyrdom Addressed to Fortunatus"
+uuid = "45f030f9-f9dc-485a-8def-6c4b8dca112d"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ That it is of small account to be baptized and to receive the Eucharist, unless 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%252012.%2520Three%2520Books%2520of%2520Testimonies%2520Against%2520the%2520Jews.html"
 source_title="Treatise XII. Three Books of Testimonies Against the Jews."
+uuid = "664dbdf9-6813-4ce4-aa40-f6df3af2d2e4"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ And to return to the praise of martyrdom, there is a word of the blessed Paul, w
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FPseudo-Cyprian%2FOn%2520the%2520Glory%2520of%2520Martyrdom.html"
 source_title="Pseudo-Cyprian On the Glory of Martyrdom"
+uuid = "88eb0bee-aa95-4cee-97a6-9da5e4f93f6d"

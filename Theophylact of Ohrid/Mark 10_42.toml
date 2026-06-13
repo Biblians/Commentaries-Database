@@ -4,6 +4,7 @@ But now Christ heals them, first calming them and drawing them near to Himself â
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%252010.html'
 source_title="Commentary on Mark"
+uuid = "a1051de9-bb01-4846-befd-3e1e5cb25a54"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Christ however cures them; first indeed by drawing them to Himself in order to c
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b7d8e604-d486-494f-ab53-43d427a189ec"

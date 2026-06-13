@@ -4,6 +4,7 @@ Which of you by worrying can add one cubit to his stature? If you then cannot do
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "f40120d0-e0d9-4b42-9f1d-362609f152f2"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ To Him then leave the care of directing the body, by whose aid you see it to com
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "fb00e45e-45ee-4cbe-adc9-9047259ca17d"

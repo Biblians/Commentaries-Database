@@ -4,6 +4,7 @@ Here we are with two others, walking along the road and talking to each other ab
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520232.html'
 source_title="SERMON 232.3"
+uuid = "a05aea3e-0d65-48a4-ba6c-03886541b6e8"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520235.html'
 source_title="SERMON 235.2-3"
+uuid = "b619526d-35db-4e75-9389-8ff87ade237b"

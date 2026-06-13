@@ -7,6 +7,7 @@ But our Lord, Who knew all things before they came to pass, knowing that His mes
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "17bd0dc0-389e-4a5a-836f-023bd2003212"
 
 
 [[commentary]]
@@ -17,6 +18,7 @@ What, then, was the purpose of this occurrence? He was going up to Jerusalem, as
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520the%2520Gospel%2520of%2520Luke%2FSermons%252047-56%2520(Luke%25209-1-56).html'
 source_title="COMMENTARY ON LUKE, HOMILY 56"
+uuid = "9460a459-8eae-4aef-8320-7d028960e135"
 
 
 [[commentary]]
@@ -25,3 +27,4 @@ It benefited them also in another way: they were to be the instructors of the wh
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520the%2520Gospel%2520of%2520Luke%2FSermons%252047-56%2520(Luke%25209-1-56).html'
 source_title="COMMENTARY ON LUKE, HOMILY 56"
+uuid = "9de5af1e-a564-4a9e-8579-2b02711e00ae"

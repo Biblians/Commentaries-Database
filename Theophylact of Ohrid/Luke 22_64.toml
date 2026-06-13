@@ -4,6 +4,7 @@ Therefore He endures mockery and beatings, and though He is the Master of the pr
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Commentary on Luke"
+uuid = "a6831d00-82da-4afc-9f13-044464b6a330"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Likewise the Lord of prophets is derided as a false prophet. It follows, And the
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "95546704-6202-48c5-ac09-977c001a0b48"

@@ -4,6 +4,7 @@ To His logical argument the Lord also adds testimony from Scripture. Moses says 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Commentary on Luke"
+uuid = "63780de3-e9e3-4a1d-a955-bb1a07ffa2d9"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Or to the reason above given the Lord added the testimony of Scripture, Now that
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6842e35d-fb4c-4c23-8b5c-bda5b0846c42"

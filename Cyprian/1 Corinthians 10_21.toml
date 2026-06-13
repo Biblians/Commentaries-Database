@@ -4,6 +4,7 @@ And I wish, if it could be so without the sacrifice of our brethren's safety, th
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%25209.html"
 source_title="Epistle IX"
+uuid = "36b28051-1715-4c3f-bf7e-eca1b5bc3fc2"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ That we are not saying this dishonestly, our former letters have proved, wherein
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252030.html"
 source_title="Epistle XXX"
+uuid = "e9711f6f-dacc-4dd6-b279-e85a473ec2f2"
 
 [[commentary]]
 quote='''
@@ -18,4 +20,5 @@ Moreover, beloved brethren, a new kind of devastation has appeared; and, as if t
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%25203.%2520On%2520the%2520Lapsed.html"
 source_title="Treatise III. On the Lapsed"
+uuid = "07d92a76-2e3d-43a7-ac54-55fc922bc260"
 

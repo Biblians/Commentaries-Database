@@ -5,6 +5,7 @@ As if He said, Whereas the law of Moses expressly says, Give a righteous judgmen
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "9433dc8b-97b4-47cd-8dc3-8c9ab3a2f929"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Now although David acted contrary to what the law approves, he is rightly and ju
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILIES 21-22"
+uuid = "6e7385d4-ee49-49be-ba0e-2e77bb1f4109"

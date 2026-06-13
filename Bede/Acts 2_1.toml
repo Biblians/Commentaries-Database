@@ -4,6 +4,7 @@ And when the days of Pentecost were completed, they were all together in the sam
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "2ceac4b4-bb5e-4151-a779-2978bc2202a9"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ And when the days of Pentecost were completed, they were all together in the sam
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "e9326996-3e4a-4e01-b1a6-d540af1b6580"

@@ -4,6 +4,7 @@ I am Alpha and Omega, the beginning and the end, etc. The beginning, whom none p
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "1dc1cecb-32d8-4a10-83a7-71823ef2db33"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Who is, and who was, etc. He said the same of the Father. For God the Father als
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "587044de-12db-4475-acc0-54c559c85af2"

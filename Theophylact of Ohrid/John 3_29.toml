@@ -7,6 +7,7 @@ For which cause I rejoice now, that all men follow Him. For had the bride, i. e.
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "79e3e962-120b-4d9b-ac80-c34c1ac9341d"
 
 [[commentary]]
 quote='''
@@ -17,3 +18,4 @@ So, the Lord is the bridegroom of every soul; the bridal chamber in which the un
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520John%2FChapter%25203.html'
 source_title="Commentary on John"
+uuid = "feb01ed1-bcf8-4348-b6e2-a87a2529b4df"

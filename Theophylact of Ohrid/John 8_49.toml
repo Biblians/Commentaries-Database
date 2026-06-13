@@ -5,6 +5,7 @@ He honoured the Father, by revenging Him, and not suffering murderers or liars t
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "cdab7dfe-7c1c-4497-8e57-e1e952f47ed8"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ How does He honor the Father? By defending Him and not allowing murderers and li
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Commentary on John"
+uuid = "5fc78fdd-5b2e-4322-bad1-579821931b03"

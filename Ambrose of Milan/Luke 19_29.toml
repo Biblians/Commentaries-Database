@@ -5,6 +5,7 @@ Mystically, our Lord came to Mount Olivet, that he might plant new olive trees o
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1826d0e5-8e2c-423e-b369-0e3020d36bd2"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ Nor is it for nothing that two disciples are directed thither; Peter to Corneliu
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b4ba9794-5390-4ad1-ae7e-b56824af521b"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ He came to the Mount of Olives so that he could plant new olive trees on the hei
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Commentary on Luke"
+uuid = "3e59a31c-c92c-4fd3-b2bb-44da8f6ccddd"

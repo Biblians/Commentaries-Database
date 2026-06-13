@@ -4,6 +4,7 @@ But this Jacob was called in Scripture a man without deceit. This same Jacob, yo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252089.html'
 source_title="SERMON 89.5"
+uuid = "ddc4ed6d-2ae0-4cd3-be5f-621c494b802a"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And the Lord saw Zacchaeus himself. He was seen, and he saw; but unless he had b
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520174.html'
 source_title="SERMON 174.4"
+uuid = "f12de244-6324-4448-b5ec-920957113614"
 
 
 [[commentary]]
@@ -23,6 +25,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "736cc9e6-c02f-4dd5-b238-0b4882b76983"
 
 [[commentary]]
 quote='''
@@ -32,3 +35,4 @@ We must inquire whether this fig-tree signifies anything. Listen, my brethren. W
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25207.html'
 source_title="Tractates on John 7"
+uuid = "fc5ffd9f-7590-4b6f-9de0-8a7057a52a84"

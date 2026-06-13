@@ -4,6 +4,7 @@ Therefore, see how you hear. He earnestly teaches us to listen to the word so th
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "2aa3bfd6-6874-47bd-87e1-8e1b30da5cbe"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ For to him who has, it will be given. And whoever does not have, even what he th
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "4df34f2a-a5f5-4e1e-8d45-6323841dfe7c"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ But the Lord ceases not to teach us to hearken to His word, that we may be able 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "0fe942f3-5c0e-4657-a1d5-0acda084dc57"

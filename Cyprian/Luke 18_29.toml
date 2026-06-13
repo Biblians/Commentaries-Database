@@ -4,6 +4,7 @@ Which things must all now be considered by us, that no one may desire anything f
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252055.html"
 source_title="Epistle LV"
+uuid = "57680414-14d3-46ac-bd7b-d53dd86f9734"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ What hope and reward remains for the righteous and for martyrs after the conflic
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%252011.%2520Exhortation%2520to%2520Martyrdom%252C%2520Addressed%2520to%2520Fortunatus.html"
 source_title="Treatise XI. Exhortation to Martyrdom, Addressed to Fortunatus."
+uuid = "e4463e44-b691-42e8-99f9-2b98229faec4"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ In the Proverbs of Solomon: "The faithful martyr delivers his soul from evils." 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%252012.%2520Three%2520Books%2520of%2520Testimonies%2520Against%2520the%2520Jews.html"
 source_title="Treatise XII. Three Books of Testimonies Against the Jews."
+uuid = "ff46ca3e-6ee9-4baa-9d84-93c5b7870a10"

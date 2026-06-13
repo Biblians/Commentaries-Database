@@ -4,6 +4,7 @@ Separate for me Barnabas and Saul for the work, to which I have called them. It 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "37d22466-6962-4e5e-b937-9af3863079a4"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ The Holy Spirit said: Set apart for me Barnabas and Paul for the work to which I
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "0e687600-aaef-482b-8891-29dbb9f95470"

@@ -4,6 +4,7 @@ A perfect practice of Christianity would, of course, consist in a perfect imitat
 '''
 source_url='http://www.orcuttchristian.org/Lewis%20CS%20-%20God_in_the_Dock.pdf'
 source_title="ANSWERS TO QUESTIONS ON CHRISTIANITY, from God in the Dock"
+uuid = "22fce028-1827-4002-8ac1-7472994b1b84"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ To be ashamed of what you were about to say, to pretend that something which you
 '''
 source_url=''
 source_title="Surprised by Joy, Chapter 12: Guns and Good Company"
+uuid = "2c5e9309-e2bd-4fe7-b2e7-e63b0ddc727c"

@@ -4,6 +4,7 @@ But to show that many would be too often ready to imagine things of them above h
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FConcerning%2520the%2520Statues%2FHomily%25201.html'
 source_title="Homily 1, Concerning the Statues"
+uuid = "b1670201-0336-46b0-acab-1caf388ac147"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ There is greater freedom of speech in this harangue, than in the former. Not tha
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25209.html'
 source_title="Homily on Acts 9"
+uuid = "ac97252d-6880-491c-83b3-2a8ed9b6b01f"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25208.html'
 source_title="Homily on Acts 8"
+uuid = "0b8cf198-89ae-43d8-a060-f41d5bda8b78"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ Observe also how it was divinely ordered, that the miracle should take place in 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25208.html'
 source_title="Homily on Acts 8"
+uuid = "6c4e7ca2-a1be-4f02-baba-b3c584968613"
 
 [[commentary]]
 quote='''
@@ -32,3 +36,4 @@ In the first place, he establishes the point that the miracle was performed by t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25209.html'
 source_title="Homily on Acts 9"
+uuid = "7be460c5-64ff-47e6-bc91-ef9b226686c6"

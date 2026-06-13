@@ -4,6 +4,7 @@ He bids us, therefore, show a kindly disposition to such a man. "Love your enemi
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
 source_title="A Treatise on the Soul"
+uuid = "f04f005f-ee98-4522-93e6-a1eb4248e7f6"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "07c0e2f7-4264-4532-a278-b34b395cea9b"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ To love friends is the custom for all people, but to love enemies is customary o
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FTo%2520Scapula.html'
 source_title="TO SCAPULA 1"
+uuid = "60ec2eac-de7e-41d7-b89c-609a7741854d"

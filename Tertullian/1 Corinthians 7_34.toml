@@ -4,6 +4,7 @@ For even by this very fact, that he has not named "virgins" (as he does in anoth
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Prayer.html"
 source_title="On Prayer"
+uuid = "b0300f4d-828f-4c8b-a509-8f0d06310c4c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Further, if we set down in order the higher and happier grades of bodily patienc
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOf%2520Patience.html"
 source_title="Of Patience"
+uuid = "0dc88d0d-6803-4a9c-935d-ed5353c394d8"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ As if I were speaking to Gentiles, addressing you with a Gentile precept, and (o
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Apparel%2520of%2520Women%2FBook%25202.html"
 source_title="On the Apparel of Women Book II"
+uuid = "9ad24c5f-8401-43f1-98d0-def918692d8b"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ But we withal retort the self-same line of argument. For he who knew elsewhere h
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Veiling%2520of%2520Virgins.html"
 source_title="On the Veiling of Virgins"
+uuid = "e7f2d825-73ee-4a42-8161-df9959f1c946"

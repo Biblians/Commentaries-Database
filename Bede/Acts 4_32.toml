@@ -4,6 +4,7 @@ And the multitude of believers was of one heart and one soul. Those who had comp
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "99b23660-4d26-4214-9e0d-c78f242714bb"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ But they had all things in common. In Latin, "common" is said as "communia," whi
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "776050e3-1de3-4d31-ab68-0c98bf7ad37d"

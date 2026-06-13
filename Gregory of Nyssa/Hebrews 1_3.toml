@@ -4,6 +4,7 @@ The majesty of the Father is expressly imaged in the greatness of the power of t
 '''
 source_url=''
 source_title="AGAINST EUNOMIUS 8.1"
+uuid = "b8e2ca57-d8e3-4248-b1e4-eba002fd8dea"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Since we recognize two natures in Christ, one divine and the other human, the di
 '''
 source_url=''
 source_title="ON THE FAITH"
+uuid = "3d0d60b4-ae2a-497e-9748-6cb04fa16aa1"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ When he was asking how to give a name to what cannot be grasped in thought and d
 '''
 source_url=''
 source_title="ON PERFECTION"
+uuid = "bb0f250c-9491-4ade-ac73-7279a1d46278"
 
 
 [[commentary]]
@@ -28,3 +31,4 @@ The Logos "upholds the universe by his word of power" from nonexistence to exist
 '''
 source_url=''
 source_title="ON PERFECTION"
+uuid = "35c26d19-8064-46c0-897c-3eb117c6f09b"

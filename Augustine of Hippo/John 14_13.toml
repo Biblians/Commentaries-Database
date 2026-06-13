@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "2946b3fa-756b-4e2d-b494-e2c69d9f0d3c"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ The Lord, by His promise, gave those whose hopes were resting on Himself a speci
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252073.html'
 source_title="Tractates on John 73"
+uuid = "c4a0ea93-72ae-421f-9b98-03a21ca477c9"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ How, then, are we to understand "Whatsoever ye shall ask, I will do it," if ther
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252073.html'
 source_title="Tractates on John 73"
+uuid = "da7a68db-b0e1-41de-9e93-0931df0462db"
 
 [[commentary]]
 quote='''
@@ -26,3 +29,4 @@ Wake up, then, believer, and give careful heed to what is stated here, "in my na
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252073.html'
 source_title="Tractates on John 73"
+uuid = "7b47cc7c-fe83-4f07-a157-abbd86efb959"

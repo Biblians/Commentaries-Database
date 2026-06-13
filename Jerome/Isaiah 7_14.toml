@@ -4,6 +4,7 @@ By no means will God speak in many and various ways, according to the apostle Pa
 '''
 source_url=''
 source_title="COMMENTARY ON ISAIAH 3:7.14"
+uuid = "8c2cfb72-c392-467a-8500-6595019b08c7"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Isaiah tells of the mystery of our faith and hope: "Behold, a virgin shall conce
 '''
 source_url='https://www.newadvent.org/fathers/30091.htm'
 source_title="Against Jovinianus 1.32"
+uuid = "d0cab7ad-7c6a-4030-ad4f-84cce3d90735"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "483177e3-80f2-48ee-b7b0-acd348dab918"

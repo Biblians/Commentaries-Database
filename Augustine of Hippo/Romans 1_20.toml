@@ -4,6 +4,7 @@ Invisible things are seen in a special and appropriate way. When they are seen t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 120"
+uuid = "cfcc502a-21dc-48c1-98df-488f82ca1df8"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Notice that Paul does not call them ignorant of the truth but says that they hel
 '''
 source_url=''
 source_title="THE SPIRIT AND THE LETTER 19.12"
+uuid = "8e5ceaed-88be-402c-8282-4583ef1dd789"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ How does Paul mean that they are without excuse, except by reference to a kind o
 '''
 source_url=''
 source_title="GRACE AND FREE WILL 2.2"
+uuid = "d49f91aa-7e2a-4a4f-afb6-e542589dab71"

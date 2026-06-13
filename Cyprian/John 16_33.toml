@@ -4,6 +4,7 @@ Thus Job, after the loss of his wealth, after the death of his children, grievou
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%25207.%2520On%2520the%2520Mortality.html"
 source_title="Treatise VII On the Mortality"
+uuid = "4f776637-4a96-4b2f-8ed4-3877bec85ac1"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Whence every one of us, when he is born and received in the inn of this world, t
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%25209.%2520On%2520the%2520Advantage%2520of%2520Patience.html"
 source_title="Treatise IX. On the Advantage of Patience"
+uuid = "e8f631a9-1707-49f9-a323-35ff49923ec0"
 
 
 [[commentary]]
@@ -19,6 +21,7 @@ That it was before predicted that the world would hold us in abhorrence, and tha
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%252011.%2520Exhortation%2520to%2520Martyrdom%252C%2520Addressed%2520to%2520Fortunatus.html"
 source_title="Treatise XI. Exhortation to Martyrdom, Addressed to Fortunatus."
+uuid = "d07017f2-ec4e-4ccd-b5bc-1688782f9fa0"
 
 
 
@@ -28,3 +31,4 @@ That all good and righteous men suffer more, but ought to endure because they ar
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%252012.%2520Three%2520Books%2520of%2520Testimonies%2520Against%2520the%2520Jews.html"
 source_title="Treatise XII. Three Books of Testimonies Against the Jews."
+uuid = "374a33b6-9811-4bbb-9c4c-9d20587088e7"

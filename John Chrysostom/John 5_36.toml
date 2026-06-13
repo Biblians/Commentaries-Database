@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252040.html'
 source_title="Homily on the Gospel of John 40"
+uuid = "be5fd6d2-ae01-48ff-b3ea-3e297436c677"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Having then proved them altogether unworthy of forgiveness, He went on to say, "
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252040.html'
 source_title="Homily on the Gospel of John 40"
+uuid = "c161d9e5-48c0-4afa-9ec2-5cc67f6a4ebc"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ In this place He also meeteth the accusation respecting the violation of the Sab
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252040.html'
 source_title="Homily on the Gospel of John 40"
+uuid = "1dbf54df-c6ad-4335-a53e-5ae74c6485d0"

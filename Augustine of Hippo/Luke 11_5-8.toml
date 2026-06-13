@@ -11,6 +11,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c6fbb469-1b78-4abf-99d3-a88f64235453"
 
 [[commentary]]
 quote='''
@@ -18,3 +19,4 @@ A man whose friend came to him from a journey had nothing to set before him. He 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 130"
+uuid = "af710888-916d-4e89-b497-aa634edbf327"

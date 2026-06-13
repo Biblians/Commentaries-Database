@@ -4,6 +4,7 @@ Sell what you possess, and give alms. He says, do not fear that those who fight 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "c453daa0-04f4-46fe-918b-b0df00f664c4"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Make for yourselves purses that do not grow old. Namely, by performing almsgivin
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "cf6a87bc-72dd-41db-83cf-446fcbffe0f1"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ A treasure unfailing in the heavens, where a thief does not approach, nor moth c
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "a76ea7f4-ac1a-4d9d-bc62-9ba6be4c510e"
 
 [[commentary]]
 quote='''
@@ -32,3 +35,4 @@ Whether then should it be simply understood, that money kept faileth, but given 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "0d31147c-1d1d-4b4e-ae9c-c53ea81346e1"

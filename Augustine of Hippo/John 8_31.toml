@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2520on%2520Selected%2520Lessons%2520of%2520the%2520New%2520Testament%2FSermon%252084.html'
 source_title="Sermon 84"
+uuid = "7a51f8e6-2d26-49d1-a8ff-61386d2e56c4"
 
 [[commentary]]
 quote='''
@@ -13,6 +14,7 @@ And yet all that delights you in the tree has sprung from the root. You look at 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252040.html'
 source_title="Tractates on John 40"
+uuid = "8f3c69be-1294-4ef6-a088-1bf616ff9d5a"
 
 [[commentary]]
 quote='''
@@ -21,3 +23,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "95bed4a2-32e3-42fb-8831-1419cdacb8d1"

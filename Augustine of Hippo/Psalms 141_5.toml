@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801141.htm'
 source_title="Exposition on Psalm 141"
+uuid = "4057d505-6e1f-4f96-aa97-3b42f5343c90"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ This is the oil of the sinner with which the prophet does not want his head to b
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 33"
+uuid = "c1cc17fb-7465-49bc-9078-d97f99bd836d"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ And again, he quotes as words of David, "Let not the oil of the sinner anoint my
 '''
 source_url=''
 source_title="LETTERS OF PETILIAN THE DONATIST 3:33-38"
+uuid = "ac859a10-8792-4737-8bf5-7143cc7e1235"
 
 
 [[commentary]]
@@ -28,3 +31,4 @@ This brother will bring you some things I have written. If you have the time to 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 28:6"
+uuid = "bb385815-b894-4847-9c69-80d55b68912c"

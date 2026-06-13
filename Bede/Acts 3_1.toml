@@ -4,6 +4,7 @@ Now Peter and John were going up to the temple, etc. The apostles, about to ente
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "41f62929-d908-4515-a350-431328510140"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Now Peter and John were going up to the temple at the hour of prayer, the ninth 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "71af904c-fd96-4167-b8d9-53b899ca7c4b"

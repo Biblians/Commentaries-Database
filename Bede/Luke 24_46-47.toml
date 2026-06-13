@@ -4,6 +4,7 @@ The disciples learned that their Maker subjected himself to countless kinds of a
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 11.9"
+uuid = "41708b25-083d-4f0a-ac67-fde5e219968c"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ But Christ would have lost the fruit of His Passion had He not been the Truth of
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d43297a8-95a5-44b4-818c-1890d86db2ec"

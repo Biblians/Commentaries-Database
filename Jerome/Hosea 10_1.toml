@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Hosea.html#tocuniq85'
 source_title="Commentary on Hosea 10:1"
+uuid = "4f7915ce-83c5-42d5-a43f-ff48df487f73"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Having good shoots and fruit-bearing branches, she [Israel] produced many cluste
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Hosea.html'
 source_title="COMMENTARY ON HOSEA 2:10"
+uuid = "3566f3b8-ca4b-4482-ba13-ebd166326d35"

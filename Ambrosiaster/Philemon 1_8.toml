@@ -2,6 +2,7 @@
 quote='''
 Within reason, the master was perfectly entitled on the basis of his apostolic authority to tell his disciple what to do, but because Philemon was a good man, Paul makes an appeal.
 '''
+uuid = "fe1f830f-8454-4eb8-8987-87e5c9c7e262"
 
 
 [[commentary]]
@@ -10,3 +11,4 @@ Though Paul is writing to a layman, he nonetheless does not exert his apostolic 
 '''
 source_url=''
 source_title="COMMENTARY ON PAUL'S EPISTLES"
+uuid = "2e3044ae-9425-4168-9911-5b35a78129e1"

@@ -12,6 +12,7 @@ But if to many of the less attentive, it seem yet rather obscure, I will endeavo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Matthew%2FHomily%252023.html'
 source_title="Homily on the Gospel of Matthew 23"
+uuid = "a74c9d68-6d45-461c-8e9e-2fbd4c5ba1fd"
 
 [[commentary]]
 quote='''
@@ -27,6 +28,7 @@ And besides, it is not of great things, nor of things prohibited, that this is s
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Matthew%2FHomily%252023.html'
 source_title="Homily on the Gospel of Matthew 23"
+uuid = "1a66092c-a861-4a6d-8e73-14aee812fb0e"
 
 [[commentary]]
 quote='''
@@ -34,3 +36,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Ephesians%2FHomily%252015.html'
 source_title="Homily on Ephesians 15"
+uuid = "d98a2119-f3b8-4903-becd-c9e2932e519a"

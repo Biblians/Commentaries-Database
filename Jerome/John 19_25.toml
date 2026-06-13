@@ -4,6 +4,7 @@ The Mary who is described as the mother of James the Less was the wife of Alphæ
 '''
 source_url='https://www.newadvent.org/fathers/3007.htm'
 source_title="Against Helvidius, Section 15"
+uuid = "682b1ba5-4659-4c95-a799-03957e3acdc2"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The Mary which in Mark and Matthew is called the mother of James and Joses, was 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e231e1d8-1e18-413c-9850-e630b36afe0e"

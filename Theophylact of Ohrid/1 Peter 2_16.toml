@@ -4,6 +4,7 @@ The connection of the speech is as follows. Be submissive, as free people, as se
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%25201%2520Peter%2FChapter%25202.html'
 source_title="Commentary on 1 Peter"
+uuid = "86d678fd-be2a-468a-bc64-f77dce2934c5"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ This can be briefly expressed as follows: outwardly appearing simple and sincere
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%25201%2520Peter%2FChapter%25202.html'
 source_title="Commentary on 1 Peter"
+uuid = "f68ff443-eec4-4880-9ab0-d37fea29fcc0"

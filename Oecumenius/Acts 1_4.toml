@@ -4,6 +4,7 @@ Consuming and drinking, that is, sharing salt, sharing the table.
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "000af597-1401-4e9c-9e06-4240632979c9"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Not to depart from Jerusalem, Jesus encouraged them, wishing to establish the ac
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "69969cd2-c39c-489c-9077-a4123e51298f"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ The promise of the Father. And where did the Father promise this? We say, then, 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "e3cc7398-3ea5-4da2-87cc-cff602739fc2"
 
 [[commentary]]
 quote='''
@@ -25,3 +28,4 @@ When did they hear? When he said: It is to your advantage that I go away. For if
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Oecumenius%2FCommentary%2520on%2520Acts%2FTranslation-Litteral.html'
 source_title="Commentary on Acts"
+uuid = "7b428484-e87e-4260-b4bf-002171d7f88d"

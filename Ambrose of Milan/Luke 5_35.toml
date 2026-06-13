@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Commentary on Luke"
+uuid = "49702c3c-537c-4205-85d8-7b6f60c9f33a"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ But when are those days, in which Christ shall be taken away from us, since He h
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "806fcf7b-2d98-4b5d-b44e-af12813508a2"

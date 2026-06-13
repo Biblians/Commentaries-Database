@@ -5,6 +5,7 @@ Or, a way must be prepared in our heart for the Lord, for the heart of man is la
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d61c8c0e-7d4d-4899-a62d-8b684782349e"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FHomilies%2520on%2520Luke.html'
 source_title="HOMILIES ON THE GOSPEL OF LUKE 21.5"
+uuid = "4ebfad50-f9d2-4ba4-91eb-1dc45b3b7e5a"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ I believe that the mystery of John is still being achieved in the world today. I
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FHomilies%2520on%2520Luke.html'
 source_title="HOMILIES ON THE GOSPEL OF LUKE 4.6"
+uuid = "d5a7e8e7-7ed6-47aa-a202-8a798d220799"

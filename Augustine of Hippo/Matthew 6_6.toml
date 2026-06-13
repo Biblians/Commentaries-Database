@@ -4,6 +4,7 @@ Enter into your inner chamber. Do not let the door stand open to the boisterous,
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOUR%2520LORD%2527S%2520SERMON%2520ON%2520THE%2520MOUNT%2FBook%25202.html'
 source_title="SERMON ON THE MOUNT 2.3.11"
+uuid = "921bf331-ac70-4f66-beca-77e8500c542b"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Outside the inner chamber are all things in time and space, which knock on the d
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FOUR%2520LORD%2527S%2520SERMON%2520ON%2520THE%2520MOUNT%2FBook%25202.html'
 source_title="SERMON ON THE MOUNT 2.3.11"
+uuid = "9134e4f7-fa16-4c41-9ee2-1810ab327e8f"
 
 [[commentary]]
 quote='''
@@ -21,3 +23,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b16da5f9-dcfa-4763-9bd8-d576105cf71c"

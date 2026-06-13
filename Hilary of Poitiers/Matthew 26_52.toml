@@ -5,6 +5,7 @@ But all who use the sword do not perish by the sword; of those who have used the
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252026.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "96375ba8-1a76-4ee7-b01e-02b27c7b403e"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ The Lord then bids him return his sword into its sheath, because He would destro
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252026.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "061476a5-408d-45a7-9c3b-23e8e40c92ae"

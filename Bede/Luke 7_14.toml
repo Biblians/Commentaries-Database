@@ -4,6 +4,7 @@ And he approached and touched the bier. But they who carried it stood still. The
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "df323e3d-3a57-4dea-a5b9-314000b087ee"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And he said, "Young man, I say to you, arise." And he who was dead sat up and be
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "5273f094-85df-4009-8472-79d14d1ab810"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Or the coffin on which the dead is carried is the ill at ease conscience of a de
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "4fce6e1c-b550-4d29-9e32-3a0159487d6a"

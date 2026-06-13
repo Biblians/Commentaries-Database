@@ -4,6 +4,7 @@ No one lights a lamp and puts it in a hidden place, nor under a bushel. The Lord
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "ddc17dc9-443d-488b-b11b-ddf475a53a81"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ But on the lampstand, He said, so that those who enter may see the light. He cal
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "de7f8750-2ba0-4cc4-ae8e-b5f0e934bfbc"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ Our Lord here speaks of Himself, showing that although He had said above that no
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "96edbde1-088a-4eb8-bcf2-6942f90595e3"

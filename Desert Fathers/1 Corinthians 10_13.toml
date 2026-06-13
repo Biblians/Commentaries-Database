@@ -4,6 +4,7 @@ A hermit used to say, 'A lustful thought is brittle like papyrus. When it is thr
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "75d4e237-2635-49c0-a96f-3ae5becef089"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Orsisius said, 'If you put a piece of unbaked tiling in a building with a river 
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "03c851ae-4bef-473f-a47b-948113580338"

@@ -4,6 +4,7 @@ For everyone who exalts himself will be humbled, and he who humbles himself will
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "8cdd4b65-5f23-4d72-8cae-e8e71cdddf4d"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ But in the general conclusion which is added, it is plainly declared that the pr
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e9f58e17-2566-4728-b86c-ebdafae06f48"

@@ -7,6 +7,7 @@ Because also by a tree death bad entered, it must needs be that by a tree it sho
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "06bc4afd-82a7-463b-93c3-0e97acf16cf3"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ They lead Him to the place of the Skull, where, they say, the forefather was bur
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252023.html'
 source_title="Commentary on Luke"
+uuid = "0c60f570-9217-46cc-8da4-94f82c956f21"

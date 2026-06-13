@@ -5,6 +5,7 @@ In another place, a grain of mustard seed is introduced where it is compared to 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b1d187fc-92ad-4c8c-b65b-b4e325b3da84"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ If the kingdom of heaven is as a grain of mustard seed, and faith is as a grain 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Exposition of the Gospel of Luke"
+uuid = "d22c0b2a-d5dd-4760-bf79-10de7fe08f57"

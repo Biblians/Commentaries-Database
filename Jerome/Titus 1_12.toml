@@ -4,6 +4,7 @@ You ask me at the close of your letter why it is that sometimes in my writings I
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_070.html'
 source_title="LETTERS 70.2"
+uuid = "03861502-4577-4ac9-90eb-1aec79c1796f"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Titus.html'
 source_title="Commentary on Titus"
+uuid = "d8d635b9-aa9d-4e86-99d4-906bb2081681"

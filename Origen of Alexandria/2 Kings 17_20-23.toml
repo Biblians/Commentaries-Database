@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Jeremiah_and_1_Kings_28/UFInXpKNapEC?hl=en&gbpv=0'
 source_title="HOMILIES ON JEREMIAH 4.1.1-2"
+uuid = "1ccfe365-56b4-44fb-9390-f4339cc52b8c"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url=''
 source_title="FRAGMENTS FROM THE CATENA ON JEREMIAH 28.2"
+uuid = "6ca8f671-f42d-4565-9638-bae274aceb98"

@@ -4,6 +4,7 @@ So the Lord prays, not to entreat for himself but to intercede for me. Although 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="Commentary on Luke"
+uuid = "cb9a33a9-a1d8-46fc-b868-343bf2029b44"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ Every where also He prays alone, for human wishes comprehend not the wisdom of G
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "89177db8-da5a-41b3-8984-34e7f42ecc47"

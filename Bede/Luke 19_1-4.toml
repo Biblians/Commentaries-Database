@@ -4,6 +4,7 @@ And entering, he was passing through Jericho; and behold, a man named Zacchaeus,
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "8f73534e-083a-4e48-83b1-b819e033f36b"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ Or the crowd, that is, the general habit of vice, which rebuked the blind man cr
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "74aee506-8368-4ccc-9d95-ae2b5f667636"

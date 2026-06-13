@@ -6,6 +6,7 @@ Let us learn not to sink under affliction, nor to repine; for look at this bless
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Ephesians%2FHomily%25208.html'
 source_title="Homily on Ephesians 8"
+uuid = "b6a04493-cc92-46c5-a0f5-842d92f3abf0"
 
 [[commentary]]
 quote='''
@@ -15,6 +16,7 @@ But how is it possible to "walk worthily" of it? "With all lowliness." Such an o
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Ephesians%2FHomily%25209.html'
 source_title="Homily on Ephesians 9"
+uuid = "92449a20-c33c-4be8-ab5e-bd271fbc6ced"
 
 [[commentary]]
 quote='''
@@ -24,3 +26,4 @@ How is it possible to forbear, if a man be passionate or censorious? He hath tol
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Ephesians%2FHomily%25209.html'
 source_title="Homily on Ephesians 9"
+uuid = "6b0c8ce1-a577-4e5b-9704-3802f1273c6d"

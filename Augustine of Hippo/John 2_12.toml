@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252010.html'
 source_title="Tractates on John 10"
+uuid = "c6308cf3-0afe-4dbd-83d4-88435419b5f2"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ But rather were those disciples brethren; for even those kinsmen would not be br
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252010.html'
 source_title="Tractates on John 10"
+uuid = "14f899f5-5575-4b68-8392-0eb3263a1bd9"
 
 [[commentary]]
 quote='''
@@ -21,3 +23,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1fe4aa95-d8ed-4b0c-8163-3c8c00b6f2a4"

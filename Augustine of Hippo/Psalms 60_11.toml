@@ -4,6 +4,7 @@ So, as I said, the creature baptized the Creator, the lamp the sun, and by doing
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520292.html'
 source_title="SERMON 292:4"
+uuid = "aa41bdfc-d654-4b14-9ea5-9cf506e7bd79"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ The first thing they must do is examine their own hearts, to see whether they ar
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252061A.html'
 source_title="SERMON 61A.5"
+uuid = "ec676d88-0a9a-4a69-a264-57a613de7680"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ Thou therefore, O God, that will not march forth in our powers, "Give to us aid 
 '''
 source_url='https://www.newadvent.org/fathers/1801060.htm'
 source_title="Exposition on Psalm 60"
+uuid = "7674c815-5ab0-42db-8f77-01bb28fbb525"

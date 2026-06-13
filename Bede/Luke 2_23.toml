@@ -4,6 +4,7 @@ As it is written in the law of the Lord: Every male that opens the womb shall be
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "b496caa9-7fe7-4743-a80a-a3d71881d52f"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ By the words, opening the womb, he signifies the first-born both of man and beas
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "873bf3f9-78f5-44a9-ad8e-7387258d6a9c"

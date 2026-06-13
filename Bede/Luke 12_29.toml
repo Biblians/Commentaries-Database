@@ -4,6 +4,7 @@ And you, do not seek what you shall eat, or what you shall drink. Note that he d
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "0f1fc550-432f-4025-8995-9b06c2630fd0"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ It must however be observed, that He says not, Do not seek or take thought about
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "3ed2dd11-4ae7-4b4f-ab1b-5ce352a789e2"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ And do not be lifted up. He, having prohibited anxiety about food, consequently 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "a7466499-68be-4ebe-beba-3346b5b6f637"

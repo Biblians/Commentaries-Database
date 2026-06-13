@@ -4,6 +4,7 @@ That he is the Spirit of the Father is what the Son himself says: "He proceeds f
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252071.html'
 source_title="SERMON 71.29"
+uuid = "640525b9-0395-47ae-bce9-b9ffcbe7e956"
 
 [[commentary]]
 quote='''
@@ -14,6 +15,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "54d41508-f5e8-4b72-9a58-c4b3a6463a10"
 
 [[commentary]]
 quote='''
@@ -21,3 +23,4 @@ The Lord Jesus, in the discourse which He addressed to His disciples after the s
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252092.html'
 source_title="Tractates on John 92"
+uuid = "5365317b-0f50-4b92-8fe8-12ba265f43c5"

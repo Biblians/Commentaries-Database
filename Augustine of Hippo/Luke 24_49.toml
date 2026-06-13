@@ -4,6 +4,7 @@ For when the Lord not only shed his blood but also expended his very death for t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520175.html'
 source_title="SERMON 175.3"
+uuid = "43c545ac-9e55-4784-97da-9e6a71e3b0e3"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Listen further. He ascended into heaven, and was taken from the sight of the dis
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520265D.html'
 source_title="SERMON 265D.6"
+uuid = "42de4b6a-20cf-497d-864f-33e4f0d0d8eb"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "0aceaa96-104e-48c9-b534-769307e38b76"

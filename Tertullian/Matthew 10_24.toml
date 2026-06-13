@@ -5,6 +5,7 @@ With the same law of His being He fully complied, by remaining in Hades in the f
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
 source_title="A Treatise on the Soul"
+uuid = "f3d93a7e-b1bd-4b3c-882f-52e2499b2805"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ But for all that, heresy, which is for ever mending the Gospels, and corrupting 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
+uuid = "9ae22dd9-7c1e-42b2-a9b9-c564c4c4a22d"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ His successor was Ebion, not agreeing with Cerinthus in every point; in that he 
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FPseudo-Tertullian%2FAppendix.%2520Against%2520All%2520Heresies.html"
 source_title="Pseudo-Tertullian Against All Heresies"
 time = 220
+uuid = "e69155a7-843f-4108-91ca-5e944ecffbc1"

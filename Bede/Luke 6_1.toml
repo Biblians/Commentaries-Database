@@ -4,6 +4,7 @@ And it happened on the second-first Sabbath, as he was passing through the cornf
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "b0d9acac-6252-4826-9d94-069c2e5f213c"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ For they bruise the ears in their hands, because, when they wish to bring others
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "7961758f-72e1-4d3c-addc-22e077825234"

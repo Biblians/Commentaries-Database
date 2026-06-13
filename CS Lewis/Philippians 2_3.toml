@@ -12,6 +12,7 @@ The mere event of becoming a general isn't either right or wrong in itself. What
 '''
 source_url='http://www.orcuttchristian.org/Lewis%20CS%20-%20God_in_the_Dock.pdf'
 source_title="ANSWERS TO QUESTIONS ON CHRISTIANITY, from God in the Dock"
+uuid = "f462bd7f-1abf-410b-a464-38790202f204"
 
 [[commentary]]
 quote='''
@@ -21,6 +22,7 @@ I would agree that anything the congregation can do may properly and profitably 
 '''
 source_url=''
 source_title="Correspondence with an Anglican Who Dislikes Hymns, from God in the Dock"
+uuid = "b2b48290-ddf8-47a6-992e-4fe6deca9e40"
 
 [[commentary]]
 quote='''
@@ -30,6 +32,7 @@ The torture allotted to the Danaids in the classical underworld, that of attempt
 '''
 source_url=''
 source_title="The Inner Ring, from Transposition and Other Addresses"
+uuid = "7e5b23d7-ee50-4766-8636-91f949e17a5b"
 
 [[commentary]]
 quote='''
@@ -37,6 +40,7 @@ There are "rules" of good manners. The more intimate the occasion, the less the 
 '''
 source_url=''
 source_title="The Four Loves, Chapter 3: Affection"
+uuid = "e18b9f91-9ba0-45c3-8345-89cbfbf08ff2"
 
 [[commentary]]
 quote='''
@@ -46,3 +50,4 @@ If anyone would like to acquire humility, I can, I think, tell him the first ste
 '''
 source_url=''
 source_title="Mere Christianity, The Great Sin"
+uuid = "0959355d-04f2-4f48-b7c7-f60c32100f74"

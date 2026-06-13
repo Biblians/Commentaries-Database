@@ -4,6 +4,7 @@ Having been taught to hold to one virtue alone and to be concerned with nothing 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25207.html'
 source_title="Commentary on Mark"
+uuid = "51575f2f-6ec8-4ed0-8c9b-06ad50652249"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ For the disciples of the Lord, who were taught only the practice of virtue, used
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "efba7d78-4e02-4c9b-abe8-6813aecf8460"

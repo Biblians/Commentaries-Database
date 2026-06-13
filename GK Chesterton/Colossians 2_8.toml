@@ -5,6 +5,7 @@ The advanced person writes that because geologists know nothing about the Fall, 
 time=1908
 source_url=''
 source_title="All Things Considered, Science and Religion (1908)"
+uuid = "bc43b1c7-d92d-458d-97f5-865001938107"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ Barbarism means the worship of Nature; and in recent poetry, science, and philos
 '''
 source_url=''
 source_title="All Things Considered, Humanitarianism and Strength (1908)"
+uuid = "0cc65ff9-313b-4a92-9d9e-262ce8bec9b7"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ This is the most enormous and at the same time the most secret of the modern tyr
 time=1909
 source_url=''
 source_title="In Topsy-Turvy Land (Tremendous Trifles)"
+uuid = "b9756bba-6701-4523-bbbe-21bab5fe2d30"

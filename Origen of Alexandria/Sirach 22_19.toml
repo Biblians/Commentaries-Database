@@ -4,6 +4,7 @@ Let us try to do what Wisdom admonishes us, saying, "Drink the waters from your 
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Genesis_and_Exodus/X_mSBavPcq4C?hl=en&gbpv=1&printsec=frontcover'
 source_title="HOMILIES ON GENESIS 12:5"
+uuid = "39f33886-740a-4358-8aa5-c15313060106"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Since the blessed apostle orders us to be imitators of this grace, that is, the 
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Genesis_and_Exodus/X_mSBavPcq4C?hl=en&gbpv=1'
 source_title="HOMILIES ON EXODUS 4:5"
+uuid = "38d5e5fd-24ca-46a8-bdad-c0931f265f9a"

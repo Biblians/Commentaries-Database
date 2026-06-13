@@ -4,6 +4,7 @@ And behold, a certain lawyer stood up, tempting him, and saying: Master, what sh
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "86825664-b4bb-4e62-ac5f-540b13a5796f"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ Our Lord had told His disciples above that their names were written in Heaven; f
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "5471075b-12d6-4640-9d00-4ee7297e4f96"

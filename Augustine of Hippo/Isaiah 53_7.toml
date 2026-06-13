@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520299.html'
 source_title="SERMON 299:4"
+uuid = "72a734e8-fb97-481b-b456-461a41774f7d"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Because he has come hidden, our God, that is, Christ, will come manifest. "And h
 '''
 source_url=''
 source_title="TRACTATES ON THE GOSPEL OF JOHN 37:10.1"
+uuid = "356fcb13-55ac-4e17-9d54-6d86af23d22f"

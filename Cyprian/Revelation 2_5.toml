@@ -4,6 +4,7 @@ I have read your letter, beloved brethren, wherein you wrote that your wholesome
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252013.html"
 source_title="Epistle XIII"
+uuid = "e5ef7e3d-c7e4-41c6-874c-fcc22ee90145"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ You have done uprightly and with discipline, beloved brethren, that, by the advi
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252027.html"
 source_title="Epistle XXVII"
+uuid = "901d8534-6fc3-4c45-855e-10f7b932fbd9"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ That all sins may be forgiven him who has turned to God with his whole heart... 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FPseudo-Cyprian%2FExhortation%2520to%2520Repentance.html"
 source_title="Pseudo-Cyprian Exhortation to Repentance"
+uuid = "22d8247c-786b-4019-8531-bd2d5dfecc8e"
 
 
 [[commentary]]
@@ -27,3 +30,4 @@ But I wonder that some are so obstinate as to think that repentance is not to be
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252051.html'
 source_title="Epistle LI.22"
+uuid = "0177fbda-6a49-4f9c-bba6-c6693d078340"

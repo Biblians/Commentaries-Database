@@ -4,6 +4,7 @@ See what the Psalmist next most openly says: "Order my steps after Your word: an
 '''
 source_url='https://www.newadvent.org/fathers/1801119.htm'
 source_title="Exposition on Psalm 119"
+uuid = "c72f8b48-16c8-4da7-bacd-bc275a4f8031"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ This free will will be free in proportion as it is sound, and sound in proportio
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 157"
+uuid = "2e333134-52d3-4d2a-813a-e98eee9644da"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ When, however, you hear, "Sin shall have no dominion over you," do not trust in 
 '''
 source_url='https://www.newadvent.org/fathers/1308.htm'
 source_title="On Continence 5:12"
+uuid = "1f44d829-b299-49ca-9a0b-b016dbceef04"

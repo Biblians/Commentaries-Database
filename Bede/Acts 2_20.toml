@@ -4,6 +4,7 @@ The sun shall be turned into darkness, and the moon into blood. This is believed
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "db72d405-91b6-4c78-8c93-793f75a7ccd5"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ The sun will be turned into darkness. The name of darkness in Greek is read in t
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "7c5068b9-3e5a-4a9e-a8f8-080ad9d31005"

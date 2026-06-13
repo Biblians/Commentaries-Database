@@ -4,6 +4,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "32464b57-6633-4c30-bc84-997c6f96be24"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ The "ring" also he is then Wont to receive for the first time, wherewith, after 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "70cc29aa-ed95-4f74-aa04-5d53aa252bc3"

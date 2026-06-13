@@ -4,6 +4,7 @@ See then what a very limited understanding they still had of the Lord. They call
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Commentary on Luke"
+uuid = "5a063ab3-cd48-4476-a396-7c9dee1917d6"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ First comes deed, then word; for no word of teaching is approved unless first he
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "745fa999-60f8-4342-bbf3-d1e965c11dd5"

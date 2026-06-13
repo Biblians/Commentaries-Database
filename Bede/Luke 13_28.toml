@@ -4,6 +4,7 @@ There will be weeping and gnashing of teeth. Weeping is usually stirred by heat,
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "26bf9929-5ceb-43b7-aa91-db8aa8e11173"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ But the twofold punishment of hell is here described, that is, the feeling cold 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "4754e409-91f4-49c4-a6b2-78e2b2005faf"

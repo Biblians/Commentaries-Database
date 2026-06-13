@@ -4,6 +4,7 @@ Of the wind also Amos says, "He that strengtheneth the thunder , and createth th
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Hermogenes.html"
 source_title="Against Hermogenes"
+uuid = "e7723e8b-cab0-40d9-aa2c-b51bcf3165c1"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ It is, However, more credible that the soul has service rendered to it, and has 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "47f4a732-03f5-49cb-98e9-5ceb13f6c53e"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ In what form of God? Of course he means in some form, not in none. For who will 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
 source_title="Against Praxeas"
+uuid = "6044db79-1b8e-4952-a71b-d6ca1765e910"

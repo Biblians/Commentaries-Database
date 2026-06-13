@@ -4,6 +4,7 @@ But the reason why, after his resurrection, he both gave the Holy Spirit, first 
 '''
 source_url=''
 source_title="ON THE TRINITY 15.26.46"
+uuid = "49e0e8c1-2ba0-4de6-a915-0d8a201e8f7b"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1fffb806-504c-4ac6-aaab-925f4930d561"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520121.html'
 source_title="Tractates on John 121"
+uuid = "4969d268-1053-4320-85f4-6754e0898307"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801005.htm'
 source_title="Exposition on Psalm 5"
+uuid = "476f0067-1854-4c46-ae7b-700081e4e9ed"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801005.htm'
 source_title="Exposition on Psalm 5"
+uuid = "74c47162-3300-4969-8ade-3dca18095762"

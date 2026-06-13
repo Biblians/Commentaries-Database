@@ -7,6 +7,7 @@ Our Lord would have the mind of the believer so raised above all mutable things,
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "04c53425-0efb-4362-9924-63cc19f2c562"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ He has now returned to this city of Galilee. "And, behold, a certain ruler, whos
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252016.html'
 source_title="Tractates on John 16"
+uuid = "5eafae2c-3151-45e6-9d44-81edfdee75d2"

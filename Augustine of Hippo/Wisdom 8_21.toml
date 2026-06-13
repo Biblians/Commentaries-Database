@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252020.html'
 source_title="SERMON 20:2"
+uuid = "b69ad7e7-9462-46c7-bdbd-d676f998d505"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520283.html'
 source_title="SERMON 283:2-3"
+uuid = "a5569140-be36-408a-82e8-680c800f4b6b"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ Continence is commanded of us. Where is this command? The apostle writes to Timo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252030.html'
 source_title="SERMONS 30:14"
+uuid = "ee46897f-ecfc-471f-9d4a-e4f0a04399f8"

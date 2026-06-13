@@ -6,6 +6,7 @@ Wherefore none of the devices of the devil shall be hidden from you, if, like Pa
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Ignatius%2520of%2520Antioch%2FEpistle%2520to%2520the%2520Ephesians.html"
 source_title="Epistle of Ignatius to the Ephesians"
+uuid = "55ca47ea-b984-4a5b-a334-5f0bed38c256"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ These things [I address to you], my beloved, not that I know any of you to be in
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Ignatius%2520of%2520Antioch%2FEpistle%2520to%2520the%2520Magnesians.html"
 source_title="Epistle of Ignatius to the Magnesians"
+uuid = "f25953aa-e0c5-43a3-9789-51ad99e0f023"

@@ -4,6 +4,7 @@ His winnowing fork is in his hand, and he will clear his threshing floor. By win
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "48a05c94-bdca-4961-9beb-62035c8a99c2"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And he will gather his wheat into his barn, but the chaff he will burn with unqu
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "c928c77c-6ffc-4f61-987e-61ee8c24f51a"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ For by the floor is represented the present Church, in which many are called but
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "9cde469f-2df3-4b6b-a149-beca8e1bf5e1"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%252043.html'
 source_title="On the Psalms, Psalm 43"
+uuid = "d330bf67-c67d-457c-be09-2573779215e4"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Sometimes judgment means punishment, sometimes it means discrimination. Accordin
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252022.html'
 source_title="TRACTATES ON JOHN, Tractate 22"
+uuid = "cacbb984-db48-4634-bc82-31ddf9b192c7"

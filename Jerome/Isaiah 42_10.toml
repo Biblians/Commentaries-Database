@@ -4,6 +4,7 @@ Even as islands have been set in the midst of the sea, churches have been establ
 '''
 source_url=''
 source_title="HOMILIES ON THE PSALMS 24 (PSALM 97)"
+uuid = "07b4509d-5b02-415d-9fea-b90272cc426d"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "c8bbf0e2-ad8e-4e5e-8625-6985e9f830e9"

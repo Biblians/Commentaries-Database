@@ -4,6 +4,7 @@ Of what cry are we speaking? That of which the apostle says, "In the twinkling o
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252093.html'
 source_title="SERMON 93.7"
+uuid = "492390c5-b34d-4cd3-bc13-7afe6e477d4c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Note then, beloved, that before those virgins slept, it is not said that their l
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252093.html'
 source_title="SERMON 93.8"
+uuid = "0ec47310-c8d3-4d60-8f36-4c459faba566"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ So their lamps began to fail, and the foolish plead with the five wise, "Give us
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252093.html'
 source_title="SERMON 93.8"
+uuid = "a953ff72-e2bf-4f49-9e2a-ec387ea38dd5"
 
 [[commentary]]
 quote='''
@@ -26,6 +29,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "70ae38bc-1d9c-42ef-a897-5657abf610ec"
 
 [[commentary]]
 quote='''
@@ -34,3 +38,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a62d0206-fa35-47f9-9b17-2f29386b5092"

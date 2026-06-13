@@ -6,6 +6,7 @@ But amid these things it must be known that there are many righteous persons in 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 34"
+uuid = "c059fa99-a6b3-4fb0-a444-4d2bfd6f6d9e"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "b6e1a2b2-03f2-436a-879a-0351fc9ca7f3"

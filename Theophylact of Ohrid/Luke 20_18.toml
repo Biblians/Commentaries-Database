@@ -4,6 +4,7 @@ The Lord speaks here of a twofold destruction. One is the destruction of their s
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Commentary on Luke"
+uuid = "05831d91-413e-49e9-b580-b8fefc37c934"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ He mentions two condemnations or destructions of them, one indeed of their souls
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "41cd7c3d-fb57-4996-95c1-f57eb4da167e"

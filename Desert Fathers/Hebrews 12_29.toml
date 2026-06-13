@@ -4,6 +4,7 @@ Syncletica said, 'All must endure great travail and conflict when they are first
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "473edba0-2765-4a90-a0f2-7206622e926b"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Lot went to Joseph and said, 'Abba, as far as I can, I keep a moderate rule, wit
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "ce65e878-4bd5-4c08-abdc-c0a86652f41e"

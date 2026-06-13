@@ -4,6 +4,7 @@ Receive them, however, with mercy and with fear, being careful that receiving th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Jude%2FJude.html'
 source_title="Commentary on Jude"
+uuid = "d3207717-f61b-4fc6-b9d2-19064ddd87c2"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ So then, receive them, but approach them with fear, that is, with caution, and c
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Jude%2FJude.html'
 source_title="Commentary on Jude"
+uuid = "f5811ed6-be8a-4ff7-ba4f-6985101c0da2"

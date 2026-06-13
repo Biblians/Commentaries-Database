@@ -4,6 +4,7 @@ We should not doubt that this was that same woman, once a sinner, who, as the Ev
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels, Homily 2.4"
+uuid = "c01bfde0-8b53-4875-8ea1-a42aa2edadbe"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And when He was in Bethany, in the house of Simon the leper, and sat at meat. Ab
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "ee437c2f-03d6-4f3e-ba04-393f3e2e4ece"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ A woman came having an alabaster jar of very costly ointment of spikenard, and h
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "b560cbc1-11cf-4c39-a74a-d4bc2f7dbb25"
 
 [[commentary]]
 quote='''
@@ -32,3 +35,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "95ebcffa-9a9a-4ee0-96be-5dd6e3765edf"

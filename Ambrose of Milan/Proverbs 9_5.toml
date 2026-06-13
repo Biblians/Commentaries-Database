@@ -4,6 +4,7 @@ But do you want to eat, do you want to drink? Come to the banquet of wisdom whic
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FOn%2520Cain%2520and%2520Abel.html'
 source_title="On Cain and Abel"
+uuid = "7216f00d-6778-4b97-b877-efd8101a0ece"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url=''
 source_title="FLIGHT FROM THE WORLD 8:50"
+uuid = "c9516578-e1ca-45ef-87a3-babf0ea4b854"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ And so he comes; whether you eat or drink, if you call upon Christ he is present
 '''
 source_url='https://www.newadvent.org/fathers/3407.htm'
 source_title="Concerning Virginity 9:55"
+uuid = "a83e399a-0310-493d-bc23-aea302592e08"

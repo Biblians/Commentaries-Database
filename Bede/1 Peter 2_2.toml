@@ -4,6 +4,7 @@ In accordance with the apostolic principle of discretion, to disciples who are s
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FOn%2520the%2520Tabernacle.html'
 source_title="On the Tabernacle 2.10.81"
+uuid = "42af0a04-bb75-4f01-8d0d-19ef02abc1e5"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Desire the rational and pure milk, without guile, etc. This precept of desiring 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "646a0725-c19f-45d7-bb93-ff16c5acc0eb"

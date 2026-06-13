@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="SERMONS 77.2-3"
+uuid = "5b2adc6b-f305-43a3-9689-e7e5afc5db20"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ The apostles are preceded in ministry by women, who follow the men by gender and
 '''
 source_url=''
 source_title="SERMONS 75.3.12"
+uuid = "601164d4-a4b6-4186-801b-07229b28edaa"
 
 
 [[commentary]]
@@ -22,3 +24,4 @@ It follows, Came Mary Magdalen, and the other Mary, &c. Late runs woman for pard
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252028.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "71bff195-958d-4d19-bc09-e0355384aac0"

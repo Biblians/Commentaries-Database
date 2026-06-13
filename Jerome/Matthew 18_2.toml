@@ -4,6 +4,7 @@ He called a child to him to ask its age or to show the image of innocence. Or pe
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 3.18.2"
+uuid = "815f2a5a-c945-4861-a9d6-9861852b1059"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "1cd174b1-24a3-4c2f-af24-3fc95332c526"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Jesus seeing their thoughts would heal their ambitious strivings, by arousing an
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "38d2c23e-47c3-4286-a501-0e88a1e36ebb"

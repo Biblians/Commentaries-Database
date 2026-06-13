@@ -4,6 +4,7 @@ There isn't anyone, after all, who doesn't love himself. But we have to look for
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520330.html'
 source_title="SERMONS 330.3"
+uuid = "6b7cba96-2b46-4476-a57c-a622c07a67ee"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Since I have already given an example of love [amor] used in a good sense, someo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252014.html'
 source_title="City of God 14.7.2"
+uuid = "033bbd4c-b2f4-4b91-8b43-2df860949b90"

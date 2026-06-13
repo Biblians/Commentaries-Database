@@ -4,6 +4,7 @@ John told this story. Anub and Poemen and some others who were born of the same 
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "bbbd038f-ee2a-43d2-9266-ea9176473a6c"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ A brother who was hurt by another brother went to the Theban Sisois and said, 'I
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "0f28f673-a3f3-428a-927e-36eb52bdf78c"

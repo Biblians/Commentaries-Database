@@ -5,6 +5,7 @@ The Word came, and the voice followed. For the Word first works inward, then fol
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "afdf929c-21b2-474f-b14c-99ffd184aae8"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ And therefore many say that St. John is a type of the Law, because the Law could
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f5ea4e30-0d51-4c3d-82ce-c0a3e0dd8d63"

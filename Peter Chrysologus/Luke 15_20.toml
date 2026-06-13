@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="SERMON 3"
+uuid = "3c925054-709f-4b9c-a025-96ff9e69edc6"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ The father runs out from far away. "When we were still sinners, Christ died for 
 '''
 source_url=''
 source_title="SERMON 5"
+uuid = "dbc0d4eb-918a-4450-9f81-fd85e9a4aaf2"

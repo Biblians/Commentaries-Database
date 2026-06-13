@@ -4,6 +4,7 @@ And to offer a sacrifice, according to what is said in the law of the Lord, a pa
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "84dda9f9-dea3-4b39-b1b6-f4464d6d27d5"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ Now this was the victim of the poor. For the Lord commanded in the law that they
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "223332ea-85e7-412e-a6f0-3e2d6b46f1ee"
 
 
 [[commentary]]
@@ -22,6 +24,7 @@ Or the pigeon denotes simplicity, the turtle dove chastity, for the pigeon is a 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "72869fa4-f47b-4f49-8de3-0fc894fbcb5c"
 
 
 [[commentary]]
@@ -31,6 +34,7 @@ But while each bird, from its habit of wailing, represents the present sorrows o
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "08fcefe5-c1fd-4626-a87b-87eb08aa64ef"
 
 
 [[commentary]]
@@ -40,3 +44,4 @@ Or the pigeon which flies in flocks sets forth the busy intercourse of active li
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "82f4a37a-f7d1-47ab-9fa8-dc6ef8d91477"

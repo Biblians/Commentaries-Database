@@ -28,6 +28,7 @@ But again the question is raised about this: give us this day, because it seems 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCommentary%2520on%2520Matthew.htm'
 source_title="Commentary on Matthew"
+uuid = "950c02ad-c0cb-4fd1-8187-66ade1727991"
 
 [[commentary]]
 quote='''
@@ -55,6 +56,7 @@ In the second meaning this bread is the Word of God: "Not in bread alone doth ma
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FExplanation%2520of%2520the%2520Lord%2527s%2520Prayer.htm"
 source_title="Explanation of the Lord's Prayer"
+uuid = "c2a38b40-ada6-4789-aeec-7a36a1d7239f"
 
 [[commentary]]
 quote='''
@@ -62,3 +64,4 @@ The third is that you may have the necessaries of life. And thus you pray: "Give
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FExplanation%2520of%2520the%2520Lord%2527s%2520Prayer.htm"
 source_title="Explanation of the Lord's Prayer"
+uuid = "733bf27c-3ada-4072-9e81-443e3cfd090f"

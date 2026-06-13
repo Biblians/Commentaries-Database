@@ -4,6 +4,7 @@ For when one person is intent on earthly labor and another is given over to the 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 38"
+uuid = "e8bf3fe3-e3bf-4cfc-bdaf-ef8bd6169884"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Nay often, which is worse, some who are called not only reject the grace, but be
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "9edcc373-f92e-4ab8-9c93-84a6d01fc2ea"

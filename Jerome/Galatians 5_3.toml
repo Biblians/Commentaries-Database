@@ -4,6 +4,7 @@ Just as no one can serve two masters, so it is difficult to keep both the shadow
 '''
 source_url=''
 source_title="EPISTLE TO THE GALATIANS 2.5.4"
+uuid = "266bbb91-42f3-453e-a1a9-296b47d8b305"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Galatians.html'
 source_title="Commentary on Galatians"
+uuid = "af13a9ed-9747-42f6-b894-d417769bb3f9"

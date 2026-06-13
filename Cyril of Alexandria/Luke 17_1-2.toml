@@ -5,6 +5,7 @@ Now there are two kinds of offences, of which the one resist the glory of God, b
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "03b75a76-bbea-4d2b-8423-764744d5df4c"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The accompanying discussion that immediately follows these opening remarks and s
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILIES 113-16"
+uuid = "16613f5c-a132-4b20-9352-75d644c266c2"

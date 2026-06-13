@@ -4,6 +4,7 @@ Now, what can "prepare a greatly magnificent feast for all his officials and sla
 '''
 source_url='https://sites.google.com/site/aquinasstudybible/home/esther/rabanus-maurus-commentary-on-esther'
 source_title="Commentary on Esther"
+uuid = "e1d72482-4c64-4de7-9c6a-c3f7bbff0b29"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ It is evident that the magnificent banquet for Esther's wedding, prepared for bo
 '''
 source_url=''
 source_title="EXPLANATION ON THE BOOK OF ESTHER 4"
+uuid = "53a50e88-e3d6-49c1-b5b1-fb06ceeafc90"

@@ -11,6 +11,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "c8743686-f2ff-48da-876d-483e3ff0c86b"
 
 [[commentary]]
 quote='''
@@ -18,6 +19,7 @@ In this discourse we purpose speaking, as He gives us grace, on these words of t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520106.html'
 source_title="Tractates on John 106"
+uuid = "49415e87-1eeb-4f81-9765-20f131bf80cb"
 
 [[commentary]]
 quote='''
@@ -25,6 +27,7 @@ But what follows makes it more credible that His words, "I have manifested Thy n
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520106.html'
 source_title="Tractates on John 106"
+uuid = "ed9c1c37-c4ce-4b09-8ffd-cb8d8b139acf"
 
 [[commentary]]
 quote='''
@@ -32,6 +35,7 @@ Accordingly, let us now see what He says about those disciples of His who were t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520106.html'
 source_title="Tractates on John 106"
+uuid = "37e400a6-39f4-4e66-9f31-1fdc58678ad7"
 
 [[commentary]]
 quote='''
@@ -39,3 +43,4 @@ But what are we to make of the words. "Whom Thou gavest me out of the world"? Fo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520106.html'
 source_title="Tractates on John 106"
+uuid = "2b7a3d7b-ed80-4476-92bd-58d1417064c2"

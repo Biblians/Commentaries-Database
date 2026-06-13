@@ -4,6 +4,7 @@ And all bore witness to him and marveled at the words of grace that proceeded fr
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "7ff409a1-20a3-4b91-be72-7b48db41a6d5"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ They bare Him witness that it was truly He, as He had said, of whom the prophet 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "25515d95-f80f-4afe-a88b-58c199714e42"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ And they said: Is this not the son of Joseph? What blindness of the Nazarenes, w
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "fa50187d-aa74-4b3a-a893-bbe9a927c220"

@@ -10,6 +10,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2FCommentary%2520on%25201%2520Kings%2FBook%25202.html'
 source_title="Commentary on 1 Kings, Book 2, Chapter 2"
+uuid = "6c6cb496-6f32-45cd-8ace-d2a3dc00aafe"
 
 [[commentary]]
 quote='''
@@ -23,3 +24,4 @@ But the Christ of the Lord is the Redeemer of the human race. Who indeed, becaus
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2FCommentary%2520on%25201%2520Kings%2FBook%25202.html'
 source_title="Commentary on 1 Kings, Book 2, Chapter 3"
+uuid = "576ca5a4-bb63-4517-9d03-38b8d24fa0db"

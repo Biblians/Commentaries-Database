@@ -4,6 +4,7 @@ A certain man was rich and was clothed in purple and fine linen, and feasted sum
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "6468c313-1781-4413-9fbc-8db010ae4da4"
 
 
 [[commentary]]
@@ -13,6 +14,7 @@ Our Lord had just before advised the making friends of the Mammon of unrighteous
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ec2f0494-cbac-40e1-8803-ed95dfca365d"
 
 
 [[commentary]]
@@ -22,3 +24,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "9c4c8be5-2c57-4904-a371-30cfdf46ae19"

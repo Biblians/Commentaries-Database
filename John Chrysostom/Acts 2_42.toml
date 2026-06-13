@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25207.html'
 source_title="Homily on Acts 7"
+uuid = "31acbb58-db85-49c7-b74a-444d5aa56500"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25207.html'
 source_title="Homily on Acts 7"
+uuid = "64176e12-ad0e-4255-9391-48da3e625593"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ And here again in his conciseness, he does not relate the teaching given; for as
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520the%2520Acts%2520of%2520the%2520Apostles%2FHomily%25207.html'
 source_title="Homily on Acts 7"
+uuid = "061575c2-b485-4204-a167-52143385f992"

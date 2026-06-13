@@ -6,6 +6,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2FCommentary%2520on%25201%2520Kings%2FBook%25202.html'
 source_title="Commentary on 1 Kings, Book 2, Chapter 2"
+uuid = "96bee8b6-130d-45b5-85b0-8426f91f0e3d"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ But since Samuel is first said to have been girded with a linen ephod, and then 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2FCommentary%2520on%25201%2520Kings%2FBook%25202.html'
 source_title="Commentary on 1 Kings, Book 2, Chapter 3"
+uuid = "6e0e82a0-e44b-4c7f-bdc0-aaeb3ac99d31"

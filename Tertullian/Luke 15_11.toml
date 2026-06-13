@@ -4,6 +4,7 @@ That most gentle father, likewise, I will not pass over in silence, who calls hi
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Repentance.html"
 source_title="On Repentance"
+uuid = "6df9442a-f23d-4ff0-9d1f-2513a7b97555"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ That prodigal son also the father's patience receives, and clothes, and feeds, a
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOf%2520Patience.html"
 source_title="Of Patience"
+uuid = "465f0778-5f79-47ee-8f4a-3faeecb7ad6a"

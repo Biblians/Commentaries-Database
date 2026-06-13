@@ -7,6 +7,7 @@ But because His discourse was in parables and dark sayings, our Lord, in order t
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "38ba3d36-3abe-427b-8574-93583c25366e"
 
 [[commentary]]
 quote='''
@@ -15,3 +16,4 @@ Since the speech was obscure and parabolic, the Lord, rousing the listeners so t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252014.html'
 source_title="Commentary on Luke"
+uuid = "774401c5-4816-4527-b798-5a6e1b4d984c"

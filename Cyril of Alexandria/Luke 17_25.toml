@@ -5,6 +5,7 @@ Now His disciples supposed that He would go to Jerusalem, and would at once make
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d1f1ab86-cfdc-4c03-8271-a7cac12a538a"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ That they might know that he was about first to undergo his saving passion, abol
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 117"
+uuid = "219f709b-bec0-44a1-b055-daf5b19c5450"

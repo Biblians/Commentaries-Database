@@ -4,6 +4,7 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25202.html"
 source_title="The Instructor Book 2"
+uuid = "fbc235f0-7cf5-41bd-90a6-fdd66d01768b"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ With milk, then, the Lord's nutriment, we are nursed directly we are born; and a
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Instructor%2520Book%25201.html"
 source_title="The Instructor Book 1"
+uuid = "43e52779-f8c7-4e10-8e0f-21b1e48f1d93"

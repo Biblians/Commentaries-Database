@@ -4,6 +4,7 @@ And then shall they "learn to know Him whom they pierced, and shall beat their b
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
 source_title="An Answer to the Jews"
+uuid = "d9599a3b-b46e-476c-bfc8-83038600668c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ That, however, which we have reserved for a concluding argument, will now stand 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "66ed88a3-a51d-4626-88f0-62890139e282"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ For they affirm that without those letters truth cannot be found; nay more, that
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FPseudo-Tertullian%2FAppendix.%2520Against%2520All%2520Heresies.html"
 source_title="Pseudo-Tertullian Against All Heresies"
 time = 220
+uuid = "f3e2cbac-8169-4bfb-812b-f47049fbe084"

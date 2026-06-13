@@ -4,6 +4,7 @@ The holy mountain or the teachings of the truth are the confession of the Trinit
 '''
 source_url=''
 source_title="COMMENTARY ON ISAIAH 15:22"
+uuid = "2e84866f-ae4d-41b4-889f-3490028901e1"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Is it not written, "He says, 'My house shall be called a house of prayer for all
 '''
 source_url=''
 source_title="HOMILIES ON MARK 83 (Mark 11:15-17)"
+uuid = "bb18df8f-ed65-4e1c-8129-796fc9f90dfb"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
+uuid = "7f66886c-6352-4e02-819c-b9c60f69eea9"

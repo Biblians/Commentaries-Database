@@ -4,6 +4,7 @@ quote='''
 '''
 source_url=''
 source_title="CONCERNING FAITH"
+uuid = "e641b078-c8fa-4385-b2f7-0001619f4aa5"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url=''
 source_title="Concerning Baptism"
+uuid = "d307ce0d-c9b2-403a-9aee-aa646527eabe"

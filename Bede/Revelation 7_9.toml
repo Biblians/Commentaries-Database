@@ -4,6 +4,7 @@ Let us think attentively about the eternal feast of the martyrs, which is in hea
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.10"
+uuid = "23aef016-1e85-4c56-a8e7-9e98a60f56e8"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ After these things, I saw a great multitude, which no one could number. Having f
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "8ac54738-0c3e-4ebc-b576-007901c77e86"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ Clothed in white robes, and palms in their hands. By robes he hints at baptism, 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "a9c83d5a-57d2-4842-92c6-60339a9b07ee"

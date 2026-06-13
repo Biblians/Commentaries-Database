@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "518007fc-8b38-4644-a7f7-6d4c7b016d0e"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ But he cries and shouts that both those who are far off may hear him speaking an
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520John%2FBook%25206.html'
 source_title="COMMENTARY ON THE GOSPEL OF JOHN 6.100, 102"
+uuid = "cb968f11-8d7d-4456-9057-85b200505f34"

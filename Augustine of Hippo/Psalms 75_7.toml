@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801075.htm'
 source_title="Exposition on Psalm 75"
+uuid = "dfe4c610-f399-491c-895a-6d2d0b0cd1ed"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Therefore here also in this Psalm (dearly beloved attend), whereas that which He
 '''
 source_url='https://www.newadvent.org/fathers/1801075.htm'
 source_title="Exposition on Psalm 75"
+uuid = "2d858825-2001-4734-a1e9-e9473908df74"

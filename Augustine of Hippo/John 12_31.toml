@@ -5,6 +5,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "cfd9d5bf-30d0-44f7-899c-c2c60a6c118f"
 
 [[commentary]]
 quote='''
@@ -18,3 +19,4 @@ On the other hand, let us be far from supposing that the devil is called in any 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252052.html'
 source_title="Tractates on John 52"
+uuid = "b1079d2d-5c2a-47ec-802c-bff8a77d059d"

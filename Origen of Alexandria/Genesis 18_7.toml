@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Genesis_and_Exodus/X_mSBavPcq4C?hl=en&gbpv=1&printsec=frontcover'
 source_title="HOMILIES ON GENESIS 4.1"
+uuid = "c8689904-1318-435c-a538-69d0dd94be85"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ A calf is served; behold, another mystery. The calf itself is not tough but "goo
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Genesis_and_Exodus/X_mSBavPcq4C?hl=en&gbpv=1&printsec=frontcover'
 source_title="HOMILIES ON GENESIS 4.2"
+uuid = "aa775aa2-86c3-4893-ba58-b261bef61912"

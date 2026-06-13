@@ -4,6 +4,7 @@ In this case also a type has preceded; for thus was John beforehand the Lord's f
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html"
 source_title="On Baptism"
+uuid = "bca99ae7-e1ec-4fd9-b533-ba7dedf8281c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ And so "the baptism of repentance" was dealt with as if it were a candidate for 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html"
 source_title="On Baptism"
+uuid = "6de17764-d4fb-420a-b7a6-ec81540befdc"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ Was that, then, the reason why Jonah thought not repentance necessary to the hea
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "72113655-39f9-4b8b-ae02-3b357b127431"

@@ -5,6 +5,7 @@ The children of believers were in some sense destined for holiness and salvation
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html'
 source_title="ON THE SOUL 39.4"
+uuid = "c2e7f105-8e1a-41e6-b6fd-9fc26abbe5d7"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ It was from this circumstance that the apostle said, that when either of the par
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
 source_title="A Treatise on the Soul"
+uuid = "7a5a71e4-34d9-44bf-934a-d0e47d406698"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ Secondly, if, according to the Scripture, they who shall be "apprehended" by the
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FTo%2520His%2520Wife%2FBook%25202.html"
 source_title="To His Wife Book II"
+uuid = "906b33a9-c3a7-4bfe-936a-5ec693abb0ed"

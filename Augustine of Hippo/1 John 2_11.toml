@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTen%2520Homilies%2520on%2520the%2520First%2520Epistle%2520of%2520John%2FHomily%25201.html'
 source_title="Ten Homilies on 1 John 1"
+uuid = "f3786c47-9d00-406f-8ca6-67010039dc9f"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Do we point with the finger to this Mountain in like manner as the moon on its t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTen%2520Homilies%2520on%2520the%2520First%2520Epistle%2520of%2520John%2FHomily%25201.html'
 source_title="Ten Homilies on 1 John 1"
+uuid = "4f100b88-ed92-4403-92ae-9a7948c8b94d"

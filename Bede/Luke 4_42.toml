@@ -4,6 +4,7 @@ But when the day came, he went out to a deserted place, and the crowds sought hi
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "88c45ffd-6d1b-4b18-87ed-764a663ba247"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ But if the sun-setting mystically expresses the death of our Lord, the returning
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f01838e5-8d62-4800-81d3-e013884e9a0f"

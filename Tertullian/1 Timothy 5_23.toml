@@ -4,6 +4,7 @@ Let ¦sculapius have been the first who sought and discovered cures: Esaias ment
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Chaplet%252C%2520or%2520De%2520Corona.html"
 source_title="De Corona"
+uuid = "bcbe51e2-8403-40f8-b4be-41d28ca058f5"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Whether, moreover, the apostle had any acquaintance with xerophagies-(the apostl
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Fasting.html"
 source_title="On Fasting"
+uuid = "75d24949-5053-432a-b682-c3a9f3c1507f"

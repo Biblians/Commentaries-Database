@@ -4,6 +4,7 @@ But you shall be baptized with the Holy Spirit not many days from now. The apost
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "8e2fc601-83b7-4d24-94fa-5eeeb343585e"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ For John indeed baptized with water, but you will be baptized with the Holy Spir
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "a1c4ef11-fd8e-4c00-9251-474d2e25d37e"

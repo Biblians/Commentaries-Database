@@ -4,6 +4,7 @@ It is much easier for one to dread what is forbidden if he has a reverential fea
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Apparel%2520of%2520Women%2FBook%25202.html'
 source_title="THE APPAREL OF WOMEN 10.6"
+uuid = "821b000e-8248-48e7-ad6f-d965967e061c"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ But how much more is the rule of reverence and modesty incumbent on laymen-seein
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html"
 source_title="On Baptism"
+uuid = "d9f38533-b885-4585-a154-7c264d39f63c"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ For how far more usefully and cautiously shall we act, if we hazard the presumpt
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Apparel%2520of%2520Women%2FBook%25202.html"
 source_title="On the Apparel of Women Book II"
+uuid = "bae2c977-9ceb-486d-865a-6a635ae77f3b"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ To marry otherwise is, to believers, not "lawful; "is not "expedient."
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FTo%2520His%2520Wife%2FBook%25202.html"
 source_title="To His Wife Book II"
+uuid = "fa4aa0dd-dd51-4078-9850-a8557d9feb15"
 
 [[commentary]]
 quote='''
@@ -32,3 +36,4 @@ Let it now be granted that repetition of marriage is lawful, if everything which
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Exhortation%2520to%2520Chastity.html"
 source_title="On Exhortation to Chastity"
+uuid = "28c759c7-a0c8-4383-b5af-03f31063d862"

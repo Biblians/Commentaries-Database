@@ -5,6 +5,7 @@ Is there any risk of a different result in the case of a Lord so just in estimat
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOf%2520Patience.html"
 source_title="Of Patience"
+uuid = "dd4b4546-ad37-4da7-bbb9-1ad75bd277e4"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
+uuid = "7e6c1385-c84d-432e-8788-350a3400ebf6"

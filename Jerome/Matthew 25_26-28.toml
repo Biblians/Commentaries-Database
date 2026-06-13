@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
+uuid = "65d50020-1e4f-45ec-b3d8-ac202a3fae03"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ Or, it is given to him who had gained five talents, that we may understand that 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "462f61ef-85d9-4147-84cc-675d01f7a360"

@@ -4,6 +4,7 @@ To a virgin betrothed to a man whose name was Joseph of the house of David, and 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "6385ea93-d1e0-4ced-828f-dc3b349b57d6"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ As to why he wished to be conceived and born not of a simple virgin but of one w
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.3"
+uuid = "253b2750-12d8-4631-aad6-f8c3a98402df"

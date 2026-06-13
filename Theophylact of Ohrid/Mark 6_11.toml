@@ -4,6 +4,7 @@ From those who would not receive them, they were to shake off the dust from thei
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25206.html'
 source_title="Commentary on Mark"
+uuid = "183f02e4-b931-43e9-a413-e835e4be6131"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ And whoever shall not receive you, &c. This the Lord commanded them, that they m
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d6455292-b673-45d1-97b3-eb8eaee11f30"

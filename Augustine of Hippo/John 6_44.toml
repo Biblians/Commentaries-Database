@@ -4,6 +4,7 @@ For what do you have that you did not receive? How did you come? By believing yo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252030.html'
 source_title="Sermon 30"
+uuid = "e58c9acb-42ad-416c-8780-b4a64b31c0d2"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Noble excellence of grace! No man comes unless drawn. There is whom He draws, an
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252026.html'
 source_title="Tractates on John 26"
+uuid = "b4196d28-f264-4d07-b98e-4d267fbe2f66"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ If he is drawn, saith some one, he comes unwillingly. If he comes unwillingly, t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252026.html'
 source_title="Tractates on John 26"
+uuid = "86b82790-600c-4e30-8339-2f6dc0b436c1"
 
 [[commentary]]
 quote='''
@@ -25,6 +28,7 @@ Do not think that thou art drawn against thy will. The mind is drawn also by lov
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252026.html'
 source_title="Tractates on John 26"
+uuid = "c7972f11-f750-4d0d-bfd4-16277a42bac3"
 
 [[commentary]]
 quote='''
@@ -32,6 +36,7 @@ Give me a man that loves, and he feels what I say. Give me one that longs, one t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252026.html'
 source_title="Tractates on John 26"
+uuid = "bf21fb56-63ad-428e-8b16-c222795e891f"
 
 [[commentary]]
 quote='''
@@ -47,6 +52,7 @@ But where will this be? There better, there more truly, there more fully. For he
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252026.html'
 source_title="Tractates on John 26"
+uuid = "7b75abe8-d467-415a-a767-7fc4922ac1bc"
 
 [[commentary]]
 quote='''
@@ -61,3 +67,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "d855e663-c46c-45a3-9599-be0ce01bc373"

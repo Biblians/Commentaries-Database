@@ -4,6 +4,7 @@ The kingdom of heaven is said to be like a householder who hires workers to cult
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 19"
+uuid = "18dbe4af-c605-4679-836b-d7283892c849"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f95b98ea-dca2-4e30-b2b5-633c34db84dc"

@@ -7,6 +7,7 @@ Again, this devil is deaf and dumb; deaf, because he does not choose to hear the
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "010012d8-deda-48fb-8938-830ce2bfbd92"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ This demon is mute and deaf — deaf, as one unwilling to hear the Divine words;
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25209.html'
 source_title="Commentary on Mark"
+uuid = "95b625f6-96c4-4b05-88c9-8165c0f0f73f"

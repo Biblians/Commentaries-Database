@@ -4,6 +4,7 @@ Gird yourself and put on your sandals. And we read that prophets and apostles us
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "3bb62453-f198-44f3-9cb7-f5a25b82764e"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ Gird yourself, and put on your boots. Instead of boots or sandals, as some manus
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "dfec424c-c9c1-4efa-bd94-b8b9487408bb"

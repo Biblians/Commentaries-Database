@@ -4,6 +4,7 @@ And in knowledge, temperance. So that when they have learned to do well, immedia
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "37fd87e3-3289-4de8-aaa1-885dfda0a585"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And in temperance, patience. It is always necessary that temperance is accompani
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "c9b021b7-4497-4654-9358-1a82355b784a"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ And in patience, godliness. So that he may be kind towards those whom he patient
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
+uuid = "a9fedaa7-f4a3-446a-9303-0a0df01a71c8"

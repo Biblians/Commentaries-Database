@@ -4,6 +4,7 @@ Doubtless the heretics, who follow the teachings of demons, who think up false s
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 121"
+uuid = "c103847a-d848-4e24-85aa-1c1a720e4ac5"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Iniquity lies to itself either by corrupting the nature you have made and ordain
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FConfessions%2FBook%25203.html'
 source_title="Confessions 3.8.16"
+uuid = "e965ee47-fed9-405c-97b8-2b049c34c801"
 
 
 [[commentary]]
@@ -19,3 +21,4 @@ The arrogance of pride, the pleasure of lust and the poison of curiosity are the
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FConfessions%2FBook%252013.html'
 source_title="Confessions 13.21.30"
+uuid = "6d58b51d-343a-488d-9514-1da5367933cb"

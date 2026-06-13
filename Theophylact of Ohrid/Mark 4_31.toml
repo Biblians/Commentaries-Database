@@ -4,6 +4,7 @@ The word of faith is small: because one need only believe in Christ, and you sha
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25204.html'
 source_title="Commentary on Mark"
+uuid = "453daac9-3450-4015-801a-77baf125b2ca"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Most brief indeed is the word of faith; Believe in God, and thou shalt be saved.
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "aafe2d89-b611-4c84-acec-78b79d2893a4"

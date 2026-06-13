@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html'
 source_title="ON THE RESURRECTION OF THE FLESH 58"
+uuid = "f9cc99b5-5027-4d40-b6b9-8944f3938214"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ The angel echoes the same to John: "And God shall wipe away all tears from their
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "c023648a-c8f8-4c50-b9eb-847556234dcf"

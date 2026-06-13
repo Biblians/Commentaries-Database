@@ -4,6 +4,7 @@ These are the words of the divine Scripture. Let us see, therefore, now what is 
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Genesis_and_Exodus/X_mSBavPcq4C?hl=en&gbpv=1&printsec=frontcover'
 source_title="HOMILIES ON GENESIS 4.5"
+uuid = "4b86e0aa-ae1e-4f0d-8cd2-fcca73ffc695"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ So also now, therefore, it is said of these who live in Sodom, that if indeed, o
 '''
 source_url='https://www.google.com/books/edition/Homilies_on_Genesis_and_Exodus/X_mSBavPcq4C?hl=en&gbpv=1&printsec=frontcover'
 source_title="HOMILIES ON GENESIS 4.6"
+uuid = "703c9996-a18b-469e-8638-6027fe94723f"

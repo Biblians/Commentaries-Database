@@ -10,6 +10,7 @@ As an illustration, let us take a case of industrialism. Let us take two factori
 '''
 source_url=''
 source_title="ANSWERS TO QUESTIONS ON CHRISTIANITY, from God in the Dock"
+uuid = "5b50c5bd-c165-4e0b-a5d1-5ea4d8f9b82d"
 
 [[commentary]]
 quote='''
@@ -17,6 +18,7 @@ We are deceived by looking on the outside of things. We suppose ourselves to be 
 '''
 source_url=''
 source_title="The Problem of Pain, Chapter 4: Human Wickedness"
+uuid = "4f4a9062-3419-4be4-afd4-da508f39d94b"
 
 [[commentary]]
 quote='''
@@ -24,6 +26,7 @@ One great piece of mischief has been done by the modern restriction of the word 
 '''
 source_url=''
 source_title="Mere Christianity, Book III, Chapter 2: The Cardinal Virtues"
+uuid = "a067f697-748d-493c-a9fc-cec48cd91bb6"
 
 [[commentary]]
 quote='''
@@ -33,3 +36,4 @@ The bad psychological material is not a sin but a disease. It does not need to b
 '''
 source_url=''
 source_title="Mere Christianity, Book 3, Chapter 4: Morality and Psychoanalysis"
+uuid = "3b4e83be-67e8-42bb-b3c8-099d5aeb94b4"

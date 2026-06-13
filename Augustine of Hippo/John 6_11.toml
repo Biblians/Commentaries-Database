@@ -9,6 +9,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1feb1a59-f8ee-4427-9a47-fd853b36dba2"
 
 [[commentary]]
 quote='''
@@ -16,3 +17,4 @@ For who now feeds the whole world, but He who out of a few seeds creates the har
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252024.html'
 source_title="Tractates on John 24"
+uuid = "eab4d71c-12bd-435f-adf0-b8db3c7dd44d"

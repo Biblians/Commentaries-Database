@@ -4,6 +4,7 @@ Yet I exhort you by our common faith, by the true and simple love of my heart to
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%25206.html"
 source_title="Epistle VI"
+uuid = "f6347b33-5067-4bce-9425-26dbcdc83a23"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ Or if he appoints himself a searcher and judge of the heart and reins, let him i
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FLetters%2FEpistle%252051.html"
 source_title="Epistle LI"
+uuid = "1ded0e69-6bcb-4a35-9df7-8edaf1b2f3de"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ But if in Holy Scripture discipline is frequently and everywhere prescribed, and
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%25202.%2520On%2520the%2520Dress%2520of%2520Virgins.html"
 source_title="Treatise II. On the Dress of Virgins."
+uuid = "e4321e26-aa8b-4184-8088-e4aeb0ad475d"
 
 
 [[commentary]]
@@ -28,3 +31,4 @@ That even a baptized person loses the grace that he has attained, unless he keep
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%252012.%2520Three%2520Books%2520of%2520Testimonies%2520Against%2520the%2520Jews.html"
 source_title="Treatise XII. Three Books of Testimonies Against the Jews."
+uuid = "71e44a49-09a3-4b88-8b38-1b31e7317d86"

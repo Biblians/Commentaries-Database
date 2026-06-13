@@ -4,6 +4,7 @@ And He, who had come to forgive sins, said: "Whoever among you knows himself to 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252016A.html'
 source_title="Sermon 16A"
+uuid = "5c4ab65d-32c0-4edf-b468-6de7141b891e"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "1b9ad267-4c75-44c3-98f5-927641856207"
 
 [[commentary]]
 quote='''
@@ -19,3 +21,4 @@ What answer, then, did the Lord Jesus make? How answered the Truth? How answered
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252033.html'
 source_title="Tractates on John 33"
+uuid = "2df236c6-28f7-4dda-b4b0-2901d857de69"

@@ -4,6 +4,7 @@ It has learnt not to respect life; how much more food? [You ask] "How many have 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html"
 source_title="On Idolatry"
+uuid = "43c8ca99-c21d-4339-a354-604ca2acddfb"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ True enough; who can be ignorant of it? Who also can be unaware that "the things
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
 source_title="Against Praxeas"
+uuid = "50174de2-feba-45cb-9534-c8f29a551f3e"
 
 [[commentary]]
 quote='''
@@ -18,3 +20,4 @@ And grant that it be just as you think sufficient to meet each point is the divi
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html"
 source_title="On Baptism"
+uuid = "8d34d5ac-39d7-4789-a92d-657a5a6ab698"

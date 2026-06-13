@@ -4,6 +4,7 @@ This [verse] can be read in two distinct ways.… The sense of the first is "If 
 '''
 source_url=''
 source_title="EPISTLE TO THE GALATIANS 3.6.3"
+uuid = "2893d87d-7593-4d17-976f-8010bca825cd"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Galatians.html'
 source_title="Commentary on Galatians"
+uuid = "ad51cf25-1e8d-47f7-8ed0-14e5a956cf62"

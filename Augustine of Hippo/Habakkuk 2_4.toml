@@ -4,6 +4,7 @@ Therefore pride is contrary to this justice of God, because it puts its trust in
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 140:30"
+uuid = "3853e948-bea2-4d84-b071-fc198062f052"
 
 [[commentary]]
 quote='''
@@ -11,6 +12,7 @@ Those just people also were saved by their salutary faith in him as man and God 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 190"
+uuid = "f8aced71-bca4-4bd2-a54d-999180a47f22"
 
 [[commentary]]
 quote='''
@@ -18,6 +20,7 @@ But "Mary," the other sister of Lazarus, "took a pound of perfume made from cost
 '''
 source_url=''
 source_title="TRACTATES ON THE GOSPEL OF JOHN 50:6"
+uuid = "ddf52e3d-67a0-4811-961d-f84a192e6d8e"
 
 
 [[commentary]]
@@ -26,3 +29,4 @@ For it is not simply the enduring of such things that is advantageous, but the b
 '''
 source_url=''
 source_title="SERMON ON THE MOUNT 5:13"
+uuid = "b1efe022-7461-4b9a-8d1c-6f37b754a106"

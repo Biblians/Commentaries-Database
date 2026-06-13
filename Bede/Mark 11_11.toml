@@ -4,6 +4,7 @@ And he entered Jerusalem into the temple. Having entered the city, he first went
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "cf896079-5706-48a6-aaf2-9599646351cf"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And having looked around at everything, since it was already evening, he went ou
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
+uuid = "e1f5312b-eb10-42ce-9d84-eb0cd7c69e69"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a35993f0-04bd-4b1e-856b-733a0984aeac"
 
 [[commentary]]
 quote='''
@@ -28,3 +31,4 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e315214a-0e0c-4130-88e4-00fcb7233078"

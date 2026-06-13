@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e2fa93cd-b0d9-4911-b120-d77078954ccf"
 
 [[commentary]]
 quote='''
@@ -14,6 +15,7 @@ Then because His words appeared to be unsupported by testimony, (for though the,
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252060.html'
 source_title="Homily on the Gospel of John 60"
+uuid = "348d878c-39a8-43cd-9074-6f1c3c5ffd52"
 
 [[commentary]]
 quote='''
@@ -21,3 +23,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520John%2FHomily%252060.html'
 source_title="Homily on the Gospel of John 60"
+uuid = "0327ac43-b049-4468-a4bd-3ce6753b9b22"

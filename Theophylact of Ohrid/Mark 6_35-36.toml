@@ -4,6 +4,7 @@ But observe the disciples, how they are distinguished by their love for mankind!
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%25206.html'
 source_title="Commentary on Mark"
+uuid = "bc28650a-53c1-4f72-9b88-7df43e5a4b69"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ The Lord, placing before them, first, what is most profitable, that is, the food
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "9ac21e23-873b-4ade-8516-9e669e910dbd"

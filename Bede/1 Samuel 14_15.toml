@@ -4,6 +4,7 @@ And a miracle happened in the camps through the fields, etc. By the miracle, str
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "6335a0f5-df47-4bae-9540-0657e7569344"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ And the earth was troubled, etc. So that those who are wise in earthly things ma
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
+uuid = "4a17d5cf-a73b-4692-ba34-a8724f444ff9"

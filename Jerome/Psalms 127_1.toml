@@ -4,6 +4,7 @@ He claims that this is how an Epicurus would speak, or an Aristippus and his Cyr
 '''
 source_url=''
 source_title="COMMENTARY ON ECCLESIASTES"
+uuid = "0f719659-f366-47a5-9d85-10b70c94643f"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Atticus: Therefore, they are wrong in their thinking who rule out the help of Go
 '''
 source_url='https://www.newadvent.org/fathers/30111.htm'
 source_title="Against the Pelagians 1.2"
+uuid = "e14629de-c8b5-4918-a344-cdaadc92414d"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.earlychristianwritings.com/yonge/book41.html'
 source_title="QUESTIONS AND ANSWERS ON GENESIS, I"
+uuid = "aad20a5e-123c-4f80-bb57-1aaa5140b1b8"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://www.earlychristianwritings.com/yonge/book41.html'
 source_title="QUESTIONS AND ANSWERS ON GENESIS, I"
+uuid = "ade5f1dc-58cd-45f5-b729-b12c7d44f1cf"

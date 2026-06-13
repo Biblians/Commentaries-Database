@@ -4,6 +4,7 @@ Hypocrites, you know how to interpret the appearance of the earth and the sky. B
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "429a862c-7076-47e8-af29-d3ef5946628c"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ Or, they who from the change of the elements can easily when they like predeterm
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "a6b20171-738e-4227-bec7-ee2680e88ae3"

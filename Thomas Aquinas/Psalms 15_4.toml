@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCommentary%2520on%2520the%2520Psalms.html'
 source_title="Exposition on the Psalms of David"
+uuid = "417f059d-15f3-444c-8b40-e86671929704"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Here he forbids deceiving one's neighbor. Now a neighbor is deceived in three wa
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCommentary%2520on%2520the%2520Psalms.html'
 source_title="Exposition on the Psalms of David"
+uuid = "a2106fd8-904f-47c1-8bbb-5940a7eff3ab"

@@ -5,6 +5,7 @@ Or the twelfth year was the commencement of our Lord's disputation with the doct
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "114ac4c4-c878-4064-981a-8cfc863d5a7f"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ In the twelfth year, as we read, the beginning of the Lord's discussion is taken
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="EXPOSITION OF THE GOSPEL OF LUKE 2.63"
+uuid = "7c0f7e0a-37eb-4330-8698-f391f6401cc9"

@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801012.htm'
 source_title="Exposition on Psalm 12"
+uuid = "7b75b450-c5d6-4cad-a2ff-502e498c2bca"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ There is a double heart there, not a simple one; it is not what it has within it
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520133.html'
 source_title="SERMON 133:4"
+uuid = "0095a1a3-ff4c-4d37-9d7a-c1eeff70e5be"

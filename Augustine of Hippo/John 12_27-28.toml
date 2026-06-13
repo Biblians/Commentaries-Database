@@ -9,6 +9,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6b3501d0-b78b-45c8-bcbb-39ff06560bbf"
 
 [[commentary]]
 quote='''
@@ -22,3 +23,4 @@ And when He here said, "Now is my soul troubled;" and also when He says, "My sou
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252052.html'
 source_title="Tractates on John 52"
+uuid = "fc1d4a8f-1dc6-4d7f-a252-4f1a86263cbf"

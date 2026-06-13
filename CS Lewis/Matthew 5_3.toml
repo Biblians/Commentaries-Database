@@ -5,6 +5,7 @@ I see only one thing to do at the moment. Your patient has become humble; have y
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters, Chapter XIV"
+uuid = "3ac1dc87-ff27-4d27-8e57-9ae1f12d928b"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ It is very different for the nasty people—the little, low, timid, warped, thin
 '''
 source_url=''
 source_title="Mere Christianity, Book 4, Chapter 10: Nice People or New Men"
+uuid = "1a789e86-4eaa-4575-a0ec-e9c6b0366db8"

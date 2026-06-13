@@ -5,6 +5,7 @@ And whoever is found to have walked not according to the spirit, but according t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Commentary on Luke"
+uuid = "4929ce08-a2c9-40b6-8153-36b4fa7c96f5"
 
 [[commentary]]
 quote='''
@@ -13,3 +14,4 @@ Rightly also shall the unbelieving steward receive his portion with the unbeliev
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "dc7f4c73-44df-4c8c-bf97-a3a41635c460"

@@ -4,6 +4,7 @@ To the angel of the church in Ephesus write. He reproaches part of this church a
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "33a5b379-fa6f-45df-b4eb-158cccedfaeb"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ These things says he who holds the seven stars in his right hand. That is, he ho
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "187804ed-3b7e-4ee5-91c4-8589512da7ae"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ Who walks in the midst of the seven golden candlesticks. Who, moving among you, 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Revelation.html"
 source_title="Commentary on Revelation"
+uuid = "b71a5052-8aa3-4949-bef7-f96d05ae6f4c"

@@ -4,6 +4,7 @@ When one of those who reclined at table with him heard this, he said to him, "Bl
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "2d843aaf-d467-4d9c-b5ca-ae66b8616342"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ But because some receive this bread by faith merely, as if by smelling, but its 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "6677930b-c0f4-4d71-9354-2793b60b851a"

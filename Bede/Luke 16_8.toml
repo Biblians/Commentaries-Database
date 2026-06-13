@@ -4,6 +4,7 @@ And the lord praised the unjust steward because he had acted prudently. For the 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "7bde6f65-bb0a-4919-91d3-e00d052fac44"
 
 
 [[commentary]]
@@ -13,3 +14,4 @@ The children of light and the children of this world are spoken of in the same m
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ee4bfd69-2a20-4abd-8e09-2b0e301e0b1e"

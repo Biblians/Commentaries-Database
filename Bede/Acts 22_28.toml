@@ -4,6 +4,7 @@ I have obtained this citizenship for a great sum of money. Another edition indic
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "52825f52-c5e0-4a7b-b616-b9169bc67d06"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ And Paul said: But I was born so. That is, in this I am more of a Roman than you
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "33a81e49-0726-493c-8f77-bd51a3719823"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ I acquired this city with a great sum of money. In Greek, for city it has πολ
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "04314f44-f44b-4fbe-9349-26350592bbf6"

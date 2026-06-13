@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801023.htm'
 source_title="Exposition on Psalm 23"
+uuid = "6169e1ee-991e-4488-bb9a-dfc0211d7adb"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520366.html'
 source_title="SERMON 366:4"
+uuid = "ff48a4b3-cbfb-456a-af51-dd0f61ab20a2"

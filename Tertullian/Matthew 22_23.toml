@@ -5,6 +5,7 @@ They who are so anxious to shake that belief in the resurrection which was firml
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Flesh%2520of%2520Christ.html"
 source_title="On the Flesh of Christ"
+uuid = "3932b53d-ecdd-4aa9-8c98-10d899f993a9"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ Their specious inquiry concerned the flesh, whether or not it would be subject t
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "70abf6bf-db46-4cc1-acb6-cac7849d7d75"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ Therefore no solicitude arising from carnal jealousy will, in the day of the res
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FTo%2520His%2520Wife%2FBook%25201.html"
 source_title="To His Wife Book I"
+uuid = "7d9247a2-1cca-42f5-9b14-ff2a52bf3de3"
 
 [[commentary]]
 quote='''
@@ -26,3 +29,4 @@ If, then, forasmuch as there is in the law a precept that a man is to take in ma
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html"
 source_title="On Monogamy"
+uuid = "2258c12f-296a-4bc8-b475-167c60eb516e"

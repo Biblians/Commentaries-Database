@@ -4,6 +4,7 @@ Woe to you, Chorazin, woe to you, Bethsaida. Chorazin, Bethsaida, and Capernaum,
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "043239af-ebf4-4078-88ec-31cf468eaa00"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ For if the miracles that were done in you had been done in Tyre and Sidon, they 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "4026e2b0-eab8-4034-a175-ee9308f9c766"
 
 
 [[commentary]]
@@ -21,3 +23,4 @@ Chorazin, Bethsaida, and Capernaum, Tiberias also which John mentions, are citie
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "e4ddba88-5405-4bfb-af3e-c551d7cacc87"

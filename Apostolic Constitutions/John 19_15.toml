@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Apostolic%2520Constitutions%2FConstitutions%2520of%2520the%2520Holy%2520Apostles%2520Book%25205.html'
 source_title="Constitutions of the Holy Apostles Book 5"
+uuid = "018b48a0-3412-4a9d-bbbe-7ba80bcae5d4"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ Because, indeed, they drew servitude upon themselves voluntarily, when they said
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Apostolic%2520Constitutions%2FConstitutions%2520of%2520the%2520Holy%2520Apostles%2520Book%25206.html'
 source_title="Constitutions of the Holy Apostles Book 6"
+uuid = "a10f6070-a023-4785-99c6-0396437a10f9"

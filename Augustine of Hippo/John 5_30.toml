@@ -13,6 +13,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "f7d9ee5f-bc41-4837-bed1-1b1ce3e48f34"
 
 [[commentary]]
 quote='''
@@ -22,6 +23,7 @@ Undoubtedly the Son quickeneth whom He will. He seeketh not His own will, but th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252019.html'
 source_title="Tractates on John 19"
+uuid = "1812d406-c78b-4e08-86ae-dce067a61363"
 
 [[commentary]]
 quote='''
@@ -29,6 +31,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252022.html'
 source_title="Tractates on John 22"
+uuid = "259bf73a-ce50-4320-9634-930c7c0837fd"
 
 [[commentary]]
 quote='''
@@ -36,6 +39,7 @@ For this Christ says to thee. Thereupon, of thine. What is "As I hear I judge," 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252022.html'
 source_title="Tractates on John 22"
+uuid = "0a6858c1-81f7-4b26-9a22-7a16379a19aa"
 
 [[commentary]]
 quote='''
@@ -43,3 +47,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252022.html'
 source_title="Tractates on John 22"
+uuid = "a7f0ca0d-fda9-481a-918c-d86eec362733"

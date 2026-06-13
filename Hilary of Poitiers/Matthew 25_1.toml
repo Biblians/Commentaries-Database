@@ -4,6 +4,7 @@ The whole story is about the great day of the Lord, when those things concealed 
 '''
 source_url='https://archive.org/details/commentaryonmatt0125hila/page/40/mode/2up'
 source_title="Commentary on Matthew 27.3"
+uuid = "cc656fcf-817d-4415-b044-ce6fe24957cc"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ Then, because all this discourse is concerning the great day of the Lord, concer
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "4f332389-a69e-441a-9ec0-ff2fd9338622"
 
 [[commentary]]
 quote='''
@@ -20,3 +22,4 @@ Or, The bridegroom and the bride represent our Lord God in the body, for the fle
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "be810c09-39c6-413c-9d0a-0eb13096679e"

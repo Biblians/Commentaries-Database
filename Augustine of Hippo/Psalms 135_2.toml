@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%2520135.html'
 source_title="Exposition on Psalm 135"
+uuid = "d953466f-2d30-4c32-8c93-f8647869c510"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ But you say to me, "What am I going to do? If there will be no use for my member
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520243.html'
 source_title="SERMON 243:9"
+uuid = "4cfcdd3f-9e37-48a4-a66c-51cf19d80611"

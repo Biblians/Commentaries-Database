@@ -5,6 +5,7 @@ The ogdoad, or eightfold number, therefore, is not concerned in our formation; f
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FA%2520Treatise%2520on%2520the%2520Soul.html"
 source_title="A Treatise on the Soul"
+uuid = "193b5ea3-8102-4093-a69c-cd6b7d89f70e"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ in order, indeed, that it may be rendered a fit substance for the kingdom of God
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html"
 source_title="Against Marcion Book V"
+uuid = "37d01a13-1720-4c16-9f99-ad09f9c4933b"
 
 [[commentary]]
 quote='''
@@ -19,6 +21,7 @@ To this discussion, however, our Lord's declaration puts an effectual end: "They
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Resurrection%2520of%2520the%2520Flesh.html"
 source_title="On the Resurrection of the Flesh"
+uuid = "57641bd6-1f30-46c3-b04c-c44da1b35a54"
 
 [[commentary]]
 quote='''
@@ -26,6 +29,7 @@ With what consistency do we mount that (future) judgment-seat to pronounce sente
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520the%2520Apparel%2520of%2520Women%2FBook%25201.html"
 source_title="On the Apparel of Women Book I"
+uuid = "a459cc7c-562b-4c45-8524-34413bbb7583"
 
 [[commentary]]
 quote='''
@@ -33,3 +37,4 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html"
 source_title="On Monogamy"
+uuid = "d744daaf-6cec-430d-9fb9-089877eea933"

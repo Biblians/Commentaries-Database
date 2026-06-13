@@ -5,6 +5,7 @@ Here Pilate, who as a judge acquits Christ, is made the minister of His crucifix
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "530ca9b2-22db-406a-9314-85194c0678f3"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ He is sent to Herod, sent back to Pilate. And although neither of them pronounce
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="EXPOSITION OF THE GOSPEL OF LUKE 10.100"
+uuid = "c791521e-018f-4521-8545-7e11928e7162"
 
 
 [[commentary]]
@@ -20,3 +22,4 @@ Similarly, I think that this is a prototype of all judgments that they would con
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FCommentary%2520on%2520Luke.html'
 source_title="EXPOSITION OF THE GOSPEL OF LUKE 10.101"
+uuid = "29a99a5d-ca3c-4175-b045-b6e778fd86c0"

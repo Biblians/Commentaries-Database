@@ -5,6 +5,7 @@ Do you hesitate about arts, and trades, and about professions likewise, for the 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Idolatry.html"
 source_title="On Idolatry"
+uuid = "3d09746d-893f-4b3c-903a-9ed95bfa8c5d"
 
 [[commentary]]
 quote='''
@@ -12,3 +13,4 @@ If that was wanting to the apostles, I know not in the faith of what things it w
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Baptism.html"
 source_title="On Baptism"
+uuid = "99f7258a-a74e-4285-b84b-240bd8878d83"

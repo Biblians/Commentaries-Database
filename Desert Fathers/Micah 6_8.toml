@@ -4,6 +4,7 @@ A brother asked a hermit, 'Tell me something good that I may do it and live by i
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "20c6728e-61a2-4a10-be47-70f7bf88e2db"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ A hermit was asked by a brother, 'How do I find God? With fasts, or labour, or v
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
+uuid = "98736fa9-32af-4131-a412-3769e2974fee"

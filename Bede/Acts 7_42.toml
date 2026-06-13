@@ -4,6 +4,7 @@ Did you offer to me victims and sacrifices for forty years in the desert? Althou
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html"
 source_title="Commentary on Acts"
+uuid = "d2871e8a-4045-454b-acf7-2ec1ee3fd083"
 
 
 [[commentary]]
@@ -12,3 +13,4 @@ And he handed them over to serve the host of heaven, as it is written in the boo
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FRetractions%2520on%2520Acts.html"
 source_title="Retractions on Acts"
+uuid = "ee42de8a-ef43-44eb-ae30-d78752291087"

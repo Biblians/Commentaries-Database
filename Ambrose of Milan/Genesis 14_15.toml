@@ -4,6 +4,7 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FOn%2520Abraham.html'
 source_title="On Abraham"
+uuid = "7b36f441-b7df-4da8-a2e3-a59fa092e795"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Ambrose%2520of%2520Milan%2FOn%2520Abraham.html'
 source_title="On Abraham"
+uuid = "7fb8df97-eb9c-4cc3-813d-817e85da9fca"

@@ -4,6 +4,7 @@ When an unclean spirit goes out of a man, he walks through dry places. Although 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "6868f45e-b5aa-4cfb-b026-2a4bafcc3d9b"
 
 
 [[commentary]]
@@ -12,6 +13,7 @@ quote='''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "bb9cc8c7-7da2-4b94-af07-f8a431ed4d8b"
 
 
 [[commentary]]
@@ -20,6 +22,7 @@ He says: "I will return to my house from which I came out." This verse should be
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
+uuid = "84933948-55f0-4359-a753-f8e7afdcd403"
 
 
 [[commentary]]
@@ -29,6 +32,7 @@ This may also be taken to refer to certain heretics or schismatics, or even to a
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "4ff1d99c-1e94-4511-8191-a51d5a01d49f"
 
 
 [[commentary]]
@@ -38,3 +42,4 @@ It may also be simply understood, that our Lord added these words to show the di
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "008d0409-2986-4972-859a-fe1acd0497e3"

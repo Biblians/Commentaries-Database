@@ -5,6 +5,7 @@ We do not laugh at the mere fact of something falling down; there is nothing hum
 time=1908
 source_url=''
 source_title="Cockneys and Their Jokes (All Things Considered)"
+uuid = "a385de5e-f0f9-4738-a5d6-16c36ee32644"
 
 [[commentary]]
 quote='''
@@ -12,6 +13,7 @@ Civilisation in the best sense merely means the full authority of the human spir
 '''
 source_url=''
 source_title="All Things Considered, Humanitarianism and Strength (1908)"
+uuid = "5c423b34-bb36-404a-8f48-6da0df5ff9e1"
 
 [[commentary]]
 quote='''
@@ -20,6 +22,7 @@ But when the background of man's life is a grey background, then, in the name of
 time=1909
 source_url=''
 source_title="The Secret of a Train (Tremendous Trifles)"
+uuid = "272705c3-f733-4488-9d51-7ef58dc23fe8"
 
 [[commentary]]
 quote='''
@@ -27,6 +30,7 @@ Generally, the moral substance of liberty is this: that man is not meant merely 
 '''
 source_url=''
 source_title="The Free Man (A Miscellany of Men)"
+uuid = "39247a7c-9d63-4234-85ae-cadf1d89bf33"
 
 [[commentary]]
 quote='''
@@ -38,3 +42,4 @@ I remember dimly, if, indeed, I remember aright, that in some of those dark prop
 '''
 source_url=''
 source_title="Alarms and Discursions, The Wheel (1910)"
+uuid = "e302c261-1bd9-4dd5-bc15-01ff456cd465"

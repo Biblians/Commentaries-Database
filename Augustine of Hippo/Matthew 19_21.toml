@@ -7,6 +7,7 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
+uuid = "ec31af99-afd8-4bfb-ae43-28d857e75893"
 
 [[commentary]]
 quote='''
@@ -14,3 +15,4 @@ The rich young man claimed to have kept the commandments. Then he heard the grea
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252085.html'
 source_title="SERMON 85.1"
+uuid = "af1e835f-5358-4369-b7ca-e75bd87c0f6a"

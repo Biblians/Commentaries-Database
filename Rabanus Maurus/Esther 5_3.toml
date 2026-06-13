@@ -4,6 +4,7 @@ And the king himself pledges that he will agree to her request, just as he says 
 '''
 source_url='https://sites.google.com/site/aquinasstudybible/home/esther/rabanus-maurus-commentary-on-esther'
 source_title="Commentary on Esther"
+uuid = "48bed06e-6e48-4a02-86b3-bc1b61e723be"
 
 [[commentary]]
 quote='''
@@ -11,3 +12,4 @@ And with regard to her petition, the king answered that he would listen to it, a
 '''
 source_url=''
 source_title="EXPLANATION ON THE BOOK OF ESTHER 8"
+uuid = "b66911cd-e1c2-4638-bf8f-6b7dd0581a6e"
