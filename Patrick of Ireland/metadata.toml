@@ -2,3 +2,5 @@ default_year=461
 wiki='https://en.wikipedia.org/wiki/Saint_Patrick'
 uuid = "cf844570-6988-4071-9d33-ead3377b99b9"
 category = "Western & Medieval Theology"
+image = "https://upload.wikimedia.org/wikipedia/commons/2/21/Saint_Patrick_Catholic_Church_%28Junction_City%2C_Ohio%29_-_stained_glass%2C_Saint_Patrick_-_detail.jpg"
+summary = 'Saint Patrick was a fifth-century Romano-British Christian missionary and bishop in Ireland. Known as the "Apostle of Ireland", he is the primary patron saint of Ireland, the other patron saints being Brigid of Kildare and Columba. He is also the patron saint of Nigeria. Patrick is venerated as a saint in the Catholic Church, the Church of Ireland, Lutheranism, and in the Eastern Orthodox Church, where he is regarded as equal-to-the-apostles and Enlightener of Ireland.'

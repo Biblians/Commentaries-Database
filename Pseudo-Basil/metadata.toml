@@ -2,3 +2,23 @@ default_year=9999
 wiki='https://en.wikipedia.org/wiki/Pseudo-Basil'
 uuid = "3ac097d1-6521-4008-9bce-c2c2b108fcc3"
 category = "Apocrypha, Documents & Liturgies"
+summary = """
+Pseudo-Basil is the designation used by scholars for any anonymous author of a text falsely or erroneously attributed to Basil of Caesarea. Pseudo-Basilian works are usually known by Latin titles. They are often misattributed only in translation. They include:Ad Caesarienses apologia de secessu, a letter actually by Evagrius Ponticus
+Ad Chilonem discipulum suum
+Admonitio ad filium spiritualem, a Latin text and a partial Old English translation
+Admonitio ad iuniores
+Canones, an Arabic text and some Coptic fragments
+Constitutiones asceticae
+Contra Eunomium 4–5 
+De consolatione in adversis
+De reliquis Dionysii, the sequel to an authentic letter to Ambrose of Milan
+De spiritu
+De virginitate ad Letoium, an Old Church Slavonic translation from Greek, actually by Basil of Ancyra
+De vita in Christo, a Coptic translation from Greek, also misattributed to Athanasius
+Dialogus IV de sancta Trinitate, an Armenian translation from Greek and Syriac fragments, also misattributed to Athanasius
+Doctrina, quoted in the Georgian Ethika of Euthymius the Athonite
+Epitimia
+Epitimia diversorum sanctorum de refectorio
+Erotapokriseis Basilii et Gregorii, an Arabic translation from Greek of an erotapokriseis sometimes also misattributed to John Chrysostom
+Liturgia sancti Basilii alexandrina, a Greek liturgy of the Alexandrian rite, also known in Arabic, both Bohairic and Sahidic Coptic and Ethiopic versions
+Transitus de dormitione Deiparae, a Georgian translation from Greek"""

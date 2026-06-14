@@ -2,3 +2,5 @@ default_year=900
 wiki='https://en.wikipedia.org/wiki/Arethas_of_Caesarea'
 uuid = "bd1bca2c-0dee-43fe-93a6-8253eeb9c319"
 category = "Eastern & Byzantine Theology"
+image = "https://upload.wikimedia.org/wikipedia/commons/3/3b/Codex_Clarkianus_Phaedrus.png"
+summary = """Arethas of Caesarea was Archbishop of Caesarea Mazaca in Cappadocia early in the 10th century, and is considered one of the most scholarly theologians of the Greek Orthodox Church. The codices produced by him, containing his commentaries are credited with preserving many ancient texts, including those of Plato and Marcus Aurelius' "Meditations"."""

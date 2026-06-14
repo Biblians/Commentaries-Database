@@ -2,3 +2,7 @@ default_year=550
 wiki='https://en.wikipedia.org/wiki/Cosmas_Indicopleustes'
 uuid = "9cc8841a-efb4-4ff6-a89d-f84c42725f33"
 category = "Eastern & Byzantine Theology"
+image = "https://upload.wikimedia.org/wikipedia/commons/d/d1/WorldMapCosmasIndicopleustes.jpg"
+summary = """
+Cosmas Indicopleustes was a merchant and later hermit from Alexandria in Egypt. However, despite his moniker, "Cosmas the Monk", Cosmas himself says nothing that would indicate his involvement with monastic life. He was a 6th-century traveller who made several voyages to the Kingdom of Aksum, and India during the reign of emperor Justinian. His work Christian Topography contained some of the earliest and most famous world maps.
+Cosmas was a pupil of the East Syriac Patriarch Aba I and was himself a follower of the Church of the East. In fact, Cosmas is the one who provided the earliest most definitive evidence that the Nestorians were in India in the mid sixth century. At this time, Cosmas became a student of the future East Syrian patriarch. Cosmas's careful account regarding the spread of the Nestorian churches shows important information, specifically regarding the Church of the East's southern branch. He shows that Syriac and Persian were coequal in regards to the language of Christian introduction and commerce."""

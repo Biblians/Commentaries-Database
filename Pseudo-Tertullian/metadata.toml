@@ -2,3 +2,12 @@ default_year=9999
 wiki='https://en.wikipedia.org/wiki/Pseudo-Tertullian'
 uuid = "67d63116-8c58-4333-aa6c-8f35f9e8302f"
 category = "Apocrypha, Documents & Liturgies"
+summary = """
+There have been many works attributed to Tertullian in the past which have since been determined to be almost definitely written by others. Nonetheless, since their actual authors remain uncertain, they continue to be published together in collections of Tertullian's works. The unknown authors of these works are usually called Pseudo-Tertullian by scholars. Such works includeAdversus omnes haereses, presented as an appendix to the work De praescriptione haereticorum of Tertullian. It lists 32 heresies. There is consensus that this work is not by Tertullian himself. A traditional theory is that the work is a Latin translation of a Greek original, a lost work Syntagma written by Hippolytus of Rome around 220. Recent scholarship, agreeing with a theory of Richard Adelbert Lipsius, suggests that the Syntagma was also the common source for Philastrius and the Panarion of Epiphanius. Adversus omnes haereses may have been written by Victorinus of Pettau.
+De execrandis gentium diis 
+Carmen adversus Marcionem, possibly by Commodian. The Catholic Encyclopedia describes it as "doggerel hexameters".
+Carmen de Iona propheta, possibly by Cyprianus Gallus
+Carmen de Sodoma, possibly by Cyprianus Gallus
+Carmen de Genesi 
+Carmen de judicio Domini 
+Passio sanctae Perpetuae et Felicitatis, much of it presented as the personal diary of Perpetua, was once assumed to have been edited by Tertullian. That view is no longer widely held, and the work is usually published separately from Tertullian's own works."""
