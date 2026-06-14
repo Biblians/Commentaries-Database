@@ -1,3 +1,5 @@
 
 .DS_Store
 Claude.md
+
+__pycache__/
