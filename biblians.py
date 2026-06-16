@@ -8,12 +8,18 @@ from uuid import uuid4
 import requests
 import typer
 from dotenv import load_dotenv
+from pydantic import BaseModel
 from rich.progress import Progress
 from tomledit import Document
 
+from compile_data import encode_chapter_verse, string_to_verse_range
+from constants import name_to_osis
+
 app = typer.Typer()
 authors_app = typer.Typer()
+convert_app = typer.Typer()
 app.add_typer(authors_app, name="authors")
+app.add_typer(convert_app, name="convert")
 
 
 class MetadataType(str, Enum):
@@ -22,6 +28,30 @@ class MetadataType(str, Enum):
     both = "both"
 
 
+class Commentary(BaseModel):
+    uuid: str
+    quote: str
+    source_title: str | None
+    source_url: str | None
+    append_to_author_name: str | None
+    time: int
+    location_start: int
+    location_end: int
+    osisId: str
+    display_reference: str
+
+
+class Author(BaseModel):
+    uuid: str
+    name: str
+    death_year: int
+    category: str
+    image: str | None
+    summary: str | None
+    commentaries: list[Commentary]
+
+
+# App Commands
 @app.command("add-uuid")
 def add_uuid():
     target_dir = Path(".")
@@ -41,6 +71,7 @@ def add_uuid():
                 _ = path.write_text(data.as_toml(), encoding="utf-8")
 
 
+# Author Commands
 @authors_app.command("add-category")
 def add_category_to_authors():
     with open("./categories.json", "r") as f:
@@ -130,6 +161,77 @@ def find_authors_with_missing_metadata(
             print(f"- {field}")
         print(data)
         print()
+
+
+# Convert Commands
+@convert_app.command("json")
+def convert_to_json():
+    root_dir = Path(".")
+    authors: list[Author] = []
+    for path in root_dir.rglob("metadata.toml"):
+        author_data = Document.parse(path.read_text(encoding="utf-8"))
+        author = Author(
+            uuid=str(author_data["uuid"]),
+            name=path.parent.name,
+            death_year=int(author_data["default_year"]),
+            category=str(author_data["category"]),
+            image=(str(author_data["image"]) if author_data.get("image") else None),
+            summary=(
+                str(author_data["summary"]) if author_data.get("summary") else None
+            ),
+            commentaries=[],
+        )
+        for c_path in path.parent.rglob("*.toml"):
+            if c_path.name != "metadata.toml":
+                commentaries_data = Document.parse(c_path.read_text(encoding="utf-8"))
+                for commentary_data in commentaries_data["commentary"]:
+                    file_name = c_path.stem
+                    fn_pieces = file_name.split(" ")
+                    book_name = " ".join(fn_pieces[:-1]).strip()
+                    verse_range_str = fn_pieces[-1]
+                    verse_range = string_to_verse_range(verse_range_str)
+                    location_start = encode_chapter_verse(
+                        verse_range.start_chapter, verse_range.start_verse
+                    )
+                    location_end = encode_chapter_verse(
+                        verse_range.end_chapter, verse_range.end_verse
+                    )
+                    osisId = name_to_osis[book_name]
+
+                    commentary = Commentary(
+                        uuid=str(commentary_data["uuid"]),
+                        quote=str(commentary_data["quote"]),
+                        source_title=(
+                            str(commentary_data["source_title"])
+                            if commentary_data.get("source_title")
+                            else None
+                        ),
+                        source_url=(
+                            str(commentary_data["source_url"])
+                            if commentary_data.get("source_url")
+                            else None
+                        ),
+                        append_to_author_name=(
+                            str(commentary_data["append_to_author_name"])
+                            if commentary_data.get("append_to_author_name")
+                            else None
+                        ),
+                        time=int(
+                            commentary_data["time"]
+                            if commentary_data.get("time")
+                            else author.death_year
+                        ),
+                        location_start=location_start,
+                        location_end=location_end,
+                        osisId=osisId,
+                        display_reference=verse_range_str,
+                    )
+                    author.commentaries.append(commentary)
+        authors.append(author)
+    with open("authors.json", "w", encoding="utf-8") as f:
+        json.dump(
+            [author.model_dump() for author in authors], f, ensure_ascii=False, indent=4
+        )
 
 
 def main():
