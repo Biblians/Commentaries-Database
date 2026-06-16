@@ -223,7 +223,7 @@ def convert_to_json():
                         ),
                         location_start=location_start,
                         location_end=location_end,
-                        osisId=osisId,
+                        osisId=osisId.lower(),
                         display_reference=verse_range_str,
                     )
                     author.commentaries.append(commentary)
