@@ -37,6 +37,8 @@ class Commentary(BaseModel):
     time: int
     location_start: int
     location_end: int
+    chapter_start: int
+    chapter_end: int
     osisId: str
     display_reference: str
 
@@ -46,6 +48,7 @@ class Author(BaseModel):
     name: str
     death_year: int
     category: str
+    wiki: str | None
     image: str | None
     summary: str | None
     commentaries: list[Commentary]
@@ -79,9 +82,8 @@ def add_category_to_authors():
         for author in data:
             file = Path(author["name"], "metadata.toml")
             metadata = Document.parse(file.read_text(encoding="utf-8"))
-            if "category" not in metadata:
-                metadata["category"] = author["category"]
-                _ = file.write_text(metadata.as_toml(), encoding="utf-8")
+            metadata["category"] = author["category"]
+            _ = file.write_text(metadata.as_toml(), encoding="utf-8")
 
 
 @authors_app.command("missing-category")
@@ -175,6 +177,7 @@ def convert_to_json():
             name=path.parent.name,
             death_year=int(author_data["default_year"]),
             category=str(author_data["category"]),
+            wiki=(str(author_data["wiki"]) if author_data.get("wiki") else None),
             image=(str(author_data["image"]) if author_data.get("image") else None),
             summary=(
                 str(author_data["summary"]) if author_data.get("summary") else None
@@ -223,6 +226,8 @@ def convert_to_json():
                         ),
                         location_start=location_start,
                         location_end=location_end,
+                        chapter_start=verse_range.start_chapter,
+                        chapter_end=verse_range.end_chapter,
                         osisId=osisId.lower(),
                         display_reference=verse_range_str,
                     )
