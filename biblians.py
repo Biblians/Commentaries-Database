@@ -203,9 +203,9 @@ def convert_to_json():
 
                     commentary = Commentary(
                         uuid=str(commentary_data["uuid"]),
-                        quote=str(commentary_data["quote"]),
+                        quote=str(commentary_data["quote"].strip()),
                         source_title=(
-                            str(commentary_data["source_title"])
+                            str(commentary_data["source_title"].strip())
                             if commentary_data.get("source_title")
                             else None
                         ),
@@ -215,7 +215,7 @@ def convert_to_json():
                             else None
                         ),
                         append_to_author_name=(
-                            str(commentary_data["append_to_author_name"])
+                            str(commentary_data["append_to_author_name"].strip())
                             if commentary_data.get("append_to_author_name")
                             else None
                         ),
@@ -232,7 +232,8 @@ def convert_to_json():
                         display_reference=verse_range_str,
                     )
                     author.commentaries.append(commentary)
-        authors.append(author)
+        if author.commentaries:
+            authors.append(author)
     with open("authors.json", "w", encoding="utf-8") as f:
         json.dump(
             [author.model_dump() for author in authors], f, ensure_ascii=False, indent=4
