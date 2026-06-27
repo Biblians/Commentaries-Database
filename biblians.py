@@ -159,6 +159,19 @@ def find_authors_with_missing_metadata(
         print()
 
 
+@authors_app.command("image-check")
+def find_authors_with_wrong_image():
+    target_dir = Path(".")
+    for path in target_dir.rglob("metadata.toml"):
+        data = Document.parse(path.read_text(encoding="utf-8"))
+        image = data.get("image", None)
+        if image:
+            if not image.startswith("https://download.biblians.com"):
+                print(
+                    f"{path.parent.name} has an image that does not start with https://download.biblians.com"
+                )
+
+
 # Convert Commands
 @convert_app.command("json")
 def convert_to_json():
