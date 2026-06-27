@@ -2,3 +2,5 @@ default_year=9999
 wiki='https://en.wikipedia.org/wiki/Pseudo-Augustine'
 uuid = "83d7e1c2-9527-42c2-99d7-81551a2cd174"
 category = "Apocrypha, Documents & Liturgies"
+image = "https://upload.wikimedia.org/wikipedia/en/d/d6/Durham_Cathedral_Library_MS_B.II.20%2C_fol._114v%2C_Sermo_de_symbolo_contra_Iudaeos%2C_paganos_et_Arianos.png"
+summary = "Pseudo-Augustine is the name given by scholars to the authors, collectively, of works falsely attributed to Augustine of Hippo. Augustine himself in his Retractiones lists many of his works, while his disciple Possidius tried to provide a complete list in his Indiculus. Despite this check, false attributions to Augustine abound."

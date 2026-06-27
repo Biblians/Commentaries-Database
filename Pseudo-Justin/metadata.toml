@@ -2,3 +2,10 @@ default_year=9999
 wiki='https://en.wikipedia.org/wiki/Pseudo-Justin'
 uuid = "d385269a-994b-411d-b274-fe2ef54a4c74"
 category = "Apocrypha, Documents & Liturgies"
+summary = """
+Pseudo-Justin is the designation used by scholars for the anonymous author of any work falsely attributed to Justin Martyr, such as the following:Exhortation to the Greeks
+Oratio ad Graecos
+Answers to the Orthodox Faithful Concerning Some Necessary Questions 
+De resurrectione, possibly written by Athenagoras of Athens or Hippolytus of Rome
+Expositio rectae fidei, possibly written by Theodoret of Cyrrhus
+De monarchia, which contains a poem by Pseudo-Orpheus"""

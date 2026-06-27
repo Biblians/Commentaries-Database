@@ -2,3 +2,5 @@ default_year=96
 wiki='https://en.wikipedia.org/wiki/Book_of_Revelation'
 uuid = "6ed9982b-3c2c-46cf-a15c-60346cf46584"
 category = "Canonical Scriptures"
+image = "https://upload.wikimedia.org/wikipedia/commons/d/da/Dublin%2C_Chester_Beatty_Ms_Chester_Beatty_III_Papyrus_47_fol._7r_Rev_13%2C16-14.jpg"
+summary = 'The Book of Revelation, also known as the Book of the Apocalypse or the Apocalypse of John, is canonically the last book of the New Testament. Written in Greek, its title is derived from the first word of the text, apocalypse, which means "revelation" or "unveiling". The Book of Revelation is the only apocalyptic book in the New Testament canon, and occupies a central place in Christian eschatology.'

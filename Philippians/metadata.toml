@@ -2,3 +2,5 @@ default_year=62
 wiki='https://en.wikipedia.org/wiki/Epistle_to_the_Philippians'
 uuid = "8d23f4f5-392f-46d2-a337-5e1097fd4280"
 category = "Canonical Scriptures"
+image = "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dublin%2C_Chester_Beatty_Ms_BP_II_fol._15%2690_Bifolio_from_Paul%27s_Letter_to_the_Romans%2C_the_end_of_Paul%27s_Letter_to_the_Philippians_and_the_beginning_of_Paul%27s_Letter_to_the_Colossians.jpg"
+summary = """The Epistle to the Philippians is a Pauline epistle of the New Testament of the Christian Bible. The epistle is attributed to Paul the Apostle and Timothy is named with him as co-author or co-sender. The letter is addressed to the Christian church in Philippi. Paul, Timothy, Silas first visited Philippi in Greece (Macedonia) during Paul's second missionary journey from Antioch, which occurred between approximately 50 and 52 AD. In the account of his visit in the Acts of the Apostles, Paul and Silas are accused of "disturbing the city"."""

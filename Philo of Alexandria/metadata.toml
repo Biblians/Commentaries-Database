@@ -2,3 +2,5 @@ default_year=50
 wiki='https://en.wikipedia.org/wiki/Philo'
 uuid = "7bd3754b-7f34-42b1-9944-839cc5c16e06"
 category = "Apocrypha, Documents & Liturgies"
+image = "https://upload.wikimedia.org/wikipedia/commons/6/6c/PhiloThevet.jpg"
+summary = "Philo of Alexandria, also called Philō Judæus, was a Hellenistic Jewish philosopher who lived in Alexandria, in the Roman province of Egypt."

@@ -2,3 +2,5 @@ default_year=450
 wiki='https://en.wikipedia.org/wiki/Quodvultdeus'
 uuid = "a8d8d942-68b9-4938-b628-50f00cf528b5"
 category = "Western & Medieval Theology"
+image = "https://upload.wikimedia.org/wikipedia/commons/4/43/Quodvultdeus_mosaic_portrait%2C_5th_century_%28San_Gennaro_catacombs%2C_Naples%29.jpg"
+summary = "Quodvultdeus was a fifth-century Church Father and Bishop of Carthage who was exiled to Naples. He was known to have been living in Carthage around 407 and became a deacon in 421 AD. He corresponded with Augustine of Hippo, who served as Quodvultdeus' spiritual teacher. Augustine also dedicated some of his writings to Quodvultdeus."

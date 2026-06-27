@@ -2,3 +2,5 @@ default_year=533
 wiki='https://en.wikipedia.org/wiki/Saint_Remigius'
 uuid = "2589ca0e-454e-4e56-99dc-f4b806e0bdff"
 category = "Western & Medieval Theology"
+image = "https://upload.wikimedia.org/wikipedia/commons/6/65/Chlodwigs_taufe.jpg"
+summary = """Remigius was the Bishop of Reims and "Apostle of the Franks". On 25 December 496, he baptised Clovis I, King of the Franks. The baptism, leading to about 3000 additional converts, was an important event in the Christianization of the Franks. Because of Clovis's efforts, a large number of churches were established in the formerly pagan lands of the Frankish empire, establishing a Nicene Christianity for the first time in Germanic lands, most of whom had been converted to Arian Christianity."""
