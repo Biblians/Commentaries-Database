@@ -1,5 +1,7 @@
+import hashlib
 import json
 import os
+import re
 from enum import Enum
 from pathlib import Path
 from time import sleep
@@ -11,6 +13,7 @@ from dotenv import load_dotenv
 from pydantic import BaseModel
 from rich.progress import Progress
 from tomledit import Document
+from unidecode import unidecode
 
 from compile_data import encode_chapter_verse, string_to_verse_range
 from constants import name_to_osis
@@ -30,7 +33,7 @@ class MetadataType(str, Enum):
 
 
 class Commentary(BaseModel):
-    uuid: str
+    id: str
     quote: str
     source_title: str | None
     source_url: str | None
@@ -181,7 +184,7 @@ def convert_to_json():
         author_data = Document.parse(path.read_text(encoding="utf-8"))
         author = Author(
             uuid=str(author_data["uuid"]),
-            name=path.parent.name,
+            name=path.parent.name.strip(),
             death_year=int(author_data["default_year"]),
             category=str(author_data["category"]),
             wiki=(str(author_data["wiki"]) if author_data.get("wiki") else None),
@@ -194,11 +197,12 @@ def convert_to_json():
         for c_path in path.parent.rglob("*.toml"):
             if c_path.name != "metadata.toml":
                 commentaries_data = Document.parse(c_path.read_text(encoding="utf-8"))
+                ids: set[str] = set()
                 for commentary_data in commentaries_data["commentary"]:
                     file_name = c_path.stem
                     fn_pieces = file_name.split(" ")
                     book_name = " ".join(fn_pieces[:-1]).strip()
-                    verse_range_str = fn_pieces[-1]
+                    verse_range_str = fn_pieces[-1].strip()
                     verse_range = string_to_verse_range(verse_range_str)
                     location_start = encode_chapter_verse(
                         verse_range.start_chapter, verse_range.start_verse
@@ -208,9 +212,21 @@ def convert_to_json():
                     )
                     osisId = name_to_osis[book_name]
 
+                    quote = str(commentary_data["quote"].strip())
+                    ascii_text = unidecode(quote)
+                    normalized_text = re.sub(r"[^a-z0-9]", "", ascii_text.lower())
+                    id_key = f"{normalized_text}|{path.parent.name.strip()}|{osisId.lower()}|{verse_range_str}"
+                    id = hashlib.sha1(id_key.encode("utf-8")).hexdigest()
+                    if id in ids:
+                        # Only keep latest one
+                        author.commentaries = [
+                            c for c in author.commentaries if c.id != id
+                        ]
+
+                    ids.add(id)
                     commentary = Commentary(
-                        uuid=str(commentary_data["uuid"]),
-                        quote=str(commentary_data["quote"].strip()),
+                        id=id,
+                        quote=quote,
                         source_title=(
                             str(commentary_data["source_title"].strip())
                             if commentary_data.get("source_title")
