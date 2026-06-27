@@ -25,6 +25,7 @@ app.add_typer(convert_app, name="convert")
 class MetadataType(str, Enum):
     image = "image"
     summary = "summary"
+    category = "category"
     both = "both"
 
 
@@ -135,7 +136,9 @@ def find_authors_with_missing_metadata(
     target_dir = Path(".")
     for path in target_dir.rglob("metadata.toml"):
         data = Document.parse(path.read_text(encoding="utf-8"))
-        missing = [field for field in ("image", "summary") if field not in data]
+        missing = [
+            field for field in ("image", "summary", "category") if field not in data
+        ]
 
         if not missing:
             continue
