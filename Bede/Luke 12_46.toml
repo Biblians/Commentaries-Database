@@ -4,7 +4,6 @@ The lord of that servant will come on a day when he does not expect him, and at 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "64200da6-0b74-435a-9535-9745baf384a9"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ But concerning his punishment it is added, The Lord of that servant will come in
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ed6c8d70-f619-41bf-94b2-ca11e1544518"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ Or He will cut him in sunder, by separating him from the communion of the faithf
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e21dff35-1237-4ef4-ab84-d1e9496a4541"

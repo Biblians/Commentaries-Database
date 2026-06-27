@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "32bef7e7-3437-412a-8fd0-b2a0a7f91f02"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ What I will have mercy, and not sacrifice, signifies, we have explained above. T
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "1380a20d-3005-4621-b829-a5426c64fc48"

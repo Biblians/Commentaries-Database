@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "006a7d3d-d193-45ca-9195-93b5989487d8"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Thus He takes this occasion to instruct them what is meant by the five loaves an
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "298dc143-2441-4b62-a14d-7481a520dba0"

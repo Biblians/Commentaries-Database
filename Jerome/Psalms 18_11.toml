@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER TWO"
-uuid = "9ae8d4ea-01f1-42eb-bd09-e49a63f79c72"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ This verse suggests the ineffable dispensation of God and our inability to compr
 '''
 source_url=''
 source_title="HOMILY ON PSALM 103[104]"
-uuid = "f25eec51-54d6-4a7e-9a8d-ebdd01602d36"
 
 
 [[commentary]]
@@ -21,4 +19,3 @@ There is no doubt but that the clouds and darkness round about him were the body
 '''
 source_url=''
 source_title="HOMILY ON PSALM 96[97]"
-uuid = "a602f3b4-9c54-45d2-9253-d185e576222e"

@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "093f5aeb-b06f-4e87-a6cc-486d6d1d0de6"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ He said to them: Peace be with you. As the Father has sent me, so I also send yo
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 26"
-uuid = "3032862a-7b70-4ab0-adcc-6fb98639fe41"

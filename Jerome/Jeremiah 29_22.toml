@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER THIRTEEN"
-uuid = "b926e51a-9bb6-4d41-872b-9b81c64eb40b"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ So long as we are held down by this frail body, so long as we have our treasure 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_022.html'
 source_title="LETTER 22.4"
-uuid = "2752271f-79db-4fcf-9bfa-19e98836539a"

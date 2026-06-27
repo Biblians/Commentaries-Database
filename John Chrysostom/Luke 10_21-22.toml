@@ -7,7 +7,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "09d6c24d-b6e6-47d8-82f9-ad6f65e5fceb"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ The proof that the Son knows the Father perfectly rests on the fact that he is "
 '''
 source_url='https://catholiclibrary.org/library/view?docId=Fathers-OR/John_Chrysostom__De_incomprehensibili_dei_natura.gr.html;chunk.id=00000011'
 source_title="ON THE INCOMPREHENSIBLE NATURE OF GOD 5.25"
-uuid = "02f8f8cf-7864-4d3c-9314-73e0c4a0f7d2"

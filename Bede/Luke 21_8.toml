@@ -4,7 +4,6 @@ He said: See to it that you are not led astray. For many will come in my name, s
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "ea747ea6-4d88-458c-bdf4-1941492dde58"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ For there were many leaders when the destruction of Jerusalem was at hand, who d
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "65c523ce-db71-4071-8a49-f2cd7f7c1a77"

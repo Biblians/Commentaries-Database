@@ -4,7 +4,6 @@ And to some who were speaking of the temple, that it was adorned with good stone
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "ea10a3ab-1b6a-4066-8f12-9e49be04791a"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ For it was ordained by the dispensation of God that the city itself and the temp
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "9bb26b3f-db33-4e89-a1e2-d2178123826d"

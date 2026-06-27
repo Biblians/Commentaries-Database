@@ -7,7 +7,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "89a58eff-ec9c-4d11-9dd5-f5ce7f210bcb"
 
 [[commentary]]
 quote='''
@@ -17,4 +16,3 @@ Let us seek, therefore, dearly beloved brethren, these pastures, in which we may
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 14"
-uuid = "1d6627b4-19d0-49c5-bea9-fdc3d0d3e451"

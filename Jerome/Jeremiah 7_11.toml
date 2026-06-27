@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Jeremiah.html'
 source_title="Commentary on Jeremiah"
-uuid = "d14bec0d-cb5e-4ea9-a502-9e73cacec302"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ quote='''
 '''
 source_url=''
 source_title="SIX BOOKS ON JEREMIAH 2:34.1-3"
-uuid = "c87dc87f-5766-42ae-9588-c4bd1e5cac52"

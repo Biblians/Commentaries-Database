@@ -4,7 +4,6 @@ Blessed are you who hunger now, for you shall be satisfied. Matthew explains wha
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "ab8b500d-30fa-49f3-b80d-923ca69b33a9"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ Blessed are you who weep now, for you shall laugh. Those who weep not for the lo
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "9c59cf3a-3e44-459a-82c3-03b152672fb3"
 
 [[commentary]]
 quote='''
@@ -22,7 +20,6 @@ That is, blessed are ye who chasten your body and subject it to bondage, who in 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "32b6ea2b-4b40-4e2b-8beb-3425c5d13354"
 
 [[commentary]]
 quote='''
@@ -31,4 +28,3 @@ Plainly instructing us, that we ought never to account ourselves sufficiently ri
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "a638a07b-d6e0-4d29-9b0a-f0f11df85c58"

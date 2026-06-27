@@ -4,7 +4,6 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25204.html"
 source_title="Against Marcion Book IV"
-uuid = "e12eedf6-2cb8-4727-a116-dcb258542d5c"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
 source_title="Against Praxeas"
-uuid = "32524b32-ca67-4409-86b2-7dfe9d219c50"

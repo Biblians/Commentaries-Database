@@ -7,7 +7,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "fd4a3b2f-ba16-44c6-a919-2b2ab95bd58b"
 
 [[commentary]]
 quote='''
@@ -15,7 +14,6 @@ Such was the end reached by that denier and lover; elated by his presumption, pr
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520123.html'
 source_title="Tractates on John 123"
-uuid = "4dd32518-7809-4739-aae3-68aa2fca1f26"
 
 [[commentary]]
 quote='''
@@ -23,7 +21,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520123.html'
 source_title="Tractates on John 123"
-uuid = "a59ce13f-dca5-4eb9-ab94-7ba5047b56c5"
 
 [[commentary]]
 quote='''
@@ -31,4 +28,3 @@ For our consolation the Saviour Himself transfigured also the same feeling in Hi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520123.html'
 source_title="Tractates on John 123"
-uuid = "c563203f-268b-4646-adbc-b0ad5193d7fe"

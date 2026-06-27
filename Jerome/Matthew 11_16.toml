@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "c80f7664-fbe4-4a38-b281-ca4aac53944d"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ The children are they of whom Isaiah speaks, Behold I, and the children whom the
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "95e64808-ff41-4492-a39a-0d63187f3cbb"

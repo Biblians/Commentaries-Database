@@ -4,7 +4,6 @@ Jesus found him sitting in the tax collector's place, with his stubborn intellec
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.21"
-uuid = "7fe8a058-589d-43b9-8ee7-38825021822d"
 
 [[commentary]]
 quote = '''
@@ -12,7 +11,6 @@ By "follow" he meant not so much the movement of feet as of the heart, the carry
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.21"
-uuid = "2d76658b-3bc9-4edb-9e53-b5772bf22a74"
 
 
 [[commentary]]
@@ -21,7 +19,6 @@ And as he passed by, he saw Levi, the son of Alphaeus, etc. At the custom house,
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "01f02298-af8a-4fd0-a958-18c3ed43a62f"
 
 
 [[commentary]]
@@ -30,7 +27,6 @@ And rising, he followed him. In the Gospel of Luke, it is written more fully: An
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "925c804f-43f5-4949-b314-90bb9ecccbd3"
 
 [[commentary]]
 quote='''
@@ -39,7 +35,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "348a4937-ba8d-4644-a209-fee8210c4eb5"
 
 [[commentary]]
 quote='''
@@ -48,4 +43,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "00ad3775-e1e5-4c52-8983-009d9460be02"

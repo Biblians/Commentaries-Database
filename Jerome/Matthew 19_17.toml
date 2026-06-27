@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "ea44da90-8e41-4334-84c2-da840d57e97b"
 
 
 [[commentary]]
@@ -16,4 +15,3 @@ For Our Saviour does not reject this witness to His goodness, but corrected the 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ce3c2fce-cfc0-4f6b-9cd1-2be984ed35b5"

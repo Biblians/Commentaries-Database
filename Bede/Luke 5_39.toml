@@ -4,7 +4,6 @@ And no one having drunk old wine, immediately desires new, for he says, "The old
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "ab5cd181-38d8-4cd3-9502-4bd5da2f70b4"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ It follows, No man also having drank old wine straightway desireth new, for he s
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "5b503a01-7d41-49ad-82a3-e23126199d1a"

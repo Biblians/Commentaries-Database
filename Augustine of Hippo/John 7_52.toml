@@ -6,7 +6,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ae57cf79-dc89-4264-9353-9c47acc92602"
 
 [[commentary]]
 quote='''
@@ -14,4 +13,3 @@ They answered, from the prejudice of their heart, what they had answered to thos
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252033.html'
 source_title="Tractates on John 33"
-uuid = "6a10efc6-ff7d-4960-a0f3-ec116b88f08e"

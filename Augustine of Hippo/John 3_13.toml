@@ -9,7 +9,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "6bbdc345-b822-48d9-9091-44c7662dffe5"
 
 
 [[commentary]]
@@ -18,7 +17,6 @@ Some people, certainly, find very surprising what the Lord said in the Gospel, "
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520265B.html'
 source_title="SERMON 265B.2"
-uuid = "e56ffd9d-6808-4c01-9130-dfc4ac1167ba"
 
 
 [[commentary]]
@@ -27,7 +25,6 @@ As a human being he was on earth, not in heaven where he now is … although in 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 187.9"
-uuid = "5124a555-338b-4723-a607-1effe6dc55b4"
 
 
 [[commentary]]
@@ -36,7 +33,6 @@ Spiritual birth happens when human beings, being earthly, become heavenly. And t
 '''
 source_url=''
 source_title="ON THE MERITS AND FORGIVENESS OF SINS AND ON INFANT BAPTISM 1.60"
-uuid = "8e71a58b-f111-49c7-9320-07ae79435244"
 
 [[commentary]]
 quote='''
@@ -44,7 +40,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252012.html'
 source_title="Tractates on John 12"
-uuid = "6af08510-d761-41d6-88d2-bb1daa76f174"
 
 [[commentary]]
 quote='''
@@ -52,4 +47,3 @@ Therefore, if none but He descended and ascended, what hope is there for the res
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252012.html'
 source_title="Tractates on John 12"
-uuid = "b8f08020-632d-400e-b059-cc0631b5220d"

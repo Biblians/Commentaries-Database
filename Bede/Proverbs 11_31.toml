@@ -4,7 +4,6 @@ quote = '''
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html'
 source_title="Commentary on the Catholic Epistles, Peter 4:18"
-uuid = "36666c88-6eeb-4a11-8541-15c5756cb408"
 
 
 [[commentary]]
@@ -13,4 +12,3 @@ If the just on earth receive, etc. If the holy martyrs endured so much as the ju
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Proverbs.html"
 source_title="Commentary on Proverbs"
-uuid = "613a3810-0494-44dd-b9d1-8f840fd58568"

@@ -4,7 +4,6 @@ Blessed is that servant whom, when the Lord comes, He finds so doing. Truly I sa
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "34d5ce1a-a367-42a0-8f39-7a9b2f4a72bf"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ For whatever difference there is in the merits of good hearers and good teachers
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ec5415ee-f53a-404c-b3bf-daa6a0a46a40"

@@ -9,7 +9,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e777dba5-cf12-4730-982d-2fc4f156b78f"
 
 [[commentary]]
 quote='''
@@ -19,7 +18,6 @@ Let us love eternal life, and from that, let us understand how much we should la
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520127.html'
 source_title="Sermon 127"
-uuid = "75e2ce7f-2af4-416c-abd2-13441179769c"
 
 [[commentary]]
 quote='''
@@ -27,7 +25,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252019.html'
 source_title="Tractates on John 19"
-uuid = "79fe75f5-509d-4165-bf76-848246e80b00"
 
 [[commentary]]
 quote='''
@@ -35,7 +32,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252019.html'
 source_title="Tractates on John 19"
-uuid = "27f67db1-753f-40ef-a999-5493a8627d0a"
 
 [[commentary]]
 quote='''
@@ -43,7 +39,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252022.html'
 source_title="Tractates on John 22"
-uuid = "36ff0250-0f15-4454-a97a-e598dc54f8d9"
 
 [[commentary]]
 quote='''
@@ -51,7 +46,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252022.html'
 source_title="Tractates on John 22"
-uuid = "7308ca84-06a6-4859-b7a1-98c2ffe2bb5b"
 
 [[commentary]]
 quote='''
@@ -59,4 +53,3 @@ The Lord our God then reveals it, and by His Scriptures puts us in mind how it m
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252022.html'
 source_title="Tractates on John 22"
-uuid = "70334184-00ff-41e6-9f08-4ef9c482ec36"

@@ -4,7 +4,6 @@ God loves to be asked, so that he can give.
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.14"
-uuid = "9449932f-d2db-438b-84f3-6e08f0d87c1a"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ Confess therefore your sins to one another, etc. In this matter, there should be
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
-uuid = "01376105-dfac-4b52-bb52-95a3c56b044e"
 
 
 [[commentary]]
@@ -22,4 +20,3 @@ For the prayer of a righteous person has great power, etc. He adds a fitting exa
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
-uuid = "d3b18877-c9ce-45ef-881d-f4c89c581646"

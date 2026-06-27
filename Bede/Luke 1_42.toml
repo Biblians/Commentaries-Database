@@ -4,7 +4,6 @@ quote = '''
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.4"
-uuid = "051c8374-795d-4130-973a-1b84ddd3cbb7"
 
 [[commentary]]
 quote = '''
@@ -12,7 +11,6 @@ quote = '''
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.4"
-uuid = "108ccd25-6117-44a1-99e4-c5aa41bdb2e4"
 
 
 [[commentary]]
@@ -21,7 +19,6 @@ And she cried out with a loud voice and said: Blessed are you among women, and b
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "4d36fad2-99a9-4ebc-9b4f-d6d74370bc14"
 
 [[commentary]]
 quote='''
@@ -30,7 +27,6 @@ Mary is blessed by Elisabeth with the same words as before by Gabriel, to show t
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "02798e2c-ff07-4dcd-a07a-816c257a0089"
 
 [[commentary]]
 quote='''
@@ -39,4 +35,3 @@ This is the fruit which is promised to David, Of the fruit of thy body will I se
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "665e7c44-9eb3-4796-bad2-30afe1b063e2"

@@ -5,7 +5,6 @@ St. Luke hereby explains to us the source of his writing; seeing that what thing
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "d1d74307-f54e-45ce-8f7c-5c8e39f27337"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ quote='''
 '''
 source_url=''
 source_title="HOMILIES ON THE GOSPEL OF LUKE 1.6"
-uuid = "fa3fdee5-05eb-4707-bba3-358138ddda21"

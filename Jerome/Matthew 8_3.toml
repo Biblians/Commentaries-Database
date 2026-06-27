@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "55afef27-282e-412d-94f5-11e779d6abd3"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ It is not to be read, as most of the Latins think, 'I will to cleanse thee;' but
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "8a5532a9-91ea-44b2-b824-aeab361800cd"

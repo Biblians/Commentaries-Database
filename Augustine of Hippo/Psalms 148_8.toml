@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801148.htm'
 source_title="Exposition on Psalm 148"
-uuid = "fd7449d6-b010-474d-b84c-56e067c19709"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ There follows the seventh commandment: "You shall not steal," and the seventh pl
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%25208.html'
 source_title="SERMON 8:10"
-uuid = "62454166-ee19-4709-9b09-49a20aebe274"
 
 
 [[commentary]]
@@ -22,4 +20,3 @@ I am, therefore, leaving out those things that are done corporeally in a quite o
 '''
 source_url=''
 source_title="ON THE TRINITY 3:10.19"
-uuid = "c68af1ad-27b3-4256-96c7-57842a0845f3"

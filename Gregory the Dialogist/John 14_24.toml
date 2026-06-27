@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "c0152157-3afb-48e8-a4c1-4a341bc482f0"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Hence it is still added: "He who does not love me does not keep my words." Retur
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 30"
-uuid = "8add23e4-a279-435a-8e26-a94cb8d7e83c"

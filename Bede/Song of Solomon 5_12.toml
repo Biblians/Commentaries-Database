@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1:12"
-uuid = "fa6d0067-15ca-4d45-9112-5d426367a417"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ His eyes are like doves beside streams of water. What should typically be unders
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Song%2520of%2520Songs.html"
 source_title="Commentary on the Song of Songs"
-uuid = "774c7d98-e753-4ed2-b664-830b21fefabd"
 
 
 [[commentary]]
@@ -22,4 +20,3 @@ Things that are washed in milk, etc. For rightly by the name of milk, the gifts 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Song%2520of%2520Songs.html"
 source_title="Commentary on the Song of Songs"
-uuid = "60eb77e1-6b17-4ee4-93f1-3e2eb0eb8935"

@@ -7,7 +7,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "bec89e20-ce72-498e-846a-1d48b7e4eb3a"
 
 [[commentary]]
 quote='''
@@ -16,4 +15,3 @@ There may be other and subtler methods of accounting for the length of this age,
 '''
 source_url=''
 source_title="HARMONY OF THE GOSPELS 2.4.9"
-uuid = "f0a9e5c9-750e-4789-9d99-733ddf010592"

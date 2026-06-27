@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Jonah.html'
 source_title="Commentary on Jonah, Chapter 3"
-uuid = "9e66771d-1a1b-4c05-9d0e-deae2be2b6ba"
 
 [[commentary]]
 quote='''
@@ -14,4 +13,3 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER FOUR"
-uuid = "9c5b8399-862c-4620-8daa-070232c8721c"

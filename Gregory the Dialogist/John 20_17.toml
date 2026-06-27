@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "f3af78c1-8f7d-49db-b122-30f325cf1ea7"
 
 [[commentary]]
 quote='''
@@ -19,4 +18,3 @@ From which humanity it is now said to Mary: "Go to my brothers and tell them: I 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 25"
-uuid = "e4d382e0-a6a3-449c-a979-03a6b10b778e"

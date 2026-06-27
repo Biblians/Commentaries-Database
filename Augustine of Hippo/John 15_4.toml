@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "6a0040ee-7d82-4b5c-93ab-ce2577570044"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ Jesus called Himself the vine, and His disciples the branches, and His Father th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252081.html'
 source_title="Tractates on John 81"
-uuid = "e6fa8c88-1def-4371-bd52-f41d9eacf2cf"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ And then He proceeds to say: "As the branch cannot bear fruit of itself, except 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252081.html'
 source_title="Tractates on John 81"
-uuid = "808ad720-e5d5-4366-92b8-529752a4d8bd"

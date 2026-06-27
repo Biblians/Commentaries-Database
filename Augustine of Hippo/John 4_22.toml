@@ -4,7 +4,6 @@ Different walls came to the cornerstone, from there the Jews, from there the Gen
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520375.html'
 source_title="Sermon 375"
-uuid = "30afe94d-1632-4c92-8971-d955217c5c8b"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "9e4ea0d6-f2ea-433e-b177-321ab41bb98e"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252015.html'
 source_title="Tractates on John 15"
-uuid = "ed4b280f-5ba3-4a50-badd-8b014c5fd36f"

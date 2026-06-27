@@ -4,7 +4,6 @@ He began to tell the people this parable: A man planted a vineyard, and let it o
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "e41c0850-0201-4e6a-8995-58043ba5547a"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ The man then who plants the vineyard is the same who, according to another parab
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "acba7388-544a-45e6-a232-a8e6d3c119b8"

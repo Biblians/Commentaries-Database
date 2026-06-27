@@ -4,7 +4,6 @@ Where their worm does not die, and the fire is not quenched. By the worm he desi
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "609d1d3f-06c9-4392-a2c6-f6bd63723803"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "8ab0f291-b473-475b-81bf-787a5ee4ff48"

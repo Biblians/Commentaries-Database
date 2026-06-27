@@ -6,7 +6,6 @@ He entered a place where lay a great multitude of sick folk - of blind, lame, wi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252017.html'
 source_title="Tractates on John 17"
-uuid = "4895baa8-5522-4983-b830-6689d0434c74"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "6003e4e9-9328-48bf-84aa-76cb2c00a69c"

@@ -4,7 +4,6 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 1.3.9"
-uuid = "d61ffe3d-f8c5-4ca6-b963-e41c8cfffabf"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "69ba6e2e-aad7-4284-a3df-b13d7c9710f3"
 
 
 [[commentary]]
@@ -27,4 +25,3 @@ Or, the preaching of the Gospel is meant, as the Prophet Jeremiah also compares 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "37520a4a-b32b-446e-9cb3-9f5e73d622fe"

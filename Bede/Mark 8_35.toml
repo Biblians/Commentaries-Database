@@ -4,7 +4,6 @@ For whoever wants to save their soul will lose it. But whoever loses their soul 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "3669564e-d39e-4a60-aa32-1ff38060fc99"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "8d29bb8b-42c0-4b26-a1a7-f5d39cfd3068"

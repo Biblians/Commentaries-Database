@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "afd509c4-b247-4fe1-b3e2-3217ac375ddd"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Hilary%2520of%2520Poitiers%2FOn%2520the%2520Trinity%2FBook%252010.html'
 source_title="On the Trinity 10.16"
-uuid = "32cc0e7f-bd1c-4b0d-b064-ea651a1f85ab"
 
 
 [[commentary]]
@@ -22,4 +20,3 @@ It is not possible by the laws of bodies for the same object to remain and to de
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Hilary%2520of%2520Poitiers%2FOn%2520the%2520Trinity%2FBook%252010.html'
 source_title="On the Trinity 10.54"
-uuid = "6f268b90-f560-4405-9bfb-0d39f4c63201"

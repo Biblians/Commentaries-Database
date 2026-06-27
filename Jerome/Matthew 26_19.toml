@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "b4491d93-2070-436d-aed7-480227855b60"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ The other Evangelist writes that they found a large upper room furnished and rea
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 4.26.19"
-uuid = "546de85c-e4bb-4cfc-b791-069b70140ed7"

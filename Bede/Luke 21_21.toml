@@ -4,7 +4,6 @@ Then let those who are in Judea flee to the mountains. The ecclesiastical histor
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "24a5a0e1-d10e-47f6-85b9-8bb45c4e1c61"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ And those who are in the midst of it, let them depart. And those who are in the 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "c0de1c3d-969a-4f75-ad3e-0c115b728efb"
 
 [[commentary]]
 quote='''
@@ -24,4 +22,3 @@ But how, while the city was already compassed with an army, were they to depart 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "bfb92b18-3335-4d02-8ad0-85ef90415e03"

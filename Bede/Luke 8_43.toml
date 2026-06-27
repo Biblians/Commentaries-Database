@@ -4,7 +4,6 @@ And a certain woman was in the flow of blood for twelve years. The woman flowing
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "396d76cf-f230-4529-82f6-83fbbd14c07a"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ She had spent all her substance on physicians and could not be healed by any. By
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "758ffb0c-1bbe-46fb-b789-f34d96df71a2"
 
 
 [[commentary]]
@@ -25,4 +23,3 @@ Now by physicians understand either false doctors, or philosophers and teachers 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "8838f03b-c277-4046-b079-324b2be113ba"

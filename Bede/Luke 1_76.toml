@@ -5,7 +5,6 @@ Unless indeed Zacharias be supposed to have wished as soon as he was able to spe
 append_to_author_name = ' (as quoted by Aquinas, AD 1274)'
 source_url = 'https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "27864a98-2518-4d7b-9e62-7cafa33a8b72"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ And you, child, shall be called the prophet of the Most High. For you will go be
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "e061bca5-26fa-4774-9c12-eded6157c320"

@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "80b51669-76bd-4321-9f30-b92d349193b9"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ The angry Jews replied, "Thou art not yet fifty years old, and hast thou seen Ab
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252043.html'
 source_title="Tractates on John 43"
-uuid = "06b1e3b8-0264-4b20-abe9-b9e4902a3683"

@@ -4,7 +4,6 @@ But the Pharisees went out and immediately took counsel with the Herodians again
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "fa47d419-b2eb-4456-8e7c-3115ece57c3e"
 
 
 [[commentary]]
@@ -16,4 +15,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "3b924756-53c6-4295-a518-f270d5f41400"

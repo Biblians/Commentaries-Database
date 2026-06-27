@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "9b3d28f2-2fd0-4d1e-85c5-9d7bb1b20879"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Observe also that visions are often vouchsafed by God to the Gentiles, and that 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252027.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "0fe0d6d5-e7e5-4786-8653-b7fb729b01f3"

@@ -4,7 +4,6 @@ And what is not to be carried or worn as two tunics, but more explicitly is forb
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "3e4a1526-7e82-4810-8b2e-f5edc03ddc08"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "77e35702-d544-4e7c-b511-d3bbc100486f"

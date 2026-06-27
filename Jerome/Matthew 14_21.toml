@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "1fb780c6-5181-4372-89f1-a9b050d9ed9f"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ There partook five thousand who had reached maturity; for women and children, th
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "38ed6f9b-1b7e-4d16-9aaa-be05976bee04"

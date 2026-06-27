@@ -4,7 +4,6 @@ And no one should doubt that his being recognized in the breaking of bread is th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 149"
-uuid = "e2890bce-5b23-47bc-85d4-f6fdf3247a16"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ Remember, though, dearly beloved, how the Lord Jesus desired to be recognized in
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520234.html'
 source_title="SERMON 234.2"
-uuid = "b40981b6-f6ae-45eb-b3c1-002ebe33ab97"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "9a9f4ab0-6d79-468e-b976-ab3770332a00"

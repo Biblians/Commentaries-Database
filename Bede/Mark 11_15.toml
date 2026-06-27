@@ -4,7 +4,6 @@ And they come to Jerusalem. And when he had entered the temple, he began to cast
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "8f477476-baa8-4bf8-af50-7fd489ec9fc2"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "323c8d62-65d7-4c95-8de5-4cb5ac07ad8a"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "1b4d0fe2-1e19-4e23-bb37-a97c9414ca65"

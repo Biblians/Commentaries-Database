@@ -4,7 +4,6 @@ But Mary said: Behold the handmaid of the Lord. Let it be done to me according t
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "39575394-a820-40e7-b61d-0fa8edb6aefa"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ And the angel departed from her. Rising in those days, Mary went into the hill c
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "ad7bd839-d056-4ae2-b31f-0e530886d965"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ Having received the consent of the virgin, the angel soon returns heavenward, as
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "5f1a8cf3-890e-45a2-ad1a-1871f660b364"

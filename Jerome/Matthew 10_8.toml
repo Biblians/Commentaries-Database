@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER FIVE"
-uuid = "b24c8d7c-0c0d-4df1-8b64-ae175f03e37b"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ Lest anyone hold as unworthy of belief these rough men bereft of eloquence, unsc
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 1.10.7-8"
-uuid = "b1ede0ac-8d55-4037-b0b3-6be3ba535f2d"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ And because spiritual gifts are more lightly esteemed when money is made the mea
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "5b7b7310-780d-40fb-8bcc-af6df0e07085"

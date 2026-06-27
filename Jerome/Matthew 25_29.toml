@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER TWO"
-uuid = "7f1b9aca-615f-4c51-9c52-f685b0a58b79"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "6f96b473-8a22-4857-92f1-a4658caf04b3"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ Many also who are naturally clever and have sharp wit, if they become neglectful
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "95762c3d-1e3a-4d3f-b90e-10059d59bd57"

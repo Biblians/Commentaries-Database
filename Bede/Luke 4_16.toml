@@ -4,7 +4,6 @@ And He came to Nazareth, where He was brought up, and, according to His custom, 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "f829e421-1f38-4f5a-85e5-fb315366bb25"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ They flocked together on the Sabbath day in the synagogues, that, resting from a
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ac86bce3-b4b3-4d0c-93fa-39cb2a8e0d26"

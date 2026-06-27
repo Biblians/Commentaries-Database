@@ -5,7 +5,6 @@ The word exterminare, so often used in the ecclesiastical Scriptures through a b
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "229e3130-a227-448c-8f00-15abd5ddee12"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "33bdd111-272c-4532-9879-0c8686cc8263"

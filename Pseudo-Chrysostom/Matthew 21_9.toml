@@ -6,7 +6,6 @@ time=1274
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "4e5e646d-5d8b-477b-8c2a-3fc3d675512a"
 
 [[commentary]]
 quote='''
@@ -16,4 +15,3 @@ time=1274
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "d3ba3e79-6bc5-4ffe-8e62-3943ffaf504f"

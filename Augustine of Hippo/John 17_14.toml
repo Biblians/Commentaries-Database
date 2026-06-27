@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "af1fcdc3-4f07-43db-96d6-ab4b8c4847cd"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ While the Lord is still speaking to the Father, and praying for His disciples, H
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520108.html'
 source_title="Tractates on John 108"
-uuid = "d122da67-3ea1-4071-b198-cde4c22678ab"

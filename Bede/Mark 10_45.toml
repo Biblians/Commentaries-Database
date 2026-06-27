@@ -4,7 +4,6 @@ For even the Son of Man did not come to be served, but to serve, and to give his
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "c1a30b71-c8ef-4d80-8e1b-cf19115b99c2"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ Then He proposes an example, that if they lightly regarded His words, His deeds 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e59d7034-511f-4f01-9750-250200262d1c"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "21c3bda9-a49f-47a1-aaec-1fbf0a8482fd"

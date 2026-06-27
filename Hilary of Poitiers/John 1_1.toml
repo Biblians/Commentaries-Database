@@ -13,7 +13,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "01e0538f-5cfb-4236-8c85-4ccb294c9e01"
 
 [[commentary]]
 quote='''
@@ -21,7 +20,6 @@ I will not endure to hear that Christ was born of Mary unless I also hear, "In t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Hilary%2520of%2520Poitiers%2FOn%2520the%2520Councils%252C%2520or%2520the%2520Faith%2520of%2520the%2520Easterns.html'
 source_title="On the Councils, Section 70"
-uuid = "ceb57cee-aba0-48d0-b139-bd795cab729d"
 
 
 [[commentary]]
@@ -30,7 +28,6 @@ Consider and decide whether it were the greater feat to raise the dead or impart
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Hilary%2520of%2520Poitiers%2FOn%2520the%2520Trinity%2FBook%25202.html'
 source_title="On the Trinity, Book 2, Section 13"
-uuid = "fb17e34f-26c2-4941-9bba-15a07adc79d4"
 
 
 [[commentary]]
@@ -39,7 +36,6 @@ He "was," and he "is," since he is from him who always is what he is.… Now sin
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Hilary%2520of%2520Poitiers%2FOn%2520the%2520Trinity%2FBook%252012.html'
 source_title="On the Trinity, Book 12, Section 25"
-uuid = "944dd42e-30de-4b3f-9cd0-a00e88b0a04d"
 
 
 [[commentary]]
@@ -48,7 +44,6 @@ You will plead that a word is the sound of a voice; that it is a naming of thing
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Hilary%2520of%2520Poitiers%2FOn%2520the%2520Trinity%2FBook%25202.html'
 source_title="On the Trinity, Book 2, Section 15"
-uuid = "3c8364f3-4ec1-4e97-a14a-6367fb0a0036"
 
 
 [[commentary]]
@@ -57,4 +52,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Hilary%2520of%2520Poitiers%2FOn%2520the%2520Trinity%2FBook%25207.html'
 source_title="On the Trinity, Book 7, Section 11"
-uuid = "b9219bbf-6cd7-4fa8-9b9f-fcd88c2ade23"

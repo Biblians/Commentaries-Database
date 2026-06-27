@@ -9,7 +9,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "7eff7a88-323e-4484-afe1-6c53fbb41e69"
 
 [[commentary]]
 quote='''
@@ -19,4 +18,3 @@ But when Peter heard Him say, "Thou shalt have no part with me," he was terrifie
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252056.html'
 source_title="Tractates on John 56"
-uuid = "32d05ef3-fc49-4cce-91a9-fac9304a8123"

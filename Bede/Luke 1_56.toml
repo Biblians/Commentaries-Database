@@ -5,7 +5,6 @@ For the chaste soul which conceives a desire of the spiritual word must of neces
 append_to_author_name = ' (as quoted by Aquinas, AD 1274)'
 source_url = 'https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "c5180004-56f5-4c5e-ad19-f34eb387ef01"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ But Mary remained with her about three months, and returned to her home. Mary st
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "4be984f4-5576-4690-af70-734623255c7c"

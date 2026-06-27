@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "57545c22-6e90-4bf8-84c2-25cea7c60217"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ But the evangelist, after saying that Annas sent Him bound unto Caiaphas, return
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520113.html'
 source_title="Tractates on John 113"
-uuid = "243545ed-1a48-46fd-a938-f87f651ead8f"

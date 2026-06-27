@@ -6,7 +6,6 @@ It seemed very fitting that when the one talent is taken from the wicked servant
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 9"
-uuid = "43cfb878-be07-49fe-8397-0e0162e04c71"
 
 [[commentary]]
 quote='''
@@ -15,7 +14,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "71e55ffa-6d38-46c0-a103-48ab762671d3"
 
 [[commentary]]
 quote='''
@@ -24,4 +22,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "a354e905-ff8e-4851-92c5-1c0b2192a224"

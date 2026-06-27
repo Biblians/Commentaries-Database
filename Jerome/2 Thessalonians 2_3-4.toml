@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER SEVEN"
-uuid = "3627c8f4-a858-4193-bfd2-20d3ca5fa311"
 
 [[commentary]]
 quote='''
@@ -14,4 +13,3 @@ And that which follows: For now the mystery of iniquity operates only that he wh
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_121.html'
 source_title="Letter 121, Chapter 11"
-uuid = "bb6f618e-4ee9-4b1d-8889-a62bd93c317b"

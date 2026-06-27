@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Jeremiah.html'
 source_title="Commentary on Jeremiah"
-uuid = "c02ce23c-f08e-4178-aacd-73c57f2c7b71"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ The Septuagint does not translate "two years," nor does it call Hananiah a "prop
 '''
 source_url=''
 source_title="SIX BOOKS ON JEREMIAH 5:60.2-4"
-uuid = "502e42d8-182e-4f05-bad2-bb41f2997245"

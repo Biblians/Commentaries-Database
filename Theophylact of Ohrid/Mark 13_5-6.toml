@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%252013.html'
 source_title="Commentary on Mark"
-uuid = "493ea169-f13b-45ed-ace4-aec971d54297"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ But before answering their question, He strengthens their minds that they may no
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "d35f2bbb-00fd-4fd7-a788-fafa05e18f9f"

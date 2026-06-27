@@ -6,7 +6,6 @@ But one can conveniently explain this in another way as well, for the benefit of
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252019.html'
 source_title="Commentary on Luke"
-uuid = "4a8c9bf9-ca3e-4893-b7c4-0c0659cd8c17"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ But because some murmured that he tarried with a man who was a sinner, he adds i
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "93122497-4d51-4d66-982d-03bd59be4795"

@@ -4,7 +4,6 @@ quote = '''
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.11"
-uuid = "ec33207c-bcd1-48f9-8fdb-c257c0c17d47"
 
 
 [[commentary]]
@@ -13,4 +12,3 @@ And the Lord said to Abraham: "You shall not call your wife Sarai, but Sarah, an
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Genesis.html"
 source_title="Commentary on Genesis (Hexaemeron)"
-uuid = "6f34d30d-8373-4fb5-b886-44abb9a28179"

@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "083935de-d361-4982-b79e-eae8a3a554ea"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ According to this, no rich man can be saved. But if we read Isaiah, how the came
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "f6bab3c5-864b-40f6-8eb4-cf1afa192cd9"

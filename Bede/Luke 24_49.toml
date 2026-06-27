@@ -4,7 +4,6 @@ But you are witnesses of these things, and I send the promise of my Father upon 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "97d4ee54-1131-4154-8271-4a06d57253d3"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ quote='''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "9f27c391-c3d6-48f2-a406-fdc3c5e7bb5f"
 
 
 [[commentary]]
@@ -22,7 +20,6 @@ He said, "You are witnesses of these things. And I send upon you the promise of 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 11.15"
-uuid = "e1bf701a-2afb-4c1e-905b-db744cce07f7"
 
 
 [[commentary]]
@@ -32,4 +29,3 @@ But concerning the power, that is, the Holy Spirit, the Angel also says to Mary,
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "a6053be1-5943-4e14-a6d1-4f603ac4fd92"

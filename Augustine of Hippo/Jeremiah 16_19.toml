@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%252095.html'
 source_title="Expositions of the Psalms 95.11"
-uuid = "c58841ce-1d55-4e62-b0b8-9bad33921ce7"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ So the shepherds came from nearby to see, and the Magi came from far away to wor
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520203.html'
 source_title="SERMON 203:3"
-uuid = "760e8e14-24db-4bf6-9176-42785ff0fd9b"
 
 
 [[commentary]]
@@ -21,4 +19,3 @@ Further, Jeremiah says of Christ, "Behold the days come, says the Lord, and I wi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252018.html'
 source_title="City of God 18.33"
-uuid = "5cf2866c-2931-4cb3-b5a8-aea23ec1e119"

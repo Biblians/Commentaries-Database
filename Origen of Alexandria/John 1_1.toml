@@ -11,7 +11,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "2d24d059-a776-4f22-aa7c-30d090138411"
 
 [[commentary]]
 quote='''
@@ -20,7 +19,6 @@ There is also a beginning that pertains to doctrine … where the apostle says, 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520John%2FBook%25201.html'
 source_title="COMMENTARY ON THE GOSPEL OF JOHN 1.90-91, 95, 101-4, 106-7"
-uuid = "e4c6bf2e-c9b0-4f0b-985f-e97cc05464f5"
 
 
 [[commentary]]
@@ -33,7 +31,6 @@ Since, then, our purpose is to perceive clearly the statement, "In the beginning
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520John%2FBook%25201.html'
 source_title="COMMENTARY ON THE GOSPEL OF JOHN 1.109-11, 289"
-uuid = "619215c5-5d3b-47fc-91c7-3ef13768ae66"
 
 
 [[commentary]]
@@ -42,4 +39,3 @@ The same verb, "was," is predicated of the Word when he "was in the beginning" a
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520John%2FBook%25202.html'
 source_title="COMMENTARY ON THE GOSPEL OF JOHN 2.9, 11"
-uuid = "6a642650-4485-4572-a7f1-29e9bf220d73"

@@ -4,7 +4,6 @@ While such things are mystifying if we take them in a carnal sense, we may be wa
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 120, TO CONSENTIUS"
-uuid = "5fedec02-ecb2-48b9-a3be-519d2be2e9e2"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ Do not doubt, then, that the man Christ Jesus is now there whence he shall come 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 187, TO DARDANUS 10"
-uuid = "42bc5e4d-3782-451d-913d-6a3514200315"
 
 [[commentary]]
 quote='''
@@ -20,7 +18,6 @@ Having vanquished the devil by the resurrection, he sits at the right hand of th
 '''
 source_url='https://www.newadvent.org/fathers/1801072.htm'
 source_title="ON THE PSALMS 72.8"
-uuid = "3d4da104-dc2c-44ae-b268-fb088c87bf79"
 
 [[commentary]]
 quote='''
@@ -31,4 +28,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "aa590088-babc-473e-b9ae-36de0d411c86"

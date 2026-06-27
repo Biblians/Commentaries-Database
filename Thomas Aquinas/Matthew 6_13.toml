@@ -12,7 +12,6 @@ It should be known that in the Hebrew three words are added which Chrysostom exp
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCommentary%2520on%2520Matthew.htm'
 source_title="Commentary on Matthew"
-uuid = "10bace77-a0d5-41f8-a13e-0d2bc25318a8"
 
 [[commentary]]
 quote='''
@@ -50,7 +49,6 @@ But does God lead one to evil, that he should pray: "Lead us not into temptation
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FExplanation%2520of%2520the%2520Lord%2527s%2520Prayer.htm"
 source_title="Explanation of the Lord's Prayer"
-uuid = "b1a38baa-c3e2-4aa8-82be-0218a47c3b7a"
 
 [[commentary]]
 quote='''
@@ -76,7 +74,6 @@ The Holy Spirit through the gift of wisdom has us use this prayer, and by it we 
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FExplanation%2520of%2520the%2520Lord%2527s%2520Prayer.htm"
 source_title="Explanation of the Lord's Prayer"
-uuid = "cecda5b7-7a66-4681-a681-59ba8daa3d47"
 
 [[commentary]]
 quote='''
@@ -84,4 +81,3 @@ The third good is justice and good works, and temptation is contrary to this, be
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FExplanation%2520of%2520the%2520Lord%2527s%2520Prayer.htm"
 source_title="Explanation of the Lord's Prayer"
-uuid = "29d26993-a981-4c9a-89cf-53dc3602f9ab"

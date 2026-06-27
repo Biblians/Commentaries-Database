@@ -4,7 +4,6 @@ What does this mean, "Do not touch me, for I have not yet ascended to the Father
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520246.html'
 source_title="SERMON 246.4"
-uuid = "605c8a55-f3e6-4e8e-ada2-7445a8b6d796"
 
 
 [[commentary]]
@@ -16,7 +15,6 @@ Touch me as God, that is believe in me as God.
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520375C.html'
 source_title="SERMON 375C.4"
-uuid = "62271fb7-01d3-4864-9868-555d734241d8"
 
 
 [[commentary]]
@@ -30,7 +28,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e479c115-3a0b-4a6c-8d24-eb7b1c2c9ae6"
 
 [[commentary]]
 quote='''
@@ -38,4 +35,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520121.html'
 source_title="Tractates on John 121"
-uuid = "188fc845-125a-4e94-9638-5516a35b8042"

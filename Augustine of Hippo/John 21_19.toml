@@ -4,7 +4,6 @@ Peter accomplished later on by the grace of God what he had previously been unab
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520285.html'
 source_title="SERMON 285.3"
-uuid = "df06800b-e366-4579-b525-b71d5f88d78e"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ He said, "Follow me," but not in the same way as when he had previously called t
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520147.html'
 source_title="SERMON 147.3"
-uuid = "41866eab-44c0-443b-bc73-14554b8e5034"
 
 [[commentary]]
 quote='''
@@ -20,7 +18,6 @@ Why is it said to Peter, "Follow me," and not to the others who were likewise pr
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520124.html'
 source_title="Tractates on John 124"
-uuid = "23d1c291-3f0d-4ee5-96c2-ec638b84690d"
 
 [[commentary]]
 quote='''
@@ -31,4 +28,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "08bf2e20-47d3-4e7a-884c-f4088d148902"

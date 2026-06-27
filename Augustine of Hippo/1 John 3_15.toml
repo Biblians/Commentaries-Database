@@ -4,7 +4,6 @@ Quarrels should be unknown among you, or at least, if they arise, they should as
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="Letters 211"
-uuid = "4e9841e0-8ab6-4ef6-af0e-6117d9f090e5"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ Do you hate your brother or not? But if you despise hatred, listen to what you d
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252049.html'
 source_title="Sermon 49"
-uuid = "28712573-afbf-4e3d-8d37-99de289ba4f5"
 
 [[commentary]]
 quote='''
@@ -20,4 +18,3 @@ Lest ye should think it a light matter, brethren, to hate, or, not to love, hear
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTen%2520Homilies%2520on%2520the%2520First%2520Epistle%2520of%2520John%2FHomily%25205.html'
 source_title="Ten Homilies on 1 John 5"
-uuid = "fc39b38e-7097-4c11-b7cb-67b445e4a37a"

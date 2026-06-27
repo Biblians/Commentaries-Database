@@ -4,7 +4,6 @@ But still, when the ability is given, surely no necessity is imposed. Therefore,
 '''
 source_url=''
 source_title="ON THE SPIRIT AND THE LETTER 54"
-uuid = "f73cc640-6fe8-4af7-b1af-e5c295d8d069"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "0e6daad2-ffc6-4ef2-8628-d8706a7bf05b"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520116.html'
 source_title="Tractates on John 116"
-uuid = "ace9c5d4-2346-4e38-9ded-1af5862e0d52"

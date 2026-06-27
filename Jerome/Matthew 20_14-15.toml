@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "2e102c29-a53d-4b04-950f-bf91f9a6977e"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ And yet it is not that thou shouldest have more, but that another should have le
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "6a72bf28-cbea-4f7f-b143-d6488964a901"

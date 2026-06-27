@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "642559c3-ad95-4562-b5c2-b088f48c3e9f"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ High dignity of souls, that each from its birth has an Angel set in charge over 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "623a3814-06fc-411d-a0a7-21d79993b5c3"

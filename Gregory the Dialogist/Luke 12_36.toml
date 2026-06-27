@@ -4,7 +4,6 @@ But even if both are practiced, it remains that whoever he is should reach towar
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 13"
-uuid = "1a7d79f8-8ea8-46ec-b041-b160ac4b157e"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e15316ea-08cb-4279-bb8a-5847ad9370b0"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "3305932e-1efe-4c07-8e39-a538803c015c"

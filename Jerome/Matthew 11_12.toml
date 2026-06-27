@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "e61330b3-3da6-435d-89ff-cd3db5b3d6c8"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Because John the Baptist was the first who preached repentance to the people, sa
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ba69d764-e221-4e08-9aea-8ad2effc092f"

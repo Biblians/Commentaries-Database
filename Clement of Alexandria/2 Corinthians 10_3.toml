@@ -4,7 +4,6 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25202.html"
 source_title="The Stromata Book 2"
-uuid = "9e5f0bb1-0c24-4289-942e-214c0dcbc9b9"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25204.html"
 source_title="The Stromata Book 4"
-uuid = "1aced121-aacc-461e-97a8-78b07d6b36ae"

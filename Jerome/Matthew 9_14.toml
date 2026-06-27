@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "58bd9130-329b-4557-afc2-382ac374a123"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ O boastful enquiry and ostentation of fasting much to be blamed, nor can John's 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "20633bbe-dfe5-4e17-9937-df3c078ef518"

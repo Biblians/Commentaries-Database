@@ -4,7 +4,6 @@ Whoever receives one such child in my name receives me. Whoever lives so as to i
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 3.18.5"
-uuid = "f470dc7a-7630-4b02-85ce-bb77d6b56848"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "2ddfc403-6081-49fe-9ccf-bf54ea94975e"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ For whoever is such that he imitates Christ's humility and innocence, Christ is 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "4d85cab1-b4fd-4c9a-9e24-1c632eab3b22"

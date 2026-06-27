@@ -4,7 +4,6 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25201.html"
 source_title="The Stromata Book 1"
-uuid = "24fd24b4-2113-49ef-9086-97d55aff59d1"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ But the knowledge of those who think themselves wise, whether the barbarian sect
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25202.html"
 source_title="The Stromata Book 2"
-uuid = "9bcc63e3-6800-484b-9529-113f4abfe941"
 
 
 [[commentary]]
@@ -22,4 +20,3 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Clement%2520of%2520Alexandria%2FThe%2520Stromata%2520Book%25204.html"
 source_title="The Stromata Book 4"
-uuid = "8a2fc1a5-d3f3-4a30-8018-1d36be27ac44"

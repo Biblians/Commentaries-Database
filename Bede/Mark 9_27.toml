@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "014e06ce-612f-40f5-a25b-bd53feec979a"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ And he became as dead; so that many said, he is dead. But Jesus, taking his hand
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "fd3911a0-df64-438e-8b1d-f92ef5a0e764"

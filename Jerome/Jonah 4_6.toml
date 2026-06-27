@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Jonah.html'
 source_title="Commentary on Jonah, Chapter 4"
-uuid = "ea6c6cca-9a3f-4021-863b-736eb171ead9"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ You tell me that I have given a wrong translation of some word in Jonah, and tha
 time=404
 source_url='https://www.newadvent.org/fathers/1102075.htm'
 source_title="Augustine Letter 75 (From Jerome), Chapter 7, Section 22"
-uuid = "0ad4b5c5-3189-4edc-b45b-19b0f901d737"

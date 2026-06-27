@@ -5,7 +5,6 @@ In fulfilment of that prophecy of Hieremias, who said, I will send unto you many
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "69975d33-0ba7-4f19-a15f-1b12a1a003ed"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER SEVEN"
-uuid = "0f673828-15df-4fe4-a55f-f8d08c498b3b"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "7aef778b-2ff9-4d95-8115-c5505133343b"

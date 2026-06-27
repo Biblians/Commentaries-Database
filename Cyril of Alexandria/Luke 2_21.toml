@@ -7,7 +7,6 @@ But according to the command of the law, on the same day He received the imposit
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25202.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "d4254424-4534-4a2f-a927-9ed69b4b1913"
 
 [[commentary]]
 quote='''
@@ -21,7 +20,6 @@ But after His circumcision, the rite was done away by the introduction of that w
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520the%2520Gospel%2520of%2520Luke%2FSermons%25201-11%2520(Luke%25201-1-3-3-23).html'
 source_title="Commentary on the Gospel of Luke, Sermon III"
-uuid = "5bb150d8-f5ef-40d7-8993-865be05172a3"
 
 [[commentary]]
 quote='''
@@ -29,4 +27,3 @@ St. Paul says that "neither circumcision counts for anything nor uncircumcision.
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 3"
-uuid = "82d1e588-9712-4417-808b-7ec43c05bdfa"

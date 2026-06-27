@@ -4,7 +4,6 @@ Let no one, therefore, believe, as Pelagius teaches, that he can live without si
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html'
 source_title="Commentary on the Catholic Epistles, 1 John 1:10"
-uuid = "2a655780-7986-44cf-b24b-e315643c53a8"
 
 [[commentary]]
 quote = '''
@@ -12,7 +11,6 @@ Although the righteous may offend perhaps through the frailty of the flesh or th
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html'
 source_title="Commentary on the Catholic Epistles, James 3:2"
-uuid = "11f07630-fb85-47cd-9c24-c5489bb5b0d2"
 
 
 [[commentary]]
@@ -21,4 +19,3 @@ For the just man falls seven times, etc. But how is he called just, who is remem
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Proverbs.html"
 source_title="Commentary on Proverbs"
-uuid = "83a51995-7ce0-4084-a91f-866408db2004"

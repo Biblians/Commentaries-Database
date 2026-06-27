@@ -4,7 +4,6 @@ And he began to speak to them in parables: A man planted a vineyard, and set a h
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "6f506df1-becb-416a-a83d-f63cb87911e2"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ And he leased it to husbandmen. Elsewhere, he called these workers of the vineya
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "0286337c-c1cb-4469-b688-c8ddb4a0bffd"
 
 
 [[commentary]]
@@ -23,7 +21,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e55d18bb-2fca-48e5-b142-8dacb4ed99b5"
 
 
 [[commentary]]
@@ -33,4 +30,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "1c6020e7-7fc6-4f86-8fc2-c17b4c936d69"

@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Jeremiah.html'
 source_title="Commentary on Jeremiah"
-uuid = "b09324fc-e570-47a5-b636-9cf79982ad4e"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ Yet such is the order of nature. While truth is always bitter, pleasantness wait
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_040.html'
 source_title="LETTER 40.1"
-uuid = "84d71116-0aad-4d4e-9e4e-4638b83f29ce"
 
 [[commentary]]
 quote='''
@@ -20,7 +18,6 @@ We are the robe of Christ. When we have clothed him with our confession of faith
 '''
 source_url=''
 source_title="HOMILIES ON THE PSALMS 45 (PS 132)"
-uuid = "cffc99bf-9b49-4739-a555-1451f26472f8"
 
 [[commentary]]
 quote='''
@@ -28,4 +25,3 @@ The girdle, or loincloth, which is attached to the loins of God, is the people o
 '''
 source_url=''
 source_title="SIX BOOKS ON JEREMIAH 3:14.5-9"
-uuid = "9105658c-599c-4003-8093-5be950fb3642"

@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "c96ec3c6-b3e3-4a92-8314-275ce676e07b"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Or in these words they urge the same cavil as above, when they said, He casteth 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "9fed8d7e-8d27-4467-a7c2-d432919c089d"

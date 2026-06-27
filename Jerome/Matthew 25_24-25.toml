@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "4be53b98-148b-46ef-9dad-7926d509b024"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ Also, by this which this servant dared to say, Thou, reapest where thou sowedst 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "71d4ee8c-3afe-468a-a455-dfb16557ca41"

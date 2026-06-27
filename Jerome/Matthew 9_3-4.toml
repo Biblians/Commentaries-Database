@@ -4,7 +4,6 @@ We read in the prophet the words of God: "It is I who cleanse you from all your 
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 1.9.3"
-uuid = "da27b608-bc36-4b9b-8266-b9f52c185600"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "6ed14359-ec55-4eeb-a1a9-f6c97dbab56a"
 
 
 [[commentary]]
@@ -23,4 +21,3 @@ We read in prophecy, I am he that blolleth out thy transgressions; (Is. 43:25.) 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "d99c0f5d-b507-4906-bed4-5f34cc59465c"

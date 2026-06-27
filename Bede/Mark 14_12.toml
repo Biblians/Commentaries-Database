@@ -4,7 +4,6 @@ On the first day of unleavened bread, when they sacrificed the Passover, the dis
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "bc724d68-bea6-404d-b52e-5a61064d3ef0"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "a7bd5456-a1d9-43c5-8c8b-2bc145dab06d"

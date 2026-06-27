@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1102069.htm'
 source_title="LETTERS 69.8"
-uuid = "de6515e6-9788-40c4-b65e-770452011d73"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1102069.htm'
 source_title="LETTERS 69.9"
-uuid = "1e3276a0-14c6-4fc3-becd-7e0440766ac1"
 
 
 [[commentary]]
@@ -21,5 +19,4 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Titus.html'
 source_title="Commentary on Titus"
-uuid = "27b412b4-59eb-4645-9f35-7280a94ba22c"
 

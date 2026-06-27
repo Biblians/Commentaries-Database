@@ -4,7 +4,6 @@ And gird yourself and serve me while I eat and drink. To gird oneself is to rest
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "15274fa7-5d19-4010-a10d-05432b430cc8"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ And after this, you will eat and drink. After, he says, I have been delighted by
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "3c8111ef-cb40-4970-a1bc-ae038d8a83be"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ He bids make ready wherewith he may sup, that is, after the labours of public di
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "95930025-ebc6-4cf8-a740-426e46857bd2"

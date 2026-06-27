@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "0396b224-9489-41e5-8f05-326105fb9905"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ Lay to heart our Lord's example while living with man upon earth. Why had He a m
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252050.html'
 source_title="Tractates on John 50"
-uuid = "2a7073e8-9f30-4a4d-855a-d7cbb8d798dd"

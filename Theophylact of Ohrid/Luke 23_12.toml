@@ -4,7 +4,6 @@ Pilate's sending of a subordinate to Herod appeared as the beginning of friendsh
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252023.html'
 source_title="Commentary on Luke"
-uuid = "366d51ce-0c91-4655-bb37-bbd2b923b76a"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ But the sending of Christ by Pilate to Herod, becomes the commencement of a mutu
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ea6a5f43-bc84-4ec7-9fe1-5c547a6467cd"

@@ -7,7 +7,6 @@ The last state also is worse than the first, according to the words of the Apost
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "2d3b539d-b1c2-4590-9a07-290e314afdab"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ That the Jewish crowds fall into such thoughts concerning Christ he makes plain 
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 81"
-uuid = "f6041858-6d56-4cd4-aea9-0fb9659b137d"

@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "a564acce-b098-43d4-bdd9-f12224da3362"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ But when, at the coming of the Saviour, the Gentile people, having done penitenc
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e73149a5-09aa-48c1-9d5f-325ba937ce4e"

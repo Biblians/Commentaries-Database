@@ -9,7 +9,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "594047f6-014f-450b-bf60-dffe8fd3faf5"
 
 
 [[commentary]]
@@ -18,7 +17,6 @@ But the apostles too, my brothers and sisters, are lamps for the day. Do not ima
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520289.html'
 source_title="SERMON 289.6"
-uuid = "20a6342c-eece-47eb-ac3d-2d9356803ea9"
 
 [[commentary]]
 quote='''
@@ -26,7 +24,6 @@ But where is that light? "He was the true light, which lighteth every man that c
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25202.html'
 source_title="Tractates on John 2"
-uuid = "c1d48429-9ca2-42f6-9624-dbe59876600f"
 
 [[commentary]]
 quote='''
@@ -34,4 +31,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252014.html'
 source_title="Tractates on John 14"
-uuid = "dd628b97-8c75-4396-af32-e229de128551"

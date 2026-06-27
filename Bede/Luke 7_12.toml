@@ -4,7 +4,6 @@ And this woman was a widow, and a large crowd of the city was with her. Every so
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "38e6c62f-2cab-4512-8d5d-28a0ff943b7e"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ But the dead man who was carried without the gate of the city in the sight of ma
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "9fb7905b-f634-4471-8626-0c82a264f76e"

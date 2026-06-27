@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520Matthew%2FIntroduction.html'
 source_title="COMMENTARY ON MATTHEW 126"
-uuid = "3d162870-dade-460f-98e2-bbd27fdc65d4"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Or, as they went out, they laid hold of Simon, but when they drew near to the pl
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252027.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e56bce99-1c4a-4501-9c17-104886666025"

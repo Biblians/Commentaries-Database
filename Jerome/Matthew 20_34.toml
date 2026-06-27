@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "19e5217b-af17-44ea-b401-34c22b370153"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ They then who had sat shut up in Jericho, and knew only to cry with their voice,
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "64d9ae29-8bb0-4694-b47e-1dfeb47f6800"

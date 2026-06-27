@@ -4,7 +4,6 @@ Verse 1. "In the third year of the reign of Joacim (Jehoiakim) king of Judah, Ne
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER ONE"
-uuid = "324b4824-21ec-4cc5-94a1-1edfe7169bf9"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "a48bef3e-4f91-410c-b6c1-190763c2a470"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ Otherwise, we may consider the first Jeconias to be the same as Joakim, and the 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "5390d0b3-2940-4104-91bd-54ff86d20fe5"

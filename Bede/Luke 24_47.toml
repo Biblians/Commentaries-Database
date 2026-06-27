@@ -4,7 +4,6 @@ And that repentance and remission of sins should be preached in His name among a
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "8528af48-6b6a-4aea-993a-4d9241e54669"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ The preaching of repentance and the forgiveness of sins through confession of Ch
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 11.15"
-uuid = "9c250989-fcdd-4fdf-9b81-8efe7762e273"
 
 
 [[commentary]]
@@ -23,4 +21,3 @@ Not only because to them were entrusted the oracles of God, and theirs is the ad
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "87cf466c-b0c2-4853-a051-bf5a1611edec"

@@ -4,7 +4,6 @@ And having departed from the tomb, they reported all these things to the eleven 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "cf2a7cf9-cee1-432d-be69-92331f1942a1"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "d7eeb42e-9a18-46f8-9a30-cef75a91ae9f"

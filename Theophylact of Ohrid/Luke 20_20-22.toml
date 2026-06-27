@@ -4,7 +4,6 @@ The Pharisees prepared a net which, in their opinion, the Lord would find diffic
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Commentary on Luke"
-uuid = "35e07d75-9f98-48da-8267-7f48421d7a24"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ Therefore it was intended, in case He said they ought to give tribute to Cæsar,
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "a07eeace-8453-40a1-9f6a-1ffb590e63ea"

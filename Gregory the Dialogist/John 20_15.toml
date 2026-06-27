@@ -7,7 +7,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "2f89c0ee-cd08-407a-a865-7f616c5cf7d7"
 
 [[commentary]]
 quote='''
@@ -19,4 +18,3 @@ But what is it that, seeing him whom she believed to be the gardener, to whom sh
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 25"
-uuid = "c3687c5c-3f4d-4cee-a02f-23b79aea1231"

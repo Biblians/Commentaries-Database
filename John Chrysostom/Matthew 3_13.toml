@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "1db014ee-d7d2-402e-9847-479aa582bc34"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ With the servants the Lord, with the criminals the Judge, cometh to be baptized.
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%2520Matthew%2FHomily%252012.html'
 source_title="Homily on the Gospel of Matthew 12"
-uuid = "c90f6369-d8b2-46e7-b733-68627ec4fef4"

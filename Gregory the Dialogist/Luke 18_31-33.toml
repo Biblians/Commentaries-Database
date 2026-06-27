@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "408aa02a-d035-47a5-ad69-6c89328c3ab8"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Our Redeemer, foreseeing that the souls of the disciples would be troubled by Hi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 2"
-uuid = "f44ac31a-b5c9-4460-8ed7-1dea1f85b6fd"

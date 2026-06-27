@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "07b655ac-6b61-447b-b0f4-902828e53f82"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ In that portico which serves as a passageway for those going to the church of bl
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 15"
-uuid = "b7943533-3a66-494e-8a01-42f763c5fa66"

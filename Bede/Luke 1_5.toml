@@ -4,7 +4,6 @@ In the days of Herod, king of Judea, there was a certain priest named Zechariah,
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "14203b5e-f170-4a5e-9570-83467e8d3284"
 
 [[commentary]]
 quote='''
@@ -17,4 +16,3 @@ There were Princes of the Sanctuary or High Priests, both of the sons of Eleazar
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "cecf34cc-c309-4f54-8e9b-38921607ceb8"

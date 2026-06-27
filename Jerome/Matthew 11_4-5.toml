@@ -6,7 +6,6 @@ The poor are evangelized. Either the poor in spirit, or certainly the poor in we
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "bd7a7560-4d90-4042-8d27-088ef54e613b"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ This last is no less than the first. And understand it as if it had been said, E
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "cb514348-f4e5-4535-8de8-ad2ae5e98284"

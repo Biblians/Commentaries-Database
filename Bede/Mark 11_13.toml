@@ -4,7 +4,6 @@ And when he saw from afar a fig tree having leaves, he went to see if perhaps he
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "d2dacd3e-d85e-4714-b3c5-c5e5a508dd48"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "0409b092-1cbf-46d9-bbab-76a0ccbd379d"

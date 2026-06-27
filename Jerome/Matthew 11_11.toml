@@ -4,7 +4,6 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 2.11.11"
-uuid = "85384d1f-f9b6-4c3b-9cfa-877d627ade75"
 
 
 [[commentary]]
@@ -15,7 +14,6 @@ But whoever is lesser in the kingdom of heaven is greater than him. Many want to
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "588c55f1-b571-49bb-b109-4ff1a2782f86"
 
 [[commentary]]
 quote='''
@@ -26,4 +24,3 @@ We understand it simply, that every saint who is already with the Lord is greate
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "35db3077-88d5-4a93-b42f-d1e15278bda5"

@@ -9,7 +9,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25203.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "47851a76-e368-46ad-87c5-e1a8f97a175f"
 
 [[commentary]]
 quote='''
@@ -17,4 +16,3 @@ He endured death, then; but death He hanged on the cross, and mortal men are del
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252012.html'
 source_title="Tractates on John 12"
-uuid = "618f381e-492b-4022-aa86-723e0e3844f3"

@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "b2a6bef0-f094-421f-9b3c-049ce99b2813"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ The miracles which our Lord Jesus Christ wrought, are indeed divine works, and a
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252024.html'
 source_title="Tractates on John 24"
-uuid = "e3e408f5-fa2a-4e25-b967-d99813e83b44"
 
 [[commentary]]
 quote='''
@@ -21,7 +19,6 @@ For the government of the whole world is a greater miracle than the satisfying f
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252024.html'
 source_title="Tractates on John 24"
-uuid = "43d57066-a1ca-4c8b-9e78-849b6249c955"
 
 [[commentary]]
 quote='''
@@ -29,4 +26,3 @@ This, then, was done to admonish the senses, that they might rise to understand 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252024.html'
 source_title="Tractates on John 24"
-uuid = "ab28e37f-10f9-415f-a7ff-24cceb0031af"

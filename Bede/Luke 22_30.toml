@@ -4,7 +4,6 @@ That you may eat and drink at my table in my kingdom. This table is set for all 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "03100f1d-9b6d-4ad0-be15-b75921942174"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Or the table offered to all saints richly to enjoy is the glory of a heavenly li
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "b79b4bdd-6b92-49c2-b683-ee8175b100a6"

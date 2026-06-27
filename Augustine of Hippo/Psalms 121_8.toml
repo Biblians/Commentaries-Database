@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252015.html'
 source_title="SERMON 15:4"
-uuid = "4819660b-6397-4bd5-b8b6-7ac3bbc5fbb1"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801121.htm'
 source_title="Exposition on Psalm 121"
-uuid = "191895df-8be1-48ef-9388-77920938b7d3"

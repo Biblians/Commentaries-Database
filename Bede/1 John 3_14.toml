@@ -4,7 +4,6 @@ Let us cleanse ourselves from all defilement of flesh and spirit, perfecting hol
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels, Homily XXIV"
-uuid = "a7488a1d-a883-4466-ae8f-847896050945"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ We know that we have passed from death to life because we love the brothers. Let
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
-uuid = "1953349e-c982-4d3b-b0de-b08ee26432ca"
 
 
 [[commentary]]
@@ -22,4 +20,3 @@ He who does not love remains in death. He speaks of the death of the soul. For t
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520the%2520Catholic%2520Epistles.html"
 source_title="Commentary on the Catholic Epistles"
-uuid = "64d5d364-8718-4314-a86e-d72b15efb6a4"

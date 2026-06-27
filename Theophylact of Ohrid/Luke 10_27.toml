@@ -5,7 +5,6 @@ The Law, on account of the infancy of its hearers, being unable yet to impart th
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Commentary on Luke"
-uuid = "54e69692-fe54-4945-8430-2f0128161bac"
 
 [[commentary]]
 quote='''
@@ -14,4 +13,3 @@ We must hereby understand that it becomes us to submit every power of the soul t
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "d7223ae6-011c-48c8-84fa-9d46add70b46"

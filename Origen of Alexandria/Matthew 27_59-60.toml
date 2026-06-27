@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520Matthew%2FIntroduction.html'
 source_title="COMMENTARY ON MATTHEW 143"
-uuid = "9063fa74-ccea-4904-845b-0710c41254cb"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ We say, therefore (lest this passage be understood crudely), that he who said "w
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520Matthew%2FIntroduction.html'
 source_title="COMMENTARY ON MATTHEW 143"
-uuid = "9a7a25fa-6c17-4f23-858e-2e21da1f8625"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ This is no casual mention of the circumstances that the body was wrapped in clea
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252027.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "74b5b272-ee38-4d4c-a3ff-a5b7497cdb53"

@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e0a1994a-037b-4d3f-ac66-aaa09c62fb8e"
 
 [[commentary]]
 quote='''
@@ -17,4 +16,3 @@ We can also understand the two Testaments by the two angels, one earlier and the
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 25"
-uuid = "395bfe1a-afc8-49de-8d68-621be24f2330"

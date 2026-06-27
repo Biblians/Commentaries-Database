@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "23caf8c7-6881-41a7-9e0e-ca62498a3d0e"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ He said not only, Ye who have left all, for this did the philosopher Cratesh, an
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "68402cf9-fd89-4afd-b93a-3e24fb3ba07a"

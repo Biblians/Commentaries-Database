@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Ezekiel.html'
 source_title="Commentary on Ezekiel"
-uuid = "febdabb0-8924-4ae0-8018-a4f2abd79809"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ The mouth of the prophet is opened when he is shown that what he had foretold ha
 '''
 source_url=''
 source_title="COMMENTARY ON EZEKIEL 10:33.21-22"
-uuid = "cd663138-47b5-469b-9db9-10c5c804f853"

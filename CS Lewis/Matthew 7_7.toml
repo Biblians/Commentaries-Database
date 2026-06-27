@@ -8,7 +8,6 @@ We are told in Scripture that those who ask get. That is true, in senses I can't
 '''
 source_url=''
 source_title="The Inner Ring, from Transposition and Other Addresses"
-uuid = "75fdddf3-e462-4bcf-8c1c-f6a431b02861"
 
 [[commentary]]
 quote='''
@@ -18,7 +17,6 @@ On the other hand, "Knock and it shall be opened." But does knocking mean hammer
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-agriefobserved/lewiscs-agriefobserved-00-h.html'
 source_title="A Grief Observed, Chapter III"
-uuid = "1eab709e-69e7-41a3-b4d5-80eb3380afe2"
 
 [[commentary]]
 quote='''
@@ -27,4 +25,3 @@ But you can worry him with the haunting suspicion that the practice is absurd an
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters"
-uuid = "92748e26-3a34-4816-84cc-e06bd8815773"

@@ -4,7 +4,6 @@ We must look into this passage in order to show that it contains nothing inconsi
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520Harmony%2520of%2520the%2520Gospels%2FBook%25203.html'
 source_title="The Harmony of the Gospels, Book 3"
-uuid = "cc29f1f5-8fdf-429b-bfa2-587a3f020fa6"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520114.html'
 source_title="Tractates on John 114"
-uuid = "1cf55cbd-0012-49d8-b06d-b9a2926c6c57"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e43c6f5f-ece8-4945-9a10-4b8df86ce33f"

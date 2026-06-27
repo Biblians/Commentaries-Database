@@ -4,7 +4,6 @@ Barabbas the robber, who had provoked a riot among the crowds and committed murd
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 4.27.24"
-uuid = "39ee3571-bd13-444a-bfc5-a87abfb549d8"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "271a508a-1bb7-4c8e-bd7a-682369dfc6ec"
 
 [[commentary]]
 quote='''
@@ -24,4 +22,3 @@ This was done that we might be delivered from those stripes of which it is said,
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252027.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "b04e99c5-f72b-41c2-8434-ce5816639400"

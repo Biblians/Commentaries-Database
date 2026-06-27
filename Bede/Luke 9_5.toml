@@ -4,7 +4,6 @@ And whoever will not receive you, as you go out from that city, even shake off t
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "d6401fe4-54ae-411b-baea-7de47da23f46"
 
 
 [[commentary]]
@@ -16,4 +15,3 @@ But if any by treacherous negligence, or even from zeal, despise the word of God
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "5cf11156-08c4-465d-9ff0-29b86bbb42df"

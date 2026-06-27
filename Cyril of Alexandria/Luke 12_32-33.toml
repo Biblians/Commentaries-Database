@@ -7,7 +7,6 @@ Now perhaps this command is irksome to the rich, yet to those who are of a sound
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "84b23a1f-fc66-4c1d-b700-d3f959479ca9"
 
 [[commentary]]
 quote='''
@@ -15,7 +14,6 @@ He announced as a general law, useful and necessary for salvation, not only to t
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 91"
-uuid = "76a76d5b-d6cc-49cc-a8c7-ab7ca596e0be"
 
 
 [[commentary]]
@@ -24,4 +22,3 @@ Give away these earthly things, and win that which is in heaven. Give that which
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 91"
-uuid = "4ab791d6-2e56-47e6-8c08-1a1de07d9104"

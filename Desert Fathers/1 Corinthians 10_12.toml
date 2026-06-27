@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
-uuid = "746f65d4-21fa-43ae-b3bc-06990b336a68"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ A hermit said to a brother, 'Do not measure yourself against your brother, sayin
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
-uuid = "8e6c7f9d-ba11-463b-b88e-2c88f4b0e169"
 
 
 [[commentary]]
@@ -21,4 +19,3 @@ Daniel used to say that Arsenius told him a story, as if he were speaking of som
 '''
 source_url='https://books.google.com/books/about/The_Desert_Fathers.html?id=UkbZy7-SqjkC'
 source_title="The Desert Fathers, Sayings of the Early Christian Monks"
-uuid = "bee253e0-ce2f-461d-816e-566bad020b60"

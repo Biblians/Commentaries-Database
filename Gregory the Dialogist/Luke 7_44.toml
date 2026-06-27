@@ -6,7 +6,6 @@ In a mystical sense, our Redeemer enumerates the deeds of this woman as if they 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 33"
-uuid = "c0369eca-766a-4680-a47f-c2e139c53abc"
 
 [[commentary]]
 quote='''
@@ -15,7 +14,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "4de023d9-cde4-4b7a-8142-d827d34d1a2c"
 
 [[commentary]]
 quote='''
@@ -24,4 +22,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "f3b1c15c-d2d1-4dae-8dc5-b2ed35d778cb"

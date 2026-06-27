@@ -4,7 +4,6 @@ He esteemed the high priestly garment woven of gold cloth of less value than a g
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.19"
-uuid = "f06719eb-ba59-428e-896f-2148f81c1631"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ And John was clothed with camel's hair, etc. He says, with hair, not wool. One i
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "0fc08405-0f0b-4380-9222-cb4982f68513"
 
 [[commentary]]
 quote='''
@@ -22,7 +20,6 @@ It says, clothed in a garment of hair, not in woollen clothes; the former is the
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "c6b6beef-11f1-4a67-bdd2-edc494f27197"
 
 [[commentary]]
 quote='''
@@ -31,4 +28,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "f64702b5-7108-4387-9e7e-e9440401fd0c"

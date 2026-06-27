@@ -9,7 +9,6 @@ He who has given the greater, will He not also give the less?
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "b702ad44-86d5-458d-9153-478eaf45d27d"
 
 [[commentary]]
 quote='''
@@ -17,4 +16,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "e1d6eddb-1457-4d8b-9697-6d38c0aaafc6"

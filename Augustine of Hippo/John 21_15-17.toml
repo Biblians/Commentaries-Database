@@ -9,7 +9,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ed610c9e-3f6d-41d6-aa62-efbaff3f0ea1"
 
 [[commentary]]
 quote='''
@@ -17,7 +16,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520123.html'
 source_title="Tractates on John 123"
-uuid = "c686b5a2-bfde-4730-88de-ac5960fc819c"
 
 [[commentary]]
 quote='''
@@ -25,4 +23,3 @@ We have it also demonstrated here that love and liking are one and the same thin
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520123.html'
 source_title="Tractates on John 123"
-uuid = "275be1b4-22bd-41c9-98aa-8ac2602179f4"

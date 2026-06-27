@@ -4,7 +4,6 @@ And they found the stone rolled away from the tomb, and upon entering, they did 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "5f3d2adf-5276-41c0-91f3-17edad2c39dc"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ The rolling back of the stone alludes to the unclosing of the Sacraments which w
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "8f4dfa15-f947-4226-a092-64de429a91ce"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ Mystically, the rolling away of the stone implies the disclosure of the divine s
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 11.10"
-uuid = "a3661976-5aa8-426f-a695-f82390eedc20"

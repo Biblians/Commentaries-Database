@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Jeremiah.html'
 source_title="Commentary on Jeremiah"
-uuid = "9e9ac4cf-c6a9-4fd5-b3b3-688f96ae5132"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ I beg you, therefore, and admonish you again and again: do not look to your mili
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome/Letters/letter_052.html'
 source_title="LETTER 52.5"
-uuid = "a8e22934-6c49-454b-a28f-53432aca7fec"

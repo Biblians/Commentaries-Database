@@ -4,7 +4,6 @@ It was also a woman who first announced to the disciples that the Lord had come 
 '''
 source_url = 'https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Acts.html'
 source_title="Commentary on Acts 12.13"
-uuid = "138b7153-70a8-4b70-884c-73143c738874"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ Now, rising early on the first day of the week, Jesus appeared first to Mary Mag
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "04570c7a-1b4f-44ed-8726-6ed77a96ea71"
 
 
 [[commentary]]
@@ -22,7 +20,6 @@ He appeared first, he says, to Mary Magdalene, from whom he had expelled seven d
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "9efa7f6e-8db8-451d-baed-93c100b8e95f"
 
 
 [[commentary]]
@@ -32,7 +29,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "6a49acfe-994b-4800-a5ce-5162cc000c7d"
 
 
 [[commentary]]
@@ -42,7 +38,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "206aaf79-19b7-4133-afec-af0ae4aa763d"
 
 
 [[commentary]]
@@ -52,4 +47,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252016.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "4058fd13-2236-4aba-9260-77ed5d05f043"

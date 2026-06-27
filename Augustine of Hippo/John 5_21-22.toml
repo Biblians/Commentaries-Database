@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ef75e256-b47d-4f5d-a18e-17f5cbdd79b9"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ What follows then? "For the Father judgeth not any man, but hath given all judgm
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252019.html'
 source_title="Tractates on John 19"
-uuid = "cbe796c4-19ec-4940-8ddd-e05f6e9fe1d4"

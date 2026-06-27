@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "8cd31e48-479f-4774-885b-6b918bcb9d98"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ But the answer of Christ was cautions. He spake not what the Scribes would fain 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "85d41923-38f3-4584-b467-d8c3f76acc86"

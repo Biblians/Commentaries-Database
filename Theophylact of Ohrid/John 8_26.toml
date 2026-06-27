@@ -5,7 +5,6 @@ Or having said, I have many things to say, and to judge of you, thus reserving H
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e65bcfcd-6afe-4d1b-8190-727db20e2ac7"
 
 [[commentary]]
 quote='''
@@ -16,4 +15,3 @@ Some understand these words "He who sent Me is true" in this way: I could judge 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Commentary on John"
-uuid = "5e10c387-5df3-44cb-aa86-c6a98911b4fd"

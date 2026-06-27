@@ -4,7 +4,6 @@ James, and John, Philip, and Bartholomew, Matthew and Thomas. Luke fittingly and
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "ce0d3994-c92c-48ea-bd03-2daf1d65176a"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ James of Alphaeus, and Simon who is called the Zealot. These he placed with an a
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "478fab2b-c34b-445d-8afb-02ab9ceb3f2e"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ Matthew places himself after his fellow-disciple Thomas, from humility, whereas 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "61a4ab35-0463-48f6-90d1-4ccb99dab6cc"

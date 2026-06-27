@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "8811a99a-09c8-465f-83c1-292d379df2c8"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Or, as the Apostle writes to the Corinthians (1 Cor. 12.) that there are various
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252023.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "045ef9ee-76e8-45bb-91ec-1f0d6a28dc8f"

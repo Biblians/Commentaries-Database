@@ -5,7 +5,6 @@ But having shown that the good and the bad man may be discerned by their works a
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "b7298f94-d80c-4f51-a616-393ee0d80867"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ This is also made clear by another declaration of our Lord. "The good man," he s
 '''
 source_url=''
 source_title="COMMENTARY ON LUKE, HOMILY 33"
-uuid = "149915f9-e2d6-4c70-9345-71fe678cc851"

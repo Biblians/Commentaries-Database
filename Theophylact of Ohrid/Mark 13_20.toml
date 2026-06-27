@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Mark%2FChapter%252013.html'
 source_title="Commentary on Mark"
-uuid = "a57e4b87-7084-4c08-afa3-bf382bc93fb5"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ That is, if the Roman war had not been soon finished, no flesh should be saved; 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "dd8c8d6c-1078-47c3-bd8d-31e0a2cea3ac"

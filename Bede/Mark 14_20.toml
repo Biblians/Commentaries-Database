@@ -4,7 +4,6 @@ He said to them, "One of the twelve, who is dipping his hand with me in the dish
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "8d7dfa6c-51d0-4f75-a948-c93dd828c0d4"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "6c7e6856-e434-4279-82ec-a6075a240b5d"

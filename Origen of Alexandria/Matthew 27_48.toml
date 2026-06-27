@@ -5,7 +5,6 @@ And perhaps all who know the ecclesiastical doctrine, but live amiss, have given
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252027.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "b425f894-5fea-47c7-9a35-bd2dd50a0e6f"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ One can use the spiritual sense of this text profitably against those who write 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Origen%2520of%2520Alexandria%2FCommentary%2520on%2520Matthew%2FIntroduction.html'
 source_title="COMMENTARY ON MATTHEW 137.43"
-uuid = "6b97a546-cb2e-427a-89d4-08bcef107fda"

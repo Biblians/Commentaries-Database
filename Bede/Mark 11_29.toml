@@ -4,7 +4,6 @@ But Jesus answering said: "I will also ask you one thing, and you answer me, and
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "d32456ef-e50d-4658-926c-d3ef3a3d99c4"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "2ac3c002-2615-414c-b38f-8ace82d70fcf"

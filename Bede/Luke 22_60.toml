@@ -4,7 +4,6 @@ And Peter said: Man, I do not know what you are saying. And immediately, while h
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "65a30113-ccff-4bff-981d-843e630a15f7"
 
 
 [[commentary]]
@@ -14,7 +13,6 @@ Holy Scripture is often wont to mark the character of certain events by the natu
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "37ae5424-8627-42e9-8ee3-979ea8e7a934"
 
 
 [[commentary]]
@@ -24,4 +22,3 @@ This cock must, I think, be understood mystically as some great Teacher, who rou
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "028602c7-43d3-43ee-893c-cfc1e5eda02f"

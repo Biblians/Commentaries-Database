@@ -4,7 +4,6 @@ For whoever has, to him more will be given. And whoever does not have, even what
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "4353119b-b3f7-428d-9712-49aed1be765e"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "fd20f1e7-220e-4f72-8308-b7d83c5b098a"

@@ -4,7 +4,6 @@ And he began to be in want, and went and joined himself to a citizen of that cou
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "8fcc821f-3288-42be-973a-9625067305f2"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ And he sent him into his village to feed swine. To be sent to the village is to 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "e49fa4cf-eb8b-4dff-820f-173de69028d5"
 
 
 [[commentary]]
@@ -23,4 +21,3 @@ For to be sent to the farm is to be enthralled by the desire of worldly substanc
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "bcf9dcf0-60b1-4355-8138-a1dfbae4d32d"

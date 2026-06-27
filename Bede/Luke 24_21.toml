@@ -4,7 +4,6 @@ And now, on top of all this, today is the third day since these things happened.
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "213d79de-1b0c-4f25-807c-c1c7e4cadfdb"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Reason had they then for sorrow, because in some sort they blamed themselves for
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252024.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "238d2942-c46b-49dd-8f68-4dd14abe5518"

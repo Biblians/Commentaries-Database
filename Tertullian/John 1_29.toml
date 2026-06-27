@@ -4,7 +4,6 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAn%2520Answer%2520to%2520the%2520Jews.html"
 source_title="An Answer to the Jews"
-uuid = "eb69ca2e-4541-48e6-9333-a5a16fca22c7"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ Then, again, when He is designated by John (the Baptist) as "the Lamb of God," H
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FAgainst%2520Praxeas.html"
 source_title="Against Praxeas"
-uuid = "39d1d668-1ffc-43e5-b0f2-ab167783ee48"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ In fact, they say that Jesus Christ descended, that is, that the dove came down 
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FPseudo-Tertullian%2FAppendix.%2520Against%2520All%2520Heresies.html"
 source_title="Pseudo-Tertullian Against All Heresies"
 time = 220
-uuid = "07ba594d-b201-40ae-8eb0-5faf348f062d"

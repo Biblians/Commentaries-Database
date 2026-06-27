@@ -4,7 +4,6 @@ And he will turn the hearts of the fathers to their children, and the disobedien
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "56786e9c-7730-4e2b-8c51-34ed0f4f9e17"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ Both Elijah and John were celibate. Both wore rough dress. Both spent their live
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.23"
-uuid = "64c7fd11-0640-4646-b00e-ae5d9f034c5c"
 
 
 [[commentary]]
@@ -22,7 +20,6 @@ But what was foretold of Elias by Malachi, is now spoken by the angel of John; a
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e4f9450e-4a3d-4e9f-ade2-6af4326819f5"
 
 
 [[commentary]]
@@ -32,4 +29,3 @@ But because he had said that Zacharias' prayer for the people was heard, he adds
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "602c32ea-1820-4e4d-a664-ba537c77b491"

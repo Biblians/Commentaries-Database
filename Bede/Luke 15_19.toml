@@ -4,7 +4,6 @@ And I am no longer worthy to be called your son. Treat me as one of your hired s
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "cadb7a22-9170-481e-a57e-43df1c6f8fe5"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ To the affection of a son, who doubts not that all things which are his father's
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "7432255c-01e4-4e43-a22b-abf1996d8cea"

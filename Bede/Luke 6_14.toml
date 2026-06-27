@@ -4,7 +4,6 @@ Simon, whom he surnamed Peter, and Andrew his brother. Not now for the first tim
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "21440c6d-3735-44db-baea-eb6bc5ed3f74"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ But all these things were being heard by the Pharisees, who were greedy and deri
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "bc79d876-42da-4348-802d-d659566b6704"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ He not only surnamed Peter first, but long before this, when he was brought by A
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "1ac0211b-5fd6-41d7-a187-056218e4e061"

@@ -4,7 +4,6 @@ And they questioned him, saying: Master, we know that you speak and teach rightl
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "6a860e96-ec02-4b7b-baaf-2258d5357b13"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ This smooth and artful question was to entice the answerer to say that he fears 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "97f01949-62df-410f-a29d-23e1edcb2166"

@@ -4,7 +4,6 @@ Those who devour the houses of widows, while feigning long prayers, will receive
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "3a4437aa-0415-4757-89c7-7861c4b7c32b"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ Or because they seek from men praise and money, they are punished with the great
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252020.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "c998eac9-dc31-47b9-9540-c82d53650cea"

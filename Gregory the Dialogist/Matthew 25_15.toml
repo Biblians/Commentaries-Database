@@ -4,7 +4,6 @@ And to one indeed he entrusted five talents, to another two, and to another one.
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 9"
-uuid = "d1292201-65bd-4eb1-b1c0-3874cc409d33"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ffa5c0fc-4be4-4e38-954f-584f107b6bce"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252025.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "f22a8e62-ac16-4122-92e5-80847549909e"

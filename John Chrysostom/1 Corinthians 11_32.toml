@@ -4,7 +4,6 @@ Instead of passing idly by what are considered slight sins, let us daily require
 '''
 source_url=''
 source_title="HOMILIES ON GENESIS 60.16"
-uuid = "55558f3b-b239-4e47-9248-cc938bf22680"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%25201%2520Corinthians%2FHomily%252016.html'
 source_title="Homily on 1 Corinthians 16"
-uuid = "b3e0b0d1-095a-4947-bb7b-d1f917175854"
 
 [[commentary]]
 quote='''
@@ -20,4 +18,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=John%2520Chrysostom%2FHomilies%2FOn%25201%2520Corinthians%2FHomily%252028.html'
 source_title="Homily on 1 Corinthians 28"
-uuid = "8e47210c-e70c-4afc-b949-72b009df59f4"

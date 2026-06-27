@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER SEVEN"
-uuid = "1b6e9262-baf4-40fc-826f-822b0f73b69e"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "cab44f8c-ef71-413f-8173-086a905a3dc1"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ Or it may be constructed thus, Ye which have followed me, shall in the regenerat
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "34860fac-5059-405a-89df-0ec6baaef85a"

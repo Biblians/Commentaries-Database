@@ -4,7 +4,6 @@ What is the voice of the shepherd? "And that repentance and forgiveness of sins 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252046.html'
 source_title="SERMON 46.32"
-uuid = "8553afa2-7a10-4f07-ab10-e2fa45428cbb"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "7a77c58a-4081-44f4-acec-1910c25d2aa2"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252048.html'
 source_title="Tractates on John 48"
-uuid = "a9009f22-989b-43bd-8400-8bc38558a4fa"

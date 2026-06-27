@@ -4,7 +4,6 @@ But he who pretends not to believe what he has heard is punished with the penalt
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "5c549905-492e-4442-b367-1ec10a98d610"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ But he gives him the sign which he asks for, that he who spoke in unbelief, migh
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "4abbe2ae-1574-4c3b-a698-0504bc10df14"

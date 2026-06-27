@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Jonah.html'
 source_title="Commentary on Jonah, Chapter 1"
-uuid = "3b01fb9c-fa94-40a4-9fb1-511a953020bb"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ The sailors and the passengers in the book of Jonah say, "We beseech you, O Lord
 '''
 source_url='https://www.newadvent.org/fathers/30112.htm'
 source_title="Against the Pelagians 2.23"
-uuid = "c0ddbe7f-2d5f-4a4b-9229-b0818669d661"

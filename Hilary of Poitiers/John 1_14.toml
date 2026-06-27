@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "fd76ff48-1960-481f-b0bd-0cf1437b357f"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Hilary%2520of%2520Poitiers%2FOn%2520the%2520Councils%252C%2520or%2520the%2520Faith%2520of%2520the%2520Easterns.html'
 source_title="On the Councils, Section 48"
-uuid = "67e2d2b1-96ed-4229-8c27-2bc0bbde10e7"

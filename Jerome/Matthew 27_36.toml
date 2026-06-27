@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "723c1415-8fe3-4ade-b674-0fad887fc6a1"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ It proceeds, And sitting down, they watched him there. This watchfulness of the 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252027.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "2c722438-0ed2-4575-868d-54563a82aa9d"

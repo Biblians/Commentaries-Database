@@ -4,7 +4,6 @@ And how has this happened to me, that the mother of my Lord should come to me? S
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "264c16b5-27a3-452b-ace5-9f5770f1e687"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 1.4"
-uuid = "885bcafe-fdae-4fce-a94b-9d00e8b48406"

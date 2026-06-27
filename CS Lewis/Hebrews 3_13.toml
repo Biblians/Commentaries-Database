@@ -5,7 +5,6 @@ This dim uneasiness needs careful handling. If it gets too strong it may wake hi
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters, Chapter XII"
-uuid = "64bb8481-d6a8-4508-8396-1b877fe5fc57"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ Perhaps my bad temper or my jealousy are gradually getting worse—so gradually 
 '''
 source_url=''
 source_title="Mere Christianity, Book 3, Chapter 1: The Three Parts of Morality"
-uuid = "ff10824d-2a2d-4f8b-a95f-b84e6a83f535"
 
 [[commentary]]
 quote='''
@@ -23,4 +21,3 @@ Each has done something to himself which, unless he repents, will make it harder
 '''
 source_url=''
 source_title="Mere Christianity, Book 3, Chapter 4: Morality and Psychoanalysis"
-uuid = "f48f3219-270b-4631-88b2-295d3c84c921"

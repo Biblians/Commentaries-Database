@@ -4,7 +4,6 @@ But Peter followed from a distance, etc. Deservedly he followed from a distance,
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "8b37db79-b5bc-479d-8516-f6c13a7dd525"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "a62229c0-51d9-408f-ab34-ca2b6fa2d98b"
 
 [[commentary]]
 quote='''
@@ -22,7 +20,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "9b5d4fb9-6ce8-4748-ac9d-3495467337e0"
 
 
 [[commentary]]
@@ -31,4 +28,3 @@ And he was sitting with the attendants and warming himself at the fire. There is
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "a0a2c69e-bf9f-420c-9760-5c8a7d4e4bf7"

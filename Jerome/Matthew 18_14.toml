@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "e938ddaa-7540-44cb-9574-031d36f3d57d"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ What follows, Even so it is not the will, &c. is to be referred to what was said
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252018.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "1699cbc9-0a2f-44bf-bade-2844f2d28f2a"

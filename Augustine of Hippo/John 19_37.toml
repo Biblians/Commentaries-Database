@@ -4,7 +4,6 @@ Certainly the words that the Septuagint has translated, "They shall look on me b
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FThe%2520City%2520of%2520God%2FBook%252020.html'
 source_title="City of God 20.30"
-uuid = "fb5653d0-ecb5-45f8-98ef-e81136b932f1"
 
 [[commentary]]
 quote='''
@@ -14,7 +13,6 @@ The hour is now that the dead rise, the hour will be in the end of the world tha
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252019.html'
 source_title="Tractates on John 19"
-uuid = "1c73cdd5-347b-498e-bbf1-b0049a07d2b8"
 
 [[commentary]]
 quote='''
@@ -23,7 +21,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252019.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "9feb6788-1e67-4779-b5a3-1bfb07ce3c6b"
 
 [[commentary]]
 quote='''
@@ -31,4 +28,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%2520120.html'
 source_title="Tractates on John 120"
-uuid = "81140571-33b1-4e2f-9b9c-2ac7f237d6bd"

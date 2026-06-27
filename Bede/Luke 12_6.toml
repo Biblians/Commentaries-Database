@@ -4,7 +4,6 @@ Are not five sparrows sold for two assaria, and not one of them is forgotten bef
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "62daafb7-d2ac-4a94-a1b6-86280c3e845d"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ The dipondius is a coin of the lightest weight, and equal to two asses.
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "5c4d0a7d-ba3b-472f-9b30-d13523d70411"

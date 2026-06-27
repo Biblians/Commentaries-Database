@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "51b711c2-d932-430c-9853-3de84bf660eb"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ This is the first excellence of the answerer, that He discerns the thoughts of H
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "1d25ad2b-9d8d-4ab4-979f-593cbb91422b"

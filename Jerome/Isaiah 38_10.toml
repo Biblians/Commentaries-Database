@@ -4,7 +4,6 @@ quote='''
 '''
 source_url=''
 source_title="COMMENTARY ON ISAIAH 11:38.10-13"
-uuid = "bbf1d3e0-e847-4129-805e-4f70e2aab447"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
-uuid = "aaa11e71-07dd-41b3-a92b-8e073303f67c"

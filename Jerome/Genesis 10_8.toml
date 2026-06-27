@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FHebrew%2520Questions%2520on%2520Genesis.html'
 source_title="Hebrew Questions on Genesis"
-uuid = "a7e3ecdb-a9b9-432a-88f4-3bfb97d30955"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ quote='''
 '''
 source_url=''
 source_title="HEBREW QUESTIONS ON GENESIS 10.8-10"
-uuid = "a002999a-20a7-4f31-b5e8-a9e12675b832"

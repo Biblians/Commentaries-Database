@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://www.ccel.org/ccel/pearse/morefathers/files/jerome_daniel_02_text.htm'
 source_title="St. Jerome, Commentary on Daniel, CHAPTER TWELVE"
-uuid = "919efbb8-c603-4e18-bf76-95e29fe7b1b8"
 
 [[commentary]]
 quote='''
@@ -14,4 +13,3 @@ Therefore, it is significant that he did not say that the vision of all the prop
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Isaiah.html'
 source_title="Commentary on Isaiah"
-uuid = "214ab8f5-f3bf-4384-89e5-84e4fc08cdd5"

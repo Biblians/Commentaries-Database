@@ -4,7 +4,6 @@ A good man out of the good treasure of his heart brings forth good, and an evil 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "321faf30-adaf-428e-b06c-5414ae2d27a4"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ For out of the abundance of the heart the mouth speaks. As if not the fruit of t
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "b13b0c3f-f052-42c5-9cf8-b7ce00c0d86a"
 
 [[commentary]]
 quote='''
@@ -22,7 +20,6 @@ The treasure of the heart is the same as the root of the tree. He therefore who 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "c4a68e55-54b7-47f9-8aef-bfd46dc8dd46"
 
 [[commentary]]
 quote='''
@@ -31,7 +28,6 @@ By the speaking of the mouth the Lord signifies all things, which by word, or de
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "b8db2630-99c8-4d3a-b85d-17b1c589fc78"
 
 [[commentary]]
 quote='''
@@ -39,4 +35,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Bede%2FHomilies%2520on%2520the%2520Gospels.html'
 source_title="Homilies on the Gospels 2.25"
-uuid = "2ec9f4fa-b511-4828-90a1-f7c4afea32a7"

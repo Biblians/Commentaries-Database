@@ -4,7 +4,6 @@ I expect we all do much the same with the prayer for our daily bread. It means, 
 '''
 source_url='https://gutenberg.ca/ebooks/lewiscs-letterstomalcolm/lewiscs-letterstomalcolm-00-h.html'
 source_title="LETTERS TO MALCOLM: CHIEFLY ON PRAYER, Letter 5 (Paragraph 14)"
-uuid = "be018e51-12e8-4b0b-932e-ec9c2d77c2eb"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ Never, in peace or war, commit your virtue or your happiness to the future. Happ
 '''
 source_url=''
 source_title="Learning in War-Time, from The Weight of Glory"
-uuid = "687db177-2c73-4854-a4a0-f0efdd7035a0"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ False spirituality is always to be encouraged. On the seemingly pious ground tha
 append_to_author_name=' (via the character Screwtape, a devil)'
 source_url=''
 source_title="The Screwtape Letters"
-uuid = "17ca5fa9-1f1f-428f-9266-491809e6e5fc"

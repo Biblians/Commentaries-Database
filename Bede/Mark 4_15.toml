@@ -4,7 +4,6 @@ These are those who are beside the way where the word is sown. And when they hea
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "bb4820cc-769a-4d78-bb72-4b5539ba72cd"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25204.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "b78812bf-736c-46a7-aaae-b282e719c71e"

@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "122bd40f-78da-4041-aa1e-f7e70e179c89"
 
 [[commentary]]
 quote='''
@@ -15,4 +14,3 @@ Figuratively; Herein we who bear the name of Christ are commanded not to walk in
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "0710ce21-3f2c-411d-a2f8-45f53c3e5af8"

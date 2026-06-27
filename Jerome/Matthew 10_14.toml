@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "6e91bab8-8703-48b3-934a-b15d44562039"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ Also they shake off the dust as a testimony of the Apostles' toil, that in preac
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "90f119ed-fa02-4c76-91cf-75726c8a9859"

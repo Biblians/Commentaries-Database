@@ -4,7 +4,6 @@ But it came to pass, when the days of his assumption were accomplished, he stead
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "1784c995-8b20-4ada-b5da-64bef7f57c6a"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Let then the Heathen cease to mock the Crucified, as if He were a man, who it is
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "dcc3c6b2-d8bb-4484-9bcd-f4f749a4df7a"

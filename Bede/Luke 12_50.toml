@@ -4,7 +4,6 @@ But I have a baptism to be baptized with. With the staining (he says) of my own 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "2e3c378d-ef3c-4100-88b9-9a16087a7e32"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ And how am I distressed until it is accomplished? Some manuscripts have, And how
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "bbf0ddab-b727-41ba-9631-91b3d903fdbe"
 
 [[commentary]]
 quote='''
@@ -22,7 +20,6 @@ But He adds, I have a baptism to be baptized with, that is, I have first to be s
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "750657ce-516c-4f5a-86ef-0d819caa4137"
 
 [[commentary]]
 quote='''
@@ -31,4 +28,3 @@ Some manuscripts have, "And how am I anguished," (coangor) that is, grieved. For
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252012.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "3ffb0702-3ec1-47ff-b0df-1e749b988979"

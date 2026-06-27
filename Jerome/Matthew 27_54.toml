@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "9c334571-031e-4d64-b28e-00e6c9dad3ff"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Observe, that in the very midst of the offence of His passion the Centurion ackn
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252027.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "0912ab72-eb0d-4d10-b922-ad14a84b4982"

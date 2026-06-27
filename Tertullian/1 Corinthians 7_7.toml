@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Five%2520Books%2520Against%2520Marcion%2FBook%25205.html'
 source_title="Against Marcion Book V"
-uuid = "0a33f265-ebd8-43af-bc7f-104a85a5e037"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FTo%2520His%2520Wife%2FBook%25202.html'
 source_title="To His Wife Book II"
-uuid = "f62a3400-48f7-474d-bc2d-d9c88cbb2a45"
 
 [[commentary]]
 quote='''
@@ -20,4 +18,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Monogamy.html'
 source_title="On Monogamy"
-uuid = "b2d1408e-c5b1-4f1e-83db-d9e84bbe3fb6"

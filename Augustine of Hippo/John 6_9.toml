@@ -9,7 +9,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "794fc9ae-b37a-4cc9-8bdc-801ef6fbe96e"
 
 [[commentary]]
 quote='''
@@ -17,7 +16,6 @@ What, then, think we that five loaves signify? As far as the meaning which comme
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252024.html'
 source_title="Tractates on John 24"
-uuid = "cde4381e-c31f-470f-b3e2-778d3c8a524b"
 
 [[commentary]]
 quote='''
@@ -25,4 +23,3 @@ A certain boy, then, brought five loaves and two fishes. If we inquire who this 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252024.html'
 source_title="Tractates on John 24"
-uuid = "47c4b82d-6e6c-4b2f-b44b-ff27c5888d69"

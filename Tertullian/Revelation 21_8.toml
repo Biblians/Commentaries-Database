@@ -5,7 +5,6 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FScorpiace.html"
 source_title="Scorpiace"
-uuid = "4493dc60-548a-46b1-aef6-583a89bef895"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ In short, this Apocalypse, in its later passages, has assigned "the infamous and
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html"
 source_title="On Modesty"
-uuid = "2e7c7774-297a-45bd-a234-96bb38b44850"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ Last of all, in the Revelation, He does not propose flight to the "fearful," but
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Flight%2520in%2520Persecution.html"
 source_title="On Flight in Persecution"
-uuid = "0112381d-20a3-406f-82ee-91362e0aae21"

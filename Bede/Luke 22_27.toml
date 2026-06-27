@@ -4,7 +4,6 @@ For who is greater, the one who reclines or the one who serves? Is it not the on
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "c314e2e1-ae86-4003-a326-f109c37e4849"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ But to the words of the exhortation He subjoins His own example, as it follows, 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "df00bb10-9f27-4eeb-b445-d0d4d0e47c24"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ Or He speaks of that service wherewith, according to John, He their Lord and Mas
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "3413b71f-8dd9-4648-993f-9569ed711ecd"

@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FON%2520THE%2520PSALMS%2FPsalm%2520102.html'
 source_title="EXPLANATION OF THE PSALMS 102:17"
-uuid = "a4abed14-626e-4822-b449-8de0115df92a"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ And perhaps it is then that the words "all flesh" will become more perfectly ful
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520277.html'
 source_title="SERMON 277"
-uuid = "bd79c836-0069-4859-ad4a-13515083a650"
 
 [[commentary]]
 quote='''
@@ -20,4 +18,3 @@ Now, indeed, that body is worthy of a heavenly dwelling place, not subject to de
 '''
 source_url=''
 source_title="TRACTATES ON THE GOSPEL OF JOHN 21:3"
-uuid = "8dd15c19-7bff-4d05-a826-9ad7cecea25d"

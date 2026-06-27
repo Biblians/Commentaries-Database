@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "834e978d-8104-49e2-a51c-8d96127be363"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ But we say that the Word was made flesh not by losing what He was, but by taking
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2FRegister%2520of%2520Epistles%2FBook%252011.html'
 source_title="Register of Epistles, Book 11, Epistle 67"
-uuid = "036ed4d8-d0a9-4184-9222-b3d4962bbb94"
 
 [[commentary]]
 quote='''
@@ -21,7 +19,6 @@ What does it mean that two angels are seen in the place of the Lord's body, one 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 25"
-uuid = "771da1a4-7065-4542-923d-9f08b8435806"
 
 [[commentary]]
 quote='''
@@ -29,4 +26,3 @@ The feet can also be understood as the mystery of his incarnation, by which his 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 33"
-uuid = "7b844706-aa81-4a35-8348-efd60c4ad573"

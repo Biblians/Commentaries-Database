@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Theophylact%2520of%2520Ohrid%2FCommentary%2520on%2520Luke%2FChapter%252021.html'
 source_title="Commentary on Luke"
-uuid = "ad8b129b-b302-4c28-bfd7-d646bc82ae49"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Or else, When the higher world shall be changed, then also the lower elements sh
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "703a0472-c00d-45c5-93dd-aa631738fe2f"

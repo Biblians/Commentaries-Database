@@ -7,7 +7,6 @@ Let the heretic Eunomius therefore blush hereat who claims to himself such a kno
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252011.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ebfba404-70d3-4af4-ac8d-bfd954dc30a4"
 
 [[commentary]]
 quote='''
@@ -15,7 +14,6 @@ The Father entrusts. The Son receives. What is entrusted? All things have been e
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 2.11.27"
-uuid = "a00844ee-a9a7-4ce9-918b-dd4ca0a3e7f0"
 
 
 [[commentary]]
@@ -28,4 +26,3 @@ And no one knows the Son except the Father, nor does anyone know the Father exce
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "b2855aa0-1bf2-4366-a204-33ae22240c5d"

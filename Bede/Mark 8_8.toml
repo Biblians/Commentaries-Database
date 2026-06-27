@@ -4,7 +4,6 @@ And they ate and were satisfied. They eat of the Lord's loaves and fishes, and a
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "e2b67b69-21e8-4be4-8e9e-8aabe2e6deca"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ And they took up the fragments that were left, seven baskets full. The apostles 
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "85ecd2a0-0e1e-48b7-bacc-906d6554909e"
 
 
 [[commentary]]
@@ -23,7 +21,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "a1423724-b682-4bca-b786-9f716b1773ed"
 
 [[commentary]]
 quote='''
@@ -32,4 +29,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "662101c6-639a-49b5-9339-83f14b7e9683"

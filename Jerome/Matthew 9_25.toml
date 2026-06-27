@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "e3692145-a6b2-42af-839a-802c77cce01a"
 
 
 [[commentary]]
@@ -16,4 +15,3 @@ He took her by the hand, and the maid arose; because if the hands of the Jews wh
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25209.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "399d14a4-9734-40d5-b429-43fdf963947f"

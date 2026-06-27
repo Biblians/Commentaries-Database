@@ -9,7 +9,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "67a45cc3-7a4f-4c95-8e42-dfd92da8cd50"
 
 [[commentary]]
 quote='''
@@ -35,4 +34,3 @@ All this by faith, so long as we are absent from the Lord, dwelling in the body;
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252034.html'
 source_title="Tractates on John 34"
-uuid = "b0f5f0fa-6a26-4400-ab82-553f5a10e520"

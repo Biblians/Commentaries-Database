@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "957ba023-cac6-4e69-a563-332fe3a0d741"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ The man did this, and the Jews were offended. For they saw a man carrying his be
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252017.html'
 source_title="Tractates on John 17"
-uuid = "71a84d85-c8da-403f-b383-d2045cbbfa03"

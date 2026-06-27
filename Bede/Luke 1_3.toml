@@ -5,7 +5,6 @@ quote = '''
 append_to_author_name = ' (as quoted by Aquinas, AD 1274)'
 source_url = 'https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "e80b59dd-f8e3-41f8-84d4-564aace0c6d7"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ And when he says it seemed good to him also to write, he means not as if it seem
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "77a9460c-5862-47c3-935d-615b7c126b24"

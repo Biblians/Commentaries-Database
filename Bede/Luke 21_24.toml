@@ -4,7 +4,6 @@ And they will fall by the edge of the sword, and be led away captive into all na
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "19acb1fa-b17c-406b-b266-00d12842a965"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ Until the times of the nations are fulfilled. For those times of the nations are
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "485da844-d369-4c24-9334-b75a89444387"
 
 [[commentary]]
 quote='''
@@ -22,4 +20,3 @@ Which indeed the Apostle makes mention of when he says, Blindness in part is hap
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "b5232457-fc7a-4418-b2a3-28f24f5cf628"

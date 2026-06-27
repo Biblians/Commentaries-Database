@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "f02ce8c5-7a29-41cd-9c31-389ba43ea616"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Our gracious Redeemer draws them away from gazing at His flesh and leads them to
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Gregory%2520the%2520Dialogist%2F40%2520Homilies%2520on%2520the%2520Gospels.html'
 source_title="Forty Gospel Homilies, Homily 18"
-uuid = "1f7747a8-867d-42f0-9e20-f4e7a5b44aa3"

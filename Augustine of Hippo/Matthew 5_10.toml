@@ -9,13 +9,11 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "0fd503eb-eaf6-468b-8dea-e6472f7a3897"
 
 [[commentary]]
 quote='''
 And those promises can indeed be fulfilled in this life, as we believe them to have been fulfilled in the case of the apostles. For that all-embracing change into the angelic form, which is promised after this life, cannot be explained in any words. Blessed, therefore, are they which are persecuted for righteousness' sake, for theirs is the kingdom of heaven. This eighth sentence, which goes back to the starting-point, and makes manifest the perfect man, is perhaps set forth in its meaning both by the circumcision on the eighth day in the Old Testament, and by the resurrection of the Lord after the Sabbath, the day which is certainly the eighth, and at the same time the first day; and by the celebration of the eight festival days which we celebrate in the case of the regeneration of the new man; and by the very number of Pentecost. For to the number seven, seven times multiplied, by which we make forty-nine, as it were an eighth is added, so that fifty may be made up, and we, as it were, return to the starting-point: on which day the Holy Spirit was sent, by whom we are led into the kingdom of heaven, and receive the inheritance, and are comforted; and are fed, and obtain mercy, and are purified, and are made peacemakers; and being thus perfect, we bear all troubles brought upon us from without for the sake of truth and righteousness.
 '''
-uuid = "c527ac86-5ff5-4f0f-ab47-5f0fa335980c"
 
 [[commentary]]
 quote='''
@@ -23,4 +21,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252053A.html'
 source_title="SERMON 53A.13"
-uuid = "058616f9-01d4-45dd-88b6-4b0cdd403f4d"

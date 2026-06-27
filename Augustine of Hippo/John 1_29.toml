@@ -4,7 +4,6 @@ The sacraments are changed, not the faith. The signs by which something was sign
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252019.html'
 source_title="SERMON 19.3"
-uuid = "e1df3938-c189-471c-b2d9-75637634b4ed"
 
 [[commentary]]
 quote='''
@@ -14,7 +13,6 @@ You know that certain men say sometimes, We take away sin from men, we who are h
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25204.html'
 source_title="Tractates on John 4"
-uuid = "95e7948b-7d22-4f37-8c17-b9bdacdfc1d6"
 
 [[commentary]]
 quote='''
@@ -25,4 +23,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "b099b97a-c013-49d1-8d13-95b0706d6a58"

@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "8b25ba55-a7f6-4a21-8b86-f688630528b7"
 
 [[commentary]]
 quote='''
@@ -21,7 +20,6 @@ But he says not that the Word came into flesh but that It was made Flesh, that y
 '''
 source_title="Commentary on the Gospel of John, Book 1"
 source_url = "https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520the%2520Gospel%2520of%2520John%2FBook%25201.html"
-uuid = "c1ab1343-2fbd-4493-a229-3c43827d6c73"
 
 [[commentary]]
 quote='''
@@ -35,7 +33,6 @@ But since it is written in the blessed Luke, And Jesus increased in wisdom and g
 '''
 source_title="Commentary on the Gospel of John, Book 1"
 source_url = "https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520the%2520Gospel%2520of%2520John%2FBook%25201.html"
-uuid = "a2036992-7236-42df-b420-d3580d7990a1"
 
 [[commentary]]
 quote='''
@@ -47,7 +44,6 @@ But profitably does he affirm that the Word dwelt in us, unveiling to us this de
 '''
 source_title="Commentary on the Gospel of John, Book 1"
 source_url = "https://historicalchristian.faith/by_father.php?file=Cyril%2520of%2520Alexandria%2FCommentary%2520on%2520the%2520Gospel%2520of%2520John%2FBook%25201.html"
-uuid = "3366398c-9657-444f-aa98-4ff3546d3f42"
 
 [[commentary]]
 quote='''
@@ -55,7 +51,6 @@ We do not say that the nature of the Word was changed and became flesh or that i
 '''
 source_url=''
 source_title="LETTER 4, TO NESTORIUS"
-uuid = "2eb2db9a-a3a5-4cb7-8001-925f27b04853"
 
 [[commentary]]
 quote='''
@@ -64,7 +59,6 @@ This, in my opinion, is probably the reason that the holy Evangelist, indicating
 '''
 source_url=''
 source_title="COMMENTARY ON THE GOSPEL OF JOHN 1.9"
-uuid = "a6f526c2-e687-428e-b27c-5fb019bb6104"
 
 [[commentary]]
 quote='''
@@ -72,4 +66,3 @@ The assertion that the Word dwelt in us is a useful one because it also reveals 
 '''
 source_url=''
 source_title="COMMENTARY ON THE GOSPEL OF JOHN 1.9"
-uuid = "c037e507-5042-40eb-a97e-75e5db0eded6"

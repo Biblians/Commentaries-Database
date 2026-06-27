@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "9c8096f4-73d6-40f6-b034-a483f7a5366e"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ By a metaphor taken from the body, there shall be weeping and gnashing of teeth,
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252022.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "1bee4de5-0bd4-4da9-aeae-9c8ad058d445"

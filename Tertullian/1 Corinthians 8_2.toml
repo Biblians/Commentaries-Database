@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FThe%2520Prescription%2520Against%2520Heretics.html'
 source_title="The Prescription Against Heretics"
-uuid = "ef750230-32d2-4b90-8470-6066f83afc35"
 
 [[commentary]]
 quote='''
@@ -12,4 +11,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Tertullian%2FOn%2520Modesty.html'
 source_title="On Modesty"
-uuid = "cb797c99-9f9d-4ac0-9038-5520e30deab7"

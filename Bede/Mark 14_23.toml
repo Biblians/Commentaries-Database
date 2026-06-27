@@ -4,7 +4,6 @@ And taking the cup and giving thanks, he gave it to them, and they all drank fro
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "2169299d-ae13-4598-9eb0-088657ffeff4"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "bea7a86f-7144-4180-b3ec-d909cf52500d"

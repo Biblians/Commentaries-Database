@@ -4,7 +4,6 @@ And he said also to the one who had invited him: When you give a luncheon or a d
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "98a45822-bbaf-4102-a53f-d6dea42c9557"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ Lest perhaps they also invite you in return, and it may become for you a recompe
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "df7d1486-5abf-4932-9ad0-04291b83e438"
 
 
 [[commentary]]
@@ -23,4 +21,3 @@ Brothers then, and friends, and the rich, are not forbidden, as though it were a
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "b3d10950-7e65-4f2c-9c32-3ef3e33def19"

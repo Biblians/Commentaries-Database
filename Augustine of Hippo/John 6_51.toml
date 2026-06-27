@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252026.html'
 source_title="Tractates on John 26"
-uuid = "d490abaa-494a-45e2-8948-a7bb36879683"
 
 [[commentary]]
 quote='''
@@ -15,7 +14,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "df9e7788-f808-404f-ab7e-8149064e40a5"
 
 
 [[commentary]]
@@ -24,7 +22,6 @@ You are God's beggar. I mean, we are all God's beggars when we pray. We stand in
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252083.html'
 source_title="SERMON 83.2"
-uuid = "a2f99b27-d9cf-400a-a574-f499c9c44448"
 
 [[commentary]]
 quote='''
@@ -32,7 +29,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252026.html'
 source_title="Tractates on John 26"
-uuid = "fcb81be7-5fc7-4de1-987d-26e4a0391472"
 
 [[commentary]]
 quote='''
@@ -41,4 +37,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "c3d51b24-4faa-46d7-ae88-46c040d8a79e"

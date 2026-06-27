@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "614828d6-c22b-4aa4-959c-6b540985c5e9"
 
 [[commentary]]
 quote='''
@@ -19,4 +18,3 @@ Not a change of place, for God, by whom all things are filled, cannot be absent 
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252021.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "f8f6c9f6-2e9d-4673-853b-ad6f19ce4cbf"

@@ -4,7 +4,6 @@ But the high priest, rending his garments, said: Why do we still need witnesses?
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Mark.html"
 source_title="On the Gospel of Mark"
-uuid = "c4c6234c-1475-429d-ae6d-4bcd2cec0a57"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Mark%2FChapter%252014.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ece5eee0-271e-407c-8e2c-bd96ae87c54a"

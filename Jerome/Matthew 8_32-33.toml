@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "e59e83d2-c98d-4558-8c35-97d924e44718"
 
 
 [[commentary]]
@@ -14,4 +13,3 @@ The Saviour bade them go, not as yielding to their request, but that by the deat
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25208.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "5ff7ffa9-722d-44f1-86d0-51bcbc0bb91e"

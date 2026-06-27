@@ -4,7 +4,6 @@ But the woman brought an alabaster jar of ointment. What is expressed by the oin
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "7d5c2f73-6ccd-4e25-81c0-d80b4082c0b3"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ The woman who was a sinner in the city recognized that He was reclining in the h
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "3742f401-87e7-43bf-9a62-e97737cbbf16"
 
 [[commentary]]
 quote='''
@@ -21,4 +19,3 @@ Alabaster is a kind of white marble tinged with various colours, which is genera
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "168a60bc-4c6b-43f1-8cd7-c5d7d69dfb17"

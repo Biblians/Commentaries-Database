@@ -4,7 +4,6 @@ Answering they say to him: Where, Lord? He said to them: Where the body is, ther
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Luke.html"
 source_title="On the Gospel of Luke"
-uuid = "1f51abd0-bd79-4a19-82d8-53b2ef936f9f"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ Our Lord was asked two questions, where the good should be taken up, and where t
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252017.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "9bcc695f-3562-4b74-b711-3e88edbb2f92"

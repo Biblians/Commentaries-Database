@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Luke%2FChapter%252010.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "9872aeac-fbf4-4762-ad13-970a666da1c1"
 
 [[commentary]]
 quote='''
@@ -13,4 +12,3 @@ The Lord had a body. And just as he deigned to assume a physical body for our sa
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520255.html'
 source_title="SERMONS 255.2"
-uuid = "09bd488d-7290-4f42-ad5a-f1e3a7ef0024"

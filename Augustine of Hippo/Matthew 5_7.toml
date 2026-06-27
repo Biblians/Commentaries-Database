@@ -5,19 +5,16 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25205.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "ea295ccc-aaf5-452d-b0bf-6a0ed40abe38"
 
 [[commentary]]
 quote='''
 Counsel corresponds to the merciful: for this is the one remedy for escaping from so great evils, that we forgive, as we wish to be ourselves forgiven; and that we assist others so far as we are able, as we ourselves desire to be assisted where we are not able: and of them it is here said, Blessed are the merciful.
 '''
-uuid = "75ad7cd1-7291-4e4f-8c68-81fd1ce1b8ed"
 
 [[commentary]]
 quote='''
 To the merciful mercy, as to those following a true and excellent counsel, so that this same treatment is extended toward them by one who is stronger, which they extend toward the weaker: Blessed are the merciful, for they shall obtain mercy.
 '''
-uuid = "2d290779-bfe8-4e43-a4e3-5a0d4b8b9ab0"
 
 [[commentary]]
 quote='''
@@ -25,4 +22,3 @@ Hear what follows: "Blessed are the compassionate, for God will have compassion 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%252053.html'
 source_title="SERMON 53.5"
-uuid = "a5c6f715-81d2-4014-9350-5fefbcd6aa86"

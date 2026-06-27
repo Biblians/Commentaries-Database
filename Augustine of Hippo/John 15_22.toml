@@ -5,7 +5,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%252015.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "d0385d3d-2dd9-43ba-b94a-4e4710367634"
 
 [[commentary]]
 quote='''
@@ -13,7 +12,6 @@ The Lord had said above to His disciples, "If they have persecuted me, they will
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252089.html'
 source_title="Tractates on John 89"
-uuid = "389d31bd-6934-4b52-9433-b7015b309f88"
 
 [[commentary]]
 quote='''
@@ -21,7 +19,6 @@ But when He went on to say, "But now they have no excuse for their sin," some ma
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252089.html'
 source_title="Tractates on John 89"
-uuid = "a5f21480-05c1-4e51-ad85-ee505d47b15d"
 
 [[commentary]]
 quote='''
@@ -29,7 +26,6 @@ It remains for us to inquire, whether those who, prior to the coming of Christ i
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252089.html'
 source_title="Tractates on John 89"
-uuid = "5bda7047-a1eb-45ab-97d7-eeeb2573932d"
 
 [[commentary]]
 quote='''
@@ -37,4 +33,3 @@ But it is also a worthy subject of inquiry, whether those who met the words they
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252089.html'
 source_title="Tractates on John 89"
-uuid = "48772bf9-96a9-4cdf-b96b-2778e6a07385"

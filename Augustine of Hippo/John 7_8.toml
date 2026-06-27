@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%252028.html'
 source_title="Tractates on John 28"
-uuid = "11c92671-409e-4b44-92d0-1f5c73072f4e"
 
 [[commentary]]
 quote='''
@@ -17,4 +16,3 @@ I go not up unto this feast;
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25207.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "afc469b5-71d3-4c66-b887-0870a75c59b7"

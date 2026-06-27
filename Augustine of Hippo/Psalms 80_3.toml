@@ -4,7 +4,6 @@ quote='''
 '''
 source_url='https://www.newadvent.org/fathers/1801080.htm'
 source_title="Exposition on Psalm 80"
-uuid = "60615697-cee7-43c6-add0-dd487af1145f"
 
 
 [[commentary]]
@@ -13,7 +12,6 @@ For whatever other words we may say, whatever words the fervor of the suppliant 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FLetters.html'
 source_title="LETTER 130"
-uuid = "a4645cca-0301-4e67-9c8b-e31bd83afa64"
 
 
 [[commentary]]
@@ -22,4 +20,3 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FConfessions%2FBook%25204.html'
 source_title="Confessions 4.10"
-uuid = "5d483548-0fa4-48b5-9a5d-e0179a49d850"

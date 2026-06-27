@@ -4,7 +4,6 @@ The crowd is not of a single mentality, for each person has a different frame of
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 2.13.3"
-uuid = "f9bfbb21-0955-4ccc-aa2c-1e56f2991aab"
 
 [[commentary]]
 quote='''
@@ -12,7 +11,6 @@ He was indoors, staying at the house, where he spoke to the disciples about that
 '''
 source_url=''
 source_title="COMMENTARY ON MATTHEW 2.13.3"
-uuid = "1d527c50-6289-4be9-8454-6539b03a719f"
 
 
 [[commentary]]
@@ -21,7 +19,6 @@ quote='''
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Jerome%2FCommentary%2520on%2520Matthew.html'
 source_title="Commentary on Matthew"
-uuid = "a53255b4-00eb-4fd6-bdda-66f17193f9e7"
 
 [[commentary]]
 quote='''
@@ -30,7 +27,6 @@ And it is to be noted, that He spake not all things to them in parables, but man
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "d6798ce0-2ce9-4a62-95d7-a72464c94415"
 
 [[commentary]]
 quote='''
@@ -43,4 +39,3 @@ Note that this is the first parable that has been given with its interpretation,
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%252013.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "0324be9f-16b4-4d0e-9fe9-8d0befceb004"

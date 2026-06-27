@@ -11,7 +11,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520Matthew%2FChapter%25206.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "3d5114d5-b81f-4136-bd52-907c6af1e33b"
 
 [[commentary]]
 quote='''
@@ -23,4 +22,3 @@ quote='''
 '''
 source_url="https://historicalchristian.faith/by_father.php?file=Cyprian%2FTreatise%25204.%2520On%2520the%2520Lord%2527s%2520Prayer.html"
 source_title="Treatise IV On the Lord's Prayer"
-uuid = "41da96a9-c124-4e1f-a78e-1ed6700ed41b"

@@ -5,7 +5,6 @@ quote = '''
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FQuestions%2520on%2520the%2520Book%2520of%2520Kings.html"
 source_title="Questions on the Book of Kings #3"
-uuid = "83fc550c-ba0d-461b-b331-5ab271dc4af6"
 
 
 [[commentary]]
@@ -14,7 +13,6 @@ But he smote certain men of Beth-shemesh, etc. Not the priests and Levites, whos
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
-uuid = "a0391cc2-d73c-4da1-82ed-95133b9cb4c9"
 
 
 [[commentary]]
@@ -23,4 +21,3 @@ And the people lamented, for the Lord had struck them, etc. Because the Church l
 '''
 source_url = "https://historicalchristian.faith/by_father.php?file=Bede%2FCommentary%2520on%2520Samuel.html"
 source_title="Commentary on Samuel"
-uuid = "bc40e74d-c3a7-40d2-baae-a905b05665d4"

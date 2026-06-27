@@ -19,7 +19,6 @@ quote='''
 append_to_author_name=' (as quoted by Aquinas, AD 1274)'
 source_url='https://historicalchristian.faith/by_father.php?file=Thomas%2520Aquinas%2FCatena%2520Aurea%2FCommentary%2520on%2520John%2FChapter%25201.html'
 source_title="Catena Aurea by Aquinas"
-uuid = "30cafacb-b25a-4508-8df4-2924a66640df"
 
 [[commentary]]
 quote='''
@@ -27,7 +26,6 @@ He is Son by nature, we by grace; he is the "only Son," we are many, because he 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520348A.html'
 source_title="SERMON 348A.3"
-uuid = "7072b355-0e37-4014-bcf9-35a00b9984aa"
 
 [[commentary]]
 quote='''
@@ -35,7 +33,6 @@ We believe in him that he was born of the Holy Spirit and the Virgin Mary. Each 
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FSermons%2FSermon%2520214.html'
 source_title="SERMON 214.6"
-uuid = "bb754757-c61d-4b5d-b6f2-0f744995210c"
 
 [[commentary]]
 quote='''
@@ -45,4 +42,3 @@ But know this, that all those things which were seen in bodily form were not tha
 '''
 source_url='https://historicalchristian.faith/by_father.php?file=Augustine%2520of%2520Hippo%2FTRACTATES%2520ON%2520JOHN%2FTractate%25203.html'
 source_title="Tractates on John 3"
-uuid = "c9f7eca3-7022-4820-a0bd-3888aa2654d4"
