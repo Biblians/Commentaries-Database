@@ -40,6 +40,7 @@ There are also a number of other applications that have started making use of th
 
 - [biblesearch.es](https://www.biblesearch.es) (semantic Bible search engine)
 - [Catena Vetus](https://github.com/jimbob88/CatenaVetus) (A Terminal User Interface frontend for Historical Christian Commentaries which does not require an internet connection)
+- [Biblians](https://biblians.com) (AI Bible app with historical commentary synced to the verse)
 
 (Got a project of your own using this database? Open a pull request to add it here!)
 
@@ -127,6 +128,36 @@ append_to_author_name = ' (as quoted by Aquinas, AD 1274)'
 time = 383
 source_url='https://ccel.org/ccel/aquinas/catena1/catena1.i.html'
 source_title='Catena Aurea by Aquinas'
+```
+
+## Author Metadata (`metadata.toml`)
+
+Each author folder contains a `metadata.toml` file describing the author (as opposed to a commentary). Its keys are:
+
+- Mandatory keys
+    - `default_year`: The default year A.D. used for this author's commentaries when an individual commentary does not specify its own `time`. Often the author's death year. Use `9999` for an unknown date (it sorts to the end).
+    - `wiki`: A Wikipedia URL for the author.
+    - `father_category`: Which tradition/type the author belongs to. Must be **one of the following exact values**:
+        - `Early Fathers (Pre-Nicaea)`
+        - `Eastern & Byzantine Theology`
+        - `Western & Medieval Theology`
+        - `Syriac & Oriental Theology`
+        - `Reformation & Modern`
+        - `Second Temple Judaism`
+        - `Canonical Scriptures` — for biblical books used as cross-referencing "authors"
+        - `Councils & Canons`
+        - `Liturgies & Hymns`
+        - `Pseudonymous Works` — works spuriously attributed to a father (the `Pseudo-*` folders)
+        - `Apocrypha, Pseudepigrapha & Early Documents`
+- Optional keys
+    - `condemned_by_council`: Boolean. Set to `true` for figures condemned as heretics by an ecumenical council (e.g. Arius, Pelagius, Valentinus). Omit otherwise.
+
+Example:
+
+```
+default_year=430
+wiki='https://en.wikipedia.org/wiki/Augustine_of_Hippo'
+father_category='Western & Medieval Theology'
 ```
 
 ## Pull Requests

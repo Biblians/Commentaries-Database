@@ -4,3 +4,4 @@ uuid = "0006469a-e162-47b7-8680-d69920d546c5"
 image = "https://download.biblians.com/commentaries/fathers/François,_Claude_(dit_Frère_Luc)_-_Saint_Bonaventure.webp"
 summary = "Bonaventure was an Italian Catholic Franciscan bishop, cardinal, scholastic theologian and philosopher."
 category = "Western & Medieval Theology"
+father_category='Western & Medieval Theology'

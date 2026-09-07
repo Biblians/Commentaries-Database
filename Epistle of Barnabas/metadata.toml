@@ -4,3 +4,4 @@ uuid = "ce16b64b-a09e-4bfe-a0a4-e206090560ca"
 category = "Apocrypha, Documents & Liturgies"
 image = "https://download.biblians.com/commentaries/fathers/Codex_Tchacos_p33.webp"
 summary = "The Epistle of Barnabas is an early Christian Greek epistle written between 70 and 135 AD. The complete text is preserved in the 4th-century Codex Sinaiticus, where it is positioned at the end of the New Testament, following the Book of Revelation and preceding the Shepherd of Hermas."
+father_category='Apocrypha, Pseudepigrapha & Early Documents'

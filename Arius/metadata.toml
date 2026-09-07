@@ -4,3 +4,5 @@ uuid = "000059c7-b5df-4403-b3cc-86e6c8462a92"
 category = "Heterodox & Condemned"
 image = "https://download.biblians.com/commentaries/fathers/Arius_püspök.webp"
 summary = "Arius was a Cyrenaic presbyter and ascetic. He was not the founder of Arianism. The opposing sides in the Controversy were already well established before the dispute between Arius and Alexander. The Controversy was inevitable. Arius' dispute with his bishop initiated the controversy, but Arius, himself, was not important."
+father_category='Eastern & Byzantine Theology'
+condemned_by_council=true

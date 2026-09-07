@@ -4,3 +4,4 @@ uuid = "32c825be-d461-4520-8444-66ee71db78ee"
 category = "Canonical Scriptures"
 image = "https://download.biblians.com/commentaries/fathers/Oxford,_Sackler_Library_Ms_LXIV_4404_(Papyrus_104)_recto_Matt_21,_34-37.webp"
 summary = "The Gospel of Matthew is the first book of the New Testament and one of the three synoptic Gospels. It tells the story of who the author believes is Israel's messiah (Christ), Jesus, his resurrection, and his mission to the world. The Gospel of Matthew presents Jesus as the fulfillment of Jewish prophecy."
+father_category='Canonical Scriptures'

@@ -4,3 +4,4 @@ uuid = "ca802629-2c8b-478d-9000-bf4b46a62f9c"
 category = "Canonical Scriptures"
 image = "https://download.biblians.com/commentaries/fathers/3840px-Ann_Arbor,_University_of_Michigan_P.Mich.inv._6238_(Papyrus_46)_fol._157v_Eph_6,_8–18.webp"
 summary = "The Epistle to the Ephesians is a Pauline epistle and the tenth book of the New Testament of the Christian Bible. It stands among the canonical writings that shaped early Christian identity and is traditionally grouped with the letters attributed to Paul the Apostle."
+father_category='Canonical Scriptures'
