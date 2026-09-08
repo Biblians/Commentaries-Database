@@ -1,3 +1,6 @@
 default_year=355
 wiki='https://en.wikipedia.org/wiki/Theodorus_(bishop_of_Heraclea_in_Thrace)'
 father_category='Eastern & Byzantine Theology'
+image = "https://download.biblians.com/commentaries/fathers/1920px-Constantinople_area_map.svg.webp"
+summary = 'Theodorus was a Christian biblical scholar of the mid-4th century AD. He was bishop of Heraclea in Thrace, being appointed some time between 328 and 334; he was an ally of Eusebius against the Athanasians. He should not be confused with Theodore Stratelates (281–319), sometimes called "Theodore of Heraclea"; Theodore Stratelates lived in Heraclea Pontica.'
+uuid = "81775cdd-6433-4c86-a555-1cf18d86fe6b"

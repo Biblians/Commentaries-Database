@@ -2,9 +2,12 @@ import hashlib
 import json
 import os
 import re
+import subprocess
+import tempfile
 from enum import Enum
 from pathlib import Path
 from time import sleep
+from urllib.parse import unquote, urlparse
 from uuid import uuid4
 
 import requests
@@ -92,21 +95,24 @@ def find_authors_with_category():
 
 @authors_app.command("add-metadata")
 def add_metadata_to_authors():
-    user_agent = os.getenv("USER_AGENT", None)
-    if user_agent is None:
+    IMAGE_PATH = os.getenv("IMAGE_PATH", None)
+    if IMAGE_PATH is None:
+        raise Exception("IMAGE_PATH environment variable is not set")
+    USER_AGENT = os.getenv("USER_AGENT", None)
+    if USER_AGENT is None:
         raise Exception("USER_AGENT environment variable is not set")
-    headers = {"User-Agent": os.getenv("USER_AGENT")}
+    headers = {"User-Agent": USER_AGENT}
 
     target_dir = Path(".")
     with Progress() as progress:
-        task_id = progress.add_task(f"Processing authors...", total=None)
+        task_id = progress.add_task("Processing authors...", total=None)
         count = 0
         for path in target_dir.rglob("metadata.toml"):
             data = Document.parse(path.read_text(encoding="utf-8"))
             wiki = data["wiki"]
-            summary = data.get("summary", None)
-            image = data.get("image", None)
-            if "wikipedia.org" in wiki and (summary is None or image is None):
+            doc_summary = data.get("summary", None)
+            doc_image = data.get("image", None)
+            if "wikipedia.org" in wiki and (doc_summary is None or doc_image is None):
                 id = wiki.split("/")[-1]
                 url = f"https://en.wikipedia.org/api/rest_v1/page/summary/{id}"
                 resp = requests.get(url, headers=headers)
@@ -116,10 +122,37 @@ def add_metadata_to_authors():
                 wiki_data = resp.json()
 
                 image = wiki_data.get("originalimage", None)
-                if image is not None:
-                    data["image"] = image["source"]
+                if doc_image is None and image is not None:
+                    image_url = image["source"]
+                    filename_with_og_ext = unquote(Path(urlparse(image_url).path).name)
+                    filename_with_webp_ext = Path(filename_with_og_ext).stem + ".webp"
+
+                    image_response = requests.get(image_url, headers=headers)
+                    image_response.raise_for_status()
+                    with tempfile.TemporaryDirectory() as tmpdir:
+                        original_path = os.path.join(tmpdir, filename_with_og_ext)
+                        webp_path = os.path.join(IMAGE_PATH, filename_with_webp_ext)
+                        with open(original_path, "wb") as f:
+                            f.write(image_response.content)
+                        subprocess.run(
+                            [
+                                "ffmpeg",
+                                "-i",
+                                original_path,
+                                "-vf",
+                                "scale=300:300:force_original_aspect_ratio=decrease",
+                                "-q:v",
+                                "75",
+                                webp_path,
+                            ],
+                            check=True,
+                        )
+                        data["image"] = (
+                            f"https://download.biblians.com/commentaries/fathers/{filename_with_webp_ext}"
+                        )
+
                 summary = wiki_data.get("extract", None)
-                if summary is not None:
+                if doc_summary is None and summary is not None:
                     data["summary"] = summary.strip()
                 _ = path.write_text(data.as_toml(), encoding="utf-8")
 
