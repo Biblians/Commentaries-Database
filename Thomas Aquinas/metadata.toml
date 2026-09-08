@@ -1,7 +1,6 @@
 default_year=1274
 wiki='https://en.wikipedia.org/wiki/Thomas_Aquinas'
 uuid = "e3c62db6-4e04-4524-a2da-e06b1c344bec"
-category = "Western & Medieval Theology"
 image = "https://download.biblians.com/commentaries/fathers/3840px-St-thomas-aquinasFXD.webp"
 summary = "Thomas Aquinas was an Italian Dominican friar and priest, theologian, and philosopher. He is considered one of the most influential thinkers in the history of Catholic theology and Western philosophy."
 father_category='Western & Medieval Theology'

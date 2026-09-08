@@ -31,8 +31,8 @@ app.add_typer(convert_app, name="convert")
 class MetadataType(str, Enum):
     image = "image"
     summary = "summary"
-    category = "category"
-    both = "both"
+    father_category = "father_category"
+    all = "all"
 
 
 class Commentary(BaseModel):
@@ -55,6 +55,8 @@ class Author(BaseModel):
     name: str
     death_year: int
     category: str
+    father_category: str
+    condemned: bool
     wiki: str | None
     image: str | None
     summary: str | None
@@ -67,30 +69,9 @@ def add_uuid():
     target_dir = Path(".")
     for path in target_dir.rglob("*.toml"):
         data = Document.parse(path.read_text(encoding="utf-8"))
-        if "wiki" in data:
-            if "uuid" not in data:
-                data["uuid"] = str(uuid4())
-                _ = path.write_text(data.as_toml(), encoding="utf-8")
-
-
-@authors_app.command("add-category")
-def add_category_to_authors():
-    with open("./categories.json", "r") as f:
-        data = json.load(f)
-        for author in data:
-            file = Path(author["name"], "metadata.toml")
-            metadata = Document.parse(file.read_text(encoding="utf-8"))
-            metadata["category"] = author["category"]
-            _ = file.write_text(metadata.as_toml(), encoding="utf-8")
-
-
-@authors_app.command("missing-category")
-def find_authors_with_category():
-    target_dir = Path(".")
-    for path in target_dir.rglob("metadata.toml"):
-        data = Document.parse(path.read_text(encoding="utf-8"))
-        if "category" not in data:
-            print(data)
+        if "wiki" in data and "uuid" not in data:
+            data["uuid"] = str(uuid4())
+            _ = path.write_text(data.as_toml(), encoding="utf-8")
 
 
 @authors_app.command("add-metadata")
@@ -167,19 +148,21 @@ def add_metadata_to_authors():
 
 @authors_app.command("missing-metadata")
 def find_authors_with_missing_metadata(
-    type: MetadataType = MetadataType.both,
+    type: MetadataType = MetadataType.all,
 ):
     target_dir = Path(".")
     for path in target_dir.rglob("metadata.toml"):
         data = Document.parse(path.read_text(encoding="utf-8"))
         missing = [
-            field for field in ("image", "summary", "category") if field not in data
+            field
+            for field in ("image", "summary", "father_category")
+            if field not in data
         ]
 
         if not missing:
             continue
 
-        if type != MetadataType.both:
+        if type != MetadataType.all:
             if type.value not in missing:
                 continue
 
@@ -201,11 +184,10 @@ def find_authors_with_wrong_image():
     for path in target_dir.rglob("metadata.toml"):
         data = Document.parse(path.read_text(encoding="utf-8"))
         image = data.get("image", None)
-        if image:
-            if not image.startswith("https://download.biblians.com"):
-                print(
-                    f"{path.parent.name} has an image that does not start with https://download.biblians.com"
-                )
+        if image and not image.startswith("https://download.biblians.com"):
+            print(
+                f"{path.parent.name} has an image that does not start with https://download.biblians.com"
+            )
 
 
 # Convert Commands
@@ -219,7 +201,13 @@ def convert_to_json():
             uuid=str(author_data["uuid"]),
             name=path.parent.name.strip(),
             death_year=int(author_data["default_year"]),
-            category=str(author_data["category"]),
+            category=(
+                "Heterodox & Condemned"
+                if author_data.get("condemned_by_council", False)
+                else str(author_data["father_category"])
+            ),
+            father_category=str(author_data["father_category"]),
+            condemned=bool(author_data.get("condemned_by_council", False)),
             wiki=(str(author_data["wiki"]) if author_data.get("wiki") else None),
             image=(str(author_data["image"]) if author_data.get("image") else None),
             summary=(
@@ -275,11 +263,7 @@ def convert_to_json():
                             if commentary_data.get("append_to_author_name")
                             else None
                         ),
-                        time=int(
-                            commentary_data["time"]
-                            if commentary_data.get("time")
-                            else author.death_year
-                        ),
+                        time=int(commentary_data.get("time", author.death_year)),
                         location_start=location_start,
                         location_end=location_end,
                         chapter_start=verse_range.start_chapter,

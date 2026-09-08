@@ -1,7 +1,6 @@
 default_year=325
 wiki='https://en.wikipedia.org/wiki/First_Council_of_Nicaea'
 uuid = "4048f8c9-6c8d-45c4-81dc-7c6a90e9f3a7"
-category = "Apocrypha, Documents & Liturgies"
 image = "https://download.biblians.com/commentaries/fathers/Μιχαήλ_Δαμασκηνός_-_Α΄_Οικουμενική_Σύνοδος_7741.webp"
 summary = "The First Council of Nicaea was a council of Christian bishops convened in the Bithynian city of Nicaea by the Roman Emperor Constantine I, also known as the First Ecumenical Council. It met from May until the end of July 325."
 father_category='Councils & Canons'
